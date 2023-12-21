@@ -1,0 +1,1387 @@
+date,geography_code,c2021_hh_depchild_6b_name,c2021_hhfamtype_6_name,c2021_hh_depchild_6b_code,c2021_hhfamtype_6_code,obs_value
+2021,E09000001,Total,Total,0,0,4917
+2021,E09000001,Total,One-person household,0,_1,2506
+2021,E09000001,Total,Married or civil partnership couple household,0,_2,1074
+2021,E09000001,Total,Cohabiting couple household,0,_3,726
+2021,E09000001,Total,Lone parent household,0,_4,197
+2021,E09000001,Total,Multi-person household,0,_5,414
+2021,E09000001,No dependent children in household,Total,_0,0,4484
+2021,E09000001,No dependent children in household,One-person household,_0,_1,2506
+2021,E09000001,No dependent children in household,Married or civil partnership couple household,_0,_2,804
+2021,E09000001,No dependent children in household,Cohabiting couple household,_0,_3,669
+2021,E09000001,No dependent children in household,Lone parent household,_0,_4,91
+2021,E09000001,No dependent children in household,Multi-person household,_0,_5,414
+2021,E09000001,Youngest dependent child,Total,1001,0,433
+2021,E09000001,Youngest dependent child,One-person household,1001,_1,0
+2021,E09000001,Youngest dependent child,Married or civil partnership couple household,1001,_2,270
+2021,E09000001,Youngest dependent child,Cohabiting couple household,1001,_3,57
+2021,E09000001,Youngest dependent child,Lone parent household,1001,_4,106
+2021,E09000001,Youngest dependent child,Multi-person household,1001,_5,0
+2021,E09000001,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,175
+2021,E09000001,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,0
+2021,E09000001,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,119
+2021,E09000001,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,34
+2021,E09000001,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,22
+2021,E09000001,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,0
+2021,E09000001,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,101
+2021,E09000001,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000001,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,58
+2021,E09000001,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,13
+2021,E09000001,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,30
+2021,E09000001,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,0
+2021,E09000001,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,100
+2021,E09000001,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,0
+2021,E09000001,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,56
+2021,E09000001,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,7
+2021,E09000001,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,37
+2021,E09000001,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,0
+2021,E09000001,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,57
+2021,E09000001,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000001,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,37
+2021,E09000001,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,3
+2021,E09000001,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,17
+2021,E09000001,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,0
+2021,E09000002,Total,Total,0,0,73903
+2021,E09000002,Total,One-person household,0,_1,17503
+2021,E09000002,Total,Married or civil partnership couple household,0,_2,30258
+2021,E09000002,Total,Cohabiting couple household,0,_3,7535
+2021,E09000002,Total,Lone parent household,0,_4,16216
+2021,E09000002,Total,Multi-person household,0,_5,2391
+2021,E09000002,No dependent children in household,Total,_0,0,40184
+2021,E09000002,No dependent children in household,One-person household,_0,_1,17496
+2021,E09000002,No dependent children in household,Married or civil partnership couple household,_0,_2,11948
+2021,E09000002,No dependent children in household,Cohabiting couple household,_0,_3,3424
+2021,E09000002,No dependent children in household,Lone parent household,_0,_4,5158
+2021,E09000002,No dependent children in household,Multi-person household,_0,_5,2158
+2021,E09000002,Youngest dependent child,Total,1001,0,33719
+2021,E09000002,Youngest dependent child,One-person household,1001,_1,7
+2021,E09000002,Youngest dependent child,Married or civil partnership couple household,1001,_2,18310
+2021,E09000002,Youngest dependent child,Cohabiting couple household,1001,_3,4111
+2021,E09000002,Youngest dependent child,Lone parent household,1001,_4,11058
+2021,E09000002,Youngest dependent child,Multi-person household,1001,_5,233
+2021,E09000002,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,13788
+2021,E09000002,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000002,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,7987
+2021,E09000002,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1979
+2021,E09000002,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3750
+2021,E09000002,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,69
+2021,E09000002,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,9081
+2021,E09000002,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,1
+2021,E09000002,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,4959
+2021,E09000002,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1061
+2021,E09000002,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2986
+2021,E09000002,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,74
+2021,E09000002,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8119
+2021,E09000002,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,3
+2021,E09000002,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,3997
+2021,E09000002,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,837
+2021,E09000002,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3200
+2021,E09000002,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,82
+2021,E09000002,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2731
+2021,E09000002,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000002,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1367
+2021,E09000002,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,234
+2021,E09000002,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1122
+2021,E09000002,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,8
+2021,E09000003,Total,Total,0,0,148918
+2021,E09000003,Total,One-person household,0,_1,41658
+2021,E09000003,Total,Married or civil partnership couple household,0,_2,66665
+2021,E09000003,Total,Cohabiting couple household,0,_3,13279
+2021,E09000003,Total,Lone parent household,0,_4,20489
+2021,E09000003,Total,Multi-person household,0,_5,6827
+2021,E09000003,No dependent children in household,Total,_0,0,99267
+2021,E09000003,No dependent children in household,One-person household,_0,_1,41645
+2021,E09000003,No dependent children in household,Married or civil partnership couple household,_0,_2,33292
+2021,E09000003,No dependent children in household,Cohabiting couple household,_0,_3,9196
+2021,E09000003,No dependent children in household,Lone parent household,_0,_4,8488
+2021,E09000003,No dependent children in household,Multi-person household,_0,_5,6646
+2021,E09000003,Youngest dependent child,Total,1001,0,49651
+2021,E09000003,Youngest dependent child,One-person household,1001,_1,13
+2021,E09000003,Youngest dependent child,Married or civil partnership couple household,1001,_2,33373
+2021,E09000003,Youngest dependent child,Cohabiting couple household,1001,_3,4083
+2021,E09000003,Youngest dependent child,Lone parent household,1001,_4,12001
+2021,E09000003,Youngest dependent child,Multi-person household,1001,_5,181
+2021,E09000003,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,19183
+2021,E09000003,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,5
+2021,E09000003,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,13601
+2021,E09000003,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2147
+2021,E09000003,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3362
+2021,E09000003,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,68
+2021,E09000003,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,12594
+2021,E09000003,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,1
+2021,E09000003,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,8574
+2021,E09000003,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,908
+2021,E09000003,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,3072
+2021,E09000003,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,39
+2021,E09000003,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,12997
+2021,E09000003,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,7
+2021,E09000003,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,8220
+2021,E09000003,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,814
+2021,E09000003,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3889
+2021,E09000003,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,67
+2021,E09000003,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,4877
+2021,E09000003,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000003,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2978
+2021,E09000003,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,214
+2021,E09000003,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1678
+2021,E09000003,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,7
+2021,E09000004,Total,Total,0,0,95300
+2021,E09000004,Total,One-person household,0,_1,24753
+2021,E09000004,Total,Married or civil partnership couple household,0,_2,42678
+2021,E09000004,Total,Cohabiting couple household,0,_3,11409
+2021,E09000004,Total,Lone parent household,0,_4,14226
+2021,E09000004,Total,Multi-person household,0,_5,2234
+2021,E09000004,No dependent children in household,Total,_0,0,62709
+2021,E09000004,No dependent children in household,One-person household,_0,_1,24749
+2021,E09000004,No dependent children in household,Married or civil partnership couple household,_0,_2,23998
+2021,E09000004,No dependent children in household,Cohabiting couple household,_0,_3,6354
+2021,E09000004,No dependent children in household,Lone parent household,_0,_4,5506
+2021,E09000004,No dependent children in household,Multi-person household,_0,_5,2102
+2021,E09000004,Youngest dependent child,Total,1001,0,32591
+2021,E09000004,Youngest dependent child,One-person household,1001,_1,4
+2021,E09000004,Youngest dependent child,Married or civil partnership couple household,1001,_2,18680
+2021,E09000004,Youngest dependent child,Cohabiting couple household,1001,_3,5055
+2021,E09000004,Youngest dependent child,Lone parent household,1001,_4,8720
+2021,E09000004,Youngest dependent child,Multi-person household,1001,_5,132
+2021,E09000004,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,12252
+2021,E09000004,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,0
+2021,E09000004,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6948
+2021,E09000004,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2578
+2021,E09000004,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2674
+2021,E09000004,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,52
+2021,E09000004,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8591
+2021,E09000004,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000004,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5014
+2021,E09000004,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1178
+2021,E09000004,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2369
+2021,E09000004,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,30
+2021,E09000004,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8666
+2021,E09000004,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,4
+2021,E09000004,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4931
+2021,E09000004,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,988
+2021,E09000004,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2699
+2021,E09000004,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,44
+2021,E09000004,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3082
+2021,E09000004,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000004,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1787
+2021,E09000004,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,311
+2021,E09000004,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,978
+2021,E09000004,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,6
+2021,E09000005,Total,Total,0,0,118612
+2021,E09000005,Total,One-person household,0,_1,31984
+2021,E09000005,Total,Married or civil partnership couple household,0,_2,48451
+2021,E09000005,Total,Cohabiting couple household,0,_3,10396
+2021,E09000005,Total,Lone parent household,0,_4,20596
+2021,E09000005,Total,Multi-person household,0,_5,7185
+2021,E09000005,No dependent children in household,Total,_0,0,78341
+2021,E09000005,No dependent children in household,One-person household,_0,_1,31973
+2021,E09000005,No dependent children in household,Married or civil partnership couple household,_0,_2,23251
+2021,E09000005,No dependent children in household,Cohabiting couple household,_0,_3,7368
+2021,E09000005,No dependent children in household,Lone parent household,_0,_4,8868
+2021,E09000005,No dependent children in household,Multi-person household,_0,_5,6881
+2021,E09000005,Youngest dependent child,Total,1001,0,40271
+2021,E09000005,Youngest dependent child,One-person household,1001,_1,11
+2021,E09000005,Youngest dependent child,Married or civil partnership couple household,1001,_2,25200
+2021,E09000005,Youngest dependent child,Cohabiting couple household,1001,_3,3028
+2021,E09000005,Youngest dependent child,Lone parent household,1001,_4,11728
+2021,E09000005,Youngest dependent child,Multi-person household,1001,_5,304
+2021,E09000005,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15689
+2021,E09000005,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,7
+2021,E09000005,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,10693
+2021,E09000005,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1533
+2021,E09000005,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3376
+2021,E09000005,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,80
+2021,E09000005,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,9958
+2021,E09000005,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,3
+2021,E09000005,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,6248
+2021,E09000005,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,694
+2021,E09000005,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2946
+2021,E09000005,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,67
+2021,E09000005,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,10381
+2021,E09000005,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,1
+2021,E09000005,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,5993
+2021,E09000005,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,602
+2021,E09000005,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3664
+2021,E09000005,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,121
+2021,E09000005,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,4243
+2021,E09000005,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000005,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2266
+2021,E09000005,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,199
+2021,E09000005,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1742
+2021,E09000005,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,36
+2021,E09000006,Total,Total,0,0,135831
+2021,E09000006,Total,One-person household,0,_1,38668
+2021,E09000006,Total,Married or civil partnership couple household,0,_2,60913
+2021,E09000006,Total,Cohabiting couple household,0,_3,16342
+2021,E09000006,Total,Lone parent household,0,_4,16898
+2021,E09000006,Total,Multi-person household,0,_5,3010
+2021,E09000006,No dependent children in household,Total,_0,0,92502
+2021,E09000006,No dependent children in household,One-person household,_0,_1,38663
+2021,E09000006,No dependent children in household,Married or civil partnership couple household,_0,_2,33848
+2021,E09000006,No dependent children in household,Cohabiting couple household,_0,_3,10440
+2021,E09000006,No dependent children in household,Lone parent household,_0,_4,6660
+2021,E09000006,No dependent children in household,Multi-person household,_0,_5,2891
+2021,E09000006,Youngest dependent child,Total,1001,0,43329
+2021,E09000006,Youngest dependent child,One-person household,1001,_1,5
+2021,E09000006,Youngest dependent child,Married or civil partnership couple household,1001,_2,27065
+2021,E09000006,Youngest dependent child,Cohabiting couple household,1001,_3,5902
+2021,E09000006,Youngest dependent child,Lone parent household,1001,_4,10238
+2021,E09000006,Youngest dependent child,Multi-person household,1001,_5,119
+2021,E09000006,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15955
+2021,E09000006,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,1
+2021,E09000006,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,10043
+2021,E09000006,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2981
+2021,E09000006,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2896
+2021,E09000006,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,34
+2021,E09000006,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,11274
+2021,E09000006,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000006,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,7167
+2021,E09000006,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1373
+2021,E09000006,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2696
+2021,E09000006,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,36
+2021,E09000006,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,11765
+2021,E09000006,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000006,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,7252
+2021,E09000006,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,1192
+2021,E09000006,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3271
+2021,E09000006,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,48
+2021,E09000006,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,4335
+2021,E09000006,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000006,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2603
+2021,E09000006,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,356
+2021,E09000006,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1375
+2021,E09000006,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,1
+2021,E09000007,Total,Total,0,0,92761
+2021,E09000007,Total,One-person household,0,_1,35932
+2021,E09000007,Total,Married or civil partnership couple household,0,_2,25234
+2021,E09000007,Total,Cohabiting couple household,0,_3,11383
+2021,E09000007,Total,Lone parent household,0,_4,11714
+2021,E09000007,Total,Multi-person household,0,_5,8498
+2021,E09000007,No dependent children in household,Total,_0,0,71617
+2021,E09000007,No dependent children in household,One-person household,_0,_1,35920
+2021,E09000007,No dependent children in household,Married or civil partnership couple household,_0,_2,12865
+2021,E09000007,No dependent children in household,Cohabiting couple household,_0,_3,9412
+2021,E09000007,No dependent children in household,Lone parent household,_0,_4,5041
+2021,E09000007,No dependent children in household,Multi-person household,_0,_5,8379
+2021,E09000007,Youngest dependent child,Total,1001,0,21144
+2021,E09000007,Youngest dependent child,One-person household,1001,_1,12
+2021,E09000007,Youngest dependent child,Married or civil partnership couple household,1001,_2,12369
+2021,E09000007,Youngest dependent child,Cohabiting couple household,1001,_3,1971
+2021,E09000007,Youngest dependent child,Lone parent household,1001,_4,6673
+2021,E09000007,Youngest dependent child,Multi-person household,1001,_5,119
+2021,E09000007,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,8126
+2021,E09000007,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,6
+2021,E09000007,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,5116
+2021,E09000007,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1066
+2021,E09000007,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1901
+2021,E09000007,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,37
+2021,E09000007,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,5230
+2021,E09000007,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,1
+2021,E09000007,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,3104
+2021,E09000007,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,415
+2021,E09000007,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1684
+2021,E09000007,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,26
+2021,E09000007,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,5579
+2021,E09000007,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,5
+2021,E09000007,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,3041
+2021,E09000007,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,354
+2021,E09000007,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2135
+2021,E09000007,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,44
+2021,E09000007,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2209
+2021,E09000007,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000007,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1108
+2021,E09000007,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,136
+2021,E09000007,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,953
+2021,E09000007,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,12
+2021,E09000008,Total,Total,0,0,152943
+2021,E09000008,Total,One-person household,0,_1,43091
+2021,E09000008,Total,Married or civil partnership couple household,0,_2,59148
+2021,E09000008,Total,Cohabiting couple household,0,_3,17201
+2021,E09000008,Total,Lone parent household,0,_4,27820
+2021,E09000008,Total,Multi-person household,0,_5,5683
+2021,E09000008,No dependent children in household,Total,_0,0,101100
+2021,E09000008,No dependent children in household,One-person household,_0,_1,43074
+2021,E09000008,No dependent children in household,Married or civil partnership couple household,_0,_2,31503
+2021,E09000008,No dependent children in household,Cohabiting couple household,_0,_3,10757
+2021,E09000008,No dependent children in household,Lone parent household,_0,_4,10351
+2021,E09000008,No dependent children in household,Multi-person household,_0,_5,5415
+2021,E09000008,Youngest dependent child,Total,1001,0,51843
+2021,E09000008,Youngest dependent child,One-person household,1001,_1,17
+2021,E09000008,Youngest dependent child,Married or civil partnership couple household,1001,_2,27645
+2021,E09000008,Youngest dependent child,Cohabiting couple household,1001,_3,6444
+2021,E09000008,Youngest dependent child,Lone parent household,1001,_4,17469
+2021,E09000008,Youngest dependent child,Multi-person household,1001,_5,268
+2021,E09000008,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,20399
+2021,E09000008,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,7
+2021,E09000008,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,11258
+2021,E09000008,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,3426
+2021,E09000008,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,5637
+2021,E09000008,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,71
+2021,E09000008,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,13186
+2021,E09000008,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,6
+2021,E09000008,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,6943
+2021,E09000008,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1485
+2021,E09000008,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,4671
+2021,E09000008,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,81
+2021,E09000008,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,13249
+2021,E09000008,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,4
+2021,E09000008,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,6865
+2021,E09000008,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,1169
+2021,E09000008,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,5104
+2021,E09000008,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,107
+2021,E09000008,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,5009
+2021,E09000008,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000008,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2579
+2021,E09000008,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,364
+2021,E09000008,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,2057
+2021,E09000008,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,9
+2021,E09000009,Total,Total,0,0,133662
+2021,E09000009,Total,One-person household,0,_1,35662
+2021,E09000009,Total,Married or civil partnership couple household,0,_2,56982
+2021,E09000009,Total,Cohabiting couple household,0,_3,13534
+2021,E09000009,Total,Lone parent household,0,_4,19952
+2021,E09000009,Total,Multi-person household,0,_5,7532
+2021,E09000009,No dependent children in household,Total,_0,0,87872
+2021,E09000009,No dependent children in household,One-person household,_0,_1,35642
+2021,E09000009,No dependent children in household,Married or civil partnership couple household,_0,_2,26637
+2021,E09000009,No dependent children in household,Cohabiting couple household,_0,_3,9604
+2021,E09000009,No dependent children in household,Lone parent household,_0,_4,8649
+2021,E09000009,No dependent children in household,Multi-person household,_0,_5,7340
+2021,E09000009,Youngest dependent child,Total,1001,0,45790
+2021,E09000009,Youngest dependent child,One-person household,1001,_1,20
+2021,E09000009,Youngest dependent child,Married or civil partnership couple household,1001,_2,30345
+2021,E09000009,Youngest dependent child,Cohabiting couple household,1001,_3,3930
+2021,E09000009,Youngest dependent child,Lone parent household,1001,_4,11303
+2021,E09000009,Youngest dependent child,Multi-person household,1001,_5,192
+2021,E09000009,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,17195
+2021,E09000009,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,6
+2021,E09000009,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,11888
+2021,E09000009,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2001
+2021,E09000009,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3248
+2021,E09000009,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,52
+2021,E09000009,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,11645
+2021,E09000009,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,4
+2021,E09000009,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,7857
+2021,E09000009,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,929
+2021,E09000009,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2811
+2021,E09000009,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,44
+2021,E09000009,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,12331
+2021,E09000009,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,10
+2021,E09000009,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,7718
+2021,E09000009,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,769
+2021,E09000009,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3753
+2021,E09000009,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,81
+2021,E09000009,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,4619
+2021,E09000009,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000009,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2882
+2021,E09000009,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,231
+2021,E09000009,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1491
+2021,E09000009,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,15
+2021,E09000010,Total,Total,0,0,120921
+2021,E09000010,Total,One-person household,0,_1,31159
+2021,E09000010,Total,Married or civil partnership couple household,0,_2,50087
+2021,E09000010,Total,Cohabiting couple household,0,_3,10491
+2021,E09000010,Total,Lone parent household,0,_4,25218
+2021,E09000010,Total,Multi-person household,0,_5,3966
+2021,E09000010,No dependent children in household,Total,_0,0,75381
+2021,E09000010,No dependent children in household,One-person household,_0,_1,31144
+2021,E09000010,No dependent children in household,Married or civil partnership couple household,_0,_2,25661
+2021,E09000010,No dependent children in household,Cohabiting couple household,_0,_3,5850
+2021,E09000010,No dependent children in household,Lone parent household,_0,_4,9012
+2021,E09000010,No dependent children in household,Multi-person household,_0,_5,3714
+2021,E09000010,Youngest dependent child,Total,1001,0,45540
+2021,E09000010,Youngest dependent child,One-person household,1001,_1,15
+2021,E09000010,Youngest dependent child,Married or civil partnership couple household,1001,_2,24426
+2021,E09000010,Youngest dependent child,Cohabiting couple household,1001,_3,4641
+2021,E09000010,Youngest dependent child,Lone parent household,1001,_4,16206
+2021,E09000010,Youngest dependent child,Multi-person household,1001,_5,252
+2021,E09000010,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,17014
+2021,E09000010,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000010,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,9300
+2021,E09000010,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2409
+2021,E09000010,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,5234
+2021,E09000010,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,68
+2021,E09000010,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,11808
+2021,E09000010,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,6
+2021,E09000010,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,6356
+2021,E09000010,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1083
+2021,E09000010,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,4279
+2021,E09000010,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,84
+2021,E09000010,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,12118
+2021,E09000010,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,6
+2021,E09000010,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,6333
+2021,E09000010,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,841
+2021,E09000010,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,4844
+2021,E09000010,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,94
+2021,E09000010,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,4600
+2021,E09000010,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000010,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2437
+2021,E09000010,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,308
+2021,E09000010,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1849
+2021,E09000010,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,6
+2021,E09000011,Total,Total,0,0,114053
+2021,E09000011,Total,One-person household,0,_1,34049
+2021,E09000011,Total,Married or civil partnership couple household,0,_2,39080
+2021,E09000011,Total,Cohabiting couple household,0,_3,15718
+2021,E09000011,Total,Lone parent household,0,_4,19344
+2021,E09000011,Total,Multi-person household,0,_5,5862
+2021,E09000011,No dependent children in household,Total,_0,0,77121
+2021,E09000011,No dependent children in household,One-person household,_0,_1,34043
+2021,E09000011,No dependent children in household,Married or civil partnership couple household,_0,_2,19891
+2021,E09000011,No dependent children in household,Cohabiting couple household,_0,_3,10704
+2021,E09000011,No dependent children in household,Lone parent household,_0,_4,6799
+2021,E09000011,No dependent children in household,Multi-person household,_0,_5,5684
+2021,E09000011,Youngest dependent child,Total,1001,0,36932
+2021,E09000011,Youngest dependent child,One-person household,1001,_1,6
+2021,E09000011,Youngest dependent child,Married or civil partnership couple household,1001,_2,19189
+2021,E09000011,Youngest dependent child,Cohabiting couple household,1001,_3,5014
+2021,E09000011,Youngest dependent child,Lone parent household,1001,_4,12545
+2021,E09000011,Youngest dependent child,Multi-person household,1001,_5,178
+2021,E09000011,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15268
+2021,E09000011,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,1
+2021,E09000011,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,8453
+2021,E09000011,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2621
+2021,E09000011,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,4134
+2021,E09000011,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,59
+2021,E09000011,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,9703
+2021,E09000011,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,3
+2021,E09000011,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,4980
+2021,E09000011,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1244
+2021,E09000011,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,3429
+2021,E09000011,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,47
+2021,E09000011,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8931
+2021,E09000011,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000011,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4367
+2021,E09000011,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,897
+2021,E09000011,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3605
+2021,E09000011,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,60
+2021,E09000011,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3030
+2021,E09000011,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000011,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1389
+2021,E09000011,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,252
+2021,E09000011,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1377
+2021,E09000011,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,12
+2021,E09000012,Total,Total,0,0,106081
+2021,E09000012,Total,One-person household,0,_1,34928
+2021,E09000012,Total,Married or civil partnership couple household,0,_2,25246
+2021,E09000012,Total,Cohabiting couple household,0,_3,15896
+2021,E09000012,Total,Lone parent household,0,_4,18436
+2021,E09000012,Total,Multi-person household,0,_5,11575
+2021,E09000012,No dependent children in household,Total,_0,0,77136
+2021,E09000012,No dependent children in household,One-person household,_0,_1,34916
+2021,E09000012,No dependent children in household,Married or civil partnership couple household,_0,_2,11299
+2021,E09000012,No dependent children in household,Cohabiting couple household,_0,_3,12555
+2021,E09000012,No dependent children in household,Lone parent household,_0,_4,7068
+2021,E09000012,No dependent children in household,Multi-person household,_0,_5,11298
+2021,E09000012,Youngest dependent child,Total,1001,0,28945
+2021,E09000012,Youngest dependent child,One-person household,1001,_1,12
+2021,E09000012,Youngest dependent child,Married or civil partnership couple household,1001,_2,13947
+2021,E09000012,Youngest dependent child,Cohabiting couple household,1001,_3,3341
+2021,E09000012,Youngest dependent child,Lone parent household,1001,_4,11368
+2021,E09000012,Youngest dependent child,Multi-person household,1001,_5,277
+2021,E09000012,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,12262
+2021,E09000012,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,6
+2021,E09000012,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6797
+2021,E09000012,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1792
+2021,E09000012,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3538
+2021,E09000012,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,129
+2021,E09000012,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,6926
+2021,E09000012,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000012,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,3214
+2021,E09000012,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,759
+2021,E09000012,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2905
+2021,E09000012,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,46
+2021,E09000012,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,7092
+2021,E09000012,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,4
+2021,E09000012,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,2856
+2021,E09000012,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,591
+2021,E09000012,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3547
+2021,E09000012,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,94
+2021,E09000012,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2665
+2021,E09000012,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000012,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1080
+2021,E09000012,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,199
+2021,E09000012,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1378
+2021,E09000012,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,8
+2021,E09000013,Total,Total,0,0,81247
+2021,E09000013,Total,One-person household,0,_1,29323
+2021,E09000013,Total,Married or civil partnership couple household,0,_2,21707
+2021,E09000013,Total,Cohabiting couple household,0,_3,10330
+2021,E09000013,Total,Lone parent household,0,_4,10833
+2021,E09000013,Total,Multi-person household,0,_5,9054
+2021,E09000013,No dependent children in household,Total,_0,0,62647
+2021,E09000013,No dependent children in household,One-person household,_0,_1,29308
+2021,E09000013,No dependent children in household,Married or civil partnership couple household,_0,_2,10885
+2021,E09000013,No dependent children in household,Cohabiting couple household,_0,_3,8740
+2021,E09000013,No dependent children in household,Lone parent household,_0,_4,4752
+2021,E09000013,No dependent children in household,Multi-person household,_0,_5,8962
+2021,E09000013,Youngest dependent child,Total,1001,0,18600
+2021,E09000013,Youngest dependent child,One-person household,1001,_1,15
+2021,E09000013,Youngest dependent child,Married or civil partnership couple household,1001,_2,10822
+2021,E09000013,Youngest dependent child,Cohabiting couple household,1001,_3,1590
+2021,E09000013,Youngest dependent child,Lone parent household,1001,_4,6081
+2021,E09000013,Youngest dependent child,Multi-person household,1001,_5,92
+2021,E09000013,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,7308
+2021,E09000013,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000013,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,4720
+2021,E09000013,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,836
+2021,E09000013,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1724
+2021,E09000013,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,25
+2021,E09000013,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,4613
+2021,E09000013,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,3
+2021,E09000013,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,2700
+2021,E09000013,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,350
+2021,E09000013,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1532
+2021,E09000013,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,28
+2021,E09000013,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,4867
+2021,E09000013,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,9
+2021,E09000013,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,2540
+2021,E09000013,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,301
+2021,E09000013,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1981
+2021,E09000013,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,36
+2021,E09000013,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,1812
+2021,E09000013,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000013,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,862
+2021,E09000013,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,103
+2021,E09000013,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,844
+2021,E09000013,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,3
+2021,E09000014,Total,Total,0,0,105094
+2021,E09000014,Total,One-person household,0,_1,32293
+2021,E09000014,Total,Married or civil partnership couple household,0,_2,32240
+2021,E09000014,Total,Cohabiting couple household,0,_3,14091
+2021,E09000014,Total,Lone parent household,0,_4,18253
+2021,E09000014,Total,Multi-person household,0,_5,8217
+2021,E09000014,No dependent children in household,Total,_0,0,73684
+2021,E09000014,No dependent children in household,One-person household,_0,_1,32283
+2021,E09000014,No dependent children in household,Married or civil partnership couple household,_0,_2,15592
+2021,E09000014,No dependent children in household,Cohabiting couple household,_0,_3,10223
+2021,E09000014,No dependent children in household,Lone parent household,_0,_4,7610
+2021,E09000014,No dependent children in household,Multi-person household,_0,_5,7976
+2021,E09000014,Youngest dependent child,Total,1001,0,31410
+2021,E09000014,Youngest dependent child,One-person household,1001,_1,10
+2021,E09000014,Youngest dependent child,Married or civil partnership couple household,1001,_2,16648
+2021,E09000014,Youngest dependent child,Cohabiting couple household,1001,_3,3868
+2021,E09000014,Youngest dependent child,Lone parent household,1001,_4,10643
+2021,E09000014,Youngest dependent child,Multi-person household,1001,_5,241
+2021,E09000014,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,11997
+2021,E09000014,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,6
+2021,E09000014,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6854
+2021,E09000014,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2050
+2021,E09000014,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3005
+2021,E09000014,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,82
+2021,E09000014,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,7707
+2021,E09000014,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000014,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,4069
+2021,E09000014,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,856
+2021,E09000014,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2734
+2021,E09000014,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,46
+2021,E09000014,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8430
+2021,E09000014,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000014,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4204
+2021,E09000014,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,725
+2021,E09000014,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3401
+2021,E09000014,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,98
+2021,E09000014,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3276
+2021,E09000014,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000014,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1521
+2021,E09000014,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,237
+2021,E09000014,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1503
+2021,E09000014,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,15
+2021,E09000015,Total,Total,0,0,89641
+2021,E09000015,Total,One-person household,0,_1,19851
+2021,E09000015,Total,Married or civil partnership couple household,0,_2,49798
+2021,E09000015,Total,Cohabiting couple household,0,_3,5812
+2021,E09000015,Total,Lone parent household,0,_4,11277
+2021,E09000015,Total,Multi-person household,0,_5,2903
+2021,E09000015,No dependent children in household,Total,_0,0,57240
+2021,E09000015,No dependent children in household,One-person household,_0,_1,19848
+2021,E09000015,No dependent children in household,Married or civil partnership couple household,_0,_2,25309
+2021,E09000015,No dependent children in household,Cohabiting couple household,_0,_3,3904
+2021,E09000015,No dependent children in household,Lone parent household,_0,_4,5417
+2021,E09000015,No dependent children in household,Multi-person household,_0,_5,2762
+2021,E09000015,Youngest dependent child,Total,1001,0,32401
+2021,E09000015,Youngest dependent child,One-person household,1001,_1,3
+2021,E09000015,Youngest dependent child,Married or civil partnership couple household,1001,_2,24489
+2021,E09000015,Youngest dependent child,Cohabiting couple household,1001,_3,1908
+2021,E09000015,Youngest dependent child,Lone parent household,1001,_4,5860
+2021,E09000015,Youngest dependent child,Multi-person household,1001,_5,141
+2021,E09000015,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,12327
+2021,E09000015,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,1
+2021,E09000015,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,9717
+2021,E09000015,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,976
+2021,E09000015,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1596
+2021,E09000015,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,37
+2021,E09000015,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8282
+2021,E09000015,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000015,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,6356
+2021,E09000015,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,418
+2021,E09000015,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1464
+2021,E09000015,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,44
+2021,E09000015,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8421
+2021,E09000015,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000015,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,6067
+2021,E09000015,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,384
+2021,E09000015,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1921
+2021,E09000015,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,47
+2021,E09000015,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3371
+2021,E09000015,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000015,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2349
+2021,E09000015,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,130
+2021,E09000015,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,879
+2021,E09000015,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,13
+2021,E09000016,Total,Total,0,0,101281
+2021,E09000016,Total,One-person household,0,_1,26129
+2021,E09000016,Total,Married or civil partnership couple household,0,_2,46477
+2021,E09000016,Total,Cohabiting couple household,0,_3,12018
+2021,E09000016,Total,Lone parent household,0,_4,14625
+2021,E09000016,Total,Multi-person household,0,_5,2032
+2021,E09000016,No dependent children in household,Total,_0,0,67510
+2021,E09000016,No dependent children in household,One-person household,_0,_1,26128
+2021,E09000016,No dependent children in household,Married or civil partnership couple household,_0,_2,26940
+2021,E09000016,No dependent children in household,Cohabiting couple household,_0,_3,6727
+2021,E09000016,No dependent children in household,Lone parent household,_0,_4,5794
+2021,E09000016,No dependent children in household,Multi-person household,_0,_5,1921
+2021,E09000016,Youngest dependent child,Total,1001,0,33771
+2021,E09000016,Youngest dependent child,One-person household,1001,_1,1
+2021,E09000016,Youngest dependent child,Married or civil partnership couple household,1001,_2,19537
+2021,E09000016,Youngest dependent child,Cohabiting couple household,1001,_3,5291
+2021,E09000016,Youngest dependent child,Lone parent household,1001,_4,8831
+2021,E09000016,Youngest dependent child,Multi-person household,1001,_5,111
+2021,E09000016,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,13414
+2021,E09000016,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,0
+2021,E09000016,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,7717
+2021,E09000016,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2802
+2021,E09000016,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2863
+2021,E09000016,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,32
+2021,E09000016,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8704
+2021,E09000016,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000016,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5062
+2021,E09000016,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1241
+2021,E09000016,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2363
+2021,E09000016,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,38
+2021,E09000016,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8409
+2021,E09000016,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,1
+2021,E09000016,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4850
+2021,E09000016,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,935
+2021,E09000016,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2583
+2021,E09000016,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,40
+2021,E09000016,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3244
+2021,E09000016,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000016,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1908
+2021,E09000016,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,313
+2021,E09000016,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1022
+2021,E09000016,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,1
+2021,E09000017,Total,Total,0,0,109222
+2021,E09000017,Total,One-person household,0,_1,26633
+2021,E09000017,Total,Married or civil partnership couple household,0,_2,52925
+2021,E09000017,Total,Cohabiting couple household,0,_3,10373
+2021,E09000017,Total,Lone parent household,0,_4,15754
+2021,E09000017,Total,Multi-person household,0,_5,3537
+2021,E09000017,No dependent children in household,Total,_0,0,68981
+2021,E09000017,No dependent children in household,One-person household,_0,_1,26629
+2021,E09000017,No dependent children in household,Married or civil partnership couple household,_0,_2,25928
+2021,E09000017,No dependent children in household,Cohabiting couple household,_0,_3,6459
+2021,E09000017,No dependent children in household,Lone parent household,_0,_4,6589
+2021,E09000017,No dependent children in household,Multi-person household,_0,_5,3376
+2021,E09000017,Youngest dependent child,Total,1001,0,40241
+2021,E09000017,Youngest dependent child,One-person household,1001,_1,4
+2021,E09000017,Youngest dependent child,Married or civil partnership couple household,1001,_2,26997
+2021,E09000017,Youngest dependent child,Cohabiting couple household,1001,_3,3914
+2021,E09000017,Youngest dependent child,Lone parent household,1001,_4,9165
+2021,E09000017,Youngest dependent child,Multi-person household,1001,_5,161
+2021,E09000017,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15934
+2021,E09000017,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000017,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,11136
+2021,E09000017,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1961
+2021,E09000017,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2784
+2021,E09000017,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,50
+2021,E09000017,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,10608
+2021,E09000017,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000017,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,7148
+2021,E09000017,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,938
+2021,E09000017,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2482
+2021,E09000017,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,40
+2021,E09000017,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,9976
+2021,E09000017,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,1
+2021,E09000017,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,6337
+2021,E09000017,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,781
+2021,E09000017,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2796
+2021,E09000017,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,61
+2021,E09000017,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3723
+2021,E09000017,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000017,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2376
+2021,E09000017,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,234
+2021,E09000017,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1103
+2021,E09000017,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,10
+2021,E09000018,Total,Total,0,0,102961
+2021,E09000018,Total,One-person household,0,_1,26209
+2021,E09000018,Total,Married or civil partnership couple household,0,_2,46597
+2021,E09000018,Total,Cohabiting couple household,0,_3,10187
+2021,E09000018,Total,Lone parent household,0,_4,15477
+2021,E09000018,Total,Multi-person household,0,_5,4491
+2021,E09000018,No dependent children in household,Total,_0,0,65124
+2021,E09000018,No dependent children in household,One-person household,_0,_1,26200
+2021,E09000018,No dependent children in household,Married or civil partnership couple household,_0,_2,21564
+2021,E09000018,No dependent children in household,Cohabiting couple household,_0,_3,6600
+2021,E09000018,No dependent children in household,Lone parent household,_0,_4,6496
+2021,E09000018,No dependent children in household,Multi-person household,_0,_5,4264
+2021,E09000018,Youngest dependent child,Total,1001,0,37837
+2021,E09000018,Youngest dependent child,One-person household,1001,_1,9
+2021,E09000018,Youngest dependent child,Married or civil partnership couple household,1001,_2,25033
+2021,E09000018,Youngest dependent child,Cohabiting couple household,1001,_3,3587
+2021,E09000018,Youngest dependent child,Lone parent household,1001,_4,8981
+2021,E09000018,Youngest dependent child,Multi-person household,1001,_5,227
+2021,E09000018,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,14765
+2021,E09000018,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000018,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,10134
+2021,E09000018,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1749
+2021,E09000018,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2793
+2021,E09000018,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,86
+2021,E09000018,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,10072
+2021,E09000018,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,3
+2021,E09000018,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,6789
+2021,E09000018,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,888
+2021,E09000018,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2346
+2021,E09000018,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,46
+2021,E09000018,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,9600
+2021,E09000018,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,3
+2021,E09000018,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,6099
+2021,E09000018,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,734
+2021,E09000018,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2678
+2021,E09000018,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,86
+2021,E09000018,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3400
+2021,E09000018,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000018,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2011
+2021,E09000018,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,216
+2021,E09000018,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1164
+2021,E09000018,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,9
+2021,E09000019,Total,Total,0,0,96497
+2021,E09000019,Total,One-person household,0,_1,34795
+2021,E09000019,Total,Married or civil partnership couple household,0,_2,21675
+2021,E09000019,Total,Cohabiting couple household,0,_3,15431
+2021,E09000019,Total,Lone parent household,0,_4,14499
+2021,E09000019,Total,Multi-person household,0,_5,10097
+2021,E09000019,No dependent children in household,Total,_0,0,75214
+2021,E09000019,No dependent children in household,One-person household,_0,_1,34783
+2021,E09000019,No dependent children in household,Married or civil partnership couple household,_0,_2,11876
+2021,E09000019,No dependent children in household,Cohabiting couple household,_0,_3,12810
+2021,E09000019,No dependent children in household,Lone parent household,_0,_4,5755
+2021,E09000019,No dependent children in household,Multi-person household,_0,_5,9990
+2021,E09000019,Youngest dependent child,Total,1001,0,21283
+2021,E09000019,Youngest dependent child,One-person household,1001,_1,12
+2021,E09000019,Youngest dependent child,Married or civil partnership couple household,1001,_2,9799
+2021,E09000019,Youngest dependent child,Cohabiting couple household,1001,_3,2621
+2021,E09000019,Youngest dependent child,Lone parent household,1001,_4,8744
+2021,E09000019,Youngest dependent child,Multi-person household,1001,_5,107
+2021,E09000019,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,9048
+2021,E09000019,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,4
+2021,E09000019,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,4625
+2021,E09000019,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1446
+2021,E09000019,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2945
+2021,E09000019,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,28
+2021,E09000019,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,5243
+2021,E09000019,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,5
+2021,E09000019,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,2318
+2021,E09000019,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,574
+2021,E09000019,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2317
+2021,E09000019,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,29
+2021,E09000019,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,5103
+2021,E09000019,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,3
+2021,E09000019,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,2105
+2021,E09000019,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,458
+2021,E09000019,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2494
+2021,E09000019,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,43
+2021,E09000019,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,1889
+2021,E09000019,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000019,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,751
+2021,E09000019,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,143
+2021,E09000019,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,988
+2021,E09000019,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,7
+2021,E09000020,Total,Total,0,0,66885
+2021,E09000020,Total,One-person household,0,_1,29232
+2021,E09000020,Total,Married or civil partnership couple household,0,_2,19437
+2021,E09000020,Total,Cohabiting couple household,0,_3,6041
+2021,E09000020,Total,Lone parent household,0,_4,7503
+2021,E09000020,Total,Multi-person household,0,_5,4672
+2021,E09000020,No dependent children in household,Total,_0,0,53192
+2021,E09000020,No dependent children in household,One-person household,_0,_1,29213
+2021,E09000020,No dependent children in household,Married or civil partnership couple household,_0,_2,10878
+2021,E09000020,No dependent children in household,Cohabiting couple household,_0,_3,5003
+2021,E09000020,No dependent children in household,Lone parent household,_0,_4,3562
+2021,E09000020,No dependent children in household,Multi-person household,_0,_5,4536
+2021,E09000020,Youngest dependent child,Total,1001,0,13693
+2021,E09000020,Youngest dependent child,One-person household,1001,_1,19
+2021,E09000020,Youngest dependent child,Married or civil partnership couple household,1001,_2,8559
+2021,E09000020,Youngest dependent child,Cohabiting couple household,1001,_3,1038
+2021,E09000020,Youngest dependent child,Lone parent household,1001,_4,3941
+2021,E09000020,Youngest dependent child,Multi-person household,1001,_5,136
+2021,E09000020,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,4810
+2021,E09000020,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,5
+2021,E09000020,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,3288
+2021,E09000020,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,510
+2021,E09000020,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,946
+2021,E09000020,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,61
+2021,E09000020,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,3483
+2021,E09000020,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,6
+2021,E09000020,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,2204
+2021,E09000020,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,240
+2021,E09000020,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1014
+2021,E09000020,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,19
+2021,E09000020,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,3732
+2021,E09000020,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,8
+2021,E09000020,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,2153
+2021,E09000020,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,212
+2021,E09000020,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1322
+2021,E09000020,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,37
+2021,E09000020,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,1668
+2021,E09000020,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000020,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,914
+2021,E09000020,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,76
+2021,E09000020,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,659
+2021,E09000020,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,19
+2021,E09000021,Total,Total,0,0,65629
+2021,E09000021,Total,One-person household,0,_1,17717
+2021,E09000021,Total,Married or civil partnership couple household,0,_2,30068
+2021,E09000021,Total,Cohabiting couple household,0,_3,7893
+2021,E09000021,Total,Lone parent household,0,_4,7115
+2021,E09000021,Total,Multi-person household,0,_5,2836
+2021,E09000021,No dependent children in household,Total,_0,0,43958
+2021,E09000021,No dependent children in household,One-person household,_0,_1,17710
+2021,E09000021,No dependent children in household,Married or civil partnership couple household,_0,_2,15073
+2021,E09000021,No dependent children in household,Cohabiting couple household,_0,_3,5524
+2021,E09000021,No dependent children in household,Lone parent household,_0,_4,2873
+2021,E09000021,No dependent children in household,Multi-person household,_0,_5,2778
+2021,E09000021,Youngest dependent child,Total,1001,0,21671
+2021,E09000021,Youngest dependent child,One-person household,1001,_1,7
+2021,E09000021,Youngest dependent child,Married or civil partnership couple household,1001,_2,14995
+2021,E09000021,Youngest dependent child,Cohabiting couple household,1001,_3,2369
+2021,E09000021,Youngest dependent child,Lone parent household,1001,_4,4242
+2021,E09000021,Youngest dependent child,Multi-person household,1001,_5,58
+2021,E09000021,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,7779
+2021,E09000021,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,0
+2021,E09000021,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,5457
+2021,E09000021,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1217
+2021,E09000021,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1096
+2021,E09000021,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,9
+2021,E09000021,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,5804
+2021,E09000021,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,4
+2021,E09000021,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,4065
+2021,E09000021,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,593
+2021,E09000021,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1127
+2021,E09000021,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,15
+2021,E09000021,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,5901
+2021,E09000021,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,3
+2021,E09000021,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4053
+2021,E09000021,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,416
+2021,E09000021,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1401
+2021,E09000021,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,28
+2021,E09000021,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2187
+2021,E09000021,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000021,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1420
+2021,E09000021,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,143
+2021,E09000021,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,618
+2021,E09000021,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,6
+2021,E09000022,Total,Total,0,0,134686
+2021,E09000022,Total,One-person household,0,_1,43152
+2021,E09000022,Total,Married or civil partnership couple household,0,_2,30377
+2021,E09000022,Total,Cohabiting couple household,0,_3,21213
+2021,E09000022,Total,Lone parent household,0,_4,21968
+2021,E09000022,Total,Multi-person household,0,_5,17976
+2021,E09000022,No dependent children in household,Total,_0,0,102746
+2021,E09000022,No dependent children in household,One-person household,_0,_1,43147
+2021,E09000022,No dependent children in household,Married or civil partnership couple household,_0,_2,15786
+2021,E09000022,No dependent children in household,Cohabiting couple household,_0,_3,17233
+2021,E09000022,No dependent children in household,Lone parent household,_0,_4,8818
+2021,E09000022,No dependent children in household,Multi-person household,_0,_5,17762
+2021,E09000022,Youngest dependent child,Total,1001,0,31940
+2021,E09000022,Youngest dependent child,One-person household,1001,_1,5
+2021,E09000022,Youngest dependent child,Married or civil partnership couple household,1001,_2,14591
+2021,E09000022,Youngest dependent child,Cohabiting couple household,1001,_3,3980
+2021,E09000022,Youngest dependent child,Lone parent household,1001,_4,13150
+2021,E09000022,Youngest dependent child,Multi-person household,1001,_5,214
+2021,E09000022,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,12456
+2021,E09000022,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,0
+2021,E09000022,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6467
+2021,E09000022,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2040
+2021,E09000022,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3891
+2021,E09000022,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,58
+2021,E09000022,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8004
+2021,E09000022,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000022,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,3509
+2021,E09000022,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,939
+2021,E09000022,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,3487
+2021,E09000022,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,67
+2021,E09000022,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8363
+2021,E09000022,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,3
+2021,E09000022,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,3369
+2021,E09000022,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,741
+2021,E09000022,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,4167
+2021,E09000022,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,83
+2021,E09000022,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3117
+2021,E09000022,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000022,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1246
+2021,E09000022,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,260
+2021,E09000022,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1605
+2021,E09000022,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,6
+2021,E09000023,Total,Total,0,0,122394
+2021,E09000023,Total,One-person household,0,_1,37147
+2021,E09000023,Total,Married or civil partnership couple household,0,_2,35781
+2021,E09000023,Total,Cohabiting couple household,0,_3,18613
+2021,E09000023,Total,Lone parent household,0,_4,22638
+2021,E09000023,Total,Multi-person household,0,_5,8215
+2021,E09000023,No dependent children in household,Total,_0,0,84879
+2021,E09000023,No dependent children in household,One-person household,_0,_1,37135
+2021,E09000023,No dependent children in household,Married or civil partnership couple household,_0,_2,17746
+2021,E09000023,No dependent children in household,Cohabiting couple household,_0,_3,13410
+2021,E09000023,No dependent children in household,Lone parent household,_0,_4,8617
+2021,E09000023,No dependent children in household,Multi-person household,_0,_5,7971
+2021,E09000023,Youngest dependent child,Total,1001,0,37515
+2021,E09000023,Youngest dependent child,One-person household,1001,_1,12
+2021,E09000023,Youngest dependent child,Married or civil partnership couple household,1001,_2,18035
+2021,E09000023,Youngest dependent child,Cohabiting couple household,1001,_3,5203
+2021,E09000023,Youngest dependent child,Lone parent household,1001,_4,14021
+2021,E09000023,Youngest dependent child,Multi-person household,1001,_5,244
+2021,E09000023,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15605
+2021,E09000023,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000023,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,8235
+2021,E09000023,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2805
+2021,E09000023,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,4472
+2021,E09000023,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,90
+2021,E09000023,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,9458
+2021,E09000023,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,3
+2021,E09000023,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,4533
+2021,E09000023,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1182
+2021,E09000023,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,3698
+2021,E09000023,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,42
+2021,E09000023,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,9039
+2021,E09000023,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,6
+2021,E09000023,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,3840
+2021,E09000023,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,914
+2021,E09000023,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,4171
+2021,E09000023,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,108
+2021,E09000023,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3413
+2021,E09000023,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000023,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1427
+2021,E09000023,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,302
+2021,E09000023,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1680
+2021,E09000023,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,4
+2021,E09000024,Total,Total,0,0,81730
+2021,E09000024,Total,One-person household,0,_1,20464
+2021,E09000024,Total,Married or civil partnership couple household,0,_2,35459
+2021,E09000024,Total,Cohabiting couple household,0,_3,10533
+2021,E09000024,Total,Lone parent household,0,_4,10683
+2021,E09000024,Total,Multi-person household,0,_5,4591
+2021,E09000024,No dependent children in household,Total,_0,0,54245
+2021,E09000024,No dependent children in household,One-person household,_0,_1,20456
+2021,E09000024,No dependent children in household,Married or civil partnership couple household,_0,_2,17181
+2021,E09000024,No dependent children in household,Cohabiting couple household,_0,_3,7508
+2021,E09000024,No dependent children in household,Lone parent household,_0,_4,4639
+2021,E09000024,No dependent children in household,Multi-person household,_0,_5,4461
+2021,E09000024,Youngest dependent child,Total,1001,0,27485
+2021,E09000024,Youngest dependent child,One-person household,1001,_1,8
+2021,E09000024,Youngest dependent child,Married or civil partnership couple household,1001,_2,18278
+2021,E09000024,Youngest dependent child,Cohabiting couple household,1001,_3,3025
+2021,E09000024,Youngest dependent child,Lone parent household,1001,_4,6044
+2021,E09000024,Youngest dependent child,Multi-person household,1001,_5,130
+2021,E09000024,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,10845
+2021,E09000024,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,4
+2021,E09000024,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,7433
+2021,E09000024,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1623
+2021,E09000024,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1737
+2021,E09000024,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,48
+2021,E09000024,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,7061
+2021,E09000024,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000024,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,4753
+2021,E09000024,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,673
+2021,E09000024,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1600
+2021,E09000024,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,33
+2021,E09000024,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,7047
+2021,E09000024,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000024,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4537
+2021,E09000024,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,547
+2021,E09000024,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1916
+2021,E09000024,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,45
+2021,E09000024,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2532
+2021,E09000024,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000024,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1555
+2021,E09000024,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,182
+2021,E09000024,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,791
+2021,E09000024,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,4
+2021,E09000025,Total,Total,0,0,115505
+2021,E09000025,Total,One-person household,0,_1,27036
+2021,E09000025,Total,Married or civil partnership couple household,0,_2,45855
+2021,E09000025,Total,Cohabiting couple household,0,_3,13352
+2021,E09000025,Total,Lone parent household,0,_4,20398
+2021,E09000025,Total,Multi-person household,0,_5,8864
+2021,E09000025,No dependent children in household,Total,_0,0,70951
+2021,E09000025,No dependent children in household,One-person household,_0,_1,27020
+2021,E09000025,No dependent children in household,Married or civil partnership couple household,_0,_2,17925
+2021,E09000025,No dependent children in household,Cohabiting couple household,_0,_3,9372
+2021,E09000025,No dependent children in household,Lone parent household,_0,_4,8101
+2021,E09000025,No dependent children in household,Multi-person household,_0,_5,8533
+2021,E09000025,Youngest dependent child,Total,1001,0,44554
+2021,E09000025,Youngest dependent child,One-person household,1001,_1,16
+2021,E09000025,Youngest dependent child,Married or civil partnership couple household,1001,_2,27930
+2021,E09000025,Youngest dependent child,Cohabiting couple household,1001,_3,3980
+2021,E09000025,Youngest dependent child,Lone parent household,1001,_4,12297
+2021,E09000025,Youngest dependent child,Multi-person household,1001,_5,331
+2021,E09000025,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,19013
+2021,E09000025,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,8
+2021,E09000025,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,12741
+2021,E09000025,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2143
+2021,E09000025,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,4000
+2021,E09000025,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,121
+2021,E09000025,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,11425
+2021,E09000025,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000025,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,7165
+2021,E09000025,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,965
+2021,E09000025,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,3206
+2021,E09000025,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,87
+2021,E09000025,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,10361
+2021,E09000025,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,6
+2021,E09000025,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,5993
+2021,E09000025,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,684
+2021,E09000025,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3574
+2021,E09000025,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,104
+2021,E09000025,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3755
+2021,E09000025,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000025,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2031
+2021,E09000025,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,188
+2021,E09000025,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1517
+2021,E09000025,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,19
+2021,E09000026,Total,Total,0,0,103711
+2021,E09000026,Total,One-person household,0,_1,23887
+2021,E09000026,Total,Married or civil partnership couple household,0,_2,53957
+2021,E09000026,Total,Cohabiting couple household,0,_3,8132
+2021,E09000026,Total,Lone parent household,0,_4,14430
+2021,E09000026,Total,Multi-person household,0,_5,3305
+2021,E09000026,No dependent children in household,Total,_0,0,61538
+2021,E09000026,No dependent children in household,One-person household,_0,_1,23877
+2021,E09000026,No dependent children in household,Married or civil partnership couple household,_0,_2,23680
+2021,E09000026,No dependent children in household,Cohabiting couple household,_0,_3,4973
+2021,E09000026,No dependent children in household,Lone parent household,_0,_4,5904
+2021,E09000026,No dependent children in household,Multi-person household,_0,_5,3104
+2021,E09000026,Youngest dependent child,Total,1001,0,42173
+2021,E09000026,Youngest dependent child,One-person household,1001,_1,10
+2021,E09000026,Youngest dependent child,Married or civil partnership couple household,1001,_2,30277
+2021,E09000026,Youngest dependent child,Cohabiting couple household,1001,_3,3159
+2021,E09000026,Youngest dependent child,Lone parent household,1001,_4,8526
+2021,E09000026,Youngest dependent child,Multi-person household,1001,_5,201
+2021,E09000026,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,16974
+2021,E09000026,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,5
+2021,E09000026,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,12546
+2021,E09000026,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1687
+2021,E09000026,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2666
+2021,E09000026,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,70
+2021,E09000026,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,10734
+2021,E09000026,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,1
+2021,E09000026,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,7928
+2021,E09000026,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,710
+2021,E09000026,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2051
+2021,E09000026,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,44
+2021,E09000026,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,10361
+2021,E09000026,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,4
+2021,E09000026,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,7130
+2021,E09000026,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,541
+2021,E09000026,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2621
+2021,E09000026,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,65
+2021,E09000026,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,4104
+2021,E09000026,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000026,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,2673
+2021,E09000026,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,221
+2021,E09000026,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1188
+2021,E09000026,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,22
+2021,E09000027,Total,Total,0,0,80706
+2021,E09000027,Total,One-person household,0,_1,23871
+2021,E09000027,Total,Married or civil partnership couple household,0,_2,37039
+2021,E09000027,Total,Cohabiting couple household,0,_3,9517
+2021,E09000027,Total,Lone parent household,0,_4,7872
+2021,E09000027,Total,Multi-person household,0,_5,2407
+2021,E09000027,No dependent children in household,Total,_0,0,54469
+2021,E09000027,No dependent children in household,One-person household,_0,_1,23864
+2021,E09000027,No dependent children in household,Married or civil partnership couple household,_0,_2,18357
+2021,E09000027,No dependent children in household,Cohabiting couple household,_0,_3,6727
+2021,E09000027,No dependent children in household,Lone parent household,_0,_4,3154
+2021,E09000027,No dependent children in household,Multi-person household,_0,_5,2367
+2021,E09000027,Youngest dependent child,Total,1001,0,26237
+2021,E09000027,Youngest dependent child,One-person household,1001,_1,7
+2021,E09000027,Youngest dependent child,Married or civil partnership couple household,1001,_2,18682
+2021,E09000027,Youngest dependent child,Cohabiting couple household,1001,_3,2790
+2021,E09000027,Youngest dependent child,Lone parent household,1001,_4,4718
+2021,E09000027,Youngest dependent child,Multi-person household,1001,_5,40
+2021,E09000027,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,8922
+2021,E09000027,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,1
+2021,E09000027,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6574
+2021,E09000027,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1329
+2021,E09000027,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1011
+2021,E09000027,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,7
+2021,E09000027,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,7164
+2021,E09000027,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000027,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5130
+2021,E09000027,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,693
+2021,E09000027,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1326
+2021,E09000027,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,15
+2021,E09000027,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,7549
+2021,E09000027,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,6
+2021,E09000027,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,5259
+2021,E09000027,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,562
+2021,E09000027,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1705
+2021,E09000027,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,17
+2021,E09000027,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2602
+2021,E09000027,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000027,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1719
+2021,E09000027,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,206
+2021,E09000027,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,676
+2021,E09000027,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,1
+2021,E09000028,Total,Total,0,0,130818
+2021,E09000028,Total,One-person household,0,_1,43348
+2021,E09000028,Total,Married or civil partnership couple household,0,_2,30250
+2021,E09000028,Total,Cohabiting couple household,0,_3,20146
+2021,E09000028,Total,Lone parent household,0,_4,22496
+2021,E09000028,Total,Multi-person household,0,_5,14578
+2021,E09000028,No dependent children in household,Total,_0,0,97773
+2021,E09000028,No dependent children in household,One-person household,_0,_1,43339
+2021,E09000028,No dependent children in household,Married or civil partnership couple household,_0,_2,15611
+2021,E09000028,No dependent children in household,Cohabiting couple household,_0,_3,15901
+2021,E09000028,No dependent children in household,Lone parent household,_0,_4,8585
+2021,E09000028,No dependent children in household,Multi-person household,_0,_5,14337
+2021,E09000028,Youngest dependent child,Total,1001,0,33045
+2021,E09000028,Youngest dependent child,One-person household,1001,_1,9
+2021,E09000028,Youngest dependent child,Married or civil partnership couple household,1001,_2,14639
+2021,E09000028,Youngest dependent child,Cohabiting couple household,1001,_3,4245
+2021,E09000028,Youngest dependent child,Lone parent household,1001,_4,13911
+2021,E09000028,Youngest dependent child,Multi-person household,1001,_5,241
+2021,E09000028,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,13201
+2021,E09000028,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,6
+2021,E09000028,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6714
+2021,E09000028,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2193
+2021,E09000028,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,4236
+2021,E09000028,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,52
+2021,E09000028,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8371
+2021,E09000028,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,2
+2021,E09000028,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,3575
+2021,E09000028,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,996
+2021,E09000028,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,3703
+2021,E09000028,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,95
+2021,E09000028,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8402
+2021,E09000028,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,1
+2021,E09000028,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,3255
+2021,E09000028,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,827
+2021,E09000028,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,4234
+2021,E09000028,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,85
+2021,E09000028,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3071
+2021,E09000028,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000028,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1095
+2021,E09000028,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,229
+2021,E09000028,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1738
+2021,E09000028,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,9
+2021,E09000029,Total,Total,0,0,82349
+2021,E09000029,Total,One-person household,0,_1,22197
+2021,E09000029,Total,Married or civil partnership couple household,0,_2,38101
+2021,E09000029,Total,Cohabiting couple household,0,_3,9481
+2021,E09000029,Total,Lone parent household,0,_4,10786
+2021,E09000029,Total,Multi-person household,0,_5,1784
+2021,E09000029,No dependent children in household,Total,_0,0,53288
+2021,E09000029,No dependent children in household,One-person household,_0,_1,22194
+2021,E09000029,No dependent children in household,Married or civil partnership couple household,_0,_2,19300
+2021,E09000029,No dependent children in household,Cohabiting couple household,_0,_3,5845
+2021,E09000029,No dependent children in household,Lone parent household,_0,_4,4230
+2021,E09000029,No dependent children in household,Multi-person household,_0,_5,1719
+2021,E09000029,Youngest dependent child,Total,1001,0,29061
+2021,E09000029,Youngest dependent child,One-person household,1001,_1,3
+2021,E09000029,Youngest dependent child,Married or civil partnership couple household,1001,_2,18801
+2021,E09000029,Youngest dependent child,Cohabiting couple household,1001,_3,3636
+2021,E09000029,Youngest dependent child,Lone parent household,1001,_4,6556
+2021,E09000029,Youngest dependent child,Multi-person household,1001,_5,65
+2021,E09000029,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,10592
+2021,E09000029,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,3
+2021,E09000029,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,6751
+2021,E09000029,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1875
+2021,E09000029,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1943
+2021,E09000029,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,20
+2021,E09000029,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,7808
+2021,E09000029,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000029,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5231
+2021,E09000029,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,839
+2021,E09000029,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1724
+2021,E09000029,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,14
+2021,E09000029,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,7819
+2021,E09000029,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,0
+2021,E09000029,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,5025
+2021,E09000029,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,697
+2021,E09000029,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2070
+2021,E09000029,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,27
+2021,E09000029,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2842
+2021,E09000029,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000029,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1794
+2021,E09000029,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,225
+2021,E09000029,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,819
+2021,E09000029,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,4
+2021,E09000030,Total,Total,0,0,120537
+2021,E09000030,Total,One-person household,0,_1,38531
+2021,E09000030,Total,Married or civil partnership couple household,0,_2,34877
+2021,E09000030,Total,Cohabiting couple household,0,_3,17913
+2021,E09000030,Total,Lone parent household,0,_4,14360
+2021,E09000030,Total,Multi-person household,0,_5,14856
+2021,E09000030,No dependent children in household,Total,_0,0,87718
+2021,E09000030,No dependent children in household,One-person household,_0,_1,38517
+2021,E09000030,No dependent children in household,Married or civil partnership couple household,_0,_2,14166
+2021,E09000030,No dependent children in household,Cohabiting couple household,_0,_3,15096
+2021,E09000030,No dependent children in household,Lone parent household,_0,_4,5318
+2021,E09000030,No dependent children in household,Multi-person household,_0,_5,14621
+2021,E09000030,Youngest dependent child,Total,1001,0,32819
+2021,E09000030,Youngest dependent child,One-person household,1001,_1,14
+2021,E09000030,Youngest dependent child,Married or civil partnership couple household,1001,_2,20711
+2021,E09000030,Youngest dependent child,Cohabiting couple household,1001,_3,2817
+2021,E09000030,Youngest dependent child,Lone parent household,1001,_4,9042
+2021,E09000030,Youngest dependent child,Multi-person household,1001,_5,235
+2021,E09000030,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15223
+2021,E09000030,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,4
+2021,E09000030,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,10085
+2021,E09000030,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1786
+2021,E09000030,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,3284
+2021,E09000030,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,64
+2021,E09000030,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8355
+2021,E09000030,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,5
+2021,E09000030,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5310
+2021,E09000030,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,589
+2021,E09000030,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2395
+2021,E09000030,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,56
+2021,E09000030,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,6919
+2021,E09000030,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,5
+2021,E09000030,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4059
+2021,E09000030,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,345
+2021,E09000030,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2423
+2021,E09000030,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,87
+2021,E09000030,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2322
+2021,E09000030,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000030,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1257
+2021,E09000030,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,97
+2021,E09000030,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,940
+2021,E09000030,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,28
+2021,E09000031,Total,Total,0,0,102898
+2021,E09000031,Total,One-person household,0,_1,26696
+2021,E09000031,Total,Married or civil partnership couple household,0,_2,38450
+2021,E09000031,Total,Cohabiting couple household,0,_3,15173
+2021,E09000031,Total,Lone parent household,0,_4,16951
+2021,E09000031,Total,Multi-person household,0,_5,5628
+2021,E09000031,No dependent children in household,Total,_0,0,67152
+2021,E09000031,No dependent children in household,One-person household,_0,_1,26691
+2021,E09000031,No dependent children in household,Married or civil partnership couple household,_0,_2,18004
+2021,E09000031,No dependent children in household,Cohabiting couple household,_0,_3,10153
+2021,E09000031,No dependent children in household,Lone parent household,_0,_4,6861
+2021,E09000031,No dependent children in household,Multi-person household,_0,_5,5443
+2021,E09000031,Youngest dependent child,Total,1001,0,35746
+2021,E09000031,Youngest dependent child,One-person household,1001,_1,5
+2021,E09000031,Youngest dependent child,Married or civil partnership couple household,1001,_2,20446
+2021,E09000031,Youngest dependent child,Cohabiting couple household,1001,_3,5020
+2021,E09000031,Youngest dependent child,Lone parent household,1001,_4,10090
+2021,E09000031,Youngest dependent child,Multi-person household,1001,_5,185
+2021,E09000031,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,15217
+2021,E09000031,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,2
+2021,E09000031,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,9343
+2021,E09000031,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,2902
+2021,E09000031,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2911
+2021,E09000031,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,59
+2021,E09000031,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8956
+2021,E09000031,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,1
+2021,E09000031,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5047
+2021,E09000031,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,1118
+2021,E09000031,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2743
+2021,E09000031,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,47
+2021,E09000031,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8355
+2021,E09000031,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000031,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4472
+2021,E09000031,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,742
+2021,E09000031,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,3069
+2021,E09000031,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,70
+2021,E09000031,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,3218
+2021,E09000031,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000031,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1584
+2021,E09000031,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,258
+2021,E09000031,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1367
+2021,E09000031,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,9
+2021,E09000032,Total,Total,0,0,137392
+2021,E09000032,Total,One-person household,0,_1,41130
+2021,E09000032,Total,Married or civil partnership couple household,0,_2,41558
+2021,E09000032,Total,Cohabiting couple household,0,_3,22141
+2021,E09000032,Total,Lone parent household,0,_4,15768
+2021,E09000032,Total,Multi-person household,0,_5,16795
+2021,E09000032,No dependent children in household,Total,_0,0,103082
+2021,E09000032,No dependent children in household,One-person household,_0,_1,41126
+2021,E09000032,No dependent children in household,Married or civil partnership couple household,_0,_2,20038
+2021,E09000032,No dependent children in household,Cohabiting couple household,_0,_3,18733
+2021,E09000032,No dependent children in household,Lone parent household,_0,_4,6490
+2021,E09000032,No dependent children in household,Multi-person household,_0,_5,16695
+2021,E09000032,Youngest dependent child,Total,1001,0,34310
+2021,E09000032,Youngest dependent child,One-person household,1001,_1,4
+2021,E09000032,Youngest dependent child,Married or civil partnership couple household,1001,_2,21520
+2021,E09000032,Youngest dependent child,Cohabiting couple household,1001,_3,3408
+2021,E09000032,Youngest dependent child,Lone parent household,1001,_4,9278
+2021,E09000032,Youngest dependent child,Multi-person household,1001,_5,100
+2021,E09000032,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,14831
+2021,E09000032,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,2
+2021,E09000032,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,10090
+2021,E09000032,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,1940
+2021,E09000032,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,2777
+2021,E09000032,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,22
+2021,E09000032,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,8603
+2021,E09000032,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,0
+2021,E09000032,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,5264
+2021,E09000032,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,734
+2021,E09000032,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,2577
+2021,E09000032,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,28
+2021,E09000032,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,8053
+2021,E09000032,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,2
+2021,E09000032,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,4633
+2021,E09000032,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,561
+2021,E09000032,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,2813
+2021,E09000032,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,44
+2021,E09000032,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2823
+2021,E09000032,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000032,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1533
+2021,E09000032,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,173
+2021,E09000032,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,1111
+2021,E09000032,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,6
+2021,E09000033,Total,Total,0,0,94813
+2021,E09000033,Total,One-person household,0,_1,40443
+2021,E09000033,Total,Married or civil partnership couple household,0,_2,24634
+2021,E09000033,Total,Cohabiting couple household,0,_3,9974
+2021,E09000033,Total,Lone parent household,0,_4,10847
+2021,E09000033,Total,Multi-person household,0,_5,8915
+2021,E09000033,No dependent children in household,Total,_0,0,76650
+2021,E09000033,No dependent children in household,One-person household,_0,_1,40418
+2021,E09000033,No dependent children in household,Married or civil partnership couple household,_0,_2,13756
+2021,E09000033,No dependent children in household,Cohabiting couple household,_0,_3,8566
+2021,E09000033,No dependent children in household,Lone parent household,_0,_4,5116
+2021,E09000033,No dependent children in household,Multi-person household,_0,_5,8794
+2021,E09000033,Youngest dependent child,Total,1001,0,18163
+2021,E09000033,Youngest dependent child,One-person household,1001,_1,25
+2021,E09000033,Youngest dependent child,Married or civil partnership couple household,1001,_2,10878
+2021,E09000033,Youngest dependent child,Cohabiting couple household,1001,_3,1408
+2021,E09000033,Youngest dependent child,Lone parent household,1001,_4,5731
+2021,E09000033,Youngest dependent child,Multi-person household,1001,_5,121
+2021,E09000033,Youngest dependent child: Aged 0 to 4 years,Total,_1,0,6888
+2021,E09000033,Youngest dependent child: Aged 0 to 4 years,One-person household,_1,_1,8
+2021,E09000033,Youngest dependent child: Aged 0 to 4 years,Married or civil partnership couple household,_1,_2,4483
+2021,E09000033,Youngest dependent child: Aged 0 to 4 years,Cohabiting couple household,_1,_3,787
+2021,E09000033,Youngest dependent child: Aged 0 to 4 years,Lone parent household,_1,_4,1568
+2021,E09000033,Youngest dependent child: Aged 0 to 4 years,Multi-person household,_1,_5,42
+2021,E09000033,Youngest dependent child: Aged 5 to 9 years,Total,_2,0,4283
+2021,E09000033,Youngest dependent child: Aged 5 to 9 years,One-person household,_2,_1,3
+2021,E09000033,Youngest dependent child: Aged 5 to 9 years,Married or civil partnership couple household,_2,_2,2624
+2021,E09000033,Youngest dependent child: Aged 5 to 9 years,Cohabiting couple household,_2,_3,287
+2021,E09000033,Youngest dependent child: Aged 5 to 9 years,Lone parent household,_2,_4,1347
+2021,E09000033,Youngest dependent child: Aged 5 to 9 years,Multi-person household,_2,_5,22
+2021,E09000033,Youngest dependent child: Aged 10 to 15 years,Total,_3,0,4840
+2021,E09000033,Youngest dependent child: Aged 10 to 15 years,One-person household,_3,_1,14
+2021,E09000033,Youngest dependent child: Aged 10 to 15 years,Married or civil partnership couple household,_3,_2,2628
+2021,E09000033,Youngest dependent child: Aged 10 to 15 years,Cohabiting couple household,_3,_3,254
+2021,E09000033,Youngest dependent child: Aged 10 to 15 years,Lone parent household,_3,_4,1892
+2021,E09000033,Youngest dependent child: Aged 10 to 15 years,Multi-person household,_3,_5,52
+2021,E09000033,Youngest dependent child: Aged 16 to 18 years,Total,_4,0,2152
+2021,E09000033,Youngest dependent child: Aged 16 to 18 years,One-person household,_4,_1,0
+2021,E09000033,Youngest dependent child: Aged 16 to 18 years,Married or civil partnership couple household,_4,_2,1143
+2021,E09000033,Youngest dependent child: Aged 16 to 18 years,Cohabiting couple household,_4,_3,80
+2021,E09000033,Youngest dependent child: Aged 16 to 18 years,Lone parent household,_4,_4,924
+2021,E09000033,Youngest dependent child: Aged 16 to 18 years,Multi-person household,_4,_5,5

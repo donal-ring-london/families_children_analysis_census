@@ -1,0 +1,29 @@
+inner_outer,sex_2,age_common,cob_common,value_21,value_11
+Inner,Female,Aged 16 to 49,Africa,77412,96732
+Inner,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",17861,26289
+Inner,Female,Aged 16 to 49,Ireland,9756,12055
+Inner,Female,Aged 16 to 49,Middle East and Asia,135810,124493
+Inner,Female,Aged 16 to 49,Rest of Europe,224746,169489
+Inner,Female,Aged 16 to 49,The Americas and the Caribbean,71755,60885
+Inner,Female,Aged 16 to 49,United Kingdom,486760,482077
+Inner,Male,Aged 16 to 49,Africa,60572,86841
+Inner,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",15273,25237
+Inner,Male,Aged 16 to 49,Ireland,9297,12863
+Inner,Male,Aged 16 to 49,Middle East and Asia,117575,135517
+Inner,Male,Aged 16 to 49,Rest of Europe,196141,161964
+Inner,Male,Aged 16 to 49,The Americas and the Caribbean,56318,52800
+Inner,Male,Aged 16 to 49,United Kingdom,493415,513325
+Outer,Female,Aged 16 to 49,Africa,104596,120514
+Outer,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",7406,10252
+Outer,Female,Aged 16 to 49,Ireland,8271,11947
+Outer,Female,Aged 16 to 49,Middle East and Asia,228905,185008
+Outer,Female,Aged 16 to 49,Rest of Europe,263710,159503
+Outer,Female,Aged 16 to 49,The Americas and the Caribbean,44233,35048
+Outer,Female,Aged 16 to 49,United Kingdom,676306,742522
+Outer,Male,Aged 16 to 49,Africa,81635,105251
+Outer,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",6732,9457
+Outer,Male,Aged 16 to 49,Ireland,7565,11097
+Outer,Male,Aged 16 to 49,Middle East and Asia,213731,199984
+Outer,Male,Aged 16 to 49,Rest of Europe,243056,144945
+Outer,Male,Aged 16 to 49,The Americas and the Caribbean,32091,25978
+Outer,Male,Aged 16 to 49,United Kingdom,679664,746535

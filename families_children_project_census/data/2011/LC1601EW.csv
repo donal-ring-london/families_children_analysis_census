@@ -1,0 +1,1321 @@
+date,geography_code,family_status_name,c_ecopuk11_name,obs_value
+2011,E09000007,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),9828
+2011,E09000007,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4046
+2011,E09000007,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000007,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000007,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000007,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000007,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000007,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000007,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4127
+2011,E09000007,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1366
+2011,E09000007,Couple family: One parent working,Economically active: Unemployed (including full-time students),661
+2011,E09000007,Couple family: One parent working,Economically inactive: Retired,107
+2011,E09000007,Couple family: One parent working,Economically inactive: Student (including full-time students),369
+2011,E09000007,Couple family: One parent working,Economically inactive: Looking after home or family,3492
+2011,E09000007,Couple family: One parent working,Economically inactive: Long-term sick or disabled,209
+2011,E09000007,Couple family: One parent working,Economically inactive: Other,637
+2011,E09000007,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000007,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000007,Couple family: No parents working,Economically active: Unemployed (including full-time students),512
+2011,E09000007,Couple family: No parents working,Economically inactive: Retired,246
+2011,E09000007,Couple family: No parents working,Economically inactive: Student (including full-time students),176
+2011,E09000007,Couple family: No parents working,Economically inactive: Looking after home or family,922
+2011,E09000007,Couple family: No parents working,Economically inactive: Long-term sick or disabled,542
+2011,E09000007,Couple family: No parents working,Economically inactive: Other,394
+2011,E09000007,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),3021
+2011,E09000007,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),708
+2011,E09000007,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000007,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000007,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000007,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000007,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000007,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000007,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000007,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000007,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),812
+2011,E09000007,Lone parent family: Parent not working,Economically inactive: Retired,203
+2011,E09000007,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),387
+2011,E09000007,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1404
+2011,E09000007,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,697
+2011,E09000007,Lone parent family: Parent not working,Economically inactive: Other,456
+2011,E09000001,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),292
+2011,E09000001,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),90
+2011,E09000001,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000001,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000001,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000001,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000001,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000001,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000001,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),85
+2011,E09000001,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),26
+2011,E09000001,Couple family: One parent working,Economically active: Unemployed (including full-time students),17
+2011,E09000001,Couple family: One parent working,Economically inactive: Retired,5
+2011,E09000001,Couple family: One parent working,Economically inactive: Student (including full-time students),7
+2011,E09000001,Couple family: One parent working,Economically inactive: Looking after home or family,70
+2011,E09000001,Couple family: One parent working,Economically inactive: Long-term sick or disabled,3
+2011,E09000001,Couple family: One parent working,Economically inactive: Other,9
+2011,E09000001,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000001,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000001,Couple family: No parents working,Economically active: Unemployed (including full-time students),9
+2011,E09000001,Couple family: No parents working,Economically inactive: Retired,4
+2011,E09000001,Couple family: No parents working,Economically inactive: Student (including full-time students),4
+2011,E09000001,Couple family: No parents working,Economically inactive: Looking after home or family,11
+2011,E09000001,Couple family: No parents working,Economically inactive: Long-term sick or disabled,8
+2011,E09000001,Couple family: No parents working,Economically inactive: Other,6
+2011,E09000001,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),64
+2011,E09000001,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),14
+2011,E09000001,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000001,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000001,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000001,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000001,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000001,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000001,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000001,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000001,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),7
+2011,E09000001,Lone parent family: Parent not working,Economically inactive: Retired,5
+2011,E09000001,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),1
+2011,E09000001,Lone parent family: Parent not working,Economically inactive: Looking after home or family,11
+2011,E09000001,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,3
+2011,E09000001,Lone parent family: Parent not working,Economically inactive: Other,2
+2011,E09000012,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),10359
+2011,E09000012,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),3671
+2011,E09000012,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000012,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000012,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000012,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000012,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000012,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000012,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),5439
+2011,E09000012,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1283
+2011,E09000012,Couple family: One parent working,Economically active: Unemployed (including full-time students),996
+2011,E09000012,Couple family: One parent working,Economically inactive: Retired,87
+2011,E09000012,Couple family: One parent working,Economically inactive: Student (including full-time students),885
+2011,E09000012,Couple family: One parent working,Economically inactive: Looking after home or family,3569
+2011,E09000012,Couple family: One parent working,Economically inactive: Long-term sick or disabled,257
+2011,E09000012,Couple family: One parent working,Economically inactive: Other,913
+2011,E09000012,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000012,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000012,Couple family: No parents working,Economically active: Unemployed (including full-time students),822
+2011,E09000012,Couple family: No parents working,Economically inactive: Retired,287
+2011,E09000012,Couple family: No parents working,Economically inactive: Student (including full-time students),310
+2011,E09000012,Couple family: No parents working,Economically inactive: Looking after home or family,1332
+2011,E09000012,Couple family: No parents working,Economically inactive: Long-term sick or disabled,790
+2011,E09000012,Couple family: No parents working,Economically inactive: Other,692
+2011,E09000012,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5566
+2011,E09000012,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),803
+2011,E09000012,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000012,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000012,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000012,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000012,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000012,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000012,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000012,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000012,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1784
+2011,E09000012,Lone parent family: Parent not working,Economically inactive: Retired,248
+2011,E09000012,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),725
+2011,E09000012,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2186
+2011,E09000012,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,975
+2011,E09000012,Lone parent family: Parent not working,Economically inactive: Other,914
+2011,E09000013,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),8940
+2011,E09000013,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),3148
+2011,E09000013,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000013,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000013,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000013,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000013,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000013,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000013,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),3393
+2011,E09000013,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1044
+2011,E09000013,Couple family: One parent working,Economically active: Unemployed (including full-time students),546
+2011,E09000013,Couple family: One parent working,Economically inactive: Retired,75
+2011,E09000013,Couple family: One parent working,Economically inactive: Student (including full-time students),232
+2011,E09000013,Couple family: One parent working,Economically inactive: Looking after home or family,3040
+2011,E09000013,Couple family: One parent working,Economically inactive: Long-term sick or disabled,126
+2011,E09000013,Couple family: One parent working,Economically inactive: Other,405
+2011,E09000013,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000013,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000013,Couple family: No parents working,Economically active: Unemployed (including full-time students),360
+2011,E09000013,Couple family: No parents working,Economically inactive: Retired,124
+2011,E09000013,Couple family: No parents working,Economically inactive: Student (including full-time students),138
+2011,E09000013,Couple family: No parents working,Economically inactive: Looking after home or family,634
+2011,E09000013,Couple family: No parents working,Economically inactive: Long-term sick or disabled,407
+2011,E09000013,Couple family: No parents working,Economically inactive: Other,263
+2011,E09000013,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),2950
+2011,E09000013,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),571
+2011,E09000013,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000013,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000013,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000013,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000013,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000013,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000013,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000013,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000013,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),856
+2011,E09000013,Lone parent family: Parent not working,Economically inactive: Retired,116
+2011,E09000013,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),355
+2011,E09000013,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1280
+2011,E09000013,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,478
+2011,E09000013,Lone parent family: Parent not working,Economically inactive: Other,361
+2011,E09000014,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),14449
+2011,E09000014,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5521
+2011,E09000014,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000014,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000014,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000014,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000014,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000014,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000014,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4942
+2011,E09000014,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1755
+2011,E09000014,Couple family: One parent working,Economically active: Unemployed (including full-time students),1036
+2011,E09000014,Couple family: One parent working,Economically inactive: Retired,135
+2011,E09000014,Couple family: One parent working,Economically inactive: Student (including full-time students),447
+2011,E09000014,Couple family: One parent working,Economically inactive: Looking after home or family,3936
+2011,E09000014,Couple family: One parent working,Economically inactive: Long-term sick or disabled,259
+2011,E09000014,Couple family: One parent working,Economically inactive: Other,837
+2011,E09000014,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000014,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000014,Couple family: No parents working,Economically active: Unemployed (including full-time students),789
+2011,E09000014,Couple family: No parents working,Economically inactive: Retired,215
+2011,E09000014,Couple family: No parents working,Economically inactive: Student (including full-time students),236
+2011,E09000014,Couple family: No parents working,Economically inactive: Looking after home or family,1209
+2011,E09000014,Couple family: No parents working,Economically inactive: Long-term sick or disabled,706
+2011,E09000014,Couple family: No parents working,Economically inactive: Other,748
+2011,E09000014,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5726
+2011,E09000014,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1117
+2011,E09000014,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000014,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000014,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000014,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000014,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000014,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000014,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000014,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000014,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1521
+2011,E09000014,Lone parent family: Parent not working,Economically inactive: Retired,292
+2011,E09000014,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),651
+2011,E09000014,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2151
+2011,E09000014,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,961
+2011,E09000014,Lone parent family: Parent not working,Economically inactive: Other,865
+2011,E09000019,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),8521
+2011,E09000019,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),3113
+2011,E09000019,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000019,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000019,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000019,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000019,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000019,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000019,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),2771
+2011,E09000019,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),910
+2011,E09000019,Couple family: One parent working,Economically active: Unemployed (including full-time students),575
+2011,E09000019,Couple family: One parent working,Economically inactive: Retired,69
+2011,E09000019,Couple family: One parent working,Economically inactive: Student (including full-time students),292
+2011,E09000019,Couple family: One parent working,Economically inactive: Looking after home or family,2124
+2011,E09000019,Couple family: One parent working,Economically inactive: Long-term sick or disabled,196
+2011,E09000019,Couple family: One parent working,Economically inactive: Other,408
+2011,E09000019,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000019,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000019,Couple family: No parents working,Economically active: Unemployed (including full-time students),469
+2011,E09000019,Couple family: No parents working,Economically inactive: Retired,173
+2011,E09000019,Couple family: No parents working,Economically inactive: Student (including full-time students),142
+2011,E09000019,Couple family: No parents working,Economically inactive: Looking after home or family,783
+2011,E09000019,Couple family: No parents working,Economically inactive: Long-term sick or disabled,547
+2011,E09000019,Couple family: No parents working,Economically inactive: Other,351
+2011,E09000019,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),3879
+2011,E09000019,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),628
+2011,E09000019,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000019,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000019,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000019,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000019,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000019,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000019,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000019,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000019,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1280
+2011,E09000019,Lone parent family: Parent not working,Economically inactive: Retired,146
+2011,E09000019,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),610
+2011,E09000019,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2028
+2011,E09000019,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,843
+2011,E09000019,Lone parent family: Parent not working,Economically inactive: Other,698
+2011,E09000020,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),6511
+2011,E09000020,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),2767
+2011,E09000020,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000020,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000020,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000020,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000020,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000020,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000020,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),3843
+2011,E09000020,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1250
+2011,E09000020,Couple family: One parent working,Economically active: Unemployed (including full-time students),401
+2011,E09000020,Couple family: One parent working,Economically inactive: Retired,90
+2011,E09000020,Couple family: One parent working,Economically inactive: Student (including full-time students),254
+2011,E09000020,Couple family: One parent working,Economically inactive: Looking after home or family,3636
+2011,E09000020,Couple family: One parent working,Economically inactive: Long-term sick or disabled,98
+2011,E09000020,Couple family: One parent working,Economically inactive: Other,600
+2011,E09000020,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000020,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000020,Couple family: No parents working,Economically active: Unemployed (including full-time students),258
+2011,E09000020,Couple family: No parents working,Economically inactive: Retired,172
+2011,E09000020,Couple family: No parents working,Economically inactive: Student (including full-time students),87
+2011,E09000020,Couple family: No parents working,Economically inactive: Looking after home or family,534
+2011,E09000020,Couple family: No parents working,Economically inactive: Long-term sick or disabled,328
+2011,E09000020,Couple family: No parents working,Economically inactive: Other,276
+2011,E09000020,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),1741
+2011,E09000020,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),517
+2011,E09000020,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000020,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000020,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000020,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000020,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000020,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000020,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000020,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000020,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),534
+2011,E09000020,Lone parent family: Parent not working,Economically inactive: Retired,85
+2011,E09000020,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),246
+2011,E09000020,Lone parent family: Parent not working,Economically inactive: Looking after home or family,905
+2011,E09000020,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,343
+2011,E09000020,Lone parent family: Parent not working,Economically inactive: Other,296
+2011,E09000022,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),16659
+2011,E09000022,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5049
+2011,E09000022,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000022,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000022,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000022,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000022,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000022,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000022,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4526
+2011,E09000022,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1375
+2011,E09000022,Couple family: One parent working,Economically active: Unemployed (including full-time students),1151
+2011,E09000022,Couple family: One parent working,Economically inactive: Retired,134
+2011,E09000022,Couple family: One parent working,Economically inactive: Student (including full-time students),469
+2011,E09000022,Couple family: One parent working,Economically inactive: Looking after home or family,3231
+2011,E09000022,Couple family: One parent working,Economically inactive: Long-term sick or disabled,234
+2011,E09000022,Couple family: One parent working,Economically inactive: Other,650
+2011,E09000022,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000022,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000022,Couple family: No parents working,Economically active: Unemployed (including full-time students),686
+2011,E09000022,Couple family: No parents working,Economically inactive: Retired,222
+2011,E09000022,Couple family: No parents working,Economically inactive: Student (including full-time students),192
+2011,E09000022,Couple family: No parents working,Economically inactive: Looking after home or family,714
+2011,E09000022,Couple family: No parents working,Economically inactive: Long-term sick or disabled,410
+2011,E09000022,Couple family: No parents working,Economically inactive: Other,454
+2011,E09000022,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),7835
+2011,E09000022,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1064
+2011,E09000022,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000022,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000022,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000022,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000022,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000022,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000022,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000022,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000022,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),2326
+2011,E09000022,Lone parent family: Parent not working,Economically inactive: Retired,240
+2011,E09000022,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),920
+2011,E09000022,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2369
+2011,E09000022,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,917
+2011,E09000022,Lone parent family: Parent not working,Economically inactive: Other,931
+2011,E09000023,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),20126
+2011,E09000023,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5112
+2011,E09000023,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000023,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000023,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000023,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000023,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000023,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000023,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),5146
+2011,E09000023,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1446
+2011,E09000023,Couple family: One parent working,Economically active: Unemployed (including full-time students),1469
+2011,E09000023,Couple family: One parent working,Economically inactive: Retired,168
+2011,E09000023,Couple family: One parent working,Economically inactive: Student (including full-time students),397
+2011,E09000023,Couple family: One parent working,Economically inactive: Looking after home or family,3553
+2011,E09000023,Couple family: One parent working,Economically inactive: Long-term sick or disabled,312
+2011,E09000023,Couple family: One parent working,Economically inactive: Other,661
+2011,E09000023,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000023,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000023,Couple family: No parents working,Economically active: Unemployed (including full-time students),757
+2011,E09000023,Couple family: No parents working,Economically inactive: Retired,175
+2011,E09000023,Couple family: No parents working,Economically inactive: Student (including full-time students),179
+2011,E09000023,Couple family: No parents working,Economically inactive: Looking after home or family,897
+2011,E09000023,Couple family: No parents working,Economically inactive: Long-term sick or disabled,515
+2011,E09000023,Couple family: No parents working,Economically inactive: Other,482
+2011,E09000023,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),7905
+2011,E09000023,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),994
+2011,E09000023,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000023,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000023,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000023,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000023,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000023,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000023,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000023,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000023,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1887
+2011,E09000023,Lone parent family: Parent not working,Economically inactive: Retired,211
+2011,E09000023,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),751
+2011,E09000023,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2520
+2011,E09000023,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,925
+2011,E09000023,Lone parent family: Parent not working,Economically inactive: Other,811
+2011,E09000025,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),16016
+2011,E09000025,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),3708
+2011,E09000025,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000025,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000025,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000025,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000025,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000025,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000025,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),9177
+2011,E09000025,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2902
+2011,E09000025,Couple family: One parent working,Economically active: Unemployed (including full-time students),1826
+2011,E09000025,Couple family: One parent working,Economically inactive: Retired,125
+2011,E09000025,Couple family: One parent working,Economically inactive: Student (including full-time students),619
+2011,E09000025,Couple family: One parent working,Economically inactive: Looking after home or family,7393
+2011,E09000025,Couple family: One parent working,Economically inactive: Long-term sick or disabled,400
+2011,E09000025,Couple family: One parent working,Economically inactive: Other,1693
+2011,E09000025,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000025,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000025,Couple family: No parents working,Economically active: Unemployed (including full-time students),1510
+2011,E09000025,Couple family: No parents working,Economically inactive: Retired,577
+2011,E09000025,Couple family: No parents working,Economically inactive: Student (including full-time students),337
+2011,E09000025,Couple family: No parents working,Economically inactive: Looking after home or family,2305
+2011,E09000025,Couple family: No parents working,Economically inactive: Long-term sick or disabled,1234
+2011,E09000025,Couple family: No parents working,Economically inactive: Other,1249
+2011,E09000025,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),6493
+2011,E09000025,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1065
+2011,E09000025,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000025,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000025,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000025,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000025,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000025,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000025,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000025,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000025,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1802
+2011,E09000025,Lone parent family: Parent not working,Economically inactive: Retired,249
+2011,E09000025,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),742
+2011,E09000025,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2411
+2011,E09000025,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,821
+2011,E09000025,Lone parent family: Parent not working,Economically inactive: Other,965
+2011,E09000028,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),17399
+2011,E09000028,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4417
+2011,E09000028,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000028,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000028,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000028,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000028,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000028,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000028,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4653
+2011,E09000028,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1261
+2011,E09000028,Couple family: One parent working,Economically active: Unemployed (including full-time students),1296
+2011,E09000028,Couple family: One parent working,Economically inactive: Retired,122
+2011,E09000028,Couple family: One parent working,Economically inactive: Student (including full-time students),471
+2011,E09000028,Couple family: One parent working,Economically inactive: Looking after home or family,3010
+2011,E09000028,Couple family: One parent working,Economically inactive: Long-term sick or disabled,305
+2011,E09000028,Couple family: One parent working,Economically inactive: Other,684
+2011,E09000028,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000028,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000028,Couple family: No parents working,Economically active: Unemployed (including full-time students),786
+2011,E09000028,Couple family: No parents working,Economically inactive: Retired,187
+2011,E09000028,Couple family: No parents working,Economically inactive: Student (including full-time students),309
+2011,E09000028,Couple family: No parents working,Economically inactive: Looking after home or family,974
+2011,E09000028,Couple family: No parents working,Economically inactive: Long-term sick or disabled,627
+2011,E09000028,Couple family: No parents working,Economically inactive: Other,559
+2011,E09000028,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),7622
+2011,E09000028,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),845
+2011,E09000028,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000028,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000028,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000028,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000028,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000028,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000028,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000028,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000028,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1873
+2011,E09000028,Lone parent family: Parent not working,Economically inactive: Retired,257
+2011,E09000028,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),789
+2011,E09000028,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2194
+2011,E09000028,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,926
+2011,E09000028,Lone parent family: Parent not working,Economically inactive: Other,897
+2011,E09000030,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),8697
+2011,E09000030,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),1795
+2011,E09000030,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000030,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000030,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000030,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000030,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000030,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000030,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),6713
+2011,E09000030,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1692
+2011,E09000030,Couple family: One parent working,Economically active: Unemployed (including full-time students),1114
+2011,E09000030,Couple family: One parent working,Economically inactive: Retired,63
+2011,E09000030,Couple family: One parent working,Economically inactive: Student (including full-time students),346
+2011,E09000030,Couple family: One parent working,Economically inactive: Looking after home or family,5545
+2011,E09000030,Couple family: One parent working,Economically inactive: Long-term sick or disabled,260
+2011,E09000030,Couple family: One parent working,Economically inactive: Other,1067
+2011,E09000030,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000030,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000030,Couple family: No parents working,Economically active: Unemployed (including full-time students),1779
+2011,E09000030,Couple family: No parents working,Economically inactive: Retired,687
+2011,E09000030,Couple family: No parents working,Economically inactive: Student (including full-time students),225
+2011,E09000030,Couple family: No parents working,Economically inactive: Looking after home or family,3034
+2011,E09000030,Couple family: No parents working,Economically inactive: Long-term sick or disabled,1434
+2011,E09000030,Couple family: No parents working,Economically inactive: Other,1304
+2011,E09000030,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),3123
+2011,E09000030,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),368
+2011,E09000030,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000030,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000030,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000030,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000030,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000030,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000030,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000030,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000030,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1251
+2011,E09000030,Lone parent family: Parent not working,Economically inactive: Retired,212
+2011,E09000030,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),390
+2011,E09000030,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2325
+2011,E09000030,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,766
+2011,E09000030,Lone parent family: Parent not working,Economically inactive: Other,793
+2011,E09000032,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),19426
+2011,E09000032,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5940
+2011,E09000032,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000032,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000032,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000032,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000032,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000032,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000032,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),6035
+2011,E09000032,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2027
+2011,E09000032,Couple family: One parent working,Economically active: Unemployed (including full-time students),906
+2011,E09000032,Couple family: One parent working,Economically inactive: Retired,146
+2011,E09000032,Couple family: One parent working,Economically inactive: Student (including full-time students),384
+2011,E09000032,Couple family: One parent working,Economically inactive: Looking after home or family,5734
+2011,E09000032,Couple family: One parent working,Economically inactive: Long-term sick or disabled,220
+2011,E09000032,Couple family: One parent working,Economically inactive: Other,654
+2011,E09000032,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000032,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000032,Couple family: No parents working,Economically active: Unemployed (including full-time students),495
+2011,E09000032,Couple family: No parents working,Economically inactive: Retired,232
+2011,E09000032,Couple family: No parents working,Economically inactive: Student (including full-time students),130
+2011,E09000032,Couple family: No parents working,Economically inactive: Looking after home or family,768
+2011,E09000032,Couple family: No parents working,Economically inactive: Long-term sick or disabled,424
+2011,E09000032,Couple family: No parents working,Economically inactive: Other,378
+2011,E09000032,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),4352
+2011,E09000032,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),768
+2011,E09000032,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000032,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000032,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000032,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000032,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000032,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000032,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000032,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000032,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1110
+2011,E09000032,Lone parent family: Parent not working,Economically inactive: Retired,133
+2011,E09000032,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),508
+2011,E09000032,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1641
+2011,E09000032,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,552
+2011,E09000032,Lone parent family: Parent not working,Economically inactive: Other,560
+2011,E09000033,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),7955
+2011,E09000033,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),2693
+2011,E09000033,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000033,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000033,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000033,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000033,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000033,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000033,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4401
+2011,E09000033,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1299
+2011,E09000033,Couple family: One parent working,Economically active: Unemployed (including full-time students),560
+2011,E09000033,Couple family: One parent working,Economically inactive: Retired,121
+2011,E09000033,Couple family: One parent working,Economically inactive: Student (including full-time students),308
+2011,E09000033,Couple family: One parent working,Economically inactive: Looking after home or family,3815
+2011,E09000033,Couple family: One parent working,Economically inactive: Long-term sick or disabled,218
+2011,E09000033,Couple family: One parent working,Economically inactive: Other,668
+2011,E09000033,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000033,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000033,Couple family: No parents working,Economically active: Unemployed (including full-time students),470
+2011,E09000033,Couple family: No parents working,Economically inactive: Retired,285
+2011,E09000033,Couple family: No parents working,Economically inactive: Student (including full-time students),209
+2011,E09000033,Couple family: No parents working,Economically inactive: Looking after home or family,1189
+2011,E09000033,Couple family: No parents working,Economically inactive: Long-term sick or disabled,864
+2011,E09000033,Couple family: No parents working,Economically inactive: Other,595
+2011,E09000033,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),2535
+2011,E09000033,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),552
+2011,E09000033,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000033,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000033,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000033,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000033,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000033,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000033,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000033,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000033,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),730
+2011,E09000033,Lone parent family: Parent not working,Economically inactive: Retired,95
+2011,E09000033,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),384
+2011,E09000033,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1549
+2011,E09000033,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,800
+2011,E09000033,Lone parent family: Parent not working,Economically inactive: Other,534
+2011,E09000002,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),14489
+2011,E09000002,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),2903
+2011,E09000002,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000002,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000002,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000002,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000002,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000002,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000002,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4806
+2011,E09000002,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1608
+2011,E09000002,Couple family: One parent working,Economically active: Unemployed (including full-time students),1321
+2011,E09000002,Couple family: One parent working,Economically inactive: Retired,56
+2011,E09000002,Couple family: One parent working,Economically inactive: Student (including full-time students),365
+2011,E09000002,Couple family: One parent working,Economically inactive: Looking after home or family,3598
+2011,E09000002,Couple family: One parent working,Economically inactive: Long-term sick or disabled,346
+2011,E09000002,Couple family: One parent working,Economically inactive: Other,723
+2011,E09000002,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000002,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000002,Couple family: No parents working,Economically active: Unemployed (including full-time students),928
+2011,E09000002,Couple family: No parents working,Economically inactive: Retired,133
+2011,E09000002,Couple family: No parents working,Economically inactive: Student (including full-time students),189
+2011,E09000002,Couple family: No parents working,Economically inactive: Looking after home or family,1195
+2011,E09000002,Couple family: No parents working,Economically inactive: Long-term sick or disabled,644
+2011,E09000002,Couple family: No parents working,Economically inactive: Other,539
+2011,E09000002,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),4990
+2011,E09000002,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),737
+2011,E09000002,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000002,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000002,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000002,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000002,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000002,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000002,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000002,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000002,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1555
+2011,E09000002,Lone parent family: Parent not working,Economically inactive: Retired,173
+2011,E09000002,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),567
+2011,E09000002,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2622
+2011,E09000002,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,690
+2011,E09000002,Lone parent family: Parent not working,Economically inactive: Other,751
+2011,E09000003,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),29127
+2011,E09000003,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),10365
+2011,E09000003,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000003,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000003,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000003,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000003,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000003,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000003,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),7919
+2011,E09000003,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),3472
+2011,E09000003,Couple family: One parent working,Economically active: Unemployed (including full-time students),1446
+2011,E09000003,Couple family: One parent working,Economically inactive: Retired,209
+2011,E09000003,Couple family: One parent working,Economically inactive: Student (including full-time students),691
+2011,E09000003,Couple family: One parent working,Economically inactive: Looking after home or family,7499
+2011,E09000003,Couple family: One parent working,Economically inactive: Long-term sick or disabled,385
+2011,E09000003,Couple family: One parent working,Economically inactive: Other,1140
+2011,E09000003,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000003,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000003,Couple family: No parents working,Economically active: Unemployed (including full-time students),804
+2011,E09000003,Couple family: No parents working,Economically inactive: Retired,314
+2011,E09000003,Couple family: No parents working,Economically inactive: Student (including full-time students),324
+2011,E09000003,Couple family: No parents working,Economically inactive: Looking after home or family,1200
+2011,E09000003,Couple family: No parents working,Economically inactive: Long-term sick or disabled,641
+2011,E09000003,Couple family: No parents working,Economically inactive: Other,579
+2011,E09000003,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5449
+2011,E09000003,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1309
+2011,E09000003,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000003,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000003,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000003,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000003,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000003,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000003,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000003,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000003,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1360
+2011,E09000003,Lone parent family: Parent not working,Economically inactive: Retired,159
+2011,E09000003,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),606
+2011,E09000003,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2052
+2011,E09000003,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,675
+2011,E09000003,Lone parent family: Parent not working,Economically inactive: Other,709
+2011,E09000004,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),24670
+2011,E09000004,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4888
+2011,E09000004,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000004,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000004,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000004,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000004,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000004,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000004,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4441
+2011,E09000004,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1341
+2011,E09000004,Couple family: One parent working,Economically active: Unemployed (including full-time students),1063
+2011,E09000004,Couple family: One parent working,Economically inactive: Retired,160
+2011,E09000004,Couple family: One parent working,Economically inactive: Student (including full-time students),270
+2011,E09000004,Couple family: One parent working,Economically inactive: Looking after home or family,3538
+2011,E09000004,Couple family: One parent working,Economically inactive: Long-term sick or disabled,310
+2011,E09000004,Couple family: One parent working,Economically inactive: Other,431
+2011,E09000004,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000004,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000004,Couple family: No parents working,Economically active: Unemployed (including full-time students),450
+2011,E09000004,Couple family: No parents working,Economically inactive: Retired,147
+2011,E09000004,Couple family: No parents working,Economically inactive: Student (including full-time students),81
+2011,E09000004,Couple family: No parents working,Economically inactive: Looking after home or family,582
+2011,E09000004,Couple family: No parents working,Economically inactive: Long-term sick or disabled,323
+2011,E09000004,Couple family: No parents working,Economically inactive: Other,281
+2011,E09000004,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),4810
+2011,E09000004,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),592
+2011,E09000004,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000004,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000004,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000004,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000004,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000004,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000004,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000004,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000004,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),929
+2011,E09000004,Lone parent family: Parent not working,Economically inactive: Retired,66
+2011,E09000004,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),251
+2011,E09000004,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1699
+2011,E09000004,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,423
+2011,E09000004,Lone parent family: Parent not working,Economically inactive: Other,384
+2011,E09000005,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),19548
+2011,E09000005,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),6138
+2011,E09000005,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000005,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000005,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000005,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000005,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000005,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000005,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),6816
+2011,E09000005,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2946
+2011,E09000005,Couple family: One parent working,Economically active: Unemployed (including full-time students),1570
+2011,E09000005,Couple family: One parent working,Economically inactive: Retired,182
+2011,E09000005,Couple family: One parent working,Economically inactive: Student (including full-time students),541
+2011,E09000005,Couple family: One parent working,Economically inactive: Looking after home or family,5728
+2011,E09000005,Couple family: One parent working,Economically inactive: Long-term sick or disabled,418
+2011,E09000005,Couple family: One parent working,Economically inactive: Other,1302
+2011,E09000005,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000005,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000005,Couple family: No parents working,Economically active: Unemployed (including full-time students),978
+2011,E09000005,Couple family: No parents working,Economically inactive: Retired,454
+2011,E09000005,Couple family: No parents working,Economically inactive: Student (including full-time students),310
+2011,E09000005,Couple family: No parents working,Economically inactive: Looking after home or family,1474
+2011,E09000005,Couple family: No parents working,Economically inactive: Long-term sick or disabled,876
+2011,E09000005,Couple family: No parents working,Economically inactive: Other,872
+2011,E09000005,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5989
+2011,E09000005,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1175
+2011,E09000005,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000005,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000005,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000005,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000005,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000005,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000005,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000005,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000005,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1470
+2011,E09000005,Lone parent family: Parent not working,Economically inactive: Retired,212
+2011,E09000005,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),587
+2011,E09000005,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2081
+2011,E09000005,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,688
+2011,E09000005,Lone parent family: Parent not working,Economically inactive: Other,793
+2011,E09000006,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),31787
+2011,E09000006,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),7677
+2011,E09000006,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000006,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000006,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000006,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000006,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000006,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000006,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),6162
+2011,E09000006,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1763
+2011,E09000006,Couple family: One parent working,Economically active: Unemployed (including full-time students),1080
+2011,E09000006,Couple family: One parent working,Economically inactive: Retired,223
+2011,E09000006,Couple family: One parent working,Economically inactive: Student (including full-time students),315
+2011,E09000006,Couple family: One parent working,Economically inactive: Looking after home or family,5452
+2011,E09000006,Couple family: One parent working,Economically inactive: Long-term sick or disabled,305
+2011,E09000006,Couple family: One parent working,Economically inactive: Other,540
+2011,E09000006,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000006,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000006,Couple family: No parents working,Economically active: Unemployed (including full-time students),472
+2011,E09000006,Couple family: No parents working,Economically inactive: Retired,199
+2011,E09000006,Couple family: No parents working,Economically inactive: Student (including full-time students),92
+2011,E09000006,Couple family: No parents working,Economically inactive: Looking after home or family,681
+2011,E09000006,Couple family: No parents working,Economically inactive: Long-term sick or disabled,345
+2011,E09000006,Couple family: No parents working,Economically inactive: Other,268
+2011,E09000006,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5724
+2011,E09000006,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),873
+2011,E09000006,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000006,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000006,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000006,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000006,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000006,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000006,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000006,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000006,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1094
+2011,E09000006,Lone parent family: Parent not working,Economically inactive: Retired,147
+2011,E09000006,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),268
+2011,E09000006,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1907
+2011,E09000006,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,509
+2011,E09000006,Lone parent family: Parent not working,Economically inactive: Other,452
+2011,E09000008,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),32223
+2011,E09000008,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),6843
+2011,E09000008,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000008,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000008,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000008,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000008,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000008,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000008,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),7374
+2011,E09000008,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2169
+2011,E09000008,Couple family: One parent working,Economically active: Unemployed (including full-time students),1761
+2011,E09000008,Couple family: One parent working,Economically inactive: Retired,215
+2011,E09000008,Couple family: One parent working,Economically inactive: Student (including full-time students),435
+2011,E09000008,Couple family: One parent working,Economically inactive: Looking after home or family,5639
+2011,E09000008,Couple family: One parent working,Economically inactive: Long-term sick or disabled,467
+2011,E09000008,Couple family: One parent working,Economically inactive: Other,1001
+2011,E09000008,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000008,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000008,Couple family: No parents working,Economically active: Unemployed (including full-time students),955
+2011,E09000008,Couple family: No parents working,Economically inactive: Retired,251
+2011,E09000008,Couple family: No parents working,Economically inactive: Student (including full-time students),185
+2011,E09000008,Couple family: No parents working,Economically inactive: Looking after home or family,1233
+2011,E09000008,Couple family: No parents working,Economically inactive: Long-term sick or disabled,690
+2011,E09000008,Couple family: No parents working,Economically inactive: Other,547
+2011,E09000008,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),10123
+2011,E09000008,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1221
+2011,E09000008,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000008,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000008,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000008,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000008,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000008,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000008,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000008,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000008,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),2310
+2011,E09000008,Lone parent family: Parent not working,Economically inactive: Retired,228
+2011,E09000008,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),889
+2011,E09000008,Lone parent family: Parent not working,Economically inactive: Looking after home or family,3209
+2011,E09000008,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,965
+2011,E09000008,Lone parent family: Parent not working,Economically inactive: Other,985
+2011,E09000009,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),25195
+2011,E09000009,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),7279
+2011,E09000009,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000009,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000009,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000009,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000009,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000009,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000009,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),8309
+2011,E09000009,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2907
+2011,E09000009,Couple family: One parent working,Economically active: Unemployed (including full-time students),1509
+2011,E09000009,Couple family: One parent working,Economically inactive: Retired,207
+2011,E09000009,Couple family: One parent working,Economically inactive: Student (including full-time students),539
+2011,E09000009,Couple family: One parent working,Economically inactive: Looking after home or family,7197
+2011,E09000009,Couple family: One parent working,Economically inactive: Long-term sick or disabled,459
+2011,E09000009,Couple family: One parent working,Economically inactive: Other,1281
+2011,E09000009,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000009,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000009,Couple family: No parents working,Economically active: Unemployed (including full-time students),945
+2011,E09000009,Couple family: No parents working,Economically inactive: Retired,370
+2011,E09000009,Couple family: No parents working,Economically inactive: Student (including full-time students),299
+2011,E09000009,Couple family: No parents working,Economically inactive: Looking after home or family,1431
+2011,E09000009,Couple family: No parents working,Economically inactive: Long-term sick or disabled,825
+2011,E09000009,Couple family: No parents working,Economically inactive: Other,842
+2011,E09000009,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5490
+2011,E09000009,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1025
+2011,E09000009,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000009,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000009,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000009,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000009,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000009,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000009,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000009,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000009,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1381
+2011,E09000009,Lone parent family: Parent not working,Economically inactive: Retired,191
+2011,E09000009,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),514
+2011,E09000009,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2364
+2011,E09000009,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,706
+2011,E09000009,Lone parent family: Parent not working,Economically inactive: Other,729
+2011,E09000010,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),24435
+2011,E09000010,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),6281
+2011,E09000010,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000010,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000010,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000010,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000010,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000010,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000010,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),7008
+2011,E09000010,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2318
+2011,E09000010,Couple family: One parent working,Economically active: Unemployed (including full-time students),1421
+2011,E09000010,Couple family: One parent working,Economically inactive: Retired,167
+2011,E09000010,Couple family: One parent working,Economically inactive: Student (including full-time students),494
+2011,E09000010,Couple family: One parent working,Economically inactive: Looking after home or family,5570
+2011,E09000010,Couple family: One parent working,Economically inactive: Long-term sick or disabled,442
+2011,E09000010,Couple family: One parent working,Economically inactive: Other,1219
+2011,E09000010,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000010,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000010,Couple family: No parents working,Economically active: Unemployed (including full-time students),1074
+2011,E09000010,Couple family: No parents working,Economically inactive: Retired,226
+2011,E09000010,Couple family: No parents working,Economically inactive: Student (including full-time students),285
+2011,E09000010,Couple family: No parents working,Economically inactive: Looking after home or family,1625
+2011,E09000010,Couple family: No parents working,Economically inactive: Long-term sick or disabled,998
+2011,E09000010,Couple family: No parents working,Economically inactive: Other,999
+2011,E09000010,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),6988
+2011,E09000010,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),1056
+2011,E09000010,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000010,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000010,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000010,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000010,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000010,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000010,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000010,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000010,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),2097
+2011,E09000010,Lone parent family: Parent not working,Economically inactive: Retired,189
+2011,E09000010,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),892
+2011,E09000010,Lone parent family: Parent not working,Economically inactive: Looking after home or family,3243
+2011,E09000010,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,921
+2011,E09000010,Lone parent family: Parent not working,Economically inactive: Other,1318
+2011,E09000011,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),19324
+2011,E09000011,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4412
+2011,E09000011,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000011,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000011,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000011,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000011,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000011,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000011,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),5426
+2011,E09000011,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1545
+2011,E09000011,Couple family: One parent working,Economically active: Unemployed (including full-time students),1562
+2011,E09000011,Couple family: One parent working,Economically inactive: Retired,135
+2011,E09000011,Couple family: One parent working,Economically inactive: Student (including full-time students),471
+2011,E09000011,Couple family: One parent working,Economically inactive: Looking after home or family,3804
+2011,E09000011,Couple family: One parent working,Economically inactive: Long-term sick or disabled,294
+2011,E09000011,Couple family: One parent working,Economically inactive: Other,693
+2011,E09000011,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000011,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000011,Couple family: No parents working,Economically active: Unemployed (including full-time students),970
+2011,E09000011,Couple family: No parents working,Economically inactive: Retired,223
+2011,E09000011,Couple family: No parents working,Economically inactive: Student (including full-time students),285
+2011,E09000011,Couple family: No parents working,Economically inactive: Looking after home or family,1141
+2011,E09000011,Couple family: No parents working,Economically inactive: Long-term sick or disabled,690
+2011,E09000011,Couple family: No parents working,Economically inactive: Other,586
+2011,E09000011,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5981
+2011,E09000011,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),857
+2011,E09000011,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000011,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000011,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000011,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000011,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000011,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000011,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000011,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000011,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1557
+2011,E09000011,Lone parent family: Parent not working,Economically inactive: Retired,290
+2011,E09000011,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),542
+2011,E09000011,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2277
+2011,E09000011,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,849
+2011,E09000011,Lone parent family: Parent not working,Economically inactive: Other,760
+2011,E09000015,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),22698
+2011,E09000015,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5902
+2011,E09000015,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000015,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000015,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000015,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000015,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000015,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000015,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),5816
+2011,E09000015,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2155
+2011,E09000015,Couple family: One parent working,Economically active: Unemployed (including full-time students),1289
+2011,E09000015,Couple family: One parent working,Economically inactive: Retired,161
+2011,E09000015,Couple family: One parent working,Economically inactive: Student (including full-time students),301
+2011,E09000015,Couple family: One parent working,Economically inactive: Looking after home or family,4974
+2011,E09000015,Couple family: One parent working,Economically inactive: Long-term sick or disabled,326
+2011,E09000015,Couple family: One parent working,Economically inactive: Other,904
+2011,E09000015,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000015,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000015,Couple family: No parents working,Economically active: Unemployed (including full-time students),562
+2011,E09000015,Couple family: No parents working,Economically inactive: Retired,253
+2011,E09000015,Couple family: No parents working,Economically inactive: Student (including full-time students),116
+2011,E09000015,Couple family: No parents working,Economically inactive: Looking after home or family,840
+2011,E09000015,Couple family: No parents working,Economically inactive: Long-term sick or disabled,487
+2011,E09000015,Couple family: No parents working,Economically inactive: Other,494
+2011,E09000015,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),3461
+2011,E09000015,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),621
+2011,E09000015,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000015,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000015,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000015,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000015,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000015,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000015,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000015,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000015,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),739
+2011,E09000015,Lone parent family: Parent not working,Economically inactive: Retired,124
+2011,E09000015,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),225
+2011,E09000015,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1155
+2011,E09000015,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,422
+2011,E09000015,Lone parent family: Parent not working,Economically inactive: Other,379
+2011,E09000016,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),23191
+2011,E09000016,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4973
+2011,E09000016,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000016,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000016,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000016,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000016,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000016,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000016,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4319
+2011,E09000016,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1493
+2011,E09000016,Couple family: One parent working,Economically active: Unemployed (including full-time students),922
+2011,E09000016,Couple family: One parent working,Economically inactive: Retired,146
+2011,E09000016,Couple family: One parent working,Economically inactive: Student (including full-time students),199
+2011,E09000016,Couple family: One parent working,Economically inactive: Looking after home or family,3768
+2011,E09000016,Couple family: One parent working,Economically inactive: Long-term sick or disabled,352
+2011,E09000016,Couple family: One parent working,Economically inactive: Other,420
+2011,E09000016,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000016,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000016,Couple family: No parents working,Economically active: Unemployed (including full-time students),492
+2011,E09000016,Couple family: No parents working,Economically inactive: Retired,153
+2011,E09000016,Couple family: No parents working,Economically inactive: Student (including full-time students),68
+2011,E09000016,Couple family: No parents working,Economically inactive: Looking after home or family,632
+2011,E09000016,Couple family: No parents working,Economically inactive: Long-term sick or disabled,362
+2011,E09000016,Couple family: No parents working,Economically inactive: Other,209
+2011,E09000016,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),4211
+2011,E09000016,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),562
+2011,E09000016,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000016,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000016,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000016,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000016,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000016,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000016,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000016,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000016,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),939
+2011,E09000016,Lone parent family: Parent not working,Economically inactive: Retired,66
+2011,E09000016,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),211
+2011,E09000016,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1658
+2011,E09000016,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,364
+2011,E09000016,Lone parent family: Parent not working,Economically inactive: Other,358
+2011,E09000017,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),26867
+2011,E09000017,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5251
+2011,E09000017,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000017,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000017,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000017,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000017,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000017,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000017,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),6142
+2011,E09000017,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1844
+2011,E09000017,Couple family: One parent working,Economically active: Unemployed (including full-time students),1374
+2011,E09000017,Couple family: One parent working,Economically inactive: Retired,155
+2011,E09000017,Couple family: One parent working,Economically inactive: Student (including full-time students),354
+2011,E09000017,Couple family: One parent working,Economically inactive: Looking after home or family,4932
+2011,E09000017,Couple family: One parent working,Economically inactive: Long-term sick or disabled,369
+2011,E09000017,Couple family: One parent working,Economically inactive: Other,792
+2011,E09000017,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000017,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000017,Couple family: No parents working,Economically active: Unemployed (including full-time students),664
+2011,E09000017,Couple family: No parents working,Economically inactive: Retired,227
+2011,E09000017,Couple family: No parents working,Economically inactive: Student (including full-time students),210
+2011,E09000017,Couple family: No parents working,Economically inactive: Looking after home or family,910
+2011,E09000017,Couple family: No parents working,Economically inactive: Long-term sick or disabled,484
+2011,E09000017,Couple family: No parents working,Economically inactive: Other,454
+2011,E09000017,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5177
+2011,E09000017,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),617
+2011,E09000017,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000017,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000017,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000017,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000017,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000017,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000017,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000017,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000017,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1087
+2011,E09000017,Lone parent family: Parent not working,Economically inactive: Retired,193
+2011,E09000017,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),314
+2011,E09000017,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1906
+2011,E09000017,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,569
+2011,E09000017,Lone parent family: Parent not working,Economically inactive: Other,502
+2011,E09000018,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),21387
+2011,E09000018,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4923
+2011,E09000018,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000018,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000018,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000018,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000018,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000018,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000018,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),6332
+2011,E09000018,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2046
+2011,E09000018,Couple family: One parent working,Economically active: Unemployed (including full-time students),1227
+2011,E09000018,Couple family: One parent working,Economically inactive: Retired,166
+2011,E09000018,Couple family: One parent working,Economically inactive: Student (including full-time students),353
+2011,E09000018,Couple family: One parent working,Economically inactive: Looking after home or family,5360
+2011,E09000018,Couple family: One parent working,Economically inactive: Long-term sick or disabled,351
+2011,E09000018,Couple family: One parent working,Economically inactive: Other,904
+2011,E09000018,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000018,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000018,Couple family: No parents working,Economically active: Unemployed (including full-time students),663
+2011,E09000018,Couple family: No parents working,Economically inactive: Retired,257
+2011,E09000018,Couple family: No parents working,Economically inactive: Student (including full-time students),151
+2011,E09000018,Couple family: No parents working,Economically inactive: Looking after home or family,1083
+2011,E09000018,Couple family: No parents working,Economically inactive: Long-term sick or disabled,620
+2011,E09000018,Couple family: No parents working,Economically inactive: Other,520
+2011,E09000018,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),4478
+2011,E09000018,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),697
+2011,E09000018,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000018,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000018,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000018,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000018,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000018,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000018,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000018,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000018,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),894
+2011,E09000018,Lone parent family: Parent not working,Economically inactive: Retired,131
+2011,E09000018,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),361
+2011,E09000018,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2048
+2011,E09000018,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,532
+2011,E09000018,Lone parent family: Parent not working,Economically inactive: Other,540
+2011,E09000021,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),16236
+2011,E09000021,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4088
+2011,E09000021,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000021,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000021,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000021,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000021,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000021,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000021,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),3698
+2011,E09000021,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1013
+2011,E09000021,Couple family: One parent working,Economically active: Unemployed (including full-time students),514
+2011,E09000021,Couple family: One parent working,Economically inactive: Retired,101
+2011,E09000021,Couple family: One parent working,Economically inactive: Student (including full-time students),204
+2011,E09000021,Couple family: One parent working,Economically inactive: Looking after home or family,3298
+2011,E09000021,Couple family: One parent working,Economically inactive: Long-term sick or disabled,154
+2011,E09000021,Couple family: One parent working,Economically inactive: Other,429
+2011,E09000021,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000021,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000021,Couple family: No parents working,Economically active: Unemployed (including full-time students),287
+2011,E09000021,Couple family: No parents working,Economically inactive: Retired,93
+2011,E09000021,Couple family: No parents working,Economically inactive: Student (including full-time students),85
+2011,E09000021,Couple family: No parents working,Economically inactive: Looking after home or family,362
+2011,E09000021,Couple family: No parents working,Economically inactive: Long-term sick or disabled,150
+2011,E09000021,Couple family: No parents working,Economically inactive: Other,175
+2011,E09000021,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),2182
+2011,E09000021,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),417
+2011,E09000021,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000021,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000021,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000021,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000021,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000021,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000021,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000021,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000021,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),354
+2011,E09000021,Lone parent family: Parent not working,Economically inactive: Retired,49
+2011,E09000021,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),157
+2011,E09000021,Lone parent family: Parent not working,Economically inactive: Looking after home or family,687
+2011,E09000021,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,167
+2011,E09000021,Lone parent family: Parent not working,Economically inactive: Other,191
+2011,E09000024,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),17543
+2011,E09000024,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4567
+2011,E09000024,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000024,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000024,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000024,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000024,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000024,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000024,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4955
+2011,E09000024,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1568
+2011,E09000024,Couple family: One parent working,Economically active: Unemployed (including full-time students),839
+2011,E09000024,Couple family: One parent working,Economically inactive: Retired,142
+2011,E09000024,Couple family: One parent working,Economically inactive: Student (including full-time students),248
+2011,E09000024,Couple family: One parent working,Economically inactive: Looking after home or family,4430
+2011,E09000024,Couple family: One parent working,Economically inactive: Long-term sick or disabled,213
+2011,E09000024,Couple family: One parent working,Economically inactive: Other,643
+2011,E09000024,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000024,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000024,Couple family: No parents working,Economically active: Unemployed (including full-time students),392
+2011,E09000024,Couple family: No parents working,Economically inactive: Retired,136
+2011,E09000024,Couple family: No parents working,Economically inactive: Student (including full-time students),104
+2011,E09000024,Couple family: No parents working,Economically inactive: Looking after home or family,587
+2011,E09000024,Couple family: No parents working,Economically inactive: Long-term sick or disabled,302
+2011,E09000024,Couple family: No parents working,Economically inactive: Other,323
+2011,E09000024,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),3423
+2011,E09000024,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),522
+2011,E09000024,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000024,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000024,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000024,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000024,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000024,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000024,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000024,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000024,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),608
+2011,E09000024,Lone parent family: Parent not working,Economically inactive: Retired,93
+2011,E09000024,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),240
+2011,E09000024,Lone parent family: Parent not working,Economically inactive: Looking after home or family,993
+2011,E09000024,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,243
+2011,E09000024,Lone parent family: Parent not working,Economically inactive: Other,299
+2011,E09000026,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),24053
+2011,E09000026,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),6187
+2011,E09000026,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000026,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000026,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000026,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000026,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000026,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000026,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),7857
+2011,E09000026,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2834
+2011,E09000026,Couple family: One parent working,Economically active: Unemployed (including full-time students),1685
+2011,E09000026,Couple family: One parent working,Economically inactive: Retired,198
+2011,E09000026,Couple family: One parent working,Economically inactive: Student (including full-time students),430
+2011,E09000026,Couple family: One parent working,Economically inactive: Looking after home or family,6729
+2011,E09000026,Couple family: One parent working,Economically inactive: Long-term sick or disabled,385
+2011,E09000026,Couple family: One parent working,Economically inactive: Other,1248
+2011,E09000026,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000026,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000026,Couple family: No parents working,Economically active: Unemployed (including full-time students),879
+2011,E09000026,Couple family: No parents working,Economically inactive: Retired,363
+2011,E09000026,Couple family: No parents working,Economically inactive: Student (including full-time students),161
+2011,E09000026,Couple family: No parents working,Economically inactive: Looking after home or family,1203
+2011,E09000026,Couple family: No parents working,Economically inactive: Long-term sick or disabled,655
+2011,E09000026,Couple family: No parents working,Economically inactive: Other,706
+2011,E09000026,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),4601
+2011,E09000026,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),870
+2011,E09000026,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000026,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000026,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000026,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000026,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000026,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000026,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000026,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000026,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1275
+2011,E09000026,Lone parent family: Parent not working,Economically inactive: Retired,140
+2011,E09000026,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),461
+2011,E09000026,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1828
+2011,E09000026,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,602
+2011,E09000026,Lone parent family: Parent not working,Economically inactive: Other,747
+2011,E09000027,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),19352
+2011,E09000027,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),6102
+2011,E09000027,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000027,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000027,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000027,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000027,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000027,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000027,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),4588
+2011,E09000027,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1268
+2011,E09000027,Couple family: One parent working,Economically active: Unemployed (including full-time students),580
+2011,E09000027,Couple family: One parent working,Economically inactive: Retired,133
+2011,E09000027,Couple family: One parent working,Economically inactive: Student (including full-time students),257
+2011,E09000027,Couple family: One parent working,Economically inactive: Looking after home or family,4379
+2011,E09000027,Couple family: One parent working,Economically inactive: Long-term sick or disabled,121
+2011,E09000027,Couple family: One parent working,Economically inactive: Other,381
+2011,E09000027,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000027,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000027,Couple family: No parents working,Economically active: Unemployed (including full-time students),263
+2011,E09000027,Couple family: No parents working,Economically inactive: Retired,126
+2011,E09000027,Couple family: No parents working,Economically inactive: Student (including full-time students),67
+2011,E09000027,Couple family: No parents working,Economically inactive: Looking after home or family,333
+2011,E09000027,Couple family: No parents working,Economically inactive: Long-term sick or disabled,157
+2011,E09000027,Couple family: No parents working,Economically inactive: Other,134
+2011,E09000027,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),2164
+2011,E09000027,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),630
+2011,E09000027,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000027,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000027,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000027,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000027,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000027,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000027,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000027,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000027,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),358
+2011,E09000027,Lone parent family: Parent not working,Economically inactive: Retired,47
+2011,E09000027,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),147
+2011,E09000027,Lone parent family: Parent not working,Economically inactive: Looking after home or family,749
+2011,E09000027,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,168
+2011,E09000027,Lone parent family: Parent not working,Economically inactive: Other,176
+2011,E09000029,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),21713
+2011,E09000029,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),4629
+2011,E09000029,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000029,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000029,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000029,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000029,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000029,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000029,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),3760
+2011,E09000029,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),1240
+2011,E09000029,Couple family: One parent working,Economically active: Unemployed (including full-time students),830
+2011,E09000029,Couple family: One parent working,Economically inactive: Retired,127
+2011,E09000029,Couple family: One parent working,Economically inactive: Student (including full-time students),173
+2011,E09000029,Couple family: One parent working,Economically inactive: Looking after home or family,3257
+2011,E09000029,Couple family: One parent working,Economically inactive: Long-term sick or disabled,217
+2011,E09000029,Couple family: One parent working,Economically inactive: Other,388
+2011,E09000029,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000029,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000029,Couple family: No parents working,Economically active: Unemployed (including full-time students),351
+2011,E09000029,Couple family: No parents working,Economically inactive: Retired,105
+2011,E09000029,Couple family: No parents working,Economically inactive: Student (including full-time students),62
+2011,E09000029,Couple family: No parents working,Economically inactive: Looking after home or family,431
+2011,E09000029,Couple family: No parents working,Economically inactive: Long-term sick or disabled,231
+2011,E09000029,Couple family: No parents working,Economically inactive: Other,187
+2011,E09000029,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),3448
+2011,E09000029,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),481
+2011,E09000029,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000029,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000029,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000029,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000029,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000029,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000029,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000029,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000029,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),619
+2011,E09000029,Lone parent family: Parent not working,Economically inactive: Retired,73
+2011,E09000029,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),213
+2011,E09000029,Lone parent family: Parent not working,Economically inactive: Looking after home or family,1106
+2011,E09000029,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,284
+2011,E09000029,Lone parent family: Parent not working,Economically inactive: Other,243
+2011,E09000031,Couple family: Both parents working,Economically active: In employment: Employee (including full-time students),18335
+2011,E09000031,Couple family: Both parents working,Economically active: In employment: Self-employed (including full-time students),5003
+2011,E09000031,Couple family: Both parents working,Economically active: Unemployed (including full-time students),0
+2011,E09000031,Couple family: Both parents working,Economically inactive: Retired,0
+2011,E09000031,Couple family: Both parents working,Economically inactive: Student (including full-time students),0
+2011,E09000031,Couple family: Both parents working,Economically inactive: Looking after home or family,0
+2011,E09000031,Couple family: Both parents working,Economically inactive: Long-term sick or disabled,0
+2011,E09000031,Couple family: Both parents working,Economically inactive: Other,0
+2011,E09000031,Couple family: One parent working,Economically active: In employment: Employee (including full-time students),5992
+2011,E09000031,Couple family: One parent working,Economically active: In employment: Self-employed (including full-time students),2495
+2011,E09000031,Couple family: One parent working,Economically active: Unemployed (including full-time students),1295
+2011,E09000031,Couple family: One parent working,Economically inactive: Retired,138
+2011,E09000031,Couple family: One parent working,Economically inactive: Student (including full-time students),451
+2011,E09000031,Couple family: One parent working,Economically inactive: Looking after home or family,5163
+2011,E09000031,Couple family: One parent working,Economically inactive: Long-term sick or disabled,330
+2011,E09000031,Couple family: One parent working,Economically inactive: Other,1080
+2011,E09000031,Couple family: No parents working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000031,Couple family: No parents working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000031,Couple family: No parents working,Economically active: Unemployed (including full-time students),877
+2011,E09000031,Couple family: No parents working,Economically inactive: Retired,274
+2011,E09000031,Couple family: No parents working,Economically inactive: Student (including full-time students),223
+2011,E09000031,Couple family: No parents working,Economically inactive: Looking after home or family,1385
+2011,E09000031,Couple family: No parents working,Economically inactive: Long-term sick or disabled,717
+2011,E09000031,Couple family: No parents working,Economically inactive: Other,683
+2011,E09000031,Lone parent family: Parent working,Economically active: In employment: Employee (including full-time students),5216
+2011,E09000031,Lone parent family: Parent working,Economically active: In employment: Self-employed (including full-time students),963
+2011,E09000031,Lone parent family: Parent working,Economically active: Unemployed (including full-time students),0
+2011,E09000031,Lone parent family: Parent working,Economically inactive: Retired,0
+2011,E09000031,Lone parent family: Parent working,Economically inactive: Student (including full-time students),0
+2011,E09000031,Lone parent family: Parent working,Economically inactive: Looking after home or family,0
+2011,E09000031,Lone parent family: Parent working,Economically inactive: Long-term sick or disabled,0
+2011,E09000031,Lone parent family: Parent working,Economically inactive: Other,0
+2011,E09000031,Lone parent family: Parent not working,Economically active: In employment: Employee (including full-time students),0
+2011,E09000031,Lone parent family: Parent not working,Economically active: In employment: Self-employed (including full-time students),0
+2011,E09000031,Lone parent family: Parent not working,Economically active: Unemployed (including full-time students),1348
+2011,E09000031,Lone parent family: Parent not working,Economically inactive: Retired,154
+2011,E09000031,Lone parent family: Parent not working,Economically inactive: Student (including full-time students),537
+2011,E09000031,Lone parent family: Parent not working,Economically inactive: Looking after home or family,2043
+2011,E09000031,Lone parent family: Parent not working,Economically inactive: Long-term sick or disabled,615
+2011,E09000031,Lone parent family: Parent not working,Economically inactive: Other,662

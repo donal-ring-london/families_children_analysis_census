@@ -1,0 +1,13 @@
+2001_dataset,2011_dataset,2021_dataset,notes
+UV006,QS1118EW,TS003,"number of dependent children, by number of dependent children"
+none,LC4412EW,RM132,number of dependent children by tenure
+ST007,DC1114EW,RM009,number of dependent children by family type
+none,DC1203EW,RM012,number of dependent children by ethnic group of HRP
+none,LC1118EW,RM006,households with dependent children by age of youngest child
+none,LC1601EW,RM034,similar to above
+none,LC1402EW,RM095,number of dependent children by number of bedrooms
+ST015,DC2103EW,FTB,"country of birth of ""potential mothers"" group"
+ST106,DC1201EW,FTB,household composition by Ethnic Group HRP
+ST044,DC6115EW,FTB,household composition by NS-SEC HRP
+ST151,DC1202EW,FTB,household composition by Religion HRP
+ST014,DC1113EW,RM006,age of youngest dependent child in household

@@ -1,0 +1,463 @@
+lad22cd,lad22nm,sex_2,age_common,cob_common,value_21,value_11
+E09000001,City of London,Female,Aged 16 to 49,Africa,69,75
+E09000001,City of London,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",44,66
+E09000001,City of London,Female,Aged 16 to 49,Ireland,19,17
+E09000001,City of London,Female,Aged 16 to 49,Middle East and Asia,452,301
+E09000001,City of London,Female,Aged 16 to 49,Rest of Europe,717,353
+E09000001,City of London,Female,Aged 16 to 49,The Americas and the Caribbean,212,143
+E09000001,City of London,Female,Aged 16 to 49,United Kingdom,819,893
+E09000001,City of London,Male,Aged 16 to 49,Africa,94,92
+E09000001,City of London,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",78,99
+E09000001,City of London,Male,Aged 16 to 49,Ireland,34,41
+E09000001,City of London,Male,Aged 16 to 49,Middle East and Asia,446,240
+E09000001,City of London,Male,Aged 16 to 49,Rest of Europe,782,458
+E09000001,City of London,Male,Aged 16 to 49,The Americas and the Caribbean,225,161
+E09000001,City of London,Male,Aged 16 to 49,United Kingdom,1198,1371
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,Africa,8122,8398
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",39,84
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,Ireland,136,235
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,Middle East and Asia,10027,5526
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,Rest of Europe,12694,5873
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,The Americas and the Caribbean,940,917
+E09000002,Barking and Dagenham,Female,Aged 16 to 49,United Kingdom,24688,27455
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,Africa,5866,6989
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",42,56
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,Ireland,146,203
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,Middle East and Asia,10259,6996
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,Rest of Europe,12394,5435
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,The Americas and the Caribbean,755,591
+E09000002,Barking and Dagenham,Male,Aged 16 to 49,United Kingdom,22858,24996
+E09000003,Barnet,Female,Aged 16 to 49,Africa,6699,8732
+E09000003,Barnet,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",482,679
+E09000003,Barnet,Female,Aged 16 to 49,Ireland,646,946
+E09000003,Barnet,Female,Aged 16 to 49,Middle East and Asia,16695,15338
+E09000003,Barnet,Female,Aged 16 to 49,Rest of Europe,24311,16297
+E09000003,Barnet,Female,Aged 16 to 49,The Americas and the Caribbean,3194,2523
+E09000003,Barnet,Female,Aged 16 to 49,United Kingdom,43857,47509
+E09000003,Barnet,Male,Aged 16 to 49,Africa,5284,7029
+E09000003,Barnet,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",388,572
+E09000003,Barnet,Male,Aged 16 to 49,Ireland,620,901
+E09000003,Barnet,Male,Aged 16 to 49,Middle East and Asia,14900,14574
+E09000003,Barnet,Male,Aged 16 to 49,Rest of Europe,21506,13824
+E09000003,Barnet,Male,Aged 16 to 49,The Americas and the Caribbean,2380,1833
+E09000003,Barnet,Male,Aged 16 to 49,United Kingdom,44633,48654
+E09000004,Bexley,Female,Aged 16 to 49,Africa,5180,4425
+E09000004,Bexley,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",134,135
+E09000004,Bexley,Female,Aged 16 to 49,Ireland,285,293
+E09000004,Bexley,Female,Aged 16 to 49,Middle East and Asia,4626,2425
+E09000004,Bexley,Female,Aged 16 to 49,Rest of Europe,5978,2432
+E09000004,Bexley,Female,Aged 16 to 49,The Americas and the Caribbean,904,581
+E09000004,Bexley,Female,Aged 16 to 49,United Kingdom,38803,44735
+E09000004,Bexley,Male,Aged 16 to 49,Africa,3896,3823
+E09000004,Bexley,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",145,125
+E09000004,Bexley,Male,Aged 16 to 49,Ireland,245,192
+E09000004,Bexley,Male,Aged 16 to 49,Middle East and Asia,4071,2162
+E09000004,Bexley,Male,Aged 16 to 49,Rest of Europe,5296,2127
+E09000004,Bexley,Male,Aged 16 to 49,The Americas and the Caribbean,618,369
+E09000004,Bexley,Male,Aged 16 to 49,United Kingdom,37310,42666
+E09000005,Brent,Female,Aged 16 to 49,Africa,7885,10034
+E09000005,Brent,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",600,1136
+E09000005,Brent,Female,Aged 16 to 49,Ireland,493,1032
+E09000005,Brent,Female,Aged 16 to 49,Middle East and Asia,22102,20283
+E09000005,Brent,Female,Aged 16 to 49,Rest of Europe,20377,13796
+E09000005,Brent,Female,Aged 16 to 49,The Americas and the Caribbean,4705,4262
+E09000005,Brent,Female,Aged 16 to 49,United Kingdom,32924,33098
+E09000005,Brent,Male,Aged 16 to 49,Africa,5904,8580
+E09000005,Brent,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",482,1043
+E09000005,Brent,Male,Aged 16 to 49,Ireland,543,1242
+E09000005,Brent,Male,Aged 16 to 49,Middle East and Asia,21586,23087
+E09000005,Brent,Male,Aged 16 to 49,Rest of Europe,20703,14289
+E09000005,Brent,Male,Aged 16 to 49,The Americas and the Caribbean,3795,3619
+E09000005,Brent,Male,Aged 16 to 49,United Kingdom,34434,35097
+E09000006,Bromley,Female,Aged 16 to 49,Africa,3938,3619
+E09000006,Bromley,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",486,498
+E09000006,Bromley,Female,Aged 16 to 49,Ireland,569,554
+E09000006,Bromley,Female,Aged 16 to 49,Middle East and Asia,6210,3571
+E09000006,Bromley,Female,Aged 16 to 49,Rest of Europe,9208,4794
+E09000006,Bromley,Female,Aged 16 to 49,The Americas and the Caribbean,2452,1592
+E09000006,Bromley,Female,Aged 16 to 49,United Kingdom,51510,57807
+E09000006,Bromley,Male,Aged 16 to 49,Africa,3217,3336
+E09000006,Bromley,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",483,442
+E09000006,Bromley,Male,Aged 16 to 49,Ireland,426,429
+E09000006,Bromley,Male,Aged 16 to 49,Middle East and Asia,5141,2922
+E09000006,Bromley,Male,Aged 16 to 49,Rest of Europe,7053,3532
+E09000006,Bromley,Male,Aged 16 to 49,The Americas and the Caribbean,1677,1040
+E09000006,Bromley,Male,Aged 16 to 49,United Kingdom,49946,56408
+E09000007,Camden,Female,Aged 16 to 49,Africa,3890,4909
+E09000007,Camden,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",1018,2222
+E09000007,Camden,Female,Aged 16 to 49,Ireland,507,899
+E09000007,Camden,Female,Aged 16 to 49,Middle East and Asia,10664,10426
+E09000007,Camden,Female,Aged 16 to 49,Rest of Europe,14678,12311
+E09000007,Camden,Female,Aged 16 to 49,The Americas and the Caribbean,4430,4603
+E09000007,Camden,Female,Aged 16 to 49,United Kingdom,28017,31421
+E09000007,Camden,Male,Aged 16 to 49,Africa,3166,4088
+E09000007,Camden,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",988,2200
+E09000007,Camden,Male,Aged 16 to 49,Ireland,515,938
+E09000007,Camden,Male,Aged 16 to 49,Middle East and Asia,8389,9101
+E09000007,Camden,Male,Aged 16 to 49,Rest of Europe,11219,10277
+E09000007,Camden,Male,Aged 16 to 49,The Americas and the Caribbean,3304,3732
+E09000007,Camden,Male,Aged 16 to 49,United Kingdom,28132,34194
+E09000008,Croydon,Female,Aged 16 to 49,Africa,9841,9998
+E09000008,Croydon,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",386,394
+E09000008,Croydon,Female,Aged 16 to 49,Ireland,485,608
+E09000008,Croydon,Female,Aged 16 to 49,Middle East and Asia,11357,10100
+E09000008,Croydon,Female,Aged 16 to 49,Rest of Europe,14533,7836
+E09000008,Croydon,Female,Aged 16 to 49,The Americas and the Caribbean,5403,4079
+E09000008,Croydon,Female,Aged 16 to 49,United Kingdom,53926,59620
+E09000008,Croydon,Male,Aged 16 to 49,Africa,7604,8608
+E09000008,Croydon,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",353,306
+E09000008,Croydon,Male,Aged 16 to 49,Ireland,383,571
+E09000008,Croydon,Male,Aged 16 to 49,Middle East and Asia,10827,11756
+E09000008,Croydon,Male,Aged 16 to 49,Rest of Europe,12580,6727
+E09000008,Croydon,Male,Aged 16 to 49,The Americas and the Caribbean,3822,2994
+E09000008,Croydon,Male,Aged 16 to 49,United Kingdom,52606,57307
+E09000009,Ealing,Female,Aged 16 to 49,Africa,6371,7903
+E09000009,Ealing,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",751,1560
+E09000009,Ealing,Female,Aged 16 to 49,Ireland,718,1294
+E09000009,Ealing,Female,Aged 16 to 49,Middle East and Asia,23991,20580
+E09000009,Ealing,Female,Aged 16 to 49,Rest of Europe,21733,16806
+E09000009,Ealing,Female,Aged 16 to 49,The Americas and the Caribbean,3147,2581
+E09000009,Ealing,Female,Aged 16 to 49,United Kingdom,37777,39578
+E09000009,Ealing,Male,Aged 16 to 49,Africa,5155,6798
+E09000009,Ealing,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",698,1532
+E09000009,Ealing,Male,Aged 16 to 49,Ireland,732,1215
+E09000009,Ealing,Male,Aged 16 to 49,Middle East and Asia,22896,23019
+E09000009,Ealing,Male,Aged 16 to 49,Rest of Europe,19972,16029
+E09000009,Ealing,Male,Aged 16 to 49,The Americas and the Caribbean,2447,2116
+E09000009,Ealing,Male,Aged 16 to 49,United Kingdom,40192,42512
+E09000010,Enfield,Female,Aged 16 to 49,Africa,8651,9938
+E09000010,Enfield,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",222,273
+E09000010,Enfield,Female,Aged 16 to 49,Ireland,387,668
+E09000010,Enfield,Female,Aged 16 to 49,Middle East and Asia,5658,5772
+E09000010,Enfield,Female,Aged 16 to 49,Rest of Europe,23242,15814
+E09000010,Enfield,Female,Aged 16 to 49,The Americas and the Caribbean,2694,2551
+E09000010,Enfield,Female,Aged 16 to 49,United Kingdom,39178,46288
+E09000010,Enfield,Male,Aged 16 to 49,Africa,5583,7382
+E09000010,Enfield,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",154,222
+E09000010,Enfield,Male,Aged 16 to 49,Ireland,301,570
+E09000010,Enfield,Male,Aged 16 to 49,Middle East and Asia,4591,5609
+E09000010,Enfield,Male,Aged 16 to 49,Rest of Europe,20473,13954
+E09000010,Enfield,Male,Aged 16 to 49,The Americas and the Caribbean,1701,1630
+E09000010,Enfield,Male,Aged 16 to 49,United Kingdom,38521,45352
+E09000011,Greenwich,Female,Aged 16 to 49,Africa,10466,10572
+E09000011,Greenwich,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",557,614
+E09000011,Greenwich,Female,Aged 16 to 49,Ireland,573,600
+E09000011,Greenwich,Female,Aged 16 to 49,Middle East and Asia,9770,7398
+E09000011,Greenwich,Female,Aged 16 to 49,Rest of Europe,14922,7637
+E09000011,Greenwich,Female,Aged 16 to 49,The Americas and the Caribbean,3406,2070
+E09000011,Greenwich,Female,Aged 16 to 49,United Kingdom,38840,39887
+E09000011,Greenwich,Male,Aged 16 to 49,Africa,8159,9861
+E09000011,Greenwich,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",561,563
+E09000011,Greenwich,Male,Aged 16 to 49,Ireland,565,594
+E09000011,Greenwich,Male,Aged 16 to 49,Middle East and Asia,8636,7770
+E09000011,Greenwich,Male,Aged 16 to 49,Rest of Europe,13124,7005
+E09000011,Greenwich,Male,Aged 16 to 49,The Americas and the Caribbean,2479,1538
+E09000011,Greenwich,Male,Aged 16 to 49,United Kingdom,39782,41631
+E09000012,Hackney,Female,Aged 16 to 49,Africa,6103,8002
+E09000012,Hackney,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",2220,1564
+E09000012,Hackney,Female,Aged 16 to 49,Ireland,897,948
+E09000012,Hackney,Female,Aged 16 to 49,Middle East and Asia,5950,5491
+E09000012,Hackney,Female,Aged 16 to 49,Rest of Europe,16777,13543
+E09000012,Hackney,Female,Aged 16 to 49,The Americas and the Caribbean,5614,4649
+E09000012,Hackney,Female,Aged 16 to 49,United Kingdom,41835,41338
+E09000012,Hackney,Male,Aged 16 to 49,Africa,4222,6781
+E09000012,Hackney,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",1823,1531
+E09000012,Hackney,Male,Aged 16 to 49,Ireland,962,1036
+E09000012,Hackney,Male,Aged 16 to 49,Middle East and Asia,4921,5350
+E09000012,Hackney,Male,Aged 16 to 49,Rest of Europe,13911,12409
+E09000012,Hackney,Male,Aged 16 to 49,The Americas and the Caribbean,4370,4471
+E09000012,Hackney,Male,Aged 16 to 49,United Kingdom,41341,42985
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,Africa,4075,4740
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",1383,3411
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,Ireland,613,949
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,Middle East and Asia,6632,5940
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,Rest of Europe,14413,11017
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,The Americas and the Caribbean,3912,3526
+E09000013,Hammersmith and Fulham,Female,Aged 16 to 49,United Kingdom,25437,28147
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,Africa,3240,4183
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",1157,3039
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,Ireland,526,956
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,Middle East and Asia,5400,5542
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,Rest of Europe,11242,9625
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,The Americas and the Caribbean,2627,2898
+E09000013,Hammersmith and Fulham,Male,Aged 16 to 49,United Kingdom,25497,29966
+E09000014,Haringey,Female,Aged 16 to 49,Africa,5682,7440
+E09000014,Haringey,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",777,1076
+E09000014,Haringey,Female,Aged 16 to 49,Ireland,654,874
+E09000014,Haringey,Female,Aged 16 to 49,Middle East and Asia,4481,5285
+E09000014,Haringey,Female,Aged 16 to 49,Rest of Europe,22265,19162
+E09000014,Haringey,Female,Aged 16 to 49,The Americas and the Caribbean,5566,4419
+E09000014,Haringey,Female,Aged 16 to 49,United Kingdom,33916,34731
+E09000014,Haringey,Male,Aged 16 to 49,Africa,4324,6622
+E09000014,Haringey,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",615,1038
+E09000014,Haringey,Male,Aged 16 to 49,Ireland,530,1006
+E09000014,Haringey,Male,Aged 16 to 49,Middle East and Asia,3971,5217
+E09000014,Haringey,Male,Aged 16 to 49,Rest of Europe,20130,19272
+E09000014,Haringey,Male,Aged 16 to 49,The Americas and the Caribbean,4752,3706
+E09000014,Haringey,Male,Aged 16 to 49,United Kingdom,34113,37367
+E09000015,Harrow,Female,Aged 16 to 49,Africa,4338,7105
+E09000015,Harrow,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",134,240
+E09000015,Harrow,Female,Aged 16 to 49,Ireland,294,741
+E09000015,Harrow,Female,Aged 16 to 49,Middle East and Asia,17064,15137
+E09000015,Harrow,Female,Aged 16 to 49,Rest of Europe,13896,6634
+E09000015,Harrow,Female,Aged 16 to 49,The Americas and the Caribbean,1174,983
+E09000015,Harrow,Female,Aged 16 to 49,United Kingdom,24834,27656
+E09000015,Harrow,Male,Aged 16 to 49,Africa,3564,6073
+E09000015,Harrow,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",115,209
+E09000015,Harrow,Male,Aged 16 to 49,Ireland,314,790
+E09000015,Harrow,Male,Aged 16 to 49,Middle East and Asia,15457,15113
+E09000015,Harrow,Male,Aged 16 to 49,Rest of Europe,15260,6582
+E09000015,Harrow,Male,Aged 16 to 49,The Americas and the Caribbean,840,709
+E09000015,Harrow,Male,Aged 16 to 49,United Kingdom,26610,29108
+E09000016,Havering,Female,Aged 16 to 49,Africa,3354,2306
+E09000016,Havering,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",117,134
+E09000016,Havering,Female,Aged 16 to 49,Ireland,309,329
+E09000016,Havering,Female,Aged 16 to 49,Middle East and Asia,4698,2065
+E09000016,Havering,Female,Aged 16 to 49,Rest of Europe,8103,2368
+E09000016,Havering,Female,Aged 16 to 49,The Americas and the Caribbean,829,456
+E09000016,Havering,Female,Aged 16 to 49,United Kingdom,41648,46350
+E09000016,Havering,Male,Aged 16 to 49,Africa,2609,1900
+E09000016,Havering,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",95,104
+E09000016,Havering,Male,Aged 16 to 49,Ireland,236,283
+E09000016,Havering,Male,Aged 16 to 49,Middle East and Asia,4253,1754
+E09000016,Havering,Male,Aged 16 to 49,Rest of Europe,7480,1987
+E09000016,Havering,Male,Aged 16 to 49,The Americas and the Caribbean,550,343
+E09000016,Havering,Male,Aged 16 to 49,United Kingdom,40246,45433
+E09000017,Hillingdon,Female,Aged 16 to 49,Africa,5061,5766
+E09000017,Hillingdon,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",195,260
+E09000017,Hillingdon,Female,Aged 16 to 49,Ireland,511,693
+E09000017,Hillingdon,Female,Aged 16 to 49,Middle East and Asia,19081,12317
+E09000017,Hillingdon,Female,Aged 16 to 49,Rest of Europe,11101,6038
+E09000017,Hillingdon,Female,Aged 16 to 49,The Americas and the Caribbean,1448,1145
+E09000017,Hillingdon,Female,Aged 16 to 49,United Kingdom,37058,43279
+E09000017,Hillingdon,Male,Aged 16 to 49,Africa,4218,5113
+E09000017,Hillingdon,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",180,250
+E09000017,Hillingdon,Male,Aged 16 to 49,Ireland,481,574
+E09000017,Hillingdon,Male,Aged 16 to 49,Middle East and Asia,18950,13986
+E09000017,Hillingdon,Male,Aged 16 to 49,Rest of Europe,10408,5379
+E09000017,Hillingdon,Male,Aged 16 to 49,The Americas and the Caribbean,1077,873
+E09000017,Hillingdon,Male,Aged 16 to 49,United Kingdom,38039,43314
+E09000018,Hounslow,Female,Aged 16 to 49,Africa,4858,5801
+E09000018,Hounslow,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",420,745
+E09000018,Hounslow,Female,Aged 16 to 49,Ireland,351,700
+E09000018,Hounslow,Female,Aged 16 to 49,Middle East and Asia,21731,16236
+E09000018,Hounslow,Female,Aged 16 to 49,Rest of Europe,15449,10068
+E09000018,Hounslow,Female,Aged 16 to 49,The Americas and the Caribbean,1796,1425
+E09000018,Hounslow,Female,Aged 16 to 49,United Kingdom,28672,32556
+E09000018,Hounslow,Male,Aged 16 to 49,Africa,3880,5170
+E09000018,Hounslow,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",434,759
+E09000018,Hounslow,Male,Aged 16 to 49,Ireland,371,638
+E09000018,Hounslow,Male,Aged 16 to 49,Middle East and Asia,22090,19052
+E09000018,Hounslow,Male,Aged 16 to 49,Rest of Europe,14378,9373
+E09000018,Hounslow,Male,Aged 16 to 49,The Americas and the Caribbean,1488,1138
+E09000018,Hounslow,Male,Aged 16 to 49,United Kingdom,30177,34352
+E09000019,Islington,Female,Aged 16 to 49,Africa,4663,4656
+E09000019,Islington,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",2029,1971
+E09000019,Islington,Female,Aged 16 to 49,Ireland,906,1146
+E09000019,Islington,Female,Aged 16 to 49,Middle East and Asia,6566,5408
+E09000019,Islington,Female,Aged 16 to 49,Rest of Europe,15347,11036
+E09000019,Islington,Female,Aged 16 to 49,The Americas and the Caribbean,4893,3832
+E09000019,Islington,Female,Aged 16 to 49,United Kingdom,34066,37578
+E09000019,Islington,Male,Aged 16 to 49,Africa,3522,3849
+E09000019,Islington,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",1736,1832
+E09000019,Islington,Male,Aged 16 to 49,Ireland,771,1156
+E09000019,Islington,Male,Aged 16 to 49,Middle East and Asia,4774,4705
+E09000019,Islington,Male,Aged 16 to 49,Rest of Europe,12646,9546
+E09000019,Islington,Male,Aged 16 to 49,The Americas and the Caribbean,3574,3287
+E09000019,Islington,Male,Aged 16 to 49,United Kingdom,34281,39960
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,Africa,2499,3181
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",703,1402
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,Ireland,289,518
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,Middle East and Asia,5978,6700
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,Rest of Europe,11827,11516
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,The Americas and the Caribbean,3558,4859
+E09000020,Kensington and Chelsea,Female,Aged 16 to 49,United Kingdom,14167,16755
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,Africa,1883,2807
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",474,1259
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,Ireland,304,564
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,Middle East and Asia,4610,6124
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,Rest of Europe,9420,11446
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,The Americas and the Caribbean,2607,3951
+E09000020,Kensington and Chelsea,Male,Aged 16 to 49,United Kingdom,14818,18733
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,Africa,1912,2247
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",332,415
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,Ireland,310,391
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,Middle East and Asia,7361,6393
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,Rest of Europe,7634,5169
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,The Americas and the Caribbean,1505,1088
+E09000021,Kingston upon Thames,Female,Aged 16 to 49,United Kingdom,23417,26960
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,Africa,1741,2252
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",351,409
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,Ireland,246,312
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,Middle East and Asia,5988,6033
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,Rest of Europe,6020,3965
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,The Americas and the Caribbean,986,757
+E09000021,Kingston upon Thames,Male,Aged 16 to 49,United Kingdom,23297,27583
+E09000022,Lambeth,Female,Aged 16 to 49,Africa,7987,10457
+E09000022,Lambeth,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",1955,2896
+E09000022,Lambeth,Female,Aged 16 to 49,Ireland,1197,1439
+E09000022,Lambeth,Female,Aged 16 to 49,Middle East and Asia,5756,4879
+E09000022,Lambeth,Female,Aged 16 to 49,Rest of Europe,16634,14578
+E09000022,Lambeth,Female,Aged 16 to 49,The Americas and the Caribbean,8894,7527
+E09000022,Lambeth,Female,Aged 16 to 49,United Kingdom,55619,52055
+E09000022,Lambeth,Male,Aged 16 to 49,Africa,6492,9344
+E09000022,Lambeth,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",1759,2827
+E09000022,Lambeth,Male,Aged 16 to 49,Ireland,1166,1722
+E09000022,Lambeth,Male,Aged 16 to 49,Middle East and Asia,4630,4943
+E09000022,Lambeth,Male,Aged 16 to 49,Rest of Europe,14483,14023
+E09000022,Lambeth,Male,Aged 16 to 49,The Americas and the Caribbean,7448,6625
+E09000022,Lambeth,Male,Aged 16 to 49,United Kingdom,55846,55813
+E09000023,Lewisham,Female,Aged 16 to 49,Africa,8310,9609
+E09000023,Lewisham,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",822,862
+E09000023,Lewisham,Female,Aged 16 to 49,Ireland,665,719
+E09000023,Lewisham,Female,Aged 16 to 49,Middle East and Asia,6918,6355
+E09000023,Lewisham,Female,Aged 16 to 49,Rest of Europe,14819,10038
+E09000023,Lewisham,Female,Aged 16 to 49,The Americas and the Caribbean,6630,4971
+E09000023,Lewisham,Female,Aged 16 to 49,United Kingdom,47437,46285
+E09000023,Lewisham,Male,Aged 16 to 49,Africa,6403,9031
+E09000023,Lewisham,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",715,924
+E09000023,Lewisham,Male,Aged 16 to 49,Ireland,630,822
+E09000023,Lewisham,Male,Aged 16 to 49,Middle East and Asia,5489,6602
+E09000023,Lewisham,Male,Aged 16 to 49,Rest of Europe,12007,9286
+E09000023,Lewisham,Male,Aged 16 to 49,The Americas and the Caribbean,4937,3987
+E09000023,Lewisham,Male,Aged 16 to 49,United Kingdom,45912,46061
+E09000024,Merton,Female,Aged 16 to 49,Africa,4325,6140
+E09000024,Merton,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",693,1006
+E09000024,Merton,Female,Aged 16 to 49,Ireland,518,585
+E09000024,Merton,Female,Aged 16 to 49,Middle East and Asia,7928,7720
+E09000024,Merton,Female,Aged 16 to 49,Rest of Europe,12394,8055
+E09000024,Merton,Female,Aged 16 to 49,The Americas and the Caribbean,2936,2107
+E09000024,Merton,Female,Aged 16 to 49,United Kingdom,26855,28482
+E09000024,Merton,Male,Aged 16 to 49,Africa,3919,5960
+E09000024,Merton,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",585,876
+E09000024,Merton,Male,Aged 16 to 49,Ireland,453,556
+E09000024,Merton,Male,Aged 16 to 49,Middle East and Asia,7093,8320
+E09000024,Merton,Male,Aged 16 to 49,Rest of Europe,11163,7532
+E09000024,Merton,Male,Aged 16 to 49,The Americas and the Caribbean,2243,1579
+E09000024,Merton,Male,Aged 16 to 49,United Kingdom,27280,29380
+E09000025,Newham,Female,Aged 16 to 49,Africa,8954,12007
+E09000025,Newham,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",337,304
+E09000025,Newham,Female,Aged 16 to 49,Ireland,388,382
+E09000025,Newham,Female,Aged 16 to 49,Middle East and Asia,26431,23756
+E09000025,Newham,Female,Aged 16 to 49,Rest of Europe,23121,13954
+E09000025,Newham,Female,Aged 16 to 49,The Americas and the Caribbean,3627,2823
+E09000025,Newham,Female,Aged 16 to 49,United Kingdom,37020,31064
+E09000025,Newham,Male,Aged 16 to 49,Africa,6819,11131
+E09000025,Newham,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",318,313
+E09000025,Newham,Male,Aged 16 to 49,Ireland,384,408
+E09000025,Newham,Male,Aged 16 to 49,Middle East and Asia,27258,37507
+E09000025,Newham,Male,Aged 16 to 49,Rest of Europe,24485,14777
+E09000025,Newham,Male,Aged 16 to 49,The Americas and the Caribbean,2974,2435
+E09000025,Newham,Male,Aged 16 to 49,United Kingdom,39355,32565
+E09000026,Redbridge,Female,Aged 16 to 49,Africa,4214,5812
+E09000026,Redbridge,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",199,233
+E09000026,Redbridge,Female,Aged 16 to 49,Ireland,281,473
+E09000026,Redbridge,Female,Aged 16 to 49,Middle East and Asia,20849,17131
+E09000026,Redbridge,Female,Aged 16 to 49,Rest of Europe,13908,6527
+E09000026,Redbridge,Female,Aged 16 to 49,The Americas and the Caribbean,1249,1318
+E09000026,Redbridge,Female,Aged 16 to 49,United Kingdom,36464,38362
+E09000026,Redbridge,Male,Aged 16 to 49,Africa,3149,4756
+E09000026,Redbridge,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",160,264
+E09000026,Redbridge,Male,Aged 16 to 49,Ireland,256,466
+E09000026,Redbridge,Male,Aged 16 to 49,Middle East and Asia,19798,19263
+E09000026,Redbridge,Male,Aged 16 to 49,Rest of Europe,14314,5540
+E09000026,Redbridge,Male,Aged 16 to 49,The Americas and the Caribbean,802,868
+E09000026,Redbridge,Male,Aged 16 to 49,United Kingdom,37516,38735
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,Africa,1794,2168
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",789,1182
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,Ireland,607,866
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,Middle East and Asia,4258,3580
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,Rest of Europe,8387,5925
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,The Americas and the Caribbean,2284,1899
+E09000027,Richmond upon Thames,Female,Aged 16 to 49,United Kingdom,26351,31548
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,Africa,1563,2214
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",723,1111
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,Ireland,504,700
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,Middle East and Asia,3141,3144
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,Rest of Europe,6175,4395
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,The Americas and the Caribbean,1480,1337
+E09000027,Richmond upon Thames,Male,Aged 16 to 49,United Kingdom,27020,32673
+E09000028,Southwark,Female,Aged 16 to 49,Africa,10103,14332
+E09000028,Southwark,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",1315,1683
+E09000028,Southwark,Female,Aged 16 to 49,Ireland,898,1151
+E09000028,Southwark,Female,Aged 16 to 49,Middle East and Asia,8943,7820
+E09000028,Southwark,Female,Aged 16 to 49,Rest of Europe,16040,11858
+E09000028,Southwark,Female,Aged 16 to 49,The Americas and the Caribbean,8486,6196
+E09000028,Southwark,Female,Aged 16 to 49,United Kingdom,47607,45379
+E09000028,Southwark,Male,Aged 16 to 49,Africa,7558,12574
+E09000028,Southwark,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",1181,1741
+E09000028,Southwark,Male,Aged 16 to 49,Ireland,889,1068
+E09000028,Southwark,Male,Aged 16 to 49,Middle East and Asia,6913,7367
+E09000028,Southwark,Male,Aged 16 to 49,Rest of Europe,14326,11655
+E09000028,Southwark,Male,Aged 16 to 49,The Americas and the Caribbean,7296,5645
+E09000028,Southwark,Male,Aged 16 to 49,United Kingdom,48624,47877
+E09000029,Sutton,Female,Aged 16 to 49,Africa,2651,2809
+E09000029,Sutton,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",212,222
+E09000029,Sutton,Female,Aged 16 to 49,Ireland,248,339
+E09000029,Sutton,Female,Aged 16 to 49,Middle East and Asia,7897,4687
+E09000029,Sutton,Female,Aged 16 to 49,Rest of Europe,7125,3495
+E09000029,Sutton,Female,Aged 16 to 49,The Americas and the Caribbean,1200,802
+E09000029,Sutton,Female,Aged 16 to 49,United Kingdom,29799,34790
+E09000029,Sutton,Male,Aged 16 to 49,Africa,2226,2488
+E09000029,Sutton,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",187,228
+E09000029,Sutton,Male,Aged 16 to 49,Ireland,227,278
+E09000029,Sutton,Male,Aged 16 to 49,Middle East and Asia,6785,4395
+E09000029,Sutton,Male,Aged 16 to 49,Rest of Europe,6157,2798
+E09000029,Sutton,Male,Aged 16 to 49,The Americas and the Caribbean,843,560
+E09000029,Sutton,Male,Aged 16 to 49,United Kingdom,29392,34349
+E09000030,Tower Hamlets,Female,Aged 16 to 49,Africa,4663,4262
+E09000030,Tower Hamlets,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",1445,1795
+E09000030,Tower Hamlets,Female,Aged 16 to 49,Ireland,668,787
+E09000030,Tower Hamlets,Female,Aged 16 to 49,Middle East and Asia,26121,21213
+E09000030,Tower Hamlets,Female,Aged 16 to 49,Rest of Europe,20477,11179
+E09000030,Tower Hamlets,Female,Aged 16 to 49,The Americas and the Caribbean,4367,3044
+E09000030,Tower Hamlets,Female,Aged 16 to 49,United Kingdom,43480,36530
+E09000030,Tower Hamlets,Male,Aged 16 to 49,Africa,4347,4368
+E09000030,Tower Hamlets,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",1383,1902
+E09000030,Tower Hamlets,Male,Aged 16 to 49,Ireland,821,947
+E09000030,Tower Hamlets,Male,Aged 16 to 49,Middle East and Asia,23167,22764
+E09000030,Tower Hamlets,Male,Aged 16 to 49,Rest of Europe,20469,12328
+E09000030,Tower Hamlets,Male,Aged 16 to 49,The Americas and the Caribbean,3966,2962
+E09000030,Tower Hamlets,Male,Aged 16 to 49,United Kingdom,46831,40880
+E09000031,Waltham Forest,Female,Aged 16 to 49,Africa,4936,6741
+E09000031,Waltham Forest,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",658,442
+E09000031,Waltham Forest,Female,Aged 16 to 49,Ireland,550,600
+E09000031,Waltham Forest,Female,Aged 16 to 49,Middle East and Asia,7602,8749
+E09000031,Waltham Forest,Female,Aged 16 to 49,Rest of Europe,18715,13939
+E09000031,Waltham Forest,Female,Aged 16 to 49,The Americas and the Caribbean,2967,2669
+E09000031,Waltham Forest,Female,Aged 16 to 49,United Kingdom,39705,36562
+E09000031,Waltham Forest,Male,Aged 16 to 49,Africa,4098,6919
+E09000031,Waltham Forest,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",596,386
+E09000031,Waltham Forest,Male,Aged 16 to 49,Ireland,516,583
+E09000031,Waltham Forest,Male,Aged 16 to 49,Middle East and Asia,7269,11029
+E09000031,Waltham Forest,Male,Aged 16 to 49,Rest of Europe,18600,14472
+E09000031,Waltham Forest,Male,Aged 16 to 49,The Americas and the Caribbean,2108,2084
+E09000031,Waltham Forest,Male,Aged 16 to 49,United Kingdom,39805,36985
+E09000032,Wandsworth,Female,Aged 16 to 49,Africa,6501,7991
+E09000032,Wandsworth,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",2795,4611
+E09000032,Wandsworth,Female,Aged 16 to 49,Ireland,1652,1594
+E09000032,Wandsworth,Female,Aged 16 to 49,Middle East and Asia,9214,8016
+E09000032,Wandsworth,Female,Aged 16 to 49,Rest of Europe,20254,14443
+E09000032,Wandsworth,Female,Aged 16 to 49,The Americas and the Caribbean,6275,4892
+E09000032,Wandsworth,Female,Aged 16 to 49,United Kingdom,57047,57799
+E09000032,Wandsworth,Male,Aged 16 to 49,Africa,5334,7259
+E09000032,Wandsworth,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",2149,3948
+E09000032,Wandsworth,Male,Aged 16 to 49,Ireland,1349,1444
+E09000032,Wandsworth,Male,Aged 16 to 49,Middle East and Asia,7715,7150
+E09000032,Wandsworth,Male,Aged 16 to 49,Rest of Europe,15884,11745
+E09000032,Wandsworth,Male,Aged 16 to 49,The Americas and the Caribbean,4507,3813
+E09000032,Wandsworth,Male,Aged 16 to 49,United Kingdom,54412,58276
+E09000033,Westminster,Female,Aged 16 to 49,Africa,3913,5071
+E09000033,Westminster,Female,Aged 16 to 49,"Antarctica, Oceania, and Other",1018,2426
+E09000033,Westminster,Female,Aged 16 to 49,Ireland,403,632
+E09000033,Westminster,Female,Aged 16 to 49,Middle East and Asia,11704,12903
+E09000033,Westminster,Female,Aged 16 to 49,Rest of Europe,17377,14501
+E09000033,Westminster,Female,Aged 16 to 49,The Americas and the Caribbean,5291,5401
+E09000033,Westminster,Female,Aged 16 to 49,United Kingdom,20293,22102
+E09000033,Westminster,Male,Aged 16 to 49,Africa,3168,4712
+E09000033,Westminster,Male,Aged 16 to 49,"Antarctica, Oceania, and Other",897,2584
+E09000033,Westminster,Male,Aged 16 to 49,Ireland,416,755
+E09000033,Westminster,Male,Aged 16 to 49,Middle East and Asia,9892,12905
+E09000033,Westminster,Male,Aged 16 to 49,Rest of Europe,15137,15117
+E09000033,Westminster,Male,Aged 16 to 49,The Americas and the Caribbean,3731,5127
+E09000033,Westminster,Male,Aged 16 to 49,United Kingdom,23055,27277

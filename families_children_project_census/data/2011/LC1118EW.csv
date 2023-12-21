@@ -1,0 +1,793 @@
+date,geography_code,c_dpcefamuk11_name,c_fmtfamuk11_name,obs_value
+2011,E09000007,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),10514
+2011,E09000007,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000007,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),9029
+2011,E09000007,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000007,Families with no children,Lone parent family: Male parent,0
+2011,E09000007,Families with no children,Lone parent family: Female parent,0
+2011,E09000007,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8488
+2011,E09000007,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,362
+2011,E09000007,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1511
+2011,E09000007,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,159
+2011,E09000007,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,367
+2011,E09000007,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,4267
+2011,E09000007,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2649
+2011,E09000007,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,187
+2011,E09000007,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),403
+2011,E09000007,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,70
+2011,E09000007,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,318
+2011,E09000007,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2743
+2011,E09000007,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2455
+2011,E09000007,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,221
+2011,E09000007,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),257
+2011,E09000007,All children in family non-dependent,Couple family: Cohabiting: Step-family,88
+2011,E09000007,All children in family non-dependent,Lone parent family: Male parent,698
+2011,E09000007,All children in family non-dependent,Lone parent family: Female parent,3554
+2011,E09000001,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),657
+2011,E09000001,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000001,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),377
+2011,E09000001,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000001,Families with no children,Lone parent family: Male parent,0
+2011,E09000001,Families with no children,Lone parent family: Female parent,0
+2011,E09000001,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),189
+2011,E09000001,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,4
+2011,E09000001,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),48
+2011,E09000001,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,3
+2011,E09000001,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,8
+2011,E09000001,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,50
+2011,E09000001,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),64
+2011,E09000001,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,1
+2011,E09000001,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),14
+2011,E09000001,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,0
+2011,E09000001,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,15
+2011,E09000001,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,35
+2011,E09000001,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),54
+2011,E09000001,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,8
+2011,E09000001,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),4
+2011,E09000001,All children in family non-dependent,Couple family: Cohabiting: Step-family,1
+2011,E09000001,All children in family non-dependent,Lone parent family: Male parent,27
+2011,E09000001,All children in family non-dependent,Lone parent family: Female parent,50
+2011,E09000012,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7973
+2011,E09000012,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000012,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),9373
+2011,E09000012,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000012,Families with no children,Lone parent family: Male parent,0
+2011,E09000012,Families with no children,Lone parent family: Female parent,0
+2011,E09000012,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9195
+2011,E09000012,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,540
+2011,E09000012,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2334
+2011,E09000012,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,260
+2011,E09000012,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,734
+2011,E09000012,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,7611
+2011,E09000012,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2728
+2011,E09000012,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,223
+2011,E09000012,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),473
+2011,E09000012,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,108
+2011,E09000012,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,538
+2011,E09000012,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4331
+2011,E09000012,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2616
+2011,E09000012,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,280
+2011,E09000012,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),240
+2011,E09000012,All children in family non-dependent,Couple family: Cohabiting: Step-family,109
+2011,E09000012,All children in family non-dependent,Lone parent family: Male parent,933
+2011,E09000012,All children in family non-dependent,Lone parent family: Female parent,4517
+2011,E09000013,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8717
+2011,E09000013,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000013,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),7721
+2011,E09000013,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000013,Families with no children,Lone parent family: Male parent,0
+2011,E09000013,Families with no children,Lone parent family: Female parent,0
+2011,E09000013,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7329
+2011,E09000013,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,242
+2011,E09000013,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1105
+2011,E09000013,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,139
+2011,E09000013,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,262
+2011,E09000013,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,3804
+2011,E09000013,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2132
+2011,E09000013,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,181
+2011,E09000013,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),259
+2011,E09000013,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,60
+2011,E09000013,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,268
+2011,E09000013,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2639
+2011,E09000013,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),1953
+2011,E09000013,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,207
+2011,E09000013,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),177
+2011,E09000013,All children in family non-dependent,Couple family: Cohabiting: Step-family,72
+2011,E09000013,All children in family non-dependent,Lone parent family: Male parent,557
+2011,E09000013,All children in family non-dependent,Lone parent family: Female parent,3208
+2011,E09000014,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),11467
+2011,E09000014,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000014,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),8802
+2011,E09000014,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000014,Families with no children,Lone parent family: Male parent,0
+2011,E09000014,Families with no children,Lone parent family: Female parent,0
+2011,E09000014,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),10450
+2011,E09000014,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,492
+2011,E09000014,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2585
+2011,E09000014,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,282
+2011,E09000014,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,741
+2011,E09000014,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,7200
+2011,E09000014,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3860
+2011,E09000014,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,277
+2011,E09000014,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),574
+2011,E09000014,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,116
+2011,E09000014,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,543
+2011,E09000014,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4814
+2011,E09000014,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3825
+2011,E09000014,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,353
+2011,E09000014,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),279
+2011,E09000014,All children in family non-dependent,Couple family: Cohabiting: Step-family,93
+2011,E09000014,All children in family non-dependent,Lone parent family: Male parent,922
+2011,E09000014,All children in family non-dependent,Lone parent family: Female parent,4775
+2011,E09000019,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9056
+2011,E09000019,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000019,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),10139
+2011,E09000019,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000019,Families with no children,Lone parent family: Male parent,0
+2011,E09000019,Families with no children,Lone parent family: Female parent,0
+2011,E09000019,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),5974
+2011,E09000019,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,333
+2011,E09000019,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1596
+2011,E09000019,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,174
+2011,E09000019,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,443
+2011,E09000019,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5706
+2011,E09000019,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2000
+2011,E09000019,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,174
+2011,E09000019,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),400
+2011,E09000019,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,81
+2011,E09000019,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,383
+2011,E09000019,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3584
+2011,E09000019,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2267
+2011,E09000019,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,218
+2011,E09000019,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),254
+2011,E09000019,All children in family non-dependent,Couple family: Cohabiting: Step-family,67
+2011,E09000019,All children in family non-dependent,Lone parent family: Male parent,730
+2011,E09000019,All children in family non-dependent,Lone parent family: Female parent,3819
+2011,E09000020,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9947
+2011,E09000020,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000020,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),5840
+2011,E09000020,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000020,Families with no children,Lone parent family: Male parent,0
+2011,E09000020,Families with no children,Lone parent family: Female parent,0
+2011,E09000020,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6938
+2011,E09000020,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,227
+2011,E09000020,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),768
+2011,E09000020,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,81
+2011,E09000020,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,162
+2011,E09000020,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,2436
+2011,E09000020,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2125
+2011,E09000020,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,118
+2011,E09000020,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),236
+2011,E09000020,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,73
+2011,E09000020,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,202
+2011,E09000020,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,1870
+2011,E09000020,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),1973
+2011,E09000020,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,163
+2011,E09000020,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),154
+2011,E09000020,All children in family non-dependent,Couple family: Cohabiting: Step-family,58
+2011,E09000020,All children in family non-dependent,Lone parent family: Male parent,536
+2011,E09000020,All children in family non-dependent,Lone parent family: Female parent,2604
+2011,E09000022,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),11938
+2011,E09000022,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000022,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),12975
+2011,E09000022,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000022,Families with no children,Lone parent family: Male parent,0
+2011,E09000022,Families with no children,Lone parent family: Female parent,0
+2011,E09000022,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9768
+2011,E09000022,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,608
+2011,E09000022,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2923
+2011,E09000022,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,327
+2011,E09000022,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,839
+2011,E09000022,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,9697
+2011,E09000022,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3277
+2011,E09000022,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,378
+2011,E09000022,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),635
+2011,E09000022,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,190
+2011,E09000022,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,644
+2011,E09000022,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,5434
+2011,E09000022,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3150
+2011,E09000022,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,384
+2011,E09000022,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),340
+2011,E09000022,All children in family non-dependent,Couple family: Cohabiting: Step-family,106
+2011,E09000022,All children in family non-dependent,Lone parent family: Male parent,1093
+2011,E09000022,All children in family non-dependent,Lone parent family: Female parent,5668
+2011,E09000023,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12583
+2011,E09000023,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000023,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),8534
+2011,E09000023,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000023,Families with no children,Lone parent family: Male parent,0
+2011,E09000023,Families with no children,Lone parent family: Female parent,0
+2011,E09000023,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),10533
+2011,E09000023,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,1006
+2011,E09000023,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),3276
+2011,E09000023,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,437
+2011,E09000023,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,827
+2011,E09000023,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,9210
+2011,E09000023,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4043
+2011,E09000023,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,448
+2011,E09000023,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),758
+2011,E09000023,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,217
+2011,E09000023,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,746
+2011,E09000023,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,5239
+2011,E09000023,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4176
+2011,E09000023,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,441
+2011,E09000023,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),392
+2011,E09000023,All children in family non-dependent,Couple family: Cohabiting: Step-family,127
+2011,E09000023,All children in family non-dependent,Lone parent family: Male parent,1023
+2011,E09000023,All children in family non-dependent,Lone parent family: Female parent,5497
+2011,E09000025,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12457
+2011,E09000025,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000025,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),5392
+2011,E09000025,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000025,Families with no children,Lone parent family: Male parent,0
+2011,E09000025,Families with no children,Lone parent family: Female parent,0
+2011,E09000025,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),15806
+2011,E09000025,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,910
+2011,E09000025,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2133
+2011,E09000025,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,333
+2011,E09000025,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,917
+2011,E09000025,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,8149
+2011,E09000025,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),5398
+2011,E09000025,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,388
+2011,E09000025,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),429
+2011,E09000025,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,158
+2011,E09000025,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,607
+2011,E09000025,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4893
+2011,E09000025,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),5159
+2011,E09000025,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,452
+2011,E09000025,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),296
+2011,E09000025,All children in family non-dependent,Couple family: Cohabiting: Step-family,138
+2011,E09000025,All children in family non-dependent,Lone parent family: Male parent,1149
+2011,E09000025,All children in family non-dependent,Lone parent family: Female parent,5143
+2011,E09000028,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12347
+2011,E09000028,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000028,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),11488
+2011,E09000028,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000028,Families with no children,Lone parent family: Male parent,0
+2011,E09000028,Families with no children,Lone parent family: Female parent,0
+2011,E09000028,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9711
+2011,E09000028,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,773
+2011,E09000028,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),3225
+2011,E09000028,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,430
+2011,E09000028,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,880
+2011,E09000028,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,8825
+2011,E09000028,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3053
+2011,E09000028,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,378
+2011,E09000028,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),793
+2011,E09000028,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,188
+2011,E09000028,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,568
+2011,E09000028,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,5151
+2011,E09000028,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3156
+2011,E09000028,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,380
+2011,E09000028,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),386
+2011,E09000028,All children in family non-dependent,Couple family: Cohabiting: Step-family,134
+2011,E09000028,All children in family non-dependent,Lone parent family: Male parent,1142
+2011,E09000028,All children in family non-dependent,Lone parent family: Female parent,5178
+2011,E09000030,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),10300
+2011,E09000030,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000030,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),9602
+2011,E09000030,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000030,Families with no children,Lone parent family: Male parent,0
+2011,E09000030,Families with no children,Lone parent family: Female parent,0
+2011,E09000030,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12300
+2011,E09000030,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,520
+2011,E09000030,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1501
+2011,E09000030,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,168
+2011,E09000030,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,501
+2011,E09000030,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5698
+2011,E09000030,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2869
+2011,E09000030,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,207
+2011,E09000030,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),260
+2011,E09000030,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,64
+2011,E09000030,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,328
+2011,E09000030,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2712
+2011,E09000030,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2398
+2011,E09000030,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,191
+2011,E09000030,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),192
+2011,E09000030,All children in family non-dependent,Couple family: Cohabiting: Step-family,67
+2011,E09000030,All children in family non-dependent,Lone parent family: Male parent,675
+2011,E09000030,All children in family non-dependent,Lone parent family: Female parent,3672
+2011,E09000032,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),16288
+2011,E09000032,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000032,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),15323
+2011,E09000032,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000032,Families with no children,Lone parent family: Male parent,0
+2011,E09000032,Families with no children,Lone parent family: Female parent,0
+2011,E09000032,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14282
+2011,E09000032,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,463
+2011,E09000032,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2195
+2011,E09000032,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,260
+2011,E09000032,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,459
+2011,E09000032,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5318
+2011,E09000032,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3856
+2011,E09000032,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,308
+2011,E09000032,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),462
+2011,E09000032,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,136
+2011,E09000032,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,401
+2011,E09000032,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3452
+2011,E09000032,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3740
+2011,E09000032,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,273
+2011,E09000032,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),249
+2011,E09000032,All children in family non-dependent,Couple family: Cohabiting: Step-family,100
+2011,E09000032,All children in family non-dependent,Lone parent family: Male parent,809
+2011,E09000032,All children in family non-dependent,Lone parent family: Female parent,4499
+2011,E09000033,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12879
+2011,E09000033,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000033,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),8206
+2011,E09000033,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000033,Families with no children,Lone parent family: Male parent,0
+2011,E09000033,Families with no children,Lone parent family: Female parent,0
+2011,E09000033,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8447
+2011,E09000033,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,339
+2011,E09000033,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1001
+2011,E09000033,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,97
+2011,E09000033,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,397
+2011,E09000033,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,3940
+2011,E09000033,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2532
+2011,E09000033,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,187
+2011,E09000033,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),182
+2011,E09000033,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,48
+2011,E09000033,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,294
+2011,E09000033,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2555
+2011,E09000033,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),2495
+2011,E09000033,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,246
+2011,E09000033,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),176
+2011,E09000033,All children in family non-dependent,Couple family: Cohabiting: Step-family,68
+2011,E09000033,All children in family non-dependent,Lone parent family: Male parent,727
+2011,E09000033,All children in family non-dependent,Lone parent family: Female parent,3414
+2011,E09000002,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8919
+2011,E09000002,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000002,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2976
+2011,E09000002,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000002,Families with no children,Lone parent family: Male parent,0
+2011,E09000002,Families with no children,Lone parent family: Female parent,0
+2011,E09000002,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8902
+2011,E09000002,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,673
+2011,E09000002,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2281
+2011,E09000002,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,448
+2011,E09000002,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,690
+2011,E09000002,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,7526
+2011,E09000002,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3550
+2011,E09000002,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,390
+2011,E09000002,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),500
+2011,E09000002,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,185
+2011,E09000002,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,527
+2011,E09000002,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3350
+2011,E09000002,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3759
+2011,E09000002,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,357
+2011,E09000002,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),292
+2011,E09000002,All children in family non-dependent,Couple family: Cohabiting: Step-family,115
+2011,E09000002,All children in family non-dependent,Lone parent family: Male parent,769
+2011,E09000002,All children in family non-dependent,Lone parent family: Female parent,3187
+2011,E09000003,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),22988
+2011,E09000003,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000003,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),7658
+2011,E09000003,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000003,Families with no children,Lone parent family: Male parent,0
+2011,E09000003,Families with no children,Lone parent family: Female parent,0
+2011,E09000003,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),19447
+2011,E09000003,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,718
+2011,E09000003,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2348
+2011,E09000003,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,293
+2011,E09000003,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,493
+2011,E09000003,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,6515
+2011,E09000003,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8980
+2011,E09000003,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,483
+2011,E09000003,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),650
+2011,E09000003,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,155
+2011,E09000003,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,641
+2011,E09000003,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4683
+2011,E09000003,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8784
+2011,E09000003,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,519
+2011,E09000003,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),384
+2011,E09000003,All children in family non-dependent,Couple family: Cohabiting: Step-family,131
+2011,E09000003,All children in family non-dependent,Lone parent family: Male parent,1219
+2011,E09000003,All children in family non-dependent,Lone parent family: Female parent,5704
+2011,E09000004,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),17996
+2011,E09000004,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000004,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),4781
+2011,E09000004,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000004,Families with no children,Lone parent family: Male parent,0
+2011,E09000004,Families with no children,Lone parent family: Female parent,0
+2011,E09000004,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9469
+2011,E09000004,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,760
+2011,E09000004,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2915
+2011,E09000004,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,478
+2011,E09000004,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,368
+2011,E09000004,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,4998
+2011,E09000004,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6301
+2011,E09000004,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,578
+2011,E09000004,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),751
+2011,E09000004,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,244
+2011,E09000004,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,513
+2011,E09000004,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3284
+2011,E09000004,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6842
+2011,E09000004,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,626
+2011,E09000004,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),430
+2011,E09000004,All children in family non-dependent,Couple family: Cohabiting: Step-family,189
+2011,E09000004,All children in family non-dependent,Lone parent family: Male parent,1001
+2011,E09000004,All children in family non-dependent,Lone parent family: Female parent,3579
+2011,E09000005,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),15846
+2011,E09000005,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000005,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),6244
+2011,E09000005,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000005,Families with no children,Lone parent family: Male parent,0
+2011,E09000005,Families with no children,Lone parent family: Female parent,0
+2011,E09000005,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14790
+2011,E09000005,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,729
+2011,E09000005,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1859
+2011,E09000005,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,253
+2011,E09000005,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,737
+2011,E09000005,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,7242
+2011,E09000005,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6436
+2011,E09000005,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,415
+2011,E09000005,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),495
+2011,E09000005,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,115
+2011,E09000005,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,650
+2011,E09000005,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4378
+2011,E09000005,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8317
+2011,E09000005,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,458
+2011,E09000005,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),328
+2011,E09000005,All children in family non-dependent,Couple family: Cohabiting: Step-family,89
+2011,E09000005,All children in family non-dependent,Lone parent family: Male parent,1271
+2011,E09000005,All children in family non-dependent,Lone parent family: Female parent,6043
+2011,E09000006,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),26046
+2011,E09000006,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000006,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),7679
+2011,E09000006,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000006,Families with no children,Lone parent family: Male parent,0
+2011,E09000006,Families with no children,Lone parent family: Female parent,0
+2011,E09000006,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14188
+2011,E09000006,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,841
+2011,E09000006,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),3282
+2011,E09000006,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,488
+2011,E09000006,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,479
+2011,E09000006,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5831
+2011,E09000006,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8131
+2011,E09000006,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,629
+2011,E09000006,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),853
+2011,E09000006,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,276
+2011,E09000006,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,543
+2011,E09000006,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4128
+2011,E09000006,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7979
+2011,E09000006,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,677
+2011,E09000006,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),487
+2011,E09000006,All children in family non-dependent,Couple family: Cohabiting: Step-family,165
+2011,E09000006,All children in family non-dependent,Lone parent family: Male parent,1092
+2011,E09000006,All children in family non-dependent,Lone parent family: Female parent,4424
+2011,E09000008,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),22272
+2011,E09000008,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000008,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),7605
+2011,E09000008,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000008,Families with no children,Lone parent family: Male parent,0
+2011,E09000008,Families with no children,Lone parent family: Female parent,0
+2011,E09000008,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),15617
+2011,E09000008,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,1023
+2011,E09000008,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),3627
+2011,E09000008,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,649
+2011,E09000008,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,1121
+2011,E09000008,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,11601
+2011,E09000008,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8072
+2011,E09000008,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,737
+2011,E09000008,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),977
+2011,E09000008,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,313
+2011,E09000008,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,911
+2011,E09000008,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,6310
+2011,E09000008,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8596
+2011,E09000008,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,776
+2011,E09000008,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),628
+2011,E09000008,All children in family non-dependent,Couple family: Cohabiting: Step-family,205
+2011,E09000008,All children in family non-dependent,Lone parent family: Male parent,1397
+2011,E09000008,All children in family non-dependent,Lone parent family: Female parent,6419
+2011,E09000009,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),18435
+2011,E09000009,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000009,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),8000
+2011,E09000009,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000009,Families with no children,Lone parent family: Male parent,0
+2011,E09000009,Families with no children,Lone parent family: Female parent,0
+2011,E09000009,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),17951
+2011,E09000009,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,750
+2011,E09000009,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2330
+2011,E09000009,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,314
+2011,E09000009,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,648
+2011,E09000009,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,6948
+2011,E09000009,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7379
+2011,E09000009,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,408
+2011,E09000009,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),548
+2011,E09000009,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,137
+2011,E09000009,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,540
+2011,E09000009,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4273
+2011,E09000009,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8133
+2011,E09000009,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,500
+2011,E09000009,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),370
+2011,E09000009,All children in family non-dependent,Couple family: Cohabiting: Step-family,119
+2011,E09000009,All children in family non-dependent,Lone parent family: Male parent,1270
+2011,E09000009,All children in family non-dependent,Lone parent family: Female parent,5747
+2011,E09000010,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),17930
+2011,E09000010,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000010,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),5555
+2011,E09000010,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000010,Families with no children,Lone parent family: Male parent,0
+2011,E09000010,Families with no children,Lone parent family: Female parent,0
+2011,E09000010,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14681
+2011,E09000010,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,686
+2011,E09000010,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2688
+2011,E09000010,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,351
+2011,E09000010,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,760
+2011,E09000010,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,9904
+2011,E09000010,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7466
+2011,E09000010,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,495
+2011,E09000010,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),737
+2011,E09000010,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,190
+2011,E09000010,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,734
+2011,E09000010,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,5332
+2011,E09000010,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8472
+2011,E09000010,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,569
+2011,E09000010,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),415
+2011,E09000010,All children in family non-dependent,Couple family: Cohabiting: Step-family,150
+2011,E09000010,All children in family non-dependent,Lone parent family: Male parent,1242
+2011,E09000010,All children in family non-dependent,Lone parent family: Female parent,5748
+2011,E09000011,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14020
+2011,E09000011,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000011,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),6684
+2011,E09000011,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000011,Families with no children,Lone parent family: Male parent,0
+2011,E09000011,Families with no children,Lone parent family: Female parent,0
+2011,E09000011,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),10917
+2011,E09000011,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,761
+2011,E09000011,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),3039
+2011,E09000011,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,593
+2011,E09000011,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,759
+2011,E09000011,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,7419
+2011,E09000011,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4165
+2011,E09000011,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,439
+2011,E09000011,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),675
+2011,E09000011,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,204
+2011,E09000011,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,665
+2011,E09000011,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,4287
+2011,E09000011,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4617
+2011,E09000011,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,476
+2011,E09000011,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),403
+2011,E09000011,All children in family non-dependent,Couple family: Cohabiting: Step-family,140
+2011,E09000011,All children in family non-dependent,Lone parent family: Male parent,998
+2011,E09000011,All children in family non-dependent,Lone parent family: Female parent,4031
+2011,E09000015,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),17400
+2011,E09000015,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000015,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),3308
+2011,E09000015,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000015,Families with no children,Lone parent family: Male parent,0
+2011,E09000015,Families with no children,Lone parent family: Female parent,0
+2011,E09000015,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),13666
+2011,E09000015,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,542
+2011,E09000015,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1121
+2011,E09000015,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,142
+2011,E09000015,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,360
+2011,E09000015,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,3556
+2011,E09000015,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7343
+2011,E09000015,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,347
+2011,E09000015,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),395
+2011,E09000015,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,93
+2011,E09000015,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,386
+2011,E09000015,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2829
+2011,E09000015,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8301
+2011,E09000015,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,338
+2011,E09000015,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),253
+2011,E09000015,All children in family non-dependent,Couple family: Cohabiting: Step-family,72
+2011,E09000015,All children in family non-dependent,Lone parent family: Male parent,867
+2011,E09000015,All children in family non-dependent,Lone parent family: Female parent,3865
+2011,E09000016,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),20204
+2011,E09000016,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000016,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),4993
+2011,E09000016,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000016,Families with no children,Lone parent family: Male parent,0
+2011,E09000016,Families with no children,Lone parent family: Female parent,0
+2011,E09000016,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9077
+2011,E09000016,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,695
+2011,E09000016,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2608
+2011,E09000016,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,481
+2011,E09000016,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,326
+2011,E09000016,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,4576
+2011,E09000016,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6414
+2011,E09000016,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,565
+2011,E09000016,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),732
+2011,E09000016,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,281
+2011,E09000016,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,444
+2011,E09000016,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3028
+2011,E09000016,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7915
+2011,E09000016,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,596
+2011,E09000016,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),456
+2011,E09000016,All children in family non-dependent,Couple family: Cohabiting: Step-family,160
+2011,E09000016,All children in family non-dependent,Lone parent family: Male parent,1003
+2011,E09000016,All children in family non-dependent,Lone parent family: Female parent,3761
+2011,E09000017,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),18311
+2011,E09000017,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000017,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),5300
+2011,E09000017,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000017,Families with no children,Lone parent family: Male parent,0
+2011,E09000017,Families with no children,Lone parent family: Female parent,0
+2011,E09000017,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),13713
+2011,E09000017,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,742
+2011,E09000017,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2418
+2011,E09000017,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,392
+2011,E09000017,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,476
+2011,E09000017,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5685
+2011,E09000017,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6807
+2011,E09000017,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,568
+2011,E09000017,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),652
+2011,E09000017,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,234
+2011,E09000017,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,540
+2011,E09000017,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3671
+2011,E09000017,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7347
+2011,E09000017,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,568
+2011,E09000017,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),444
+2011,E09000017,All children in family non-dependent,Couple family: Cohabiting: Step-family,145
+2011,E09000017,All children in family non-dependent,Lone parent family: Male parent,1094
+2011,E09000017,All children in family non-dependent,Lone parent family: Female parent,4097
+2011,E09000018,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),15333
+2011,E09000018,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000018,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),5939
+2011,E09000018,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000018,Families with no children,Lone parent family: Male parent,0
+2011,E09000018,Families with no children,Lone parent family: Female parent,0
+2011,E09000018,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),13574
+2011,E09000018,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,594
+2011,E09000018,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2098
+2011,E09000018,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,315
+2011,E09000018,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,548
+2011,E09000018,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5338
+2011,E09000018,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),5518
+2011,E09000018,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,415
+2011,E09000018,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),522
+2011,E09000018,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,151
+2011,E09000018,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,524
+2011,E09000018,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3283
+2011,E09000018,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),6378
+2011,E09000018,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,482
+2011,E09000018,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),375
+2011,E09000018,All children in family non-dependent,Couple family: Cohabiting: Step-family,136
+2011,E09000018,All children in family non-dependent,Lone parent family: Male parent,1087
+2011,E09000018,All children in family non-dependent,Lone parent family: Female parent,4189
+2011,E09000021,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),11261
+2011,E09000021,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000021,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),4717
+2011,E09000021,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000021,Families with no children,Lone parent family: Male parent,0
+2011,E09000021,Families with no children,Lone parent family: Female parent,0
+2011,E09000021,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8740
+2011,E09000021,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,355
+2011,E09000021,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1394
+2011,E09000021,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,196
+2011,E09000021,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,195
+2011,E09000021,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,2183
+2011,E09000021,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4062
+2011,E09000021,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,253
+2011,E09000021,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),350
+2011,E09000021,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,100
+2011,E09000021,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,268
+2011,E09000021,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,1561
+2011,E09000021,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3653
+2011,E09000021,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,278
+2011,E09000021,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),198
+2011,E09000021,All children in family non-dependent,Couple family: Cohabiting: Step-family,69
+2011,E09000021,All children in family non-dependent,Lone parent family: Male parent,462
+2011,E09000021,All children in family non-dependent,Lone parent family: Female parent,1981
+2011,E09000024,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),13303
+2011,E09000024,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000024,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),6364
+2011,E09000024,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000024,Families with no children,Lone parent family: Male parent,0
+2011,E09000024,Families with no children,Lone parent family: Female parent,0
+2011,E09000024,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),10901
+2011,E09000024,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,423
+2011,E09000024,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1646
+2011,E09000024,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,223
+2011,E09000024,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,237
+2011,E09000024,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,3473
+2011,E09000024,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4398
+2011,E09000024,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,309
+2011,E09000024,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),487
+2011,E09000024,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,114
+2011,E09000024,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,300
+2011,E09000024,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2415
+2011,E09000024,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4286
+2011,E09000024,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,304
+2011,E09000024,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),246
+2011,E09000024,All children in family non-dependent,Couple family: Cohabiting: Step-family,84
+2011,E09000024,All children in family non-dependent,Lone parent family: Male parent,672
+2011,E09000024,All children in family non-dependent,Lone parent family: Female parent,3038
+2011,E09000026,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),16959
+2011,E09000026,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000026,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),4386
+2011,E09000026,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000026,Families with no children,Lone parent family: Male parent,0
+2011,E09000026,Families with no children,Lone parent family: Female parent,0
+2011,E09000026,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),16433
+2011,E09000026,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,661
+2011,E09000026,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1746
+2011,E09000026,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,267
+2011,E09000026,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,595
+2011,E09000026,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,5970
+2011,E09000026,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),7611
+2011,E09000026,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,423
+2011,E09000026,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),533
+2011,E09000026,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,132
+2011,E09000026,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,477
+2011,E09000026,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3506
+2011,E09000026,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),8047
+2011,E09000026,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,438
+2011,E09000026,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),301
+2011,E09000026,All children in family non-dependent,Couple family: Cohabiting: Step-family,100
+2011,E09000026,All children in family non-dependent,Lone parent family: Male parent,891
+2011,E09000026,All children in family non-dependent,Lone parent family: Female parent,4045
+2011,E09000027,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14040
+2011,E09000027,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000027,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),6475
+2011,E09000027,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000027,Families with no children,Lone parent family: Male parent,0
+2011,E09000027,Families with no children,Lone parent family: Female parent,0
+2011,E09000027,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),11368
+2011,E09000027,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,300
+2011,E09000027,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),1854
+2011,E09000027,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,187
+2011,E09000027,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,225
+2011,E09000027,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,2251
+2011,E09000027,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4659
+2011,E09000027,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,244
+2011,E09000027,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),416
+2011,E09000027,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,96
+2011,E09000027,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,235
+2011,E09000027,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,1731
+2011,E09000027,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),3514
+2011,E09000027,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,278
+2011,E09000027,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),197
+2011,E09000027,All children in family non-dependent,Couple family: Cohabiting: Step-family,64
+2011,E09000027,All children in family non-dependent,Lone parent family: Male parent,505
+2011,E09000027,All children in family non-dependent,Lone parent family: Female parent,2240
+2011,E09000029,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),14148
+2011,E09000029,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000029,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),4790
+2011,E09000029,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000029,Families with no children,Lone parent family: Male parent,0
+2011,E09000029,Families with no children,Lone parent family: Female parent,0
+2011,E09000029,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),9285
+2011,E09000029,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,505
+2011,E09000029,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2155
+2011,E09000029,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,343
+2011,E09000029,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,234
+2011,E09000029,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,3396
+2011,E09000029,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),5277
+2011,E09000029,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,500
+2011,E09000029,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),620
+2011,E09000029,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,172
+2011,E09000029,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,375
+2011,E09000029,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,2463
+2011,E09000029,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4898
+2011,E09000029,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,435
+2011,E09000029,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),295
+2011,E09000029,All children in family non-dependent,Couple family: Cohabiting: Step-family,142
+2011,E09000029,All children in family non-dependent,Lone parent family: Male parent,752
+2011,E09000029,All children in family non-dependent,Lone parent family: Female parent,2688
+2011,E09000031,Families with no children,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12990
+2011,E09000031,Families with no children,Couple family: Married or same-sex civil partnership: Step-family,0
+2011,E09000031,Families with no children,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),6592
+2011,E09000031,Families with no children,Couple family: Cohabiting: Step-family,0
+2011,E09000031,Families with no children,Lone parent family: Male parent,0
+2011,E09000031,Families with no children,Lone parent family: Female parent,0
+2011,E09000031,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),12498
+2011,E09000031,Youngest dependent child: Age 0 to 9,Couple family: Married or same-sex civil partnership: Step-family,641
+2011,E09000031,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),2923
+2011,E09000031,Youngest dependent child: Age 0 to 9,Couple family: Cohabiting: Step-family,359
+2011,E09000031,Youngest dependent child: Age 0 to 9,Lone parent family: Male parent,636
+2011,E09000031,Youngest dependent child: Age 0 to 9,Lone parent family: Female parent,6464
+2011,E09000031,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),4693
+2011,E09000031,Youngest dependent child: Age 10 to 18,Couple family: Married or same-sex civil partnership: Step-family,355
+2011,E09000031,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),623
+2011,E09000031,Youngest dependent child: Age 10 to 18,Couple family: Cohabiting: Step-family,151
+2011,E09000031,Youngest dependent child: Age 10 to 18,Lone parent family: Male parent,475
+2011,E09000031,Youngest dependent child: Age 10 to 18,Lone parent family: Female parent,3979
+2011,E09000031,All children in family non-dependent,Couple family: Married or same-sex civil partnership: No children or non step-family (all children belong to both members of the couple),5223
+2011,E09000031,All children in family non-dependent,Couple family: Married or same-sex civil partnership: Step-family,437
+2011,E09000031,All children in family non-dependent,Couple family: Cohabiting: No children or non step-family (all children belong to both members of the couple),378
+2011,E09000031,All children in family non-dependent,Couple family: Cohabiting: Step-family,151
+2011,E09000031,All children in family non-dependent,Lone parent family: Male parent,972
+2011,E09000031,All children in family non-dependent,Lone parent family: Female parent,4427

@@ -1,0 +1,364 @@
+date,geography_code,cell_name,obs_value
+2011,E09000007,All families in households,48340
+2011,E09000007,No dependent children in family,26816
+2011,E09000007,One dependent child in family aged 0 to 4,4286
+2011,E09000007,One dependent child in family aged 5 to 11,2324
+2011,E09000007,One dependent child in family aged 12 to 18,3267
+2011,E09000007,Two dependent children in family; youngest aged 0 to 4,3561
+2011,E09000007,Two dependent children in family; youngest aged 5 to 11,2688
+2011,E09000007,Two dependent children in family; youngest aged 12 to 18,1219
+2011,E09000007,Three or more dependent children in family; youngest aged 0 to 4,2402
+2011,E09000007,Three or more dependent children in family; youngest aged 5 to 11,1582
+2011,E09000007,Three or more dependent children in family; youngest aged 12 to 18,195
+2011,E09000001,All families in households,1609
+2011,E09000001,No dependent children in family,1178
+2011,E09000001,One dependent child in family aged 0 to 4,115
+2011,E09000001,One dependent child in family aged 5 to 11,71
+2011,E09000001,One dependent child in family aged 12 to 18,82
+2011,E09000001,Two dependent children in family; youngest aged 0 to 4,59
+2011,E09000001,Two dependent children in family; youngest aged 5 to 11,48
+2011,E09000001,Two dependent children in family; youngest aged 12 to 18,18
+2011,E09000001,Three or more dependent children in family; youngest aged 0 to 4,19
+2011,E09000001,Three or more dependent children in family; youngest aged 5 to 11,18
+2011,E09000001,Three or more dependent children in family; youngest aged 12 to 18,1
+2011,E09000012,All families in households,55116
+2011,E09000012,No dependent children in family,26041
+2011,E09000012,One dependent child in family aged 0 to 4,5802
+2011,E09000012,One dependent child in family aged 5 to 11,3367
+2011,E09000012,One dependent child in family aged 12 to 18,4502
+2011,E09000012,Two dependent children in family; youngest aged 0 to 4,4243
+2011,E09000012,Two dependent children in family; youngest aged 5 to 11,3102
+2011,E09000012,Two dependent children in family; youngest aged 12 to 18,1427
+2011,E09000012,Three or more dependent children in family; youngest aged 0 to 4,4074
+2011,E09000012,Three or more dependent children in family; youngest aged 5 to 11,2211
+2011,E09000012,Three or more dependent children in family; youngest aged 12 to 18,347
+2011,E09000013,All families in households,41032
+2011,E09000013,No dependent children in family,22612
+2011,E09000013,One dependent child in family aged 0 to 4,3968
+2011,E09000013,One dependent child in family aged 5 to 11,1998
+2011,E09000013,One dependent child in family aged 12 to 18,2904
+2011,E09000013,Two dependent children in family; youngest aged 0 to 4,3133
+2011,E09000013,Two dependent children in family; youngest aged 5 to 11,2112
+2011,E09000013,Two dependent children in family; youngest aged 12 to 18,1033
+2011,E09000013,Three or more dependent children in family; youngest aged 0 to 4,1893
+2011,E09000013,Three or more dependent children in family; youngest aged 5 to 11,1210
+2011,E09000013,Three or more dependent children in family; youngest aged 12 to 18,169
+2011,E09000014,All families in households,62450
+2011,E09000014,No dependent children in family,30516
+2011,E09000014,One dependent child in family aged 0 to 4,6180
+2011,E09000014,One dependent child in family aged 5 to 11,4028
+2011,E09000014,One dependent child in family aged 12 to 18,5534
+2011,E09000014,Two dependent children in family; youngest aged 0 to 4,4427
+2011,E09000014,Two dependent children in family; youngest aged 5 to 11,3778
+2011,E09000014,Two dependent children in family; youngest aged 12 to 18,1810
+2011,E09000014,Three or more dependent children in family; youngest aged 0 to 4,3456
+2011,E09000014,Three or more dependent children in family; youngest aged 5 to 11,2411
+2011,E09000014,Three or more dependent children in family; youngest aged 12 to 18,310
+2011,E09000019,All families in households,47398
+2011,E09000019,No dependent children in family,26550
+2011,E09000019,One dependent child in family aged 0 to 4,4334
+2011,E09000019,One dependent child in family aged 5 to 11,2725
+2011,E09000019,One dependent child in family aged 12 to 18,3623
+2011,E09000019,Two dependent children in family; youngest aged 0 to 4,3107
+2011,E09000019,Two dependent children in family; youngest aged 5 to 11,2364
+2011,E09000019,Two dependent children in family; youngest aged 12 to 18,1122
+2011,E09000019,Three or more dependent children in family; youngest aged 0 to 4,2088
+2011,E09000019,Three or more dependent children in family; youngest aged 5 to 11,1275
+2011,E09000019,Three or more dependent children in family; youngest aged 12 to 18,210
+2011,E09000020,All families in households,36511
+2011,E09000020,No dependent children in family,21275
+2011,E09000020,One dependent child in family aged 0 to 4,2942
+2011,E09000020,One dependent child in family aged 5 to 11,1787
+2011,E09000020,One dependent child in family aged 12 to 18,2397
+2011,E09000020,Two dependent children in family; youngest aged 0 to 4,2564
+2011,E09000020,Two dependent children in family; youngest aged 5 to 11,2015
+2011,E09000020,Two dependent children in family; youngest aged 12 to 18,851
+2011,E09000020,Three or more dependent children in family; youngest aged 0 to 4,1505
+2011,E09000020,Three or more dependent children in family; youngest aged 5 to 11,1030
+2011,E09000020,Three or more dependent children in family; youngest aged 12 to 18,145
+2011,E09000022,All families in households,70374
+2011,E09000022,No dependent children in family,35654
+2011,E09000022,One dependent child in family aged 0 to 4,7425
+2011,E09000022,One dependent child in family aged 5 to 11,4576
+2011,E09000022,One dependent child in family aged 12 to 18,5794
+2011,E09000022,Two dependent children in family; youngest aged 0 to 4,5160
+2011,E09000022,Two dependent children in family; youngest aged 5 to 11,3928
+2011,E09000022,Two dependent children in family; youngest aged 12 to 18,1846
+2011,E09000022,Three or more dependent children in family; youngest aged 0 to 4,3516
+2011,E09000022,Three or more dependent children in family; youngest aged 5 to 11,2169
+2011,E09000022,Three or more dependent children in family; youngest aged 12 to 18,306
+2011,E09000023,All families in households,69513
+2011,E09000023,No dependent children in family,32773
+2011,E09000023,One dependent child in family aged 0 to 4,7473
+2011,E09000023,One dependent child in family aged 5 to 11,4887
+2011,E09000023,One dependent child in family aged 12 to 18,6211
+2011,E09000023,Two dependent children in family; youngest aged 0 to 4,6039
+2011,E09000023,Two dependent children in family; youngest aged 5 to 11,4326
+2011,E09000023,Two dependent children in family; youngest aged 12 to 18,1956
+2011,E09000023,Three or more dependent children in family; youngest aged 0 to 4,3507
+2011,E09000023,Three or more dependent children in family; youngest aged 5 to 11,2047
+2011,E09000023,Three or more dependent children in family; youngest aged 12 to 18,294
+2011,E09000025,All families in households,70307
+2011,E09000025,No dependent children in family,30186
+2011,E09000025,One dependent child in family aged 0 to 4,7737
+2011,E09000025,One dependent child in family aged 5 to 11,4118
+2011,E09000025,One dependent child in family aged 12 to 18,6230
+2011,E09000025,Two dependent children in family; youngest aged 0 to 4,5859
+2011,E09000025,Two dependent children in family; youngest aged 5 to 11,4092
+2011,E09000025,Two dependent children in family; youngest aged 12 to 18,2168
+2011,E09000025,Three or more dependent children in family; youngest aged 0 to 4,5653
+2011,E09000025,Three or more dependent children in family; youngest aged 5 to 11,3709
+2011,E09000025,Three or more dependent children in family; youngest aged 12 to 18,555
+2011,E09000028,All families in households,68186
+2011,E09000028,No dependent children in family,34211
+2011,E09000028,One dependent child in family aged 0 to 4,7575
+2011,E09000028,One dependent child in family aged 5 to 11,4320
+2011,E09000028,One dependent child in family aged 12 to 18,5544
+2011,E09000028,Two dependent children in family; youngest aged 0 to 4,5119
+2011,E09000028,Two dependent children in family; youngest aged 5 to 11,3699
+2011,E09000028,Two dependent children in family; youngest aged 12 to 18,1785
+2011,E09000028,Three or more dependent children in family; youngest aged 0 to 4,3412
+2011,E09000028,Three or more dependent children in family; youngest aged 5 to 11,2227
+2011,E09000028,Three or more dependent children in family; youngest aged 12 to 18,294
+2011,E09000030,All families in households,54225
+2011,E09000030,No dependent children in family,27097
+2011,E09000030,One dependent child in family aged 0 to 4,5729
+2011,E09000030,One dependent child in family aged 5 to 11,2533
+2011,E09000030,One dependent child in family aged 12 to 18,3247
+2011,E09000030,Two dependent children in family; youngest aged 0 to 4,4285
+2011,E09000030,Two dependent children in family; youngest aged 5 to 11,2482
+2011,E09000030,Two dependent children in family; youngest aged 12 to 18,1154
+2011,E09000030,Three or more dependent children in family; youngest aged 0 to 4,4597
+2011,E09000030,Three or more dependent children in family; youngest aged 5 to 11,2782
+2011,E09000030,Three or more dependent children in family; youngest aged 12 to 18,319
+2011,E09000032,All families in households,72873
+2011,E09000032,No dependent children in family,41281
+2011,E09000032,One dependent child in family aged 0 to 4,7461
+2011,E09000032,One dependent child in family aged 5 to 11,3268
+2011,E09000032,One dependent child in family aged 12 to 18,4436
+2011,E09000032,Two dependent children in family; youngest aged 0 to 4,5769
+2011,E09000032,Two dependent children in family; youngest aged 5 to 11,3561
+2011,E09000032,Two dependent children in family; youngest aged 12 to 18,1625
+2011,E09000032,Three or more dependent children in family; youngest aged 0 to 4,3114
+2011,E09000032,Three or more dependent children in family; youngest aged 5 to 11,2058
+2011,E09000032,Three or more dependent children in family; youngest aged 12 to 18,300
+2011,E09000033,All families in households,48230
+2011,E09000033,No dependent children in family,28211
+2011,E09000033,One dependent child in family aged 0 to 4,4319
+2011,E09000033,One dependent child in family aged 5 to 11,2176
+2011,E09000033,One dependent child in family aged 12 to 18,3106
+2011,E09000033,Two dependent children in family; youngest aged 0 to 4,3161
+2011,E09000033,Two dependent children in family; youngest aged 5 to 11,2318
+2011,E09000033,Two dependent children in family; youngest aged 12 to 18,1038
+2011,E09000033,Three or more dependent children in family; youngest aged 0 to 4,2223
+2011,E09000033,Three or more dependent children in family; youngest aged 5 to 11,1491
+2011,E09000033,Three or more dependent children in family; youngest aged 12 to 18,187
+2011,E09000002,All families in households,49396
+2011,E09000002,No dependent children in family,20374
+2011,E09000002,One dependent child in family aged 0 to 4,5660
+2011,E09000002,One dependent child in family aged 5 to 11,2987
+2011,E09000002,One dependent child in family aged 12 to 18,4576
+2011,E09000002,Two dependent children in family; youngest aged 0 to 4,4816
+2011,E09000002,Two dependent children in family; youngest aged 5 to 11,3310
+2011,E09000002,Two dependent children in family; youngest aged 12 to 18,1710
+2011,E09000002,Three or more dependent children in family; youngest aged 0 to 4,3707
+2011,E09000002,Three or more dependent children in family; youngest aged 5 to 11,1974
+2011,E09000002,Three or more dependent children in family; youngest aged 12 to 18,282
+2011,E09000003,All families in households,92793
+2011,E09000003,No dependent children in family,47387
+2011,E09000003,One dependent child in family aged 0 to 4,7782
+2011,E09000003,One dependent child in family aged 5 to 11,4245
+2011,E09000003,One dependent child in family aged 12 to 18,7926
+2011,E09000003,Two dependent children in family; youngest aged 0 to 4,7007
+2011,E09000003,Two dependent children in family; youngest aged 5 to 11,6198
+2011,E09000003,Two dependent children in family; youngest aged 12 to 18,3465
+2011,E09000003,Three or more dependent children in family; youngest aged 0 to 4,4963
+2011,E09000003,Three or more dependent children in family; youngest aged 5 to 11,3270
+2011,E09000003,Three or more dependent children in family; youngest aged 12 to 18,550
+2011,E09000004,All families in households,66103
+2011,E09000004,No dependent children in family,35444
+2011,E09000004,One dependent child in family aged 0 to 4,4806
+2011,E09000004,One dependent child in family aged 5 to 11,2912
+2011,E09000004,One dependent child in family aged 12 to 18,5897
+2011,E09000004,Two dependent children in family; youngest aged 0 to 4,4531
+2011,E09000004,Two dependent children in family; youngest aged 5 to 11,4840
+2011,E09000004,Two dependent children in family; youngest aged 12 to 18,2656
+2011,E09000004,Three or more dependent children in family; youngest aged 0 to 4,2626
+2011,E09000004,Three or more dependent children in family; youngest aged 5 to 11,2036
+2011,E09000004,Three or more dependent children in family; youngest aged 12 to 18,355
+2011,E09000005,All families in households,76695
+2011,E09000005,No dependent children in family,38596
+2011,E09000005,One dependent child in family aged 0 to 4,7123
+2011,E09000005,One dependent child in family aged 5 to 11,4026
+2011,E09000005,One dependent child in family aged 12 to 18,6697
+2011,E09000005,Two dependent children in family; youngest aged 0 to 4,5469
+2011,E09000005,Two dependent children in family; youngest aged 5 to 11,4518
+2011,E09000005,Two dependent children in family; youngest aged 12 to 18,2380
+2011,E09000005,Three or more dependent children in family; youngest aged 0 to 4,4490
+2011,E09000005,Three or more dependent children in family; youngest aged 5 to 11,2955
+2011,E09000005,Three or more dependent children in family; youngest aged 12 to 18,441
+2011,E09000006,All families in households,88218
+2011,E09000006,No dependent children in family,48549
+2011,E09000006,One dependent child in family aged 0 to 4,6673
+2011,E09000006,One dependent child in family aged 5 to 11,4005
+2011,E09000006,One dependent child in family aged 12 to 18,7143
+2011,E09000006,Two dependent children in family; youngest aged 0 to 4,6153
+2011,E09000006,Two dependent children in family; youngest aged 5 to 11,6311
+2011,E09000006,Two dependent children in family; youngest aged 12 to 18,3472
+2011,E09000006,Three or more dependent children in family; youngest aged 0 to 4,2924
+2011,E09000006,Three or more dependent children in family; youngest aged 5 to 11,2538
+2011,E09000006,Three or more dependent children in family; youngest aged 12 to 18,450
+2011,E09000008,All families in households,98856
+2011,E09000008,No dependent children in family,47898
+2011,E09000008,One dependent child in family aged 0 to 4,9785
+2011,E09000008,One dependent child in family aged 5 to 11,6052
+2011,E09000008,One dependent child in family aged 12 to 18,9017
+2011,E09000008,Two dependent children in family; youngest aged 0 to 4,7567
+2011,E09000008,Two dependent children in family; youngest aged 5 to 11,6594
+2011,E09000008,Two dependent children in family; youngest aged 12 to 18,3564
+2011,E09000008,Three or more dependent children in family; youngest aged 0 to 4,4692
+2011,E09000008,Three or more dependent children in family; youngest aged 5 to 11,3195
+2011,E09000008,Three or more dependent children in family; youngest aged 12 to 18,492
+2011,E09000009,All families in households,84800
+2011,E09000009,No dependent children in family,42574
+2011,E09000009,One dependent child in family aged 0 to 4,8223
+2011,E09000009,One dependent child in family aged 5 to 11,4223
+2011,E09000009,One dependent child in family aged 12 to 18,6758
+2011,E09000009,Two dependent children in family; youngest aged 0 to 4,6819
+2011,E09000009,Two dependent children in family; youngest aged 5 to 11,5432
+2011,E09000009,Two dependent children in family; youngest aged 12 to 18,2846
+2011,E09000009,Three or more dependent children in family; youngest aged 0 to 4,4380
+2011,E09000009,Three or more dependent children in family; youngest aged 5 to 11,3010
+2011,E09000009,Three or more dependent children in family; youngest aged 12 to 18,535
+2011,E09000010,All families in households,84105
+2011,E09000010,No dependent children in family,40081
+2011,E09000010,One dependent child in family aged 0 to 4,7668
+2011,E09000010,One dependent child in family aged 5 to 11,4652
+2011,E09000010,One dependent child in family aged 12 to 18,7894
+2011,E09000010,Two dependent children in family; youngest aged 0 to 4,6613
+2011,E09000010,Two dependent children in family; youngest aged 5 to 11,5968
+2011,E09000010,Two dependent children in family; youngest aged 12 to 18,3116
+2011,E09000010,Three or more dependent children in family; youngest aged 0 to 4,4582
+2011,E09000010,Three or more dependent children in family; youngest aged 5 to 11,3053
+2011,E09000010,Three or more dependent children in family; youngest aged 12 to 18,478
+2011,E09000011,All families in households,65292
+2011,E09000011,No dependent children in family,31369
+2011,E09000011,One dependent child in family aged 0 to 4,6750
+2011,E09000011,One dependent child in family aged 5 to 11,3808
+2011,E09000011,One dependent child in family aged 12 to 18,5462
+2011,E09000011,Two dependent children in family; youngest aged 0 to 4,5604
+2011,E09000011,Two dependent children in family; youngest aged 5 to 11,3908
+2011,E09000011,Two dependent children in family; youngest aged 12 to 18,2009
+2011,E09000011,Three or more dependent children in family; youngest aged 0 to 4,3739
+2011,E09000011,Three or more dependent children in family; youngest aged 5 to 11,2281
+2011,E09000011,Three or more dependent children in family; youngest aged 12 to 18,362
+2011,E09000015,All families in households,65184
+2011,E09000015,No dependent children in family,34404
+2011,E09000015,One dependent child in family aged 0 to 4,5207
+2011,E09000015,One dependent child in family aged 5 to 11,2963
+2011,E09000015,One dependent child in family aged 12 to 18,5791
+2011,E09000015,Two dependent children in family; youngest aged 0 to 4,4480
+2011,E09000015,Two dependent children in family; youngest aged 5 to 11,4444
+2011,E09000015,Two dependent children in family; youngest aged 12 to 18,2617
+2011,E09000015,Three or more dependent children in family; youngest aged 0 to 4,2701
+2011,E09000015,Three or more dependent children in family; youngest aged 5 to 11,2184
+2011,E09000015,Three or more dependent children in family; youngest aged 12 to 18,393
+2011,E09000016,All families in households,68315
+2011,E09000016,No dependent children in family,39088
+2011,E09000016,One dependent child in family aged 0 to 4,4457
+2011,E09000016,One dependent child in family aged 5 to 11,2873
+2011,E09000016,One dependent child in family aged 12 to 18,5861
+2011,E09000016,Two dependent children in family; youngest aged 0 to 4,4199
+2011,E09000016,Two dependent children in family; youngest aged 5 to 11,4583
+2011,E09000016,Two dependent children in family; youngest aged 12 to 18,2683
+2011,E09000016,Three or more dependent children in family; youngest aged 0 to 4,2257
+2011,E09000016,Three or more dependent children in family; youngest aged 5 to 11,1977
+2011,E09000016,Three or more dependent children in family; youngest aged 12 to 18,337
+2011,E09000017,All families in households,73204
+2011,E09000017,No dependent children in family,37306
+2011,E09000017,One dependent child in family aged 0 to 4,6256
+2011,E09000017,One dependent child in family aged 5 to 11,3642
+2011,E09000017,One dependent child in family aged 12 to 18,6316
+2011,E09000017,Two dependent children in family; youngest aged 0 to 4,5601
+2011,E09000017,Two dependent children in family; youngest aged 5 to 11,5083
+2011,E09000017,Two dependent children in family; youngest aged 12 to 18,2785
+2011,E09000017,Three or more dependent children in family; youngest aged 0 to 4,3350
+2011,E09000017,Three or more dependent children in family; youngest aged 5 to 11,2418
+2011,E09000017,Three or more dependent children in family; youngest aged 12 to 18,447
+2011,E09000018,All families in households,66799
+2011,E09000018,No dependent children in family,33919
+2011,E09000018,One dependent child in family aged 0 to 4,7086
+2011,E09000018,One dependent child in family aged 5 to 11,3428
+2011,E09000018,One dependent child in family aged 12 to 18,5457
+2011,E09000018,Two dependent children in family; youngest aged 0 to 4,5321
+2011,E09000018,Two dependent children in family; youngest aged 5 to 11,3955
+2011,E09000018,Two dependent children in family; youngest aged 12 to 18,2153
+2011,E09000018,Three or more dependent children in family; youngest aged 0 to 4,3070
+2011,E09000018,Three or more dependent children in family; youngest aged 5 to 11,2038
+2011,E09000018,Three or more dependent children in family; youngest aged 12 to 18,372
+2011,E09000021,All families in households,42276
+2011,E09000021,No dependent children in family,22619
+2011,E09000021,One dependent child in family aged 0 to 4,3747
+2011,E09000021,One dependent child in family aged 5 to 11,1872
+2011,E09000021,One dependent child in family aged 12 to 18,3230
+2011,E09000021,Two dependent children in family; youngest aged 0 to 4,3393
+2011,E09000021,Two dependent children in family; youngest aged 5 to 11,3013
+2011,E09000021,Two dependent children in family; youngest aged 12 to 18,1572
+2011,E09000021,Three or more dependent children in family; youngest aged 0 to 4,1436
+2011,E09000021,Three or more dependent children in family; youngest aged 5 to 11,1163
+2011,E09000021,Three or more dependent children in family; youngest aged 12 to 18,231
+2011,E09000024,All families in households,53223
+2011,E09000024,No dependent children in family,28297
+2011,E09000024,One dependent child in family aged 0 to 4,5004
+2011,E09000024,One dependent child in family aged 5 to 11,2441
+2011,E09000024,One dependent child in family aged 12 to 18,4009
+2011,E09000024,Two dependent children in family; youngest aged 0 to 4,4281
+2011,E09000024,Two dependent children in family; youngest aged 5 to 11,3396
+2011,E09000024,Two dependent children in family; youngest aged 12 to 18,1775
+2011,E09000024,Three or more dependent children in family; youngest aged 0 to 4,2171
+2011,E09000024,Three or more dependent children in family; youngest aged 5 to 11,1561
+2011,E09000024,Three or more dependent children in family; youngest aged 12 to 18,288
+2011,E09000026,All families in households,73521
+2011,E09000026,No dependent children in family,35167
+2011,E09000026,One dependent child in family aged 0 to 4,6849
+2011,E09000026,One dependent child in family aged 5 to 11,3433
+2011,E09000026,One dependent child in family aged 12 to 18,6321
+2011,E09000026,Two dependent children in family; youngest aged 0 to 4,5887
+2011,E09000026,Two dependent children in family; youngest aged 5 to 11,5291
+2011,E09000026,Two dependent children in family; youngest aged 12 to 18,2829
+2011,E09000026,Three or more dependent children in family; youngest aged 0 to 4,4131
+2011,E09000026,Three or more dependent children in family; youngest aged 5 to 11,3084
+2011,E09000026,Three or more dependent children in family; youngest aged 12 to 18,529
+2011,E09000027,All families in households,50879
+2011,E09000027,No dependent children in family,27313
+2011,E09000027,One dependent child in family aged 0 to 4,4681
+2011,E09000027,One dependent child in family aged 5 to 11,2224
+2011,E09000027,One dependent child in family aged 12 to 18,3410
+2011,E09000027,Two dependent children in family; youngest aged 0 to 4,4390
+2011,E09000027,Two dependent children in family; youngest aged 5 to 11,3660
+2011,E09000027,Two dependent children in family; youngest aged 12 to 18,1840
+2011,E09000027,Three or more dependent children in family; youngest aged 0 to 4,1685
+2011,E09000027,Three or more dependent children in family; youngest aged 5 to 11,1446
+2011,E09000027,Three or more dependent children in family; youngest aged 12 to 18,230
+2011,E09000029,All families in households,53473
+2011,E09000029,No dependent children in family,28148
+2011,E09000029,One dependent child in family aged 0 to 4,4454
+2011,E09000029,One dependent child in family aged 5 to 11,2437
+2011,E09000029,One dependent child in family aged 12 to 18,4778
+2011,E09000029,Two dependent children in family; youngest aged 0 to 4,3943
+2011,E09000029,Two dependent children in family; youngest aged 5 to 11,3903
+2011,E09000029,Two dependent children in family; youngest aged 12 to 18,2192
+2011,E09000029,Three or more dependent children in family; youngest aged 0 to 4,1828
+2011,E09000029,Three or more dependent children in family; youngest aged 5 to 11,1507
+2011,E09000029,Three or more dependent children in family; youngest aged 12 to 18,283
+2011,E09000031,All families in households,64967
+2011,E09000031,No dependent children in family,31170
+2011,E09000031,One dependent child in family aged 0 to 4,6814
+2011,E09000031,One dependent child in family aged 5 to 11,3695
+2011,E09000031,One dependent child in family aged 12 to 18,5416
+2011,E09000031,Two dependent children in family; youngest aged 0 to 4,5253
+2011,E09000031,Two dependent children in family; youngest aged 5 to 11,3998
+2011,E09000031,Two dependent children in family; youngest aged 12 to 18,2016
+2011,E09000031,Three or more dependent children in family; youngest aged 0 to 4,3921
+2011,E09000031,Three or more dependent children in family; youngest aged 5 to 11,2325
+2011,E09000031,Three or more dependent children in family; youngest aged 12 to 18,359

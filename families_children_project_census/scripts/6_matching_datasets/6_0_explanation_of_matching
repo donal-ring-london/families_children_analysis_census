@@ -1,0 +1,15 @@
+This folder contains scripts that match census datasets from Census 2001, Census 2011, and Census 2021. 
+
+It is a limited set of procedures, repeated again and again, so it should be written in functions. It is currently not written in functions, because it was initially going to be just a few datasets and it wouldn't have been worth the overhead of writing functions and setting everything up properly. In time, this should be rewritten as a set of functions being deployed, but for now it's all written manually in code that looks very similar from one file to the next. 
+
+Instead of commenting each of the files in detail, this file will contain an overall explanation of the process of matching a dataset between the three census periods.
+
+(1) Each of the files begin, as standard, by setting up the libraries needed and reading in the datasets that we're planning to match. 
+
+(2) For each variable, the categories in each year will be matched to common categories that fit across all census years for that variable. It is done first for 2001 (unless there is no matching 2001 dataset), then for 2011, then for 2021. For each year, a data.table is created that contains a lookup from the originial categories to the new, common categories. This lookup is then joined onto the dataset and the original categories are removed, leaving only the new categories. Finally, the new categories are aggregated and summed, because often we need to put categories together.
+  (2.1.) The household composition variable, which appears in most datasets, in a special case. The procedure is mostly the same, but we only keep either households with dependent children or couple/lone parent families without dependent children (either one or the other, not both). The categories that fall under this new category will be aggregated to a single category. 
+    (2.1.1.) as yet another special note, some datasets treat household composition differently. Instead of matching them in a lookup, joining and then aggregating, some simply select only those categories in household composition that we want to keep, rename them (e.g. to "Households with dependent children"), and then aggregate them. The end effect is the same. 
+
+(3) step 2 is repeated for as many variables as needed (usually just 2, sometimes three). The datasets from 2001, 2011, and 2021 now all have the same variables with the same categories. They are joined on those variables. We now have datasets that are matched from 2001 to 2011 to 2021. 
+
+

@@ -1,0 +1,694 @@
+date,geography_code,c2021_hhcomp_15_name,obs_value
+2021,E09000001,One-person household,2506
+2021,E09000001,One-person household: Aged 66 years and over,494
+2021,E09000001,One-person household: Other,2012
+2021,E09000001,Single family household,1983
+2021,E09000001,Single family household: All aged 66 years and over,201
+2021,E09000001,Single family household: Married or civil partnership couple,846
+2021,E09000001,Single family household: Married or civil partnership couple: No children,523
+2021,E09000001,Single family household: Married or civil partnership couple: Dependent children,253
+2021,E09000001,Single family household: Married or civil partnership couple: All children non-dependent,70
+2021,E09000001,Single family household: Cohabiting couple family,665
+2021,E09000001,Single family household: Cohabiting couple family: No children,598
+2021,E09000001,Single family household: Cohabiting couple family: With dependent children,57
+2021,E09000001,Single family household: Cohabiting couple family: All children non-dependent,10
+2021,E09000001,Single family household: Lone parent family,175
+2021,E09000001,Single family household: Lone parent family: With dependent children,90
+2021,E09000001,Single family household: Lone parent family: All children non-dependent,85
+2021,E09000001,Single family household: Other single family household,96
+2021,E09000001,Single family household: Other single family household: Other family composition,96
+2021,E09000001,Other household types,427
+2021,E09000001,Other household types: With dependent children,31
+2021,E09000001,"Other household types: Other, including all full-time students and all aged 66 years and over",396
+2021,E09000002,One-person household,17503
+2021,E09000002,One-person household: Aged 66 years and over,5991
+2021,E09000002,One-person household: Other,11512
+2021,E09000002,Single family household,46471
+2021,E09000002,Single family household: All aged 66 years and over,2268
+2021,E09000002,Single family household: Married or civil partnership couple,22869
+2021,E09000002,Single family household: Married or civil partnership couple: No children,4224
+2021,E09000002,Single family household: Married or civil partnership couple: Dependent children,14417
+2021,E09000002,Single family household: Married or civil partnership couple: All children non-dependent,4228
+2021,E09000002,Single family household: Cohabiting couple family,6016
+2021,E09000002,Single family household: Cohabiting couple family: No children,2005
+2021,E09000002,Single family household: Cohabiting couple family: With dependent children,3401
+2021,E09000002,Single family household: Cohabiting couple family: All children non-dependent,610
+2021,E09000002,Single family household: Lone parent family,14116
+2021,E09000002,Single family household: Lone parent family: With dependent children,9427
+2021,E09000002,Single family household: Lone parent family: All children non-dependent,4689
+2021,E09000002,Single family household: Other single family household,1202
+2021,E09000002,Single family household: Other single family household: Other family composition,1202
+2021,E09000002,Other household types,9930
+2021,E09000002,Other household types: With dependent children,6330
+2021,E09000002,"Other household types: Other, including all full-time students and all aged 66 years and over",3600
+2021,E09000003,One-person household,41658
+2021,E09000003,One-person household: Aged 66 years and over,15208
+2021,E09000003,One-person household: Other,26450
+2021,E09000003,Single family household,91234
+2021,E09000003,Single family household: All aged 66 years and over,9264
+2021,E09000003,Single family household: Married or civil partnership couple,50725
+2021,E09000003,Single family household: Married or civil partnership couple: No children,11929
+2021,E09000003,Single family household: Married or civil partnership couple: Dependent children,29036
+2021,E09000003,Single family household: Married or civil partnership couple: All children non-dependent,9760
+2021,E09000003,Single family household: Cohabiting couple family,10924
+2021,E09000003,Single family household: Cohabiting couple family: No children,6717
+2021,E09000003,Single family household: Cohabiting couple family: With dependent children,3565
+2021,E09000003,Single family household: Cohabiting couple family: All children non-dependent,642
+2021,E09000003,Single family household: Lone parent family,18103
+2021,E09000003,Single family household: Lone parent family: With dependent children,10476
+2021,E09000003,Single family household: Lone parent family: All children non-dependent,7627
+2021,E09000003,Single family household: Other single family household,2218
+2021,E09000003,Single family household: Other single family household: Other family composition,2218
+2021,E09000003,Other household types,16027
+2021,E09000003,Other household types: With dependent children,6468
+2021,E09000003,"Other household types: Other, including all full-time students and all aged 66 years and over",9559
+2021,E09000004,One-person household,24753
+2021,E09000004,One-person household: Aged 66 years and over,11968
+2021,E09000004,One-person household: Other,12785
+2021,E09000004,Single family household,62904
+2021,E09000004,Single family household: All aged 66 years and over,7730
+2021,E09000004,Single family household: Married or civil partnership couple,31802
+2021,E09000004,Single family household: Married or civil partnership couple: No children,8115
+2021,E09000004,Single family household: Married or civil partnership couple: Dependent children,16368
+2021,E09000004,Single family household: Married or civil partnership couple: All children non-dependent,7319
+2021,E09000004,Single family household: Cohabiting couple family,9899
+2021,E09000004,Single family household: Cohabiting couple family: No children,4450
+2021,E09000004,Single family household: Cohabiting couple family: With dependent children,4564
+2021,E09000004,Single family household: Cohabiting couple family: All children non-dependent,885
+2021,E09000004,Single family household: Lone parent family,12681
+2021,E09000004,Single family household: Lone parent family: With dependent children,7665
+2021,E09000004,Single family household: Lone parent family: All children non-dependent,5016
+2021,E09000004,Single family household: Other single family household,792
+2021,E09000004,Single family household: Other single family household: Other family composition,792
+2021,E09000004,Other household types,7643
+2021,E09000004,Other household types: With dependent children,3929
+2021,E09000004,"Other household types: Other, including all full-time students and all aged 66 years and over",3714
+2021,E09000005,One-person household,31985
+2021,E09000005,One-person household: Aged 66 years and over,9712
+2021,E09000005,One-person household: Other,22273
+2021,E09000005,Single family household,66305
+2021,E09000005,Single family household: All aged 66 years and over,4302
+2021,E09000005,Single family household: Married or civil partnership couple,33864
+2021,E09000005,Single family household: Married or civil partnership couple: No children,7464
+2021,E09000005,Single family household: Married or civil partnership couple: Dependent children,18539
+2021,E09000005,Single family household: Married or civil partnership couple: All children non-dependent,7861
+2021,E09000005,Single family household: Cohabiting couple family,8055
+2021,E09000005,Single family household: Cohabiting couple family: No children,5092
+2021,E09000005,Single family household: Cohabiting couple family: With dependent children,2446
+2021,E09000005,Single family household: Cohabiting couple family: All children non-dependent,517
+2021,E09000005,Single family household: Lone parent family,17678
+2021,E09000005,Single family household: Lone parent family: With dependent children,9830
+2021,E09000005,Single family household: Lone parent family: All children non-dependent,7848
+2021,E09000005,Single family household: Other single family household,2406
+2021,E09000005,Single family household: Other single family household: Other family composition,2406
+2021,E09000005,Other household types,20322
+2021,E09000005,Other household types: With dependent children,9295
+2021,E09000005,"Other household types: Other, including all full-time students and all aged 66 years and over",11027
+2021,E09000006,One-person household,38668
+2021,E09000006,One-person household: Aged 66 years and over,17443
+2021,E09000006,One-person household: Other,21225
+2021,E09000006,Single family household,88907
+2021,E09000006,Single family household: All aged 66 years and over,11684
+2021,E09000006,Single family household: Married or civil partnership couple,46328
+2021,E09000006,Single family household: Married or civil partnership couple: No children,12702
+2021,E09000006,Single family household: Married or civil partnership couple: Dependent children,24997
+2021,E09000006,Single family household: Married or civil partnership couple: All children non-dependent,8629
+2021,E09000006,Single family household: Cohabiting couple family,14462
+2021,E09000006,Single family household: Cohabiting couple family: No children,8081
+2021,E09000006,Single family household: Cohabiting couple family: With dependent children,5431
+2021,E09000006,Single family household: Cohabiting couple family: All children non-dependent,950
+2021,E09000006,Single family household: Lone parent family,15447
+2021,E09000006,Single family household: Lone parent family: With dependent children,9298
+2021,E09000006,Single family household: Lone parent family: All children non-dependent,6149
+2021,E09000006,Single family household: Other single family household,986
+2021,E09000006,Single family household: Other single family household: Other family composition,986
+2021,E09000006,Other household types,8253
+2021,E09000006,Other household types: With dependent children,3548
+2021,E09000006,"Other household types: Other, including all full-time students and all aged 66 years and over",4705
+2021,E09000007,One-person household,35931
+2021,E09000007,One-person household: Aged 66 years and over,9718
+2021,E09000007,One-person household: Other,26213
+2021,E09000007,Single family household,45716
+2021,E09000007,Single family household: All aged 66 years and over,3004
+2021,E09000007,Single family household: Married or civil partnership couple,20511
+2021,E09000007,Single family household: Married or civil partnership couple: No children,6724
+2021,E09000007,Single family household: Married or civil partnership couple: Dependent children,11082
+2021,E09000007,Single family household: Married or civil partnership couple: All children non-dependent,2705
+2021,E09000007,Single family household: Cohabiting couple family,9986
+2021,E09000007,Single family household: Cohabiting couple family: No children,7897
+2021,E09000007,Single family household: Cohabiting couple family: With dependent children,1767
+2021,E09000007,Single family household: Cohabiting couple family: All children non-dependent,322
+2021,E09000007,Single family household: Lone parent family,10559
+2021,E09000007,Single family household: Lone parent family: With dependent children,5945
+2021,E09000007,Single family household: Lone parent family: All children non-dependent,4614
+2021,E09000007,Single family household: Other single family household,1656
+2021,E09000007,Single family household: Other single family household: Other family composition,1656
+2021,E09000007,Other household types,11111
+2021,E09000007,Other household types: With dependent children,2273
+2021,E09000007,"Other household types: Other, including all full-time students and all aged 66 years and over",8838
+2021,E09000008,One-person household,43091
+2021,E09000008,One-person household: Aged 66 years and over,14652
+2021,E09000008,One-person household: Other,28439
+2021,E09000008,Single family household,94644
+2021,E09000008,Single family household: All aged 66 years and over,8471
+2021,E09000008,Single family household: Married or civil partnership couple,44664
+2021,E09000008,Single family household: Married or civil partnership couple: No children,11821
+2021,E09000008,Single family household: Married or civil partnership couple: Dependent children,23600
+2021,E09000008,Single family household: Married or civil partnership couple: All children non-dependent,9243
+2021,E09000008,Single family household: Cohabiting couple family,14817
+2021,E09000008,Single family household: Cohabiting couple family: No children,8027
+2021,E09000008,Single family household: Cohabiting couple family: With dependent children,5690
+2021,E09000008,Single family household: Cohabiting couple family: All children non-dependent,1100
+2021,E09000008,Single family household: Lone parent family,24543
+2021,E09000008,Single family household: Lone parent family: With dependent children,15169
+2021,E09000008,Single family household: Lone parent family: All children non-dependent,9374
+2021,E09000008,Single family household: Other single family household,2149
+2021,E09000008,Single family household: Other single family household: Other family composition,2149
+2021,E09000008,Other household types,15212
+2021,E09000008,Other household types: With dependent children,7250
+2021,E09000008,"Other household types: Other, including all full-time students and all aged 66 years and over",7962
+2021,E09000009,One-person household,35662
+2021,E09000009,One-person household: Aged 66 years and over,11837
+2021,E09000009,One-person household: Other,23825
+2021,E09000009,Single family household,78735
+2021,E09000009,Single family household: All aged 66 years and over,5423
+2021,E09000009,Single family household: Married or civil partnership couple,42798
+2021,E09000009,Single family household: Married or civil partnership couple: No children,9773
+2021,E09000009,Single family household: Married or civil partnership couple: Dependent children,24366
+2021,E09000009,Single family household: Married or civil partnership couple: All children non-dependent,8659
+2021,E09000009,Single family household: Cohabiting couple family,10978
+2021,E09000009,Single family household: Cohabiting couple family: No children,7037
+2021,E09000009,Single family household: Cohabiting couple family: With dependent children,3322
+2021,E09000009,Single family household: Cohabiting couple family: All children non-dependent,619
+2021,E09000009,Single family household: Lone parent family,17248
+2021,E09000009,Single family household: Lone parent family: With dependent children,9558
+2021,E09000009,Single family household: Lone parent family: All children non-dependent,7690
+2021,E09000009,Single family household: Other single family household,2288
+2021,E09000009,Single family household: Other single family household: Other family composition,2288
+2021,E09000009,Other household types,19262
+2021,E09000009,Other household types: With dependent children,8420
+2021,E09000009,"Other household types: Other, including all full-time students and all aged 66 years and over",10842
+2021,E09000010,One-person household,31159
+2021,E09000010,One-person household: Aged 66 years and over,12251
+2021,E09000010,One-person household: Other,18908
+2021,E09000010,Single family household,76894
+2021,E09000010,Single family household: All aged 66 years and over,6921
+2021,E09000010,Single family household: Married or civil partnership couple,37245
+2021,E09000010,Single family household: Married or civil partnership couple: No children,8001
+2021,E09000010,Single family household: Married or civil partnership couple: Dependent children,20268
+2021,E09000010,Single family household: Married or civil partnership couple: All children non-dependent,8976
+2021,E09000010,Single family household: Cohabiting couple family,8662
+2021,E09000010,Single family household: Cohabiting couple family: No children,3937
+2021,E09000010,Single family household: Cohabiting couple family: With dependent children,3937
+2021,E09000010,Single family household: Cohabiting couple family: All children non-dependent,788
+2021,E09000010,Single family household: Lone parent family,22424
+2021,E09000010,Single family household: Lone parent family: With dependent children,14274
+2021,E09000010,Single family household: Lone parent family: All children non-dependent,8150
+2021,E09000010,Single family household: Other single family household,1642
+2021,E09000010,Single family household: Other single family household: Other family composition,1642
+2021,E09000010,Other household types,12876
+2021,E09000010,Other household types: With dependent children,6924
+2021,E09000010,"Other household types: Other, including all full-time students and all aged 66 years and over",5952
+2021,E09000011,One-person household,34048
+2021,E09000011,One-person household: Aged 66 years and over,9581
+2021,E09000011,One-person household: Other,24467
+2021,E09000011,Single family household,67236
+2021,E09000011,Single family household: All aged 66 years and over,4097
+2021,E09000011,Single family household: Married or civil partnership couple,30668
+2021,E09000011,Single family household: Married or civil partnership couple: No children,9347
+2021,E09000011,Single family household: Married or civil partnership couple: Dependent children,16178
+2021,E09000011,Single family household: Married or civil partnership couple: All children non-dependent,5143
+2021,E09000011,Single family household: Cohabiting couple family,13634
+2021,E09000011,Single family household: Cohabiting couple family: No children,8547
+2021,E09000011,Single family household: Cohabiting couple family: With dependent children,4387
+2021,E09000011,Single family household: Cohabiting couple family: All children non-dependent,700
+2021,E09000011,Single family household: Lone parent family,17095
+2021,E09000011,Single family household: Lone parent family: With dependent children,10898
+2021,E09000011,Single family household: Lone parent family: All children non-dependent,6197
+2021,E09000011,Single family household: Other single family household,1742
+2021,E09000011,Single family household: Other single family household: Other family composition,1742
+2021,E09000011,Other household types,12768
+2021,E09000011,Other household types: With dependent children,5377
+2021,E09000011,"Other household types: Other, including all full-time students and all aged 66 years and over",7391
+2021,E09000012,One-person household,34928
+2021,E09000012,One-person household: Aged 66 years and over,7489
+2021,E09000012,One-person household: Other,27439
+2021,E09000012,Single family household,54971
+2021,E09000012,Single family household: All aged 66 years and over,1785
+2021,E09000012,Single family household: Married or civil partnership couple,21060
+2021,E09000012,Single family household: Married or civil partnership couple: No children,5852
+2021,E09000012,Single family household: Married or civil partnership couple: Dependent children,12287
+2021,E09000012,Single family household: Married or civil partnership couple: All children non-dependent,2921
+2021,E09000012,Single family household: Cohabiting couple family,13669
+2021,E09000012,Single family household: Cohabiting couple family: No children,10182
+2021,E09000012,Single family household: Cohabiting couple family: With dependent children,3046
+2021,E09000012,Single family household: Cohabiting couple family: All children non-dependent,441
+2021,E09000012,Single family household: Lone parent family,16400
+2021,E09000012,Single family household: Lone parent family: With dependent children,9944
+2021,E09000012,Single family household: Lone parent family: All children non-dependent,6456
+2021,E09000012,Single family household: Other single family household,2057
+2021,E09000012,Single family household: Other single family household: Other family composition,2057
+2021,E09000012,Other household types,16181
+2021,E09000012,Other household types: With dependent children,3519
+2021,E09000012,"Other household types: Other, including all full-time students and all aged 66 years and over",12662
+2021,E09000013,One-person household,29324
+2021,E09000013,One-person household: Aged 66 years and over,7351
+2021,E09000013,One-person household: Other,21973
+2021,E09000013,Single family household,40567
+2021,E09000013,Single family household: All aged 66 years and over,2033
+2021,E09000013,Single family household: Married or civil partnership couple,18050
+2021,E09000013,Single family household: Married or civil partnership couple: No children,5919
+2021,E09000013,Single family household: Married or civil partnership couple: Dependent children,9731
+2021,E09000013,Single family household: Married or civil partnership couple: All children non-dependent,2400
+2021,E09000013,Single family household: Cohabiting couple family,8869
+2021,E09000013,Single family household: Cohabiting couple family: No children,7151
+2021,E09000013,Single family household: Cohabiting couple family: With dependent children,1406
+2021,E09000013,Single family household: Cohabiting couple family: All children non-dependent,312
+2021,E09000013,Single family household: Lone parent family,9683
+2021,E09000013,Single family household: Lone parent family: With dependent children,5354
+2021,E09000013,Single family household: Lone parent family: All children non-dependent,4329
+2021,E09000013,Single family household: Other single family household,1932
+2021,E09000013,Single family household: Other single family household: Other family composition,1932
+2021,E09000013,Other household types,11353
+2021,E09000013,Other household types: With dependent children,2042
+2021,E09000013,"Other household types: Other, including all full-time students and all aged 66 years and over",9311
+2021,E09000014,One-person household,32293
+2021,E09000014,One-person household: Aged 66 years and over,8958
+2021,E09000014,One-person household: Other,23335
+2021,E09000014,Single family household,58393
+2021,E09000014,Single family household: All aged 66 years and over,3139
+2021,E09000014,Single family household: Married or civil partnership couple,25443
+2021,E09000014,Single family household: Married or civil partnership couple: No children,6838
+2021,E09000014,Single family household: Married or civil partnership couple: Dependent children,14343
+2021,E09000014,Single family household: Married or civil partnership couple: All children non-dependent,4262
+2021,E09000014,Single family household: Cohabiting couple family,11772
+2021,E09000014,Single family household: Cohabiting couple family: No children,7874
+2021,E09000014,Single family household: Cohabiting couple family: With dependent children,3326
+2021,E09000014,Single family household: Cohabiting couple family: All children non-dependent,572
+2021,E09000014,Single family household: Lone parent family,15855
+2021,E09000014,Single family household: Lone parent family: With dependent children,9079
+2021,E09000014,Single family household: Lone parent family: All children non-dependent,6776
+2021,E09000014,Single family household: Other single family household,2184
+2021,E09000014,Single family household: Other single family household: Other family composition,2184
+2021,E09000014,Other household types,14406
+2021,E09000014,Other household types: With dependent children,4536
+2021,E09000014,"Other household types: Other, including all full-time students and all aged 66 years and over",9870
+2021,E09000015,One-person household,19852
+2021,E09000015,One-person household: Aged 66 years and over,9050
+2021,E09000015,One-person household: Other,10802
+2021,E09000015,Single family household,57026
+2021,E09000015,Single family household: All aged 66 years and over,6491
+2021,E09000015,Single family household: Married or civil partnership couple,35202
+2021,E09000015,Single family household: Married or civil partnership couple: No children,7406
+2021,E09000015,Single family household: Married or civil partnership couple: Dependent children,19162
+2021,E09000015,Single family household: Married or civil partnership couple: All children non-dependent,8634
+2021,E09000015,Single family household: Cohabiting couple family,4341
+2021,E09000015,Single family household: Cohabiting couple family: No children,2499
+2021,E09000015,Single family household: Cohabiting couple family: With dependent children,1444
+2021,E09000015,Single family household: Cohabiting couple family: All children non-dependent,398
+2021,E09000015,Single family household: Lone parent family,9738
+2021,E09000015,Single family household: Lone parent family: With dependent children,4883
+2021,E09000015,Single family household: Lone parent family: All children non-dependent,4855
+2021,E09000015,Single family household: Other single family household,1254
+2021,E09000015,Single family household: Other single family household: Other family composition,1254
+2021,E09000015,Other household types,12764
+2021,E09000015,Other household types: With dependent children,6834
+2021,E09000015,"Other household types: Other, including all full-time students and all aged 66 years and over",5930
+2021,E09000016,One-person household,26129
+2021,E09000016,One-person household: Aged 66 years and over,12838
+2021,E09000016,One-person household: Other,13291
+2021,E09000016,Single family household,67212
+2021,E09000016,Single family household: All aged 66 years and over,9063
+2021,E09000016,Single family household: Married or civil partnership couple,33811
+2021,E09000016,Single family household: Married or civil partnership couple: No children,8799
+2021,E09000016,Single family household: Married or civil partnership couple: Dependent children,16837
+2021,E09000016,Single family household: Married or civil partnership couple: All children non-dependent,8175
+2021,E09000016,Single family household: Cohabiting couple family,10398
+2021,E09000016,Single family household: Cohabiting couple family: No children,4585
+2021,E09000016,Single family household: Cohabiting couple family: With dependent children,4791
+2021,E09000016,Single family household: Cohabiting couple family: All children non-dependent,1022
+2021,E09000016,Single family household: Lone parent family,13138
+2021,E09000016,Single family household: Lone parent family: With dependent children,7821
+2021,E09000016,Single family household: Lone parent family: All children non-dependent,5317
+2021,E09000016,Single family household: Other single family household,802
+2021,E09000016,Single family household: Other single family household: Other family composition,802
+2021,E09000016,Other household types,7936
+2021,E09000016,Other household types: With dependent children,4268
+2021,E09000016,"Other household types: Other, including all full-time students and all aged 66 years and over",3668
+2021,E09000017,One-person household,26634
+2021,E09000017,One-person household: Aged 66 years and over,11143
+2021,E09000017,One-person household: Other,15491
+2021,E09000017,Single family household,69899
+2021,E09000017,Single family household: All aged 66 years and over,6521
+2021,E09000017,Single family household: Married or civil partnership couple,39538
+2021,E09000017,Single family household: Married or civil partnership couple: No children,9193
+2021,E09000017,Single family household: Married or civil partnership couple: Dependent children,22168
+2021,E09000017,Single family household: Married or civil partnership couple: All children non-dependent,8177
+2021,E09000017,Single family household: Cohabiting couple family,8650
+2021,E09000017,Single family household: Cohabiting couple family: No children,4481
+2021,E09000017,Single family household: Cohabiting couple family: With dependent children,3390
+2021,E09000017,Single family household: Cohabiting couple family: All children non-dependent,779
+2021,E09000017,Single family household: Lone parent family,13863
+2021,E09000017,Single family household: Lone parent family: With dependent children,7944
+2021,E09000017,Single family household: Lone parent family: All children non-dependent,5919
+2021,E09000017,Single family household: Other single family household,1327
+2021,E09000017,Single family household: Other single family household: Other family composition,1327
+2021,E09000017,Other household types,12694
+2021,E09000017,Other household types: With dependent children,6664
+2021,E09000017,"Other household types: Other, including all full-time students and all aged 66 years and over",6030
+2021,E09000018,One-person household,26209
+2021,E09000018,One-person household: Aged 66 years and over,9176
+2021,E09000018,One-person household: Other,17033
+2021,E09000018,Single family household,61825
+2021,E09000018,Single family household: All aged 66 years and over,4381
+2021,E09000018,Single family household: Married or civil partnership couple,34354
+2021,E09000018,Single family household: Married or civil partnership couple: No children,7844
+2021,E09000018,Single family household: Married or civil partnership couple: Dependent children,19741
+2021,E09000018,Single family household: Married or civil partnership couple: All children non-dependent,6769
+2021,E09000018,Single family household: Cohabiting couple family,8242
+2021,E09000018,Single family household: Cohabiting couple family: No children,4685
+2021,E09000018,Single family household: Cohabiting couple family: With dependent children,3013
+2021,E09000018,Single family household: Cohabiting couple family: All children non-dependent,544
+2021,E09000018,Single family household: Lone parent family,13347
+2021,E09000018,Single family household: Lone parent family: With dependent children,7598
+2021,E09000018,Single family household: Lone parent family: All children non-dependent,5749
+2021,E09000018,Single family household: Other single family household,1501
+2021,E09000018,Single family household: Other single family household: Other family composition,1501
+2021,E09000018,Other household types,14927
+2021,E09000018,Other household types: With dependent children,7389
+2021,E09000018,"Other household types: Other, including all full-time students and all aged 66 years and over",7538
+2021,E09000019,One-person household,34795
+2021,E09000019,One-person household: Aged 66 years and over,7636
+2021,E09000019,One-person household: Other,27159
+2021,E09000019,Single family household,48738
+2021,E09000019,Single family household: All aged 66 years and over,2168
+2021,E09000019,Single family household: Married or civil partnership couple,18118
+2021,E09000019,Single family household: Married or civil partnership couple: No children,6689
+2021,E09000019,Single family household: Married or civil partnership couple: Dependent children,8898
+2021,E09000019,Single family household: Married or civil partnership couple: All children non-dependent,2531
+2021,E09000019,Single family household: Cohabiting couple family,13546
+2021,E09000019,Single family household: Cohabiting couple family: No children,10707
+2021,E09000019,Single family household: Cohabiting couple family: With dependent children,2430
+2021,E09000019,Single family household: Cohabiting couple family: All children non-dependent,409
+2021,E09000019,Single family household: Lone parent family,13071
+2021,E09000019,Single family household: Lone parent family: With dependent children,7823
+2021,E09000019,Single family household: Lone parent family: All children non-dependent,5248
+2021,E09000019,Single family household: Other single family household,1835
+2021,E09000019,Single family household: Other single family household: Other family composition,1835
+2021,E09000019,Other household types,12964
+2021,E09000019,Other household types: With dependent children,2067
+2021,E09000019,"Other household types: Other, including all full-time students and all aged 66 years and over",10897
+2021,E09000020,One-person household,29233
+2021,E09000020,One-person household: Aged 66 years and over,7750
+2021,E09000020,One-person household: Other,21483
+2021,E09000020,Single family household,30872
+2021,E09000020,Single family household: All aged 66 years and over,2390
+2021,E09000020,Single family household: Married or civil partnership couple,15104
+2021,E09000020,Single family household: Married or civil partnership couple: No children,5416
+2021,E09000020,Single family household: Married or civil partnership couple: Dependent children,7276
+2021,E09000020,Single family household: Married or civil partnership couple: All children non-dependent,2412
+2021,E09000020,Single family household: Cohabiting couple family,5316
+2021,E09000020,Single family household: Cohabiting couple family: No children,4253
+2021,E09000020,Single family household: Cohabiting couple family: With dependent children,878
+2021,E09000020,Single family household: Cohabiting couple family: All children non-dependent,185
+2021,E09000020,Single family household: Lone parent family,6674
+2021,E09000020,Single family household: Lone parent family: With dependent children,3407
+2021,E09000020,Single family household: Lone parent family: All children non-dependent,3267
+2021,E09000020,Single family household: Other single family household,1388
+2021,E09000020,Single family household: Other single family household: Other family composition,1388
+2021,E09000020,Other household types,6780
+2021,E09000020,Other household types: With dependent children,2063
+2021,E09000020,"Other household types: Other, including all full-time students and all aged 66 years and over",4717
+2021,E09000021,One-person household,17716
+2021,E09000021,One-person household: Aged 66 years and over,6894
+2021,E09000021,One-person household: Other,10822
+2021,E09000021,Single family household,41929
+2021,E09000021,Single family household: All aged 66 years and over,4274
+2021,E09000021,Single family household: Married or civil partnership couple,23700
+2021,E09000021,Single family household: Married or civil partnership couple: No children,5954
+2021,E09000021,Single family household: Married or civil partnership couple: Dependent children,13632
+2021,E09000021,Single family household: Married or civil partnership couple: All children non-dependent,4114
+2021,E09000021,Single family household: Cohabiting couple family,6904
+2021,E09000021,Single family household: Cohabiting couple family: No children,4415
+2021,E09000021,Single family household: Cohabiting couple family: With dependent children,2155
+2021,E09000021,Single family household: Cohabiting couple family: All children non-dependent,334
+2021,E09000021,Single family household: Lone parent family,6336
+2021,E09000021,Single family household: Lone parent family: With dependent children,3747
+2021,E09000021,Single family household: Lone parent family: All children non-dependent,2589
+2021,E09000021,Single family household: Other single family household,715
+2021,E09000021,Single family household: Other single family household: Other family composition,715
+2021,E09000021,Other household types,5981
+2021,E09000021,Other household types: With dependent children,2094
+2021,E09000021,"Other household types: Other, including all full-time students and all aged 66 years and over",3887
+2021,E09000022,One-person household,43154
+2021,E09000022,One-person household: Aged 66 years and over,9531
+2021,E09000022,One-person household: Other,33623
+2021,E09000022,Single family household,67458
+2021,E09000022,Single family household: All aged 66 years and over,2524
+2021,E09000022,Single family household: Married or civil partnership couple,24606
+2021,E09000022,Single family household: Married or civil partnership couple: No children,8158
+2021,E09000022,Single family household: Married or civil partnership couple: Dependent children,12677
+2021,E09000022,Single family household: Married or civil partnership couple: All children non-dependent,3771
+2021,E09000022,Single family household: Cohabiting couple family,17736
+2021,E09000022,Single family household: Cohabiting couple family: No children,13667
+2021,E09000022,Single family household: Cohabiting couple family: With dependent children,3411
+2021,E09000022,Single family household: Cohabiting couple family: All children non-dependent,658
+2021,E09000022,Single family household: Lone parent family,19228
+2021,E09000022,Single family household: Lone parent family: With dependent children,11320
+2021,E09000022,Single family household: Lone parent family: All children non-dependent,7908
+2021,E09000022,Single family household: Other single family household,3364
+2021,E09000022,Single family household: Other single family household: Other family composition,3364
+2021,E09000022,Other household types,24074
+2021,E09000022,Other household types: With dependent children,4434
+2021,E09000022,"Other household types: Other, including all full-time students and all aged 66 years and over",19640
+2021,E09000023,One-person household,37147
+2021,E09000023,One-person household: Aged 66 years and over,9365
+2021,E09000023,One-person household: Other,27782
+2021,E09000023,Single family household,70358
+2021,E09000023,Single family household: All aged 66 years and over,3280
+2021,E09000023,Single family household: Married or civil partnership couple,28896
+2021,E09000023,Single family household: Married or civil partnership couple: No children,8506
+2021,E09000023,Single family household: Married or civil partnership couple: Dependent children,15646
+2021,E09000023,Single family household: Married or civil partnership couple: All children non-dependent,4744
+2021,E09000023,Single family household: Cohabiting couple family,16225
+2021,E09000023,Single family household: Cohabiting couple family: No children,10765
+2021,E09000023,Single family household: Cohabiting couple family: With dependent children,4627
+2021,E09000023,Single family household: Cohabiting couple family: All children non-dependent,833
+2021,E09000023,Single family household: Lone parent family,19920
+2021,E09000023,Single family household: Lone parent family: With dependent children,12195
+2021,E09000023,Single family household: Lone parent family: All children non-dependent,7725
+2021,E09000023,Single family household: Other single family household,2037
+2021,E09000023,Single family household: Other single family household: Other family composition,2037
+2021,E09000023,Other household types,14885
+2021,E09000023,Other household types: With dependent children,4912
+2021,E09000023,"Other household types: Other, including all full-time students and all aged 66 years and over",9973
+2021,E09000024,One-person household,20464
+2021,E09000024,One-person household: Aged 66 years and over,7507
+2021,E09000024,One-person household: Other,12957
+2021,E09000024,Single family household,50849
+2021,E09000024,Single family household: All aged 66 years and over,4087
+2021,E09000024,Single family household: Married or civil partnership couple,27505
+2021,E09000024,Single family household: Married or civil partnership couple: No children,7001
+2021,E09000024,Single family household: Married or civil partnership couple: Dependent children,15684
+2021,E09000024,Single family household: Married or civil partnership couple: All children non-dependent,4820
+2021,E09000024,Single family household: Cohabiting couple family,8927
+2021,E09000024,Single family household: Cohabiting couple family: No children,5895
+2021,E09000024,Single family household: Cohabiting couple family: With dependent children,2586
+2021,E09000024,Single family household: Cohabiting couple family: All children non-dependent,446
+2021,E09000024,Single family household: Lone parent family,9146
+2021,E09000024,Single family household: Lone parent family: With dependent children,5064
+2021,E09000024,Single family household: Lone parent family: All children non-dependent,4082
+2021,E09000024,Single family household: Other single family household,1184
+2021,E09000024,Single family household: Other single family household: Other family composition,1184
+2021,E09000024,Other household types,10416
+2021,E09000024,Other household types: With dependent children,4094
+2021,E09000024,"Other household types: Other, including all full-time students and all aged 66 years and over",6322
+2021,E09000025,One-person household,27037
+2021,E09000025,One-person household: Aged 66 years and over,6377
+2021,E09000025,One-person household: Other,20660
+2021,E09000025,Single family household,65603
+2021,E09000025,Single family household: All aged 66 years and over,2022
+2021,E09000025,Single family household: Married or civil partnership couple,33238
+2021,E09000025,Single family household: Married or civil partnership couple: No children,7091
+2021,E09000025,Single family household: Married or civil partnership couple: Dependent children,20395
+2021,E09000025,Single family household: Married or civil partnership couple: All children non-dependent,5752
+2021,E09000025,Single family household: Cohabiting couple family,10384
+2021,E09000025,Single family household: Cohabiting couple family: No children,6662
+2021,E09000025,Single family household: Cohabiting couple family: With dependent children,3095
+2021,E09000025,Single family household: Cohabiting couple family: All children non-dependent,627
+2021,E09000025,Single family household: Lone parent family,16971
+2021,E09000025,Single family household: Lone parent family: With dependent children,9866
+2021,E09000025,Single family household: Lone parent family: All children non-dependent,7105
+2021,E09000025,Single family household: Other single family household,2988
+2021,E09000025,Single family household: Other single family household: Other family composition,2988
+2021,E09000025,Other household types,22867
+2021,E09000025,Other household types: With dependent children,11006
+2021,E09000025,"Other household types: Other, including all full-time students and all aged 66 years and over",11861
+2021,E09000026,One-person household,23886
+2021,E09000026,One-person household: Aged 66 years and over,9669
+2021,E09000026,One-person household: Other,14217
+2021,E09000026,Single family household,65084
+2021,E09000026,Single family household: All aged 66 years and over,5306
+2021,E09000026,Single family household: Married or civil partnership couple,39537
+2021,E09000026,Single family household: Married or civil partnership couple: No children,7279
+2021,E09000026,Single family household: Married or civil partnership couple: Dependent children,23701
+2021,E09000026,Single family household: Married or civil partnership couple: All children non-dependent,8557
+2021,E09000026,Single family household: Cohabiting couple family,6445
+2021,E09000026,Single family household: Cohabiting couple family: No children,3341
+2021,E09000026,Single family household: Cohabiting couple family: With dependent children,2557
+2021,E09000026,Single family household: Cohabiting couple family: All children non-dependent,547
+2021,E09000026,Single family household: Lone parent family,12487
+2021,E09000026,Single family household: Lone parent family: With dependent children,7155
+2021,E09000026,Single family household: Lone parent family: All children non-dependent,5332
+2021,E09000026,Single family household: Other single family household,1309
+2021,E09000026,Single family household: Other single family household: Other family composition,1309
+2021,E09000026,Other household types,14744
+2021,E09000026,Other household types: With dependent children,8666
+2021,E09000026,"Other household types: Other, including all full-time students and all aged 66 years and over",6078
+2021,E09000027,One-person household,23871
+2021,E09000027,One-person household: Aged 66 years and over,10039
+2021,E09000027,One-person household: Other,13832
+2021,E09000027,Single family household,51666
+2021,E09000027,Single family household: All aged 66 years and over,5744
+2021,E09000027,Single family household: Married or civil partnership couple,29730
+2021,E09000027,Single family household: Married or civil partnership couple: No children,8002
+2021,E09000027,Single family household: Married or civil partnership couple: Dependent children,17536
+2021,E09000027,Single family household: Married or civil partnership couple: All children non-dependent,4192
+2021,E09000027,Single family household: Cohabiting couple family,8539
+2021,E09000027,Single family household: Cohabiting couple family: No children,5597
+2021,E09000027,Single family household: Cohabiting couple family: With dependent children,2572
+2021,E09000027,Single family household: Cohabiting couple family: All children non-dependent,370
+2021,E09000027,Single family household: Lone parent family,7078
+2021,E09000027,Single family household: Lone parent family: With dependent children,4224
+2021,E09000027,Single family household: Lone parent family: All children non-dependent,2854
+2021,E09000027,Single family household: Other single family household,575
+2021,E09000027,Single family household: Other single family household: Other family composition,575
+2021,E09000027,Other household types,5167
+2021,E09000027,Other household types: With dependent children,1884
+2021,E09000027,"Other household types: Other, including all full-time students and all aged 66 years and over",3283
+2021,E09000028,One-person household,43348
+2021,E09000028,One-person household: Aged 66 years and over,9507
+2021,E09000028,One-person household: Other,33841
+2021,E09000028,Single family household,67691
+2021,E09000028,Single family household: All aged 66 years and over,2526
+2021,E09000028,Single family household: Married or civil partnership couple,24878
+2021,E09000028,Single family household: Married or civil partnership couple: No children,8406
+2021,E09000028,Single family household: Married or civil partnership couple: Dependent children,12877
+2021,E09000028,Single family household: Married or civil partnership couple: All children non-dependent,3595
+2021,E09000028,Single family household: Cohabiting couple family,17301
+2021,E09000028,Single family household: Cohabiting couple family: No children,12924
+2021,E09000028,Single family household: Cohabiting couple family: With dependent children,3718
+2021,E09000028,Single family household: Cohabiting couple family: All children non-dependent,659
+2021,E09000028,Single family household: Lone parent family,19847
+2021,E09000028,Single family household: Lone parent family: With dependent children,12110
+2021,E09000028,Single family household: Lone parent family: All children non-dependent,7737
+2021,E09000028,Single family household: Other single family household,3139
+2021,E09000028,Single family household: Other single family household: Other family composition,3139
+2021,E09000028,Other household types,19779
+2021,E09000028,Other household types: With dependent children,4232
+2021,E09000028,"Other household types: Other, including all full-time students and all aged 66 years and over",15547
+2021,E09000029,One-person household,22200
+2021,E09000029,One-person household: Aged 66 years and over,9497
+2021,E09000029,One-person household: Other,12703
+2021,E09000029,Single family household,54170
+2021,E09000029,Single family household: All aged 66 years and over,5613
+2021,E09000029,Single family household: Married or civil partnership couple,29782
+2021,E09000029,Single family household: Married or civil partnership couple: No children,7343
+2021,E09000029,Single family household: Married or civil partnership couple: Dependent children,16864
+2021,E09000029,Single family household: Married or civil partnership couple: All children non-dependent,5575
+2021,E09000029,Single family household: Cohabiting couple family,8309
+2021,E09000029,Single family household: Cohabiting couple family: No children,4390
+2021,E09000029,Single family household: Cohabiting couple family: With dependent children,3300
+2021,E09000029,Single family household: Cohabiting couple family: All children non-dependent,619
+2021,E09000029,Single family household: Lone parent family,9796
+2021,E09000029,Single family household: Lone parent family: With dependent children,5900
+2021,E09000029,Single family household: Lone parent family: All children non-dependent,3896
+2021,E09000029,Single family household: Other single family household,670
+2021,E09000029,Single family household: Other single family household: Other family composition,670
+2021,E09000029,Other household types,5979
+2021,E09000029,Other household types: With dependent children,2959
+2021,E09000029,"Other household types: Other, including all full-time students and all aged 66 years and over",3020
+2021,E09000030,One-person household,38530
+2021,E09000030,One-person household: Aged 66 years and over,5786
+2021,E09000030,One-person household: Other,32744
+2021,E09000030,Single family household,61312
+2021,E09000030,Single family household: All aged 66 years and over,1340
+2021,E09000030,Single family household: Married or civil partnership couple,28878
+2021,E09000030,Single family household: Married or civil partnership couple: No children,8674
+2021,E09000030,Single family household: Married or civil partnership couple: Dependent children,17254
+2021,E09000030,Single family household: Married or civil partnership couple: All children non-dependent,2950
+2021,E09000030,Single family household: Cohabiting couple family,15199
+2021,E09000030,Single family household: Cohabiting couple family: No children,12355
+2021,E09000030,Single family household: Cohabiting couple family: With dependent children,2499
+2021,E09000030,Single family household: Cohabiting couple family: All children non-dependent,345
+2021,E09000030,Single family household: Lone parent family,12853
+2021,E09000030,Single family household: Lone parent family: With dependent children,7961
+2021,E09000030,Single family household: Lone parent family: All children non-dependent,4892
+2021,E09000030,Single family household: Other single family household,3042
+2021,E09000030,Single family household: Other single family household: Other family composition,3042
+2021,E09000030,Other household types,20696
+2021,E09000030,Other household types: With dependent children,4952
+2021,E09000030,"Other household types: Other, including all full-time students and all aged 66 years and over",15744
+2021,E09000031,One-person household,26696
+2021,E09000031,One-person household: Aged 66 years and over,8254
+2021,E09000031,One-person household: Other,18442
+2021,E09000031,Single family household,62016
+2021,E09000031,Single family household: All aged 66 years and over,3547
+2021,E09000031,Single family household: Married or civil partnership couple,29167
+2021,E09000031,Single family household: Married or civil partnership couple: No children,7372
+2021,E09000031,Single family household: Married or civil partnership couple: Dependent children,16400
+2021,E09000031,Single family household: Married or civil partnership couple: All children non-dependent,5395
+2021,E09000031,Single family household: Cohabiting couple family,12875
+2021,E09000031,Single family household: Cohabiting couple family: No children,7893
+2021,E09000031,Single family household: Cohabiting couple family: With dependent children,4341
+2021,E09000031,Single family household: Cohabiting couple family: All children non-dependent,641
+2021,E09000031,Single family household: Lone parent family,14705
+2021,E09000031,Single family household: Lone parent family: With dependent children,8536
+2021,E09000031,Single family household: Lone parent family: All children non-dependent,6169
+2021,E09000031,Single family household: Other single family household,1722
+2021,E09000031,Single family household: Other single family household: Other family composition,1722
+2021,E09000031,Other household types,14187
+2021,E09000031,Other household types: With dependent children,6385
+2021,E09000031,"Other household types: Other, including all full-time students and all aged 66 years and over",7802
+2021,E09000032,One-person household,41132
+2021,E09000032,One-person household: Aged 66 years and over,10880
+2021,E09000032,One-person household: Other,30252
+2021,E09000032,Single family household,74344
+2021,E09000032,Single family household: All aged 66 years and over,3838
+2021,E09000032,Single family household: Married or civil partnership couple,34574
+2021,E09000032,Single family household: Married or civil partnership couple: No children,10696
+2021,E09000032,Single family household: Married or civil partnership couple: Dependent children,19467
+2021,E09000032,Single family household: Married or civil partnership couple: All children non-dependent,4411
+2021,E09000032,Single family household: Cohabiting couple family,19118
+2021,E09000032,Single family household: Cohabiting couple family: No children,15627
+2021,E09000032,Single family household: Cohabiting couple family: With dependent children,3079
+2021,E09000032,Single family household: Cohabiting couple family: All children non-dependent,412
+2021,E09000032,Single family household: Lone parent family,14041
+2021,E09000032,Single family household: Lone parent family: With dependent children,8277
+2021,E09000032,Single family household: Lone parent family: All children non-dependent,5764
+2021,E09000032,Single family household: Other single family household,2773
+2021,E09000032,Single family household: Other single family household: Other family composition,2773
+2021,E09000032,Other household types,21917
+2021,E09000032,Other household types: With dependent children,3437
+2021,E09000032,"Other household types: Other, including all full-time students and all aged 66 years and over",18480
+2021,E09000033,One-person household,40443
+2021,E09000033,One-person household: Aged 66 years and over,9498
+2021,E09000033,One-person household: Other,30945
+2021,E09000033,Single family household,43262
+2021,E09000033,Single family household: All aged 66 years and over,2772
+2021,E09000033,Single family household: Married or civil partnership couple,19673
+2021,E09000033,Single family household: Married or civil partnership couple: No children,7479
+2021,E09000033,Single family household: Married or civil partnership couple: Dependent children,9419
+2021,E09000033,Single family household: Married or civil partnership couple: All children non-dependent,2775
+2021,E09000033,Single family household: Cohabiting couple family,8563
+2021,E09000033,Single family household: Cohabiting couple family: No children,7003
+2021,E09000033,Single family household: Cohabiting couple family: With dependent children,1258
+2021,E09000033,Single family household: Cohabiting couple family: All children non-dependent,302
+2021,E09000033,Single family household: Lone parent family,9698
+2021,E09000033,Single family household: Lone parent family: With dependent children,5015
+2021,E09000033,Single family household: Lone parent family: All children non-dependent,4683
+2021,E09000033,Single family household: Other single family household,2556
+2021,E09000033,Single family household: Other single family household: Other family composition,2556
+2021,E09000033,Other household types,11112
+2021,E09000033,Other household types: With dependent children,2388
+2021,E09000033,"Other household types: Other, including all full-time students and all aged 66 years and over",8724

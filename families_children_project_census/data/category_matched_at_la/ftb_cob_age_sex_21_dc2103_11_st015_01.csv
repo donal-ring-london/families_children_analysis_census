@@ -1,0 +1,232 @@
+lad22cd,lad22nm,age_common,cob_common,value_21,value_11,value_01
+E09000001,City of London,Aged 0 to 15,Africa,3,5,12
+E09000001,City of London,Aged 0 to 15,"Antarctica, Oceania, and Other",4,0,6
+E09000001,City of London,Aged 0 to 15,Ireland,1,1,4
+E09000001,City of London,Aged 0 to 15,Middle East and Asia,17,20,13
+E09000001,City of London,Aged 0 to 15,Rest of Europe,30,23,6
+E09000001,City of London,Aged 0 to 15,The Americas and the Caribbean,11,11,6
+E09000001,City of London,Aged 0 to 15,United Kingdom,514,560,630
+E09000002,Barking and Dagenham,Aged 0 to 15,Africa,756,1907,854
+E09000002,Barking and Dagenham,Aged 0 to 15,"Antarctica, Oceania, and Other",4,16,26
+E09000002,Barking and Dagenham,Aged 0 to 15,Ireland,101,102,38
+E09000002,Barking and Dagenham,Aged 0 to 15,Middle East and Asia,1409,1146,342
+E09000002,Barking and Dagenham,Aged 0 to 15,Rest of Europe,4310,2641,487
+E09000002,Barking and Dagenham,Aged 0 to 15,The Americas and the Caribbean,178,337,125
+E09000002,Barking and Dagenham,Aged 0 to 15,United Kingdom,50365,42149,36482
+E09000003,Barnet,Aged 0 to 15,Africa,770,1268,2020
+E09000003,Barnet,Aged 0 to 15,"Antarctica, Oceania, and Other",133,139,207
+E09000003,Barnet,Aged 0 to 15,Ireland,88,84,163
+E09000003,Barnet,Aged 0 to 15,Middle East and Asia,4445,4108,2796
+E09000003,Barnet,Aged 0 to 15,Rest of Europe,4358,3599,1465
+E09000003,Barnet,Aged 0 to 15,The Americas and the Caribbean,832,850,770
+E09000003,Barnet,Aged 0 to 15,United Kingdom,69364,64186,56335
+E09000004,Bexley,Aged 0 to 15,Africa,558,985,385
+E09000004,Bexley,Aged 0 to 15,"Antarctica, Oceania, and Other",24,37,68
+E09000004,Bexley,Aged 0 to 15,Ireland,133,82,29
+E09000004,Bexley,Aged 0 to 15,Middle East and Asia,794,454,208
+E09000004,Bexley,Aged 0 to 15,Rest of Europe,1449,966,273
+E09000004,Bexley,Aged 0 to 15,The Americas and the Caribbean,229,215,96
+E09000004,Bexley,Aged 0 to 15,United Kingdom,47458,44827,44847
+E09000005,Brent,Aged 0 to 15,Africa,819,1927,2696
+E09000005,Brent,Aged 0 to 15,"Antarctica, Oceania, and Other",56,72,157
+E09000005,Brent,Aged 0 to 15,Ireland,76,85,245
+E09000005,Brent,Aged 0 to 15,Middle East and Asia,4788,4399,2901
+E09000005,Brent,Aged 0 to 15,Rest of Europe,4059,4607,1261
+E09000005,Brent,Aged 0 to 15,The Americas and the Caribbean,771,846,751
+E09000005,Brent,Aged 0 to 15,United Kingdom,54102,50821,44156
+E09000006,Bromley,Aged 0 to 15,Africa,375,574,475
+E09000006,Bromley,Aged 0 to 15,"Antarctica, Oceania, and Other",93,99,126
+E09000006,Bromley,Aged 0 to 15,Ireland,76,70,39
+E09000006,Bromley,Aged 0 to 15,Middle East and Asia,1268,811,550
+E09000006,Bromley,Aged 0 to 15,Rest of Europe,1600,1098,506
+E09000006,Bromley,Aged 0 to 15,The Americas and the Caribbean,506,417,316
+E09000006,Bromley,Aged 0 to 15,United Kingdom,60985,57517,56863
+E09000007,Camden,Aged 0 to 15,Africa,252,575,1406
+E09000007,Camden,Aged 0 to 15,"Antarctica, Oceania, and Other",71,132,151
+E09000007,Camden,Aged 0 to 15,Ireland,25,45,104
+E09000007,Camden,Aged 0 to 15,Middle East and Asia,1178,1050,1484
+E09000007,Camden,Aged 0 to 15,Rest of Europe,1675,1533,1089
+E09000007,Camden,Aged 0 to 15,The Americas and the Caribbean,1023,1228,845
+E09000007,Camden,Aged 0 to 15,United Kingdom,28004,30902,27787
+E09000008,Croydon,Aged 0 to 15,Africa,887,1577,1586
+E09000008,Croydon,Aged 0 to 15,"Antarctica, Oceania, and Other",57,71,237
+E09000008,Croydon,Aged 0 to 15,Ireland,149,64,111
+E09000008,Croydon,Aged 0 to 15,Middle East and Asia,2128,2260,1590
+E09000008,Croydon,Aged 0 to 15,Rest of Europe,3740,2508,998
+E09000008,Croydon,Aged 0 to 15,The Americas and the Caribbean,682,815,674
+E09000008,Croydon,Aged 0 to 15,United Kingdom,72678,71815,67250
+E09000009,Ealing,Aged 0 to 15,Africa,714,1530,2027
+E09000009,Ealing,Aged 0 to 15,"Antarctica, Oceania, and Other",95,113,186
+E09000009,Ealing,Aged 0 to 15,Ireland,71,101,190
+E09000009,Ealing,Aged 0 to 15,Middle East and Asia,5814,4782,3986
+E09000009,Ealing,Aged 0 to 15,Rest of Europe,4201,4645,1392
+E09000009,Ealing,Aged 0 to 15,The Americas and the Caribbean,651,629,561
+E09000009,Ealing,Aged 0 to 15,United Kingdom,60200,57077,51404
+E09000010,Enfield,Aged 0 to 15,Africa,778,1739,1528
+E09000010,Enfield,Aged 0 to 15,"Antarctica, Oceania, and Other",46,40,107
+E09000010,Enfield,Aged 0 to 15,Ireland,79,65,89
+E09000010,Enfield,Aged 0 to 15,Middle East and Asia,751,973,1074
+E09000010,Enfield,Aged 0 to 15,Rest of Europe,5630,4353,1763
+E09000010,Enfield,Aged 0 to 15,The Americas and the Caribbean,380,535,417
+E09000010,Enfield,Aged 0 to 15,United Kingdom,65138,62296,52815
+E09000011,Greenwich,Aged 0 to 15,Africa,987,1953,1513
+E09000011,Greenwich,Aged 0 to 15,"Antarctica, Oceania, and Other",75,84,108
+E09000011,Greenwich,Aged 0 to 15,Ireland,152,168,84
+E09000011,Greenwich,Aged 0 to 15,Middle East and Asia,1097,1248,718
+E09000011,Greenwich,Aged 0 to 15,Rest of Europe,3001,2226,581
+E09000011,Greenwich,Aged 0 to 15,The Americas and the Caribbean,557,597,359
+E09000011,Greenwich,Aged 0 to 15,United Kingdom,53452,49118,43276
+E09000012,Hackney,Aged 0 to 15,Africa,379,969,1984
+E09000012,Hackney,Aged 0 to 15,"Antarctica, Oceania, and Other",35,37,147
+E09000012,Hackney,Aged 0 to 15,Ireland,35,75,120
+E09000012,Hackney,Aged 0 to 15,Middle East and Asia,860,949,1114
+E09000012,Hackney,Aged 0 to 15,Rest of Europe,1636,2020,1807
+E09000012,Hackney,Aged 0 to 15,The Americas and the Caribbean,407,725,943
+E09000012,Hackney,Aged 0 to 15,United Kingdom,46324,46350,41316
+E09000013,Hammersmith and Fulham,Aged 0 to 15,Africa,283,631,1047
+E09000013,Hammersmith and Fulham,Aged 0 to 15,"Antarctica, Oceania, and Other",117,115,143
+E09000013,Hammersmith and Fulham,Aged 0 to 15,Ireland,31,42,58
+E09000013,Hammersmith and Fulham,Aged 0 to 15,Middle East and Asia,857,807,972
+E09000013,Hammersmith and Fulham,Aged 0 to 15,Rest of Europe,2000,1766,1313
+E09000013,Hammersmith and Fulham,Aged 0 to 15,The Americas and the Caribbean,727,573,554
+E09000013,Hammersmith and Fulham,Aged 0 to 15,United Kingdom,24510,25696,23136
+E09000014,Haringey,Aged 0 to 15,Africa,393,1252,2501
+E09000014,Haringey,Aged 0 to 15,"Antarctica, Oceania, and Other",84,93,126
+E09000014,Haringey,Aged 0 to 15,Ireland,30,68,137
+E09000014,Haringey,Aged 0 to 15,Middle East and Asia,738,868,1043
+E09000014,Haringey,Aged 0 to 15,Rest of Europe,4139,3928,2779
+E09000014,Haringey,Aged 0 to 15,The Americas and the Caribbean,718,825,834
+E09000014,Haringey,Aged 0 to 15,United Kingdom,42136,45036,37187
+E09000015,Harrow,Aged 0 to 15,Africa,469,840,1176
+E09000015,Harrow,Aged 0 to 15,"Antarctica, Oceania, and Other",41,53,100
+E09000015,Harrow,Aged 0 to 15,Ireland,80,55,139
+E09000015,Harrow,Aged 0 to 15,Middle East and Asia,3663,3194,1857
+E09000015,Harrow,Aged 0 to 15,Rest of Europe,3762,3110,710
+E09000015,Harrow,Aged 0 to 15,The Americas and the Caribbean,388,345,307
+E09000015,Harrow,Aged 0 to 15,United Kingdom,43179,40461,37401
+E09000016,Havering,Aged 0 to 15,Africa,340,473,235
+E09000016,Havering,Aged 0 to 15,"Antarctica, Oceania, and Other",36,32,34
+E09000016,Havering,Aged 0 to 15,Ireland,142,38,26
+E09000016,Havering,Aged 0 to 15,Middle East and Asia,670,440,161
+E09000016,Havering,Aged 0 to 15,Rest of Europe,1754,733,208
+E09000016,Havering,Aged 0 to 15,The Americas and the Caribbean,168,156,77
+E09000016,Havering,Aged 0 to 15,United Kingdom,49210,42516,43705
+E09000017,Hillingdon,Aged 0 to 15,Africa,464,1019,758
+E09000017,Hillingdon,Aged 0 to 15,"Antarctica, Oceania, and Other",46,45,92
+E09000017,Hillingdon,Aged 0 to 15,Ireland,70,58,166
+E09000017,Hillingdon,Aged 0 to 15,Middle East and Asia,3501,2329,1029
+E09000017,Hillingdon,Aged 0 to 15,Rest of Europe,2899,2220,543
+E09000017,Hillingdon,Aged 0 to 15,The Americas and the Caribbean,358,346,420
+E09000017,Hillingdon,Aged 0 to 15,United Kingdom,56691,50876,48498
+E09000018,Hounslow,Aged 0 to 15,Africa,473,890,1102
+E09000018,Hounslow,Aged 0 to 15,"Antarctica, Oceania, and Other",83,80,129
+E09000018,Hounslow,Aged 0 to 15,Ireland,73,51,114
+E09000018,Hounslow,Aged 0 to 15,Middle East and Asia,5531,3845,1864
+E09000018,Hounslow,Aged 0 to 15,Rest of Europe,3179,2667,886
+E09000018,Hounslow,Aged 0 to 15,The Americas and the Caribbean,525,439,275
+E09000018,Hounslow,Aged 0 to 15,United Kingdom,49636,43561,39365
+E09000019,Islington,Aged 0 to 15,Africa,252,682,1176
+E09000019,Islington,Aged 0 to 15,"Antarctica, Oceania, and Other",59,53,128
+E09000019,Islington,Aged 0 to 15,Ireland,26,42,99
+E09000019,Islington,Aged 0 to 15,Middle East and Asia,365,368,607
+E09000019,Islington,Aged 0 to 15,Rest of Europe,958,1019,1041
+E09000019,Islington,Aged 0 to 15,The Americas and the Caribbean,352,351,435
+E09000019,Islington,Aged 0 to 15,United Kingdom,30952,30310,28754
+E09000020,Kensington and Chelsea,Aged 0 to 15,Africa,170,234,715
+E09000020,Kensington and Chelsea,Aged 0 to 15,"Antarctica, Oceania, and Other",65,116,187
+E09000020,Kensington and Chelsea,Aged 0 to 15,Ireland,26,32,16
+E09000020,Kensington and Chelsea,Aged 0 to 15,Middle East and Asia,798,732,960
+E09000020,Kensington and Chelsea,Aged 0 to 15,Rest of Europe,2123,2554,2087
+E09000020,Kensington and Chelsea,Aged 0 to 15,The Americas and the Caribbean,960,1357,1574
+E09000020,Kensington and Chelsea,Aged 0 to 15,United Kingdom,16146,19357,19250
+E09000021,Kingston upon Thames,Aged 0 to 15,Africa,244,259,287
+E09000021,Kingston upon Thames,Aged 0 to 15,"Antarctica, Oceania, and Other",94,85,123
+E09000021,Kingston upon Thames,Aged 0 to 15,Ireland,38,33,43
+E09000021,Kingston upon Thames,Aged 0 to 15,Middle East and Asia,1542,1562,1299
+E09000021,Kingston upon Thames,Aged 0 to 15,Rest of Europe,1526,1444,649
+E09000021,Kingston upon Thames,Aged 0 to 15,The Americas and the Caribbean,398,270,284
+E09000021,Kingston upon Thames,Aged 0 to 15,United Kingdom,28755,26617,25185
+E09000022,Lambeth,Aged 0 to 15,Africa,419,1508,2236
+E09000022,Lambeth,Aged 0 to 15,"Antarctica, Oceania, and Other",39,111,154
+E09000022,Lambeth,Aged 0 to 15,Ireland,48,64,86
+E09000022,Lambeth,Aged 0 to 15,Middle East and Asia,483,581,566
+E09000022,Lambeth,Aged 0 to 15,Rest of Europe,2015,2828,1458
+E09000022,Lambeth,Aged 0 to 15,The Americas and the Caribbean,764,1130,1235
+E09000022,Lambeth,Aged 0 to 15,United Kingdom,44943,48564,45321
+E09000023,Lewisham,Aged 0 to 15,Africa,599,1475,1698
+E09000023,Lewisham,Aged 0 to 15,"Antarctica, Oceania, and Other",69,55,90
+E09000023,Lewisham,Aged 0 to 15,Ireland,69,101,89
+E09000023,Lewisham,Aged 0 to 15,Middle East and Asia,714,1010,801
+E09000023,Lewisham,Aged 0 to 15,Rest of Europe,2616,2343,749
+E09000023,Lewisham,Aged 0 to 15,The Americas and the Caribbean,649,888,725
+E09000023,Lewisham,Aged 0 to 15,United Kingdom,53427,51264,48436
+E09000024,Merton,Aged 0 to 15,Africa,395,639,690
+E09000024,Merton,Aged 0 to 15,"Antarctica, Oceania, and Other",107,150,185
+E09000024,Merton,Aged 0 to 15,Ireland,73,42,62
+E09000024,Merton,Aged 0 to 15,Middle East and Asia,1357,1443,1202
+E09000024,Merton,Aged 0 to 15,Rest of Europe,2493,2329,845
+E09000024,Merton,Aged 0 to 15,The Americas and the Caribbean,631,508,453
+E09000024,Merton,Aged 0 to 15,United Kingdom,37359,33742,33137
+E09000025,Newham,Aged 0 to 15,Africa,795,1865,3799
+E09000025,Newham,Aged 0 to 15,"Antarctica, Oceania, and Other",12,29,230
+E09000025,Newham,Aged 0 to 15,Ireland,69,82,92
+E09000025,Newham,Aged 0 to 15,Middle East and Asia,3352,4449,3648
+E09000025,Newham,Aged 0 to 15,Rest of Europe,7923,4645,1133
+E09000025,Newham,Aged 0 to 15,The Americas and the Caribbean,392,656,621
+E09000025,Newham,Aged 0 to 15,United Kingdom,62319,58168,54322
+E09000026,Redbridge,Aged 0 to 15,Africa,350,939,1312
+E09000026,Redbridge,Aged 0 to 15,"Antarctica, Oceania, and Other",46,44,76
+E09000026,Redbridge,Aged 0 to 15,Ireland,98,77,75
+E09000026,Redbridge,Aged 0 to 15,Middle East and Asia,4014,3628,1564
+E09000026,Redbridge,Aged 0 to 15,Rest of Europe,5334,3091,672
+E09000026,Redbridge,Aged 0 to 15,The Americas and the Caribbean,275,374,262
+E09000026,Redbridge,Aged 0 to 15,United Kingdom,58125,54705,47030
+E09000027,Richmond upon Thames,Aged 0 to 15,Africa,283,259,252
+E09000027,Richmond upon Thames,Aged 0 to 15,"Antarctica, Oceania, and Other",288,347,299
+E09000027,Richmond upon Thames,Aged 0 to 15,Ireland,90,84,57
+E09000027,Richmond upon Thames,Aged 0 to 15,Middle East and Asia,1234,760,695
+E09000027,Richmond upon Thames,Aged 0 to 15,Rest of Europe,2349,1633,1201
+E09000027,Richmond upon Thames,Aged 0 to 15,The Americas and the Caribbean,871,772,581
+E09000027,Richmond upon Thames,Aged 0 to 15,United Kingdom,34330,33083,29321
+E09000028,Southwark,Aged 0 to 15,Africa,703,1642,2927
+E09000028,Southwark,Aged 0 to 15,"Antarctica, Oceania, and Other",86,66,138
+E09000028,Southwark,Aged 0 to 15,Ireland,68,116,131
+E09000028,Southwark,Aged 0 to 15,Middle East and Asia,657,741,643
+E09000028,Southwark,Aged 0 to 15,Rest of Europe,2045,1513,828
+E09000028,Southwark,Aged 0 to 15,The Americas and the Caribbean,606,915,765
+E09000028,Southwark,Aged 0 to 15,United Kingdom,47334,48389,44227
+E09000029,Sutton,Aged 0 to 15,Africa,256,365,336
+E09000029,Sutton,Aged 0 to 15,"Antarctica, Oceania, and Other",51,47,84
+E09000029,Sutton,Aged 0 to 15,Ireland,38,35,54
+E09000029,Sutton,Aged 0 to 15,Middle East and Asia,1743,1072,493
+E09000029,Sutton,Aged 0 to 15,Rest of Europe,1439,1064,261
+E09000029,Sutton,Aged 0 to 15,The Americas and the Caribbean,272,213,132
+E09000029,Sutton,Aged 0 to 15,United Kingdom,40183,35192,36285
+E09000030,Tower Hamlets,Aged 0 to 15,Africa,283,544,529
+E09000030,Tower Hamlets,Aged 0 to 15,"Antarctica, Oceania, and Other",23,45,88
+E09000030,Tower Hamlets,Aged 0 to 15,Ireland,65,36,33
+E09000030,Tower Hamlets,Aged 0 to 15,Middle East and Asia,1777,2190,3490
+E09000030,Tower Hamlets,Aged 0 to 15,Rest of Europe,3259,980,237
+E09000030,Tower Hamlets,Aged 0 to 15,The Americas and the Caribbean,301,252,132
+E09000030,Tower Hamlets,Aged 0 to 15,United Kingdom,51710,46096,40379
+E09000031,Waltham Forest,Aged 0 to 15,Africa,382,1057,1433
+E09000031,Waltham Forest,Aged 0 to 15,"Antarctica, Oceania, and Other",41,30,74
+E09000031,Waltham Forest,Aged 0 to 15,Ireland,45,91,60
+E09000031,Waltham Forest,Aged 0 to 15,Middle East and Asia,817,1624,1231
+E09000031,Waltham Forest,Aged 0 to 15,Rest of Europe,3423,3384,928
+E09000031,Waltham Forest,Aged 0 to 15,The Americas and the Caribbean,258,466,510
+E09000031,Waltham Forest,Aged 0 to 15,United Kingdom,51278,48466,42631
+E09000032,Wandsworth,Aged 0 to 15,Africa,422,813,1053
+E09000032,Wandsworth,Aged 0 to 15,"Antarctica, Oceania, and Other",163,212,222
+E09000032,Wandsworth,Aged 0 to 15,Ireland,73,79,73
+E09000032,Wandsworth,Aged 0 to 15,Middle East and Asia,1465,1427,1186
+E09000032,Wandsworth,Aged 0 to 15,Rest of Europe,2759,2986,966
+E09000032,Wandsworth,Aged 0 to 15,The Americas and the Caribbean,1031,800,617
+E09000032,Wandsworth,Aged 0 to 15,United Kingdom,48035,44689,38354
+E09000033,Westminster,Aged 0 to 15,Africa,318,555,771
+E09000033,Westminster,Aged 0 to 15,"Antarctica, Oceania, and Other",48,105,137
+E09000033,Westminster,Aged 0 to 15,Ireland,19,34,52
+E09000033,Westminster,Aged 0 to 15,Middle East and Asia,1266,1555,1632
+E09000033,Westminster,Aged 0 to 15,Rest of Europe,1821,2415,1291
+E09000033,Westminster,Aged 0 to 15,The Americas and the Caribbean,1096,1337,1197
+E09000033,Westminster,Aged 0 to 15,United Kingdom,22200,26583,19398

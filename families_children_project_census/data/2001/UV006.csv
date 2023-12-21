@@ -1,0 +1,265 @@
+date,geography_code,cell_name,obs_value
+2001,E09000007,All families in households,41905
+2001,E09000007,No dependent children in family,22356
+2001,E09000007,One dependent child in family aged 0 to 4,3680
+2001,E09000007,One dependent child in family aged 5 to 11,2487
+2001,E09000007,One dependent child in family aged 12 to 18,3100
+2001,E09000007,Two or more dependent children in family; youngest aged 0 to 4,5216
+2001,E09000007,Two or more dependent children in family; youngest aged 5 to 11,3785
+2001,E09000007,Two or more dependent children in family; youngest aged 12 to 18,1281
+2001,E09000001,All families in households,1479
+2001,E09000001,No dependent children in family,1029
+2001,E09000001,One dependent child in family aged 0 to 4,114
+2001,E09000001,One dependent child in family aged 5 to 11,87
+2001,E09000001,One dependent child in family aged 12 to 18,75
+2001,E09000001,Two or more dependent children in family; youngest aged 0 to 4,81
+2001,E09000001,Two or more dependent children in family; youngest aged 5 to 11,72
+2001,E09000001,Two or more dependent children in family; youngest aged 12 to 18,21
+2001,E09000012,All families in households,45581
+2001,E09000012,No dependent children in family,19999
+2001,E09000012,One dependent child in family aged 0 to 4,4572
+2001,E09000012,One dependent child in family aged 5 to 11,2938
+2001,E09000012,One dependent child in family aged 12 to 18,3653
+2001,E09000012,Two or more dependent children in family; youngest aged 0 to 4,7764
+2001,E09000012,Two or more dependent children in family; youngest aged 5 to 11,4969
+2001,E09000012,Two or more dependent children in family; youngest aged 12 to 18,1686
+2001,E09000013,All families in households,36156
+2001,E09000013,No dependent children in family,20021
+2001,E09000013,One dependent child in family aged 0 to 4,3000
+2001,E09000013,One dependent child in family aged 5 to 11,2040
+2001,E09000013,One dependent child in family aged 12 to 18,2468
+2001,E09000013,Two or more dependent children in family; youngest aged 0 to 4,4466
+2001,E09000013,Two or more dependent children in family; youngest aged 5 to 11,3130
+2001,E09000013,Two or more dependent children in family; youngest aged 12 to 18,1031
+2001,E09000014,All families in households,52298
+2001,E09000014,No dependent children in family,25672
+2001,E09000014,One dependent child in family aged 0 to 4,4628
+2001,E09000014,One dependent child in family aged 5 to 11,3338
+2001,E09000014,One dependent child in family aged 12 to 18,4268
+2001,E09000014,Two or more dependent children in family; youngest aged 0 to 4,6835
+2001,E09000014,Two or more dependent children in family; youngest aged 5 to 11,5584
+2001,E09000014,Two or more dependent children in family; youngest aged 12 to 18,1973
+2001,E09000019,All families in households,39859
+2001,E09000019,No dependent children in family,20524
+2001,E09000019,One dependent child in family aged 0 to 4,3576
+2001,E09000019,One dependent child in family aged 5 to 11,2513
+2001,E09000019,One dependent child in family aged 12 to 18,3027
+2001,E09000019,Two or more dependent children in family; youngest aged 0 to 4,5028
+2001,E09000019,Two or more dependent children in family; youngest aged 5 to 11,3934
+2001,E09000019,Two or more dependent children in family; youngest aged 12 to 18,1257
+2001,E09000020,All families in households,33534
+2001,E09000020,No dependent children in family,18504
+2001,E09000020,One dependent child in family aged 0 to 4,2927
+2001,E09000020,One dependent child in family aged 5 to 11,2245
+2001,E09000020,One dependent child in family aged 12 to 18,2207
+2001,E09000020,Two or more dependent children in family; youngest aged 0 to 4,4285
+2001,E09000020,Two or more dependent children in family; youngest aged 5 to 11,2481
+2001,E09000020,Two or more dependent children in family; youngest aged 12 to 18,885
+2001,E09000022,All families in households,61258
+2001,E09000022,No dependent children in family,30420
+2001,E09000022,One dependent child in family aged 0 to 4,6049
+2001,E09000022,One dependent child in family aged 5 to 11,4309
+2001,E09000022,One dependent child in family aged 12 to 18,4709
+2001,E09000022,Two or more dependent children in family; youngest aged 0 to 4,8051
+2001,E09000022,Two or more dependent children in family; youngest aged 5 to 11,5918
+2001,E09000022,Two or more dependent children in family; youngest aged 12 to 18,1802
+2001,E09000023,All families in households,64189
+2001,E09000023,No dependent children in family,31724
+2001,E09000023,One dependent child in family aged 0 to 4,6017
+2001,E09000023,One dependent child in family aged 5 to 11,4280
+2001,E09000023,One dependent child in family aged 12 to 18,5091
+2001,E09000023,Two or more dependent children in family; youngest aged 0 to 4,8266
+2001,E09000023,Two or more dependent children in family; youngest aged 5 to 11,6730
+2001,E09000023,Two or more dependent children in family; youngest aged 12 to 18,2081
+2001,E09000025,All families in households,57204
+2001,E09000025,No dependent children in family,22934
+2001,E09000025,One dependent child in family aged 0 to 4,5395
+2001,E09000025,One dependent child in family aged 5 to 11,3523
+2001,E09000025,One dependent child in family aged 12 to 18,4754
+2001,E09000025,Two or more dependent children in family; youngest aged 0 to 4,10225
+2001,E09000025,Two or more dependent children in family; youngest aged 5 to 11,7766
+2001,E09000025,Two or more dependent children in family; youngest aged 12 to 18,2607
+2001,E09000028,All families in households,58337
+2001,E09000028,No dependent children in family,28743
+2001,E09000028,One dependent child in family aged 0 to 4,5765
+2001,E09000028,One dependent child in family aged 5 to 11,4067
+2001,E09000028,One dependent child in family aged 12 to 18,4310
+2001,E09000028,Two or more dependent children in family; youngest aged 0 to 4,7946
+2001,E09000028,Two or more dependent children in family; youngest aged 5 to 11,5727
+2001,E09000028,Two or more dependent children in family; youngest aged 12 to 18,1779
+2001,E09000030,All families in households,42688
+2001,E09000030,No dependent children in family,20611
+2001,E09000030,One dependent child in family aged 0 to 4,3580
+2001,E09000030,One dependent child in family aged 5 to 11,1876
+2001,E09000030,One dependent child in family aged 12 to 18,2686
+2001,E09000030,Two or more dependent children in family; youngest aged 0 to 4,7493
+2001,E09000030,Two or more dependent children in family; youngest aged 5 to 11,4811
+2001,E09000030,Two or more dependent children in family; youngest aged 12 to 18,1631
+2001,E09000032,All families in households,59961
+2001,E09000032,No dependent children in family,34325
+2001,E09000032,One dependent child in family aged 0 to 4,5260
+2001,E09000032,One dependent child in family aged 5 to 11,2960
+2001,E09000032,One dependent child in family aged 12 to 18,3542
+2001,E09000032,Two or more dependent children in family; youngest aged 0 to 4,7284
+2001,E09000032,Two or more dependent children in family; youngest aged 5 to 11,5022
+2001,E09000032,Two or more dependent children in family; youngest aged 12 to 18,1568
+2001,E09000033,All families in households,38424
+2001,E09000033,No dependent children in family,23227
+2001,E09000033,One dependent child in family aged 0 to 4,3136
+2001,E09000033,One dependent child in family aged 5 to 11,1983
+2001,E09000033,One dependent child in family aged 12 to 18,2461
+2001,E09000033,Two or more dependent children in family; youngest aged 0 to 4,4026
+2001,E09000033,Two or more dependent children in family; youngest aged 5 to 11,2719
+2001,E09000033,Two or more dependent children in family; youngest aged 12 to 18,872
+2001,E09000002,All families in households,45296
+2001,E09000002,No dependent children in family,22576
+2001,E09000002,One dependent child in family aged 0 to 4,4063
+2001,E09000002,One dependent child in family aged 5 to 11,2444
+2001,E09000002,One dependent child in family aged 12 to 18,3345
+2001,E09000002,Two or more dependent children in family; youngest aged 0 to 4,5983
+2001,E09000002,Two or more dependent children in family; youngest aged 5 to 11,5338
+2001,E09000002,Two or more dependent children in family; youngest aged 12 to 18,1547
+2001,E09000003,All families in households,81682
+2001,E09000003,No dependent children in family,42631
+2001,E09000003,One dependent child in family aged 0 to 4,6091
+2001,E09000003,One dependent child in family aged 5 to 11,3843
+2001,E09000003,One dependent child in family aged 12 to 18,6625
+2001,E09000003,Two or more dependent children in family; youngest aged 0 to 4,9674
+2001,E09000003,Two or more dependent children in family; youngest aged 5 to 11,9294
+2001,E09000003,Two or more dependent children in family; youngest aged 12 to 18,3524
+2001,E09000004,All families in households,62798
+2001,E09000004,No dependent children in family,34914
+2001,E09000004,One dependent child in family aged 0 to 4,4171
+2001,E09000004,One dependent child in family aged 5 to 11,2722
+2001,E09000004,One dependent child in family aged 12 to 18,4384
+2001,E09000004,Two or more dependent children in family; youngest aged 0 to 4,6564
+2001,E09000004,Two or more dependent children in family; youngest aged 5 to 11,7493
+2001,E09000004,Two or more dependent children in family; youngest aged 12 to 18,2550
+2001,E09000005,All families in households,66049
+2001,E09000005,No dependent children in family,33219
+2001,E09000005,One dependent child in family aged 0 to 4,5237
+2001,E09000005,One dependent child in family aged 5 to 11,3905
+2001,E09000005,One dependent child in family aged 12 to 18,6087
+2001,E09000005,Two or more dependent children in family; youngest aged 0 to 4,7563
+2001,E09000005,Two or more dependent children in family; youngest aged 5 to 11,7199
+2001,E09000005,Two or more dependent children in family; youngest aged 12 to 18,2839
+2001,E09000006,All families in households,84513
+2001,E09000006,No dependent children in family,47904
+2001,E09000006,One dependent child in family aged 0 to 4,5734
+2001,E09000006,One dependent child in family aged 5 to 11,3690
+2001,E09000006,One dependent child in family aged 12 to 18,5795
+2001,E09000006,Two or more dependent children in family; youngest aged 0 to 4,8984
+2001,E09000006,Two or more dependent children in family; youngest aged 5 to 11,9033
+2001,E09000006,Two or more dependent children in family; youngest aged 12 to 18,3373
+2001,E09000008,All families in households,89631
+2001,E09000008,No dependent children in family,44947
+2001,E09000008,One dependent child in family aged 0 to 4,7432
+2001,E09000008,One dependent child in family aged 5 to 11,5433
+2001,E09000008,One dependent child in family aged 12 to 18,7249
+2001,E09000008,Two or more dependent children in family; youngest aged 0 to 4,10656
+2001,E09000008,Two or more dependent children in family; youngest aged 5 to 11,10387
+2001,E09000008,Two or more dependent children in family; youngest aged 12 to 18,3527
+2001,E09000009,All families in households,76367
+2001,E09000009,No dependent children in family,39844
+2001,E09000009,One dependent child in family aged 0 to 4,5717
+2001,E09000009,One dependent child in family aged 5 to 11,3807
+2001,E09000009,One dependent child in family aged 12 to 18,6220
+2001,E09000009,Two or more dependent children in family; youngest aged 0 to 4,9141
+2001,E09000009,Two or more dependent children in family; youngest aged 5 to 11,8317
+2001,E09000009,Two or more dependent children in family; youngest aged 12 to 18,3321
+2001,E09000010,All families in households,73243
+2001,E09000010,No dependent children in family,37373
+2001,E09000010,One dependent child in family aged 0 to 4,5577
+2001,E09000010,One dependent child in family aged 5 to 11,3877
+2001,E09000010,One dependent child in family aged 12 to 18,5866
+2001,E09000010,Two or more dependent children in family; youngest aged 0 to 4,8808
+2001,E09000010,Two or more dependent children in family; youngest aged 5 to 11,8667
+2001,E09000010,Two or more dependent children in family; youngest aged 12 to 18,3075
+2001,E09000011,All families in households,55242
+2001,E09000011,No dependent children in family,27534
+2001,E09000011,One dependent child in family aged 0 to 4,4957
+2001,E09000011,One dependent child in family aged 5 to 11,3118
+2001,E09000011,One dependent child in family aged 12 to 18,4306
+2001,E09000011,Two or more dependent children in family; youngest aged 0 to 4,7133
+2001,E09000011,Two or more dependent children in family; youngest aged 5 to 11,6178
+2001,E09000011,Two or more dependent children in family; youngest aged 12 to 18,2016
+2001,E09000015,All families in households,56545
+2001,E09000015,No dependent children in family,30445
+2001,E09000015,One dependent child in family aged 0 to 4,3590
+2001,E09000015,One dependent child in family aged 5 to 11,2472
+2001,E09000015,One dependent child in family aged 12 to 18,4817
+2001,E09000015,Two or more dependent children in family; youngest aged 0 to 4,5873
+2001,E09000015,Two or more dependent children in family; youngest aged 5 to 11,6551
+2001,E09000015,Two or more dependent children in family; youngest aged 12 to 18,2797
+2001,E09000016,All families in households,65252
+2001,E09000016,No dependent children in family,38115
+2001,E09000016,One dependent child in family aged 0 to 4,3792
+2001,E09000016,One dependent child in family aged 5 to 11,2618
+2001,E09000016,One dependent child in family aged 12 to 18,4527
+2001,E09000016,Two or more dependent children in family; youngest aged 0 to 4,6222
+2001,E09000016,Two or more dependent children in family; youngest aged 5 to 11,7367
+2001,E09000016,Two or more dependent children in family; youngest aged 12 to 18,2611
+2001,E09000017,All families in households,66853
+2001,E09000017,No dependent children in family,36083
+2001,E09000017,One dependent child in family aged 0 to 4,5044
+2001,E09000017,One dependent child in family aged 5 to 11,3038
+2001,E09000017,One dependent child in family aged 12 to 18,4593
+2001,E09000017,Two or more dependent children in family; youngest aged 0 to 4,7668
+2001,E09000017,Two or more dependent children in family; youngest aged 5 to 11,7794
+2001,E09000017,Two or more dependent children in family; youngest aged 12 to 18,2633
+2001,E09000018,All families in households,55371
+2001,E09000018,No dependent children in family,28663
+2001,E09000018,One dependent child in family aged 0 to 4,4324
+2001,E09000018,One dependent child in family aged 5 to 11,2674
+2001,E09000018,One dependent child in family aged 12 to 18,4492
+2001,E09000018,Two or more dependent children in family; youngest aged 0 to 4,6860
+2001,E09000018,Two or more dependent children in family; youngest aged 5 to 11,6023
+2001,E09000018,Two or more dependent children in family; youngest aged 12 to 18,2335
+2001,E09000021,All families in households,38725
+2001,E09000021,No dependent children in family,21355
+2001,E09000021,One dependent child in family aged 0 to 4,2858
+2001,E09000021,One dependent child in family aged 5 to 11,1616
+2001,E09000021,One dependent child in family aged 12 to 18,2848
+2001,E09000021,Two or more dependent children in family; youngest aged 0 to 4,4306
+2001,E09000021,Two or more dependent children in family; youngest aged 5 to 11,4120
+2001,E09000021,Two or more dependent children in family; youngest aged 12 to 18,1622
+2001,E09000024,All families in households,49401
+2001,E09000024,No dependent children in family,26924
+2001,E09000024,One dependent child in family aged 0 to 4,4006
+2001,E09000024,One dependent child in family aged 5 to 11,2319
+2001,E09000024,One dependent child in family aged 12 to 18,3494
+2001,E09000024,Two or more dependent children in family; youngest aged 0 to 4,5911
+2001,E09000024,Two or more dependent children in family; youngest aged 5 to 11,4987
+2001,E09000024,Two or more dependent children in family; youngest aged 12 to 18,1760
+2001,E09000026,All families in households,64137
+2001,E09000026,No dependent children in family,33470
+2001,E09000026,One dependent child in family aged 0 to 4,4537
+2001,E09000026,One dependent child in family aged 5 to 11,2890
+2001,E09000026,One dependent child in family aged 12 to 18,4998
+2001,E09000026,Two or more dependent children in family; youngest aged 0 to 4,7732
+2001,E09000026,Two or more dependent children in family; youngest aged 5 to 11,7718
+2001,E09000026,Two or more dependent children in family; youngest aged 12 to 18,2792
+2001,E09000027,All families in households,45583
+2001,E09000027,No dependent children in family,25475
+2001,E09000027,One dependent child in family aged 0 to 4,3601
+2001,E09000027,One dependent child in family aged 5 to 11,1852
+2001,E09000027,One dependent child in family aged 12 to 18,3138
+2001,E09000027,Two or more dependent children in family; youngest aged 0 to 4,5409
+2001,E09000027,Two or more dependent children in family; youngest aged 5 to 11,4438
+2001,E09000027,Two or more dependent children in family; youngest aged 12 to 18,1670
+2001,E09000029,All families in households,49607
+2001,E09000029,No dependent children in family,26754
+2001,E09000029,One dependent child in family aged 0 to 4,3712
+2001,E09000029,One dependent child in family aged 5 to 11,2259
+2001,E09000029,One dependent child in family aged 12 to 18,3487
+2001,E09000029,Two or more dependent children in family; youngest aged 0 to 4,5592
+2001,E09000029,Two or more dependent children in family; youngest aged 5 to 11,5752
+2001,E09000029,Two or more dependent children in family; youngest aged 12 to 18,2051
+2001,E09000031,All families in households,56366
+2001,E09000031,No dependent children in family,28416
+2001,E09000031,One dependent child in family aged 0 to 4,4937
+2001,E09000031,One dependent child in family aged 5 to 11,3251
+2001,E09000031,One dependent child in family aged 12 to 18,4294
+2001,E09000031,Two or more dependent children in family; youngest aged 0 to 4,7234
+2001,E09000031,Two or more dependent children in family; youngest aged 5 to 11,6263
+2001,E09000031,Two or more dependent children in family; youngest aged 12 to 18,1971

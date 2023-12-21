@@ -1,0 +1,1585 @@
+date,geography_code,c2021_acctype_6_name,c2021_depch_3_name,c2021_bedrooms_5_name,obs_value
+2021,E09000001,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,0
+2021,E09000001,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1
+2021,E09000001,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,3
+2021,E09000001,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,7
+2021,E09000001,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,1
+2021,E09000001,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,0
+2021,E09000001,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,6
+2021,E09000001,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,11
+2021,E09000001,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,0
+2021,E09000001,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,1
+2021,E09000001,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,0
+2021,E09000001,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000001,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,1
+2021,E09000001,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,0
+2021,E09000001,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000001,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000001,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000001,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,0
+2021,E09000001,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,0
+2021,E09000001,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,3
+2021,E09000001,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,7
+2021,E09000001,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,0
+2021,E09000001,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,0
+2021,E09000001,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,6
+2021,E09000001,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,11
+2021,E09000001,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,52
+2021,E09000001,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,191
+2021,E09000001,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,98
+2021,E09000001,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,18
+2021,E09000001,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,13
+2021,E09000001,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,107
+2021,E09000001,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,107
+2021,E09000001,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,31
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000001,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000002,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,191
+2021,E09000002,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,7379
+2021,E09000002,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,12409
+2021,E09000002,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,4475
+2021,E09000002,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,87
+2021,E09000002,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,4892
+2021,E09000002,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,13064
+2021,E09000002,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,5083
+2021,E09000002,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,46
+2021,E09000002,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,824
+2021,E09000002,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1281
+2021,E09000002,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,379
+2021,E09000002,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,19
+2021,E09000002,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,497
+2021,E09000002,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1245
+2021,E09000002,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,424
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,57
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,2044
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,4335
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,1992
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,39
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,1355
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,4808
+2021,E09000002,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2131
+2021,E09000002,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,88
+2021,E09000002,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,4511
+2021,E09000002,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,6793
+2021,E09000002,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,2104
+2021,E09000002,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,29
+2021,E09000002,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,3040
+2021,E09000002,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,7011
+2021,E09000002,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2528
+2021,E09000002,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2306
+2021,E09000002,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,6780
+2021,E09000002,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1841
+2021,E09000002,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,148
+2021,E09000002,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,411
+2021,E09000002,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,3622
+2021,E09000002,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2246
+2021,E09000002,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,192
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,4
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,11
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,5
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,3
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,7
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,2
+2021,E09000002,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000003,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,129
+2021,E09000003,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2181
+2021,E09000003,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,10607
+2021,E09000003,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,16323
+2021,E09000003,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,54
+2021,E09000003,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1663
+2021,E09000003,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,9900
+2021,E09000003,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,18825
+2021,E09000003,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,37
+2021,E09000003,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,262
+2021,E09000003,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1025
+2021,E09000003,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,3864
+2021,E09000003,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,10
+2021,E09000003,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,187
+2021,E09000003,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,963
+2021,E09000003,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,5000
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,57
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,829
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,5826
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,9418
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,28
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,607
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,5422
+2021,E09000003,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,10560
+2021,E09000003,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,35
+2021,E09000003,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1090
+2021,E09000003,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,3756
+2021,E09000003,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3041
+2021,E09000003,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,16
+2021,E09000003,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,869
+2021,E09000003,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,3515
+2021,E09000003,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3265
+2021,E09000003,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2518
+2021,E09000003,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,13479
+2021,E09000003,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,3570
+2021,E09000003,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,495
+2021,E09000003,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,574
+2021,E09000003,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,7617
+2021,E09000003,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,3378
+2021,E09000003,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,538
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,2
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,17
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,1
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,3
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,4
+2021,E09000003,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,2
+2021,E09000004,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,85
+2021,E09000004,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,3024
+2021,E09000004,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,12862
+2021,E09000004,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,7810
+2021,E09000004,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,52
+2021,E09000004,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1532
+2021,E09000004,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,11746
+2021,E09000004,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,9283
+2021,E09000004,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,12
+2021,E09000004,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,248
+2021,E09000004,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,781
+2021,E09000004,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1123
+2021,E09000004,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,1
+2021,E09000004,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,111
+2021,E09000004,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,655
+2021,E09000004,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,1416
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,42
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1103
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,7377
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,5312
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,38
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,582
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,6526
+2021,E09000004,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,6129
+2021,E09000004,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,31
+2021,E09000004,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1673
+2021,E09000004,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,4704
+2021,E09000004,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1375
+2021,E09000004,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,13
+2021,E09000004,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,839
+2021,E09000004,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4565
+2021,E09000004,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1738
+2021,E09000004,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,864
+2021,E09000004,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,5503
+2021,E09000004,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,951
+2021,E09000004,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,99
+2021,E09000004,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,181
+2021,E09000004,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,2600
+2021,E09000004,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1093
+2021,E09000004,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,173
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,1
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,19
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,4
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,4
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,7
+2021,E09000004,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000005,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,156
+2021,E09000005,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1187
+2021,E09000005,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,7123
+2021,E09000005,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,9634
+2021,E09000005,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,86
+2021,E09000005,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1004
+2021,E09000005,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,7982
+2021,E09000005,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,10274
+2021,E09000005,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,48
+2021,E09000005,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,289
+2021,E09000005,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1015
+2021,E09000005,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1581
+2021,E09000005,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,22
+2021,E09000005,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,164
+2021,E09000005,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1012
+2021,E09000005,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,1770
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,80
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,514
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,3769
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4968
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,42
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,438
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,4329
+2021,E09000005,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5278
+2021,E09000005,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,28
+2021,E09000005,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,384
+2021,E09000005,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,2339
+2021,E09000005,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3085
+2021,E09000005,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,22
+2021,E09000005,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,402
+2021,E09000005,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,2641
+2021,E09000005,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3226
+2021,E09000005,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3596
+2021,E09000005,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,13402
+2021,E09000005,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,3921
+2021,E09000005,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,722
+2021,E09000005,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,1003
+2021,E09000005,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,9556
+2021,E09000005,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,4829
+2021,E09000005,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,960
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,11
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,12
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,10
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,17
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,3
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,9
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,12
+2021,E09000005,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,3
+2021,E09000006,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,69
+2021,E09000006,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,3354
+2021,E09000006,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,13076
+2021,E09000006,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,13222
+2021,E09000006,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,52
+2021,E09000006,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1896
+2021,E09000006,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,11015
+2021,E09000006,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,15347
+2021,E09000006,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,10
+2021,E09000006,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,215
+2021,E09000006,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1287
+2021,E09000006,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,5046
+2021,E09000006,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,4
+2021,E09000006,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,100
+2021,E09000006,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1148
+2021,E09000006,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,6141
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,26
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1295
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,6595
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,5594
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,25
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,736
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,5562
+2021,E09000006,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,6532
+2021,E09000006,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,33
+2021,E09000006,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1844
+2021,E09000006,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,5194
+2021,E09000006,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,2582
+2021,E09000006,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,23
+2021,E09000006,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1060
+2021,E09000006,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4305
+2021,E09000006,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2674
+2021,E09000006,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1255
+2021,E09000006,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,7029
+2021,E09000006,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1924
+2021,E09000006,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,133
+2021,E09000006,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,252
+2021,E09000006,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,3316
+2021,E09000006,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2043
+2021,E09000006,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,152
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,1
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,22
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,17
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,12
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,4
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,29
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,18
+2021,E09000006,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,10
+2021,E09000007,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,21
+2021,E09000007,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,186
+2021,E09000007,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,966
+2021,E09000007,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,2581
+2021,E09000007,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,3
+2021,E09000007,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,132
+2021,E09000007,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,991
+2021,E09000007,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,3532
+2021,E09000007,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,1
+2021,E09000007,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,35
+2021,E09000007,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,90
+2021,E09000007,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,338
+2021,E09000007,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,3
+2021,E09000007,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,18
+2021,E09000007,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,108
+2021,E09000007,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,546
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,9
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,34
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,175
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,724
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,40
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,260
+2021,E09000007,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,1196
+2021,E09000007,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,11
+2021,E09000007,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,117
+2021,E09000007,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,701
+2021,E09000007,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1519
+2021,E09000007,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,0
+2021,E09000007,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,74
+2021,E09000007,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,623
+2021,E09000007,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1790
+2021,E09000007,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2366
+2021,E09000007,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,7249
+2021,E09000007,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,5090
+2021,E09000007,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1387
+2021,E09000007,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,736
+2021,E09000007,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,5241
+2021,E09000007,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,5326
+2021,E09000007,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1849
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,16
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,1
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,0
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,2
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,1
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000007,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000008,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,200
+2021,E09000008,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,4000
+2021,E09000008,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,15381
+2021,E09000008,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,10351
+2021,E09000008,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,107
+2021,E09000008,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,2728
+2021,E09000008,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,16028
+2021,E09000008,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,11742
+2021,E09000008,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,52
+2021,E09000008,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,450
+2021,E09000008,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1870
+2021,E09000008,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,3507
+2021,E09000008,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,32
+2021,E09000008,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,296
+2021,E09000008,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1699
+2021,E09000008,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,3704
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,81
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1299
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,7063
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4435
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,38
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,959
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,7319
+2021,E09000008,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5198
+2021,E09000008,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,67
+2021,E09000008,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,2251
+2021,E09000008,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,6448
+2021,E09000008,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,2409
+2021,E09000008,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,37
+2021,E09000008,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1473
+2021,E09000008,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,7010
+2021,E09000008,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2840
+2021,E09000008,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3679
+2021,E09000008,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,13529
+2021,E09000008,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,2629
+2021,E09000008,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,304
+2021,E09000008,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,748
+2021,E09000008,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,7671
+2021,E09000008,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2724
+2021,E09000008,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,292
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,38
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,19
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,22
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,3
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,12
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,5
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,14
+2021,E09000008,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,1
+2021,E09000009,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,204
+2021,E09000009,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2237
+2021,E09000009,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,10694
+2021,E09000009,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,10166
+2021,E09000009,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,106
+2021,E09000009,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1707
+2021,E09000009,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,11793
+2021,E09000009,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,12077
+2021,E09000009,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,49
+2021,E09000009,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,355
+2021,E09000009,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1144
+2021,E09000009,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1265
+2021,E09000009,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,22
+2021,E09000009,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,188
+2021,E09000009,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1267
+2021,E09000009,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,1570
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,75
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,795
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,4492
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4682
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,46
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,702
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,5393
+2021,E09000009,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5857
+2021,E09000009,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,80
+2021,E09000009,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1087
+2021,E09000009,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,5058
+2021,E09000009,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,4219
+2021,E09000009,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,38
+2021,E09000009,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,817
+2021,E09000009,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,5133
+2021,E09000009,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,4650
+2021,E09000009,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3174
+2021,E09000009,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,13041
+2021,E09000009,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,3608
+2021,E09000009,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,525
+2021,E09000009,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,943
+2021,E09000009,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,8278
+2021,E09000009,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,3846
+2021,E09000009,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,615
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,18
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,50
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,10
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,13
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,2
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,21
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,19
+2021,E09000009,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,8
+2021,E09000010,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,166
+2021,E09000010,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,3605
+2021,E09000010,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,13729
+2021,E09000010,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,9476
+2021,E09000010,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,109
+2021,E09000010,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,2590
+2021,E09000010,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,14903
+2021,E09000010,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,11337
+2021,E09000010,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,55
+2021,E09000010,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,726
+2021,E09000010,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1737
+2021,E09000010,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1605
+2021,E09000010,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,24
+2021,E09000010,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,429
+2021,E09000010,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1919
+2021,E09000010,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2118
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,63
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1029
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,5413
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4382
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,42
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,725
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,6075
+2021,E09000010,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5261
+2021,E09000010,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,48
+2021,E09000010,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1850
+2021,E09000010,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,6579
+2021,E09000010,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3489
+2021,E09000010,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,43
+2021,E09000010,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1436
+2021,E09000010,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,6909
+2021,E09000010,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3958
+2021,E09000010,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3118
+2021,E09000010,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,11044
+2021,E09000010,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,2481
+2021,E09000010,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,343
+2021,E09000010,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,752
+2021,E09000010,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,7218
+2021,E09000010,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,3072
+2021,E09000010,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,514
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,14
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,18
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,12
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,4
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,2
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,6
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,7
+2021,E09000010,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,8
+2021,E09000011,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,179
+2021,E09000011,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,3031
+2021,E09000011,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,10641
+2021,E09000011,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,6463
+2021,E09000011,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,93
+2021,E09000011,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1998
+2021,E09000011,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,10520
+2021,E09000011,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,6810
+2021,E09000011,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,40
+2021,E09000011,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,288
+2021,E09000011,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,920
+2021,E09000011,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,752
+2021,E09000011,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,16
+2021,E09000011,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,178
+2021,E09000011,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,893
+2021,E09000011,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,905
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,80
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,782
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,4159
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2622
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,45
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,573
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,4035
+2021,E09000011,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2929
+2021,E09000011,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,59
+2021,E09000011,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1961
+2021,E09000011,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,5562
+2021,E09000011,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3089
+2021,E09000011,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,32
+2021,E09000011,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1247
+2021,E09000011,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,5592
+2021,E09000011,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2976
+2021,E09000011,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2348
+2021,E09000011,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,11168
+2021,E09000011,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,3578
+2021,E09000011,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,349
+2021,E09000011,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,434
+2021,E09000011,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,5443
+2021,E09000011,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,3620
+2021,E09000011,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,484
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,3
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,27
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,12
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,4
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,12
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,10
+2021,E09000011,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,2
+2021,E09000012,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,41
+2021,E09000012,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,488
+2021,E09000012,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,2539
+2021,E09000012,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,4837
+2021,E09000012,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,19
+2021,E09000012,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,344
+2021,E09000012,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,2649
+2021,E09000012,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,5590
+2021,E09000012,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,13
+2021,E09000012,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,73
+2021,E09000012,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,213
+2021,E09000012,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,298
+2021,E09000012,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,6
+2021,E09000012,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,49
+2021,E09000012,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,275
+2021,E09000012,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,425
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,12
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,104
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,512
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,912
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,6
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,100
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,586
+2021,E09000012,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,1184
+2021,E09000012,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,16
+2021,E09000012,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,311
+2021,E09000012,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,1814
+2021,E09000012,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3627
+2021,E09000012,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,7
+2021,E09000012,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,195
+2021,E09000012,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1788
+2021,E09000012,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3981
+2021,E09000012,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2896
+2021,E09000012,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,11792
+2021,E09000012,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,6785
+2021,E09000012,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1705
+2021,E09000012,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,716
+2021,E09000012,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,7394
+2021,E09000012,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,6783
+2021,E09000012,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,2335
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,68
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,20
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,2
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,3
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,11
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,6
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,9
+2021,E09000012,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,7
+2021,E09000013,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,18
+2021,E09000013,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,481
+2021,E09000013,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,1707
+2021,E09000013,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,5051
+2021,E09000013,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,8
+2021,E09000013,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,355
+2021,E09000013,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,1568
+2021,E09000013,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,4824
+2021,E09000013,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,2
+2021,E09000013,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,54
+2021,E09000013,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,96
+2021,E09000013,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,203
+2021,E09000013,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000013,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,44
+2021,E09000013,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,123
+2021,E09000013,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,227
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,11
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,108
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,331
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,831
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,3
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,108
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,415
+2021,E09000013,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,1020
+2021,E09000013,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,5
+2021,E09000013,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,319
+2021,E09000013,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,1280
+2021,E09000013,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,4017
+2021,E09000013,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,5
+2021,E09000013,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,203
+2021,E09000013,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1030
+2021,E09000013,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3577
+2021,E09000013,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1768
+2021,E09000013,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,5562
+2021,E09000013,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,2719
+2021,E09000013,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,572
+2021,E09000013,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,448
+2021,E09000013,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,3940
+2021,E09000013,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2967
+2021,E09000013,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,708
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,6
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,7
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,4
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,2
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000013,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000014,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,169
+2021,E09000014,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1748
+2021,E09000014,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,4957
+2021,E09000014,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,7036
+2021,E09000014,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,60
+2021,E09000014,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1581
+2021,E09000014,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,4977
+2021,E09000014,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,8017
+2021,E09000014,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,49
+2021,E09000014,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,326
+2021,E09000014,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,582
+2021,E09000014,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,822
+2021,E09000014,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,18
+2021,E09000014,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,234
+2021,E09000014,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,663
+2021,E09000014,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,940
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,81
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,438
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,1081
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,1665
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,19
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,498
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,1360
+2021,E09000014,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2359
+2021,E09000014,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,39
+2021,E09000014,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,984
+2021,E09000014,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,3294
+2021,E09000014,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,4549
+2021,E09000014,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,23
+2021,E09000014,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,849
+2021,E09000014,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,2954
+2021,E09000014,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,4718
+2021,E09000014,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3179
+2021,E09000014,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,8836
+2021,E09000014,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,3118
+2021,E09000014,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,587
+2021,E09000014,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,1097
+2021,E09000014,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,6592
+2021,E09000014,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,3368
+2021,E09000014,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,661
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,20
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,6
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,10
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,2
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,3
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,4
+2021,E09000014,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,2
+2021,E09000015,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,155
+2021,E09000015,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1431
+2021,E09000015,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,10168
+2021,E09000015,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,9207
+2021,E09000015,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,73
+2021,E09000015,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1017
+2021,E09000015,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,10344
+2021,E09000015,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,10015
+2021,E09000015,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,42
+2021,E09000015,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,171
+2021,E09000015,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,949
+2021,E09000015,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,2050
+2021,E09000015,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,17
+2021,E09000015,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,125
+2021,E09000015,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,990
+2021,E09000015,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2423
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,71
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,601
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,6164
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,5187
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,36
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,422
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,6325
+2021,E09000015,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5716
+2021,E09000015,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,42
+2021,E09000015,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,659
+2021,E09000015,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,3055
+2021,E09000015,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1970
+2021,E09000015,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,20
+2021,E09000015,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,470
+2021,E09000015,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,3029
+2021,E09000015,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1876
+2021,E09000015,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1782
+2021,E09000015,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,7413
+2021,E09000015,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1448
+2021,E09000015,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,192
+2021,E09000015,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,434
+2021,E09000015,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,4276
+2021,E09000015,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1296
+2021,E09000015,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,177
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,4
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,13
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,5
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,4
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,5
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,2
+2021,E09000015,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,1
+2021,E09000016,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,127
+2021,E09000016,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2382
+2021,E09000016,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,15157
+2021,E09000016,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,7688
+2021,E09000016,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,42
+2021,E09000016,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1163
+2021,E09000016,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,12495
+2021,E09000016,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,9138
+2021,E09000016,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,26
+2021,E09000016,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,211
+2021,E09000016,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1090
+2021,E09000016,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1775
+2021,E09000016,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,5
+2021,E09000016,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,108
+2021,E09000016,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,913
+2021,E09000016,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2172
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,71
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1087
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,7975
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4325
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,21
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,496
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,6661
+2021,E09000016,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5153
+2021,E09000016,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,30
+2021,E09000016,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1084
+2021,E09000016,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,6092
+2021,E09000016,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1588
+2021,E09000016,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,16
+2021,E09000016,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,559
+2021,E09000016,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4921
+2021,E09000016,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1813
+2021,E09000016,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1033
+2021,E09000016,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,5887
+2021,E09000016,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,943
+2021,E09000016,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,76
+2021,E09000016,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,161
+2021,E09000016,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,2428
+2021,E09000016,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,906
+2021,E09000016,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,98
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,11
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,19
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,32
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,9
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,24
+2021,E09000016,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000017,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,321
+2021,E09000017,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,4638
+2021,E09000017,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,14592
+2021,E09000017,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,8641
+2021,E09000017,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,122
+2021,E09000017,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,2919
+2021,E09000017,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,13902
+2021,E09000017,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,9476
+2021,E09000017,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,67
+2021,E09000017,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,543
+2021,E09000017,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1669
+2021,E09000017,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,2774
+2021,E09000017,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,13
+2021,E09000017,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,245
+2021,E09000017,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1489
+2021,E09000017,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2910
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,114
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1745
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,8846
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4429
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,63
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,1085
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,8535
+2021,E09000017,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5009
+2021,E09000017,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,140
+2021,E09000017,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,2350
+2021,E09000017,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,4077
+2021,E09000017,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1438
+2021,E09000017,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,46
+2021,E09000017,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1589
+2021,E09000017,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,3878
+2021,E09000017,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1557
+2021,E09000017,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2271
+2021,E09000017,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,8610
+2021,E09000017,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1066
+2021,E09000017,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,168
+2021,E09000017,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,373
+2021,E09000017,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,4598
+2021,E09000017,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1125
+2021,E09000017,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,129
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,4
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,21
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,11
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,7
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,8
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,8
+2021,E09000017,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,6
+2021,E09000018,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,204
+2021,E09000018,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,3070
+2021,E09000018,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,9447
+2021,E09000018,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,7250
+2021,E09000018,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,106
+2021,E09000018,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,2275
+2021,E09000018,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,9996
+2021,E09000018,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,8169
+2021,E09000018,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,44
+2021,E09000018,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,323
+2021,E09000018,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1008
+2021,E09000018,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,833
+2021,E09000018,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,20
+2021,E09000018,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,242
+2021,E09000018,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,878
+2021,E09000018,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,870
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,113
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1154
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,5079
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4174
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,65
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,917
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,5425
+2021,E09000018,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,4898
+2021,E09000018,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,47
+2021,E09000018,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1593
+2021,E09000018,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,3360
+2021,E09000018,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,2243
+2021,E09000018,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,21
+2021,E09000018,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1116
+2021,E09000018,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,3693
+2021,E09000018,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2401
+2021,E09000018,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2859
+2021,E09000018,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,11741
+2021,E09000018,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,2253
+2021,E09000018,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,305
+2021,E09000018,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,685
+2021,E09000018,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,6758
+2021,E09000018,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2419
+2021,E09000018,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,292
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,101
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,18
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,11
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,9
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,10
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,16
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,15
+2021,E09000018,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,7
+2021,E09000019,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,36
+2021,E09000019,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,338
+2021,E09000019,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,1660
+2021,E09000019,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,2930
+2021,E09000019,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,5
+2021,E09000019,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,173
+2021,E09000019,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,1451
+2021,E09000019,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,3477
+2021,E09000019,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,16
+2021,E09000019,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,45
+2021,E09000019,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,92
+2021,E09000019,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,114
+2021,E09000019,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000019,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,19
+2021,E09000019,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,122
+2021,E09000019,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,204
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,12
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,81
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,278
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,607
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,2
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,44
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,274
+2021,E09000019,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,696
+2021,E09000019,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,8
+2021,E09000019,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,212
+2021,E09000019,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,1290
+2021,E09000019,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,2209
+2021,E09000019,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,3
+2021,E09000019,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,110
+2021,E09000019,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1055
+2021,E09000019,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2577
+2021,E09000019,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2353
+2021,E09000019,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,9082
+2021,E09000019,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,4029
+2021,E09000019,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,717
+2021,E09000019,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,410
+2021,E09000019,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,5161
+2021,E09000019,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,4542
+2021,E09000019,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1087
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,17
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,15
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,4
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,2
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,3
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,2
+2021,E09000019,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,2
+2021,E09000020,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,8
+2021,E09000020,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,152
+2021,E09000020,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,928
+2021,E09000020,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,2553
+2021,E09000020,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,21
+2021,E09000020,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,121
+2021,E09000020,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,745
+2021,E09000020,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,2822
+2021,E09000020,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,3
+2021,E09000020,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,15
+2021,E09000020,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,46
+2021,E09000020,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,211
+2021,E09000020,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,2
+2021,E09000020,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,20
+2021,E09000020,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,61
+2021,E09000020,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,269
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,3
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,32
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,139
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,545
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,30
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,123
+2021,E09000020,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,604
+2021,E09000020,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,2
+2021,E09000020,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,105
+2021,E09000020,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,743
+2021,E09000020,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1797
+2021,E09000020,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,19
+2021,E09000020,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,71
+2021,E09000020,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,561
+2021,E09000020,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1949
+2021,E09000020,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,786
+2021,E09000020,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,3906
+2021,E09000020,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,2989
+2021,E09000020,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1179
+2021,E09000020,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,286
+2021,E09000020,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,2914
+2021,E09000020,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2918
+2021,E09000020,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1348
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,0
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,4
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,10
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,2
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,1
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,6
+2021,E09000020,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,5
+2021,E09000021,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,49
+2021,E09000021,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1240
+2021,E09000021,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,6194
+2021,E09000021,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,6321
+2021,E09000021,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,26
+2021,E09000021,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,709
+2021,E09000021,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,5425
+2021,E09000021,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,7569
+2021,E09000021,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,4
+2021,E09000021,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,111
+2021,E09000021,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,690
+2021,E09000021,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1653
+2021,E09000021,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,1
+2021,E09000021,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,71
+2021,E09000021,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,629
+2021,E09000021,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2306
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,20
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,497
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,3338
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,3538
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,16
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,301
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,2954
+2021,E09000021,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,4077
+2021,E09000021,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,25
+2021,E09000021,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,632
+2021,E09000021,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,2166
+2021,E09000021,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1130
+2021,E09000021,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,9
+2021,E09000021,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,337
+2021,E09000021,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1842
+2021,E09000021,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1186
+2021,E09000021,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,681
+2021,E09000021,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,4556
+2021,E09000021,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,904
+2021,E09000021,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,106
+2021,E09000021,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,136
+2021,E09000021,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,2370
+2021,E09000021,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1003
+2021,E09000021,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,133
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,4
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,11
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,5
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,7
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000021,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000022,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,57
+2021,E09000022,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,689
+2021,E09000022,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,3453
+2021,E09000022,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,6516
+2021,E09000022,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,34
+2021,E09000022,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,577
+2021,E09000022,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,3225
+2021,E09000022,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,6027
+2021,E09000022,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,19
+2021,E09000022,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,73
+2021,E09000022,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,275
+2021,E09000022,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,577
+2021,E09000022,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,13
+2021,E09000022,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,81
+2021,E09000022,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,328
+2021,E09000022,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,697
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,21
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,197
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,1052
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2250
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,12
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,199
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,1053
+2021,E09000022,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2365
+2021,E09000022,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,17
+2021,E09000022,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,419
+2021,E09000022,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,2126
+2021,E09000022,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3689
+2021,E09000022,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,9
+2021,E09000022,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,297
+2021,E09000022,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1844
+2021,E09000022,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2965
+2021,E09000022,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3183
+2021,E09000022,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,10447
+2021,E09000022,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,4796
+2021,E09000022,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1001
+2021,E09000022,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,878
+2021,E09000022,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,8088
+2021,E09000022,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,5846
+2021,E09000022,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1290
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,29
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,13
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,3
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,6
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,5
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,6
+2021,E09000022,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000023,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,93
+2021,E09000023,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2601
+2021,E09000023,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,9048
+2021,E09000023,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,6953
+2021,E09000023,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,84
+2021,E09000023,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1964
+2021,E09000023,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,8153
+2021,E09000023,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,6219
+2021,E09000023,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,25
+2021,E09000023,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,259
+2021,E09000023,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,727
+2021,E09000023,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,623
+2021,E09000023,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,35
+2021,E09000023,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,190
+2021,E09000023,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,726
+2021,E09000023,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,638
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,28
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,645
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,2650
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2522
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,21
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,517
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,2947
+2021,E09000023,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2518
+2021,E09000023,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,40
+2021,E09000023,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1697
+2021,E09000023,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,5671
+2021,E09000023,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3808
+2021,E09000023,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,28
+2021,E09000023,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1257
+2021,E09000023,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4480
+2021,E09000023,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3063
+2021,E09000023,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2916
+2021,E09000023,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,11928
+2021,E09000023,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,3195
+2021,E09000023,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,487
+2021,E09000023,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,707
+2021,E09000023,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,7455
+2021,E09000023,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,3713
+2021,E09000023,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,708
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,35
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,30
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,7
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,3
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,8
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,8
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,4
+2021,E09000023,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,0
+2021,E09000024,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,105
+2021,E09000024,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1856
+2021,E09000024,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,8020
+2021,E09000024,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,7955
+2021,E09000024,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,44
+2021,E09000024,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1269
+2021,E09000024,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,7090
+2021,E09000024,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,7906
+2021,E09000024,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,19
+2021,E09000024,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,194
+2021,E09000024,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,574
+2021,E09000024,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,967
+2021,E09000024,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,9
+2021,E09000024,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,111
+2021,E09000024,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,547
+2021,E09000024,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,1339
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,45
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,485
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,2333
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2624
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,17
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,346
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,2474
+2021,E09000024,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,3026
+2021,E09000024,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,41
+2021,E09000024,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1177
+2021,E09000024,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,5113
+2021,E09000024,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,4364
+2021,E09000024,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,18
+2021,E09000024,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,812
+2021,E09000024,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4069
+2021,E09000024,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3541
+2021,E09000024,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1763
+2021,E09000024,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,5388
+2021,E09000024,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1504
+2021,E09000024,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,211
+2021,E09000024,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,428
+2021,E09000024,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,3048
+2021,E09000024,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1529
+2021,E09000024,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,206
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,3
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,16
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,9
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,7
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,7
+2021,E09000024,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,1
+2021,E09000025,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,315
+2021,E09000025,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,4205
+2021,E09000025,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,11594
+2021,E09000025,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,8781
+2021,E09000025,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,130
+2021,E09000025,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,3307
+2021,E09000025,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,12542
+2021,E09000025,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,8218
+2021,E09000025,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,87
+2021,E09000025,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,729
+2021,E09000025,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1651
+2021,E09000025,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1093
+2021,E09000025,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,32
+2021,E09000025,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,529
+2021,E09000025,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1610
+2021,E09000025,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,947
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,105
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,1017
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,2637
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2186
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,49
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,852
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,3088
+2021,E09000025,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2050
+2021,E09000025,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,123
+2021,E09000025,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,2459
+2021,E09000025,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,7306
+2021,E09000025,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,5502
+2021,E09000025,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,49
+2021,E09000025,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1926
+2021,E09000025,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,7844
+2021,E09000025,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,5221
+2021,E09000025,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,4689
+2021,E09000025,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,12250
+2021,E09000025,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,4751
+2021,E09000025,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,519
+2021,E09000025,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,1122
+2021,E09000025,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,7882
+2021,E09000025,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,5259
+2021,E09000025,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,642
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,24
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,29
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,13
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,4
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,6
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,3
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,13
+2021,E09000025,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,4
+2021,E09000026,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,237
+2021,E09000026,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2478
+2021,E09000026,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,12630
+2021,E09000026,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,13161
+2021,E09000026,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,84
+2021,E09000026,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1654
+2021,E09000026,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,12167
+2021,E09000026,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,14860
+2021,E09000026,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,55
+2021,E09000026,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,353
+2021,E09000026,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,1177
+2021,E09000026,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1876
+2021,E09000026,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,18
+2021,E09000026,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,221
+2021,E09000026,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,1174
+2021,E09000026,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2260
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,103
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,854
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,4725
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,5603
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,40
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,557
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,4489
+2021,E09000026,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,6308
+2021,E09000026,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,79
+2021,E09000026,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1271
+2021,E09000026,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,6728
+2021,E09000026,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,5682
+2021,E09000026,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,26
+2021,E09000026,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,876
+2021,E09000026,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,6504
+2021,E09000026,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,6292
+2021,E09000026,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3092
+2021,E09000026,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,9401
+2021,E09000026,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1570
+2021,E09000026,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,185
+2021,E09000026,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,602
+2021,E09000026,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,4980
+2021,E09000026,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1577
+2021,E09000026,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,155
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,33
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,116
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,5
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,7
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,12
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,7
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,12
+2021,E09000026,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,5
+2021,E09000027,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,27
+2021,E09000027,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1500
+2021,E09000027,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,5872
+2021,E09000027,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,9400
+2021,E09000027,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,18
+2021,E09000027,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,800
+2021,E09000027,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,5109
+2021,E09000027,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,11486
+2021,E09000027,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,5
+2021,E09000027,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,95
+2021,E09000027,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,366
+2021,E09000027,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1323
+2021,E09000027,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,2
+2021,E09000027,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,64
+2021,E09000027,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,386
+2021,E09000027,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2283
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,11
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,411
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,2204
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,4399
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,13
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,249
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,2119
+2021,E09000027,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,5541
+2021,E09000027,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,11
+2021,E09000027,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,994
+2021,E09000027,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,3302
+2021,E09000027,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3678
+2021,E09000027,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,3
+2021,E09000027,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,487
+2021,E09000027,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,2604
+2021,E09000027,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,3662
+2021,E09000027,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,658
+2021,E09000027,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,4843
+2021,E09000027,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1355
+2021,E09000027,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,232
+2021,E09000027,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,132
+2021,E09000027,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,2245
+2021,E09000027,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1228
+2021,E09000027,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,161
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,2
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,10
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,4
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,7
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,3
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,4
+2021,E09000027,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,1
+2021,E09000028,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,77
+2021,E09000028,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,930
+2021,E09000028,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,3231
+2021,E09000028,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,4988
+2021,E09000028,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,32
+2021,E09000028,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,678
+2021,E09000028,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,2804
+2021,E09000028,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,4604
+2021,E09000028,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,17
+2021,E09000028,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,102
+2021,E09000028,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,178
+2021,E09000028,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,379
+2021,E09000028,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,12
+2021,E09000028,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,107
+2021,E09000028,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,275
+2021,E09000028,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,568
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,31
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,249
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,643
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,1525
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,10
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,186
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,742
+2021,E09000028,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,1608
+2021,E09000028,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,29
+2021,E09000028,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,579
+2021,E09000028,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,2410
+2021,E09000028,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,3084
+2021,E09000028,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,10
+2021,E09000028,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,385
+2021,E09000028,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1787
+2021,E09000028,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,2428
+2021,E09000028,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,4049
+2021,E09000028,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,12632
+2021,E09000028,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,5249
+2021,E09000028,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1023
+2021,E09000028,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,1165
+2021,E09000028,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,9026
+2021,E09000028,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,6958
+2021,E09000028,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1439
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,18
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,23
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,27
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,5
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,7
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,8
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,13
+2021,E09000028,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,2
+2021,E09000029,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,62
+2021,E09000029,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2586
+2021,E09000029,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,8639
+2021,E09000029,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,6103
+2021,E09000029,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,31
+2021,E09000029,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,1715
+2021,E09000029,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,8526
+2021,E09000029,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,7851
+2021,E09000029,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,11
+2021,E09000029,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,179
+2021,E09000029,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,671
+2021,E09000029,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,1616
+2021,E09000029,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,5
+2021,E09000029,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,132
+2021,E09000029,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,653
+2021,E09000029,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,2186
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,22
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,687
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,3923
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,3067
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,12
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,466
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,3757
+2021,E09000029,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,3992
+2021,E09000029,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,29
+2021,E09000029,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1720
+2021,E09000029,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,4045
+2021,E09000029,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1420
+2021,E09000029,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,14
+2021,E09000029,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1117
+2021,E09000029,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4116
+2021,E09000029,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1673
+2021,E09000029,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1401
+2021,E09000029,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,6932
+2021,E09000029,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,1207
+2021,E09000029,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,100
+2021,E09000029,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,249
+2021,E09000029,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,3467
+2021,E09000029,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,1311
+2021,E09000029,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,139
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,12
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,1
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,1
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,1
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,0
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,1
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,0
+2021,E09000029,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,1
+2021,E09000030,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,49
+2021,E09000030,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,720
+2021,E09000030,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,1717
+2021,E09000030,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,2390
+2021,E09000030,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,14
+2021,E09000030,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,476
+2021,E09000030,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,1728
+2021,E09000030,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,2510
+2021,E09000030,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,3
+2021,E09000030,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,82
+2021,E09000030,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,124
+2021,E09000030,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,213
+2021,E09000030,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000030,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,52
+2021,E09000030,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,159
+2021,E09000030,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,288
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,23
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,158
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,289
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,446
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,9
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,151
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,378
+2021,E09000030,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,537
+2021,E09000030,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,23
+2021,E09000030,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,480
+2021,E09000030,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,1304
+2021,E09000030,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,1731
+2021,E09000030,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,5
+2021,E09000030,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,273
+2021,E09000030,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1191
+2021,E09000030,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1685
+2021,E09000030,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,4357
+2021,E09000030,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,17617
+2021,E09000030,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,7644
+2021,E09000030,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1863
+2021,E09000030,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,581
+2021,E09000030,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,10684
+2021,E09000030,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,9967
+2021,E09000030,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,2943
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,15
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,19
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,11
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,6
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,10
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,5
+2021,E09000030,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,4
+2021,E09000031,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,146
+2021,E09000031,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,2646
+2021,E09000031,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,9939
+2021,E09000031,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,8958
+2021,E09000031,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,80
+2021,E09000031,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,2094
+2021,E09000031,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,8681
+2021,E09000031,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,7875
+2021,E09000031,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,34
+2021,E09000031,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,332
+2021,E09000031,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,767
+2021,E09000031,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,774
+2021,E09000031,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,13
+2021,E09000031,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,265
+2021,E09000031,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,875
+2021,E09000031,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,815
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,62
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,644
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,2745
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2903
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,24
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,602
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,2827
+2021,E09000031,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2810
+2021,E09000031,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,50
+2021,E09000031,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,1670
+2021,E09000031,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,6427
+2021,E09000031,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,5281
+2021,E09000031,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,43
+2021,E09000031,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,1227
+2021,E09000031,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,4979
+2021,E09000031,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,4250
+2021,E09000031,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,3105
+2021,E09000031,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,9065
+2021,E09000031,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,2263
+2021,E09000031,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,255
+2021,E09000031,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,919
+2021,E09000031,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,5503
+2021,E09000031,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,2459
+2021,E09000031,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,300
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,13
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,12
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,20
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,2
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,5
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,4
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,4
+2021,E09000031,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,2
+2021,E09000032,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,59
+2021,E09000032,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,1029
+2021,E09000032,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,3899
+2021,E09000032,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,11864
+2021,E09000032,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,35
+2021,E09000032,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,696
+2021,E09000032,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,3092
+2021,E09000032,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,9336
+2021,E09000032,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,18
+2021,E09000032,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,79
+2021,E09000032,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,252
+2021,E09000032,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,693
+2021,E09000032,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,5
+2021,E09000032,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,85
+2021,E09000032,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,282
+2021,E09000032,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,917
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,23
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,245
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,783
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,2337
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,16
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,202
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,843
+2021,E09000032,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,2650
+2021,E09000032,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,18
+2021,E09000032,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,705
+2021,E09000032,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,2864
+2021,E09000032,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,8834
+2021,E09000032,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,14
+2021,E09000032,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,409
+2021,E09000032,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,1967
+2021,E09000032,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,5769
+2021,E09000032,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,2335
+2021,E09000032,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,10640
+2021,E09000032,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,4623
+2021,E09000032,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1097
+2021,E09000032,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,446
+2021,E09000032,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,5631
+2021,E09000032,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,4569
+2021,E09000032,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1223
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,33
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,21
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,8
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,5
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,7
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,11
+2021,E09000032,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,6
+2021,E09000033,Whole house or bungalow,Aged 0 to 9 years,1 bedroom,33
+2021,E09000033,Whole house or bungalow,Aged 0 to 9 years,2 bedrooms,327
+2021,E09000033,Whole house or bungalow,Aged 0 to 9 years,3 bedrooms,680
+2021,E09000033,Whole house or bungalow,Aged 0 to 9 years,4 or more bedrooms,1555
+2021,E09000033,Whole house or bungalow,Aged 10 to 18 years,1 bedroom,7
+2021,E09000033,Whole house or bungalow,Aged 10 to 18 years,2 bedrooms,268
+2021,E09000033,Whole house or bungalow,Aged 10 to 18 years,3 bedrooms,693
+2021,E09000033,Whole house or bungalow,Aged 10 to 18 years,4 or more bedrooms,1918
+2021,E09000033,Whole house or bungalow: Detached,Aged 0 to 9 years,1 bedroom,0
+2021,E09000033,Whole house or bungalow: Detached,Aged 0 to 9 years,2 bedrooms,36
+2021,E09000033,Whole house or bungalow: Detached,Aged 0 to 9 years,3 bedrooms,47
+2021,E09000033,Whole house or bungalow: Detached,Aged 0 to 9 years,4 or more bedrooms,210
+2021,E09000033,Whole house or bungalow: Detached,Aged 10 to 18 years,1 bedroom,1
+2021,E09000033,Whole house or bungalow: Detached,Aged 10 to 18 years,2 bedrooms,50
+2021,E09000033,Whole house or bungalow: Detached,Aged 10 to 18 years,3 bedrooms,94
+2021,E09000033,Whole house or bungalow: Detached,Aged 10 to 18 years,4 or more bedrooms,299
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,1 bedroom,3
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,2 bedrooms,62
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,3 bedrooms,100
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 0 to 9 years,4 or more bedrooms,421
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,1 bedroom,0
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,2 bedrooms,41
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,3 bedrooms,160
+2021,E09000033,Whole house or bungalow: Semi-detached,Aged 10 to 18 years,4 or more bedrooms,497
+2021,E09000033,Whole house or bungalow: Terraced,Aged 0 to 9 years,1 bedroom,30
+2021,E09000033,Whole house or bungalow: Terraced,Aged 0 to 9 years,2 bedrooms,229
+2021,E09000033,Whole house or bungalow: Terraced,Aged 0 to 9 years,3 bedrooms,533
+2021,E09000033,Whole house or bungalow: Terraced,Aged 0 to 9 years,4 or more bedrooms,924
+2021,E09000033,Whole house or bungalow: Terraced,Aged 10 to 18 years,1 bedroom,6
+2021,E09000033,Whole house or bungalow: Terraced,Aged 10 to 18 years,2 bedrooms,177
+2021,E09000033,Whole house or bungalow: Terraced,Aged 10 to 18 years,3 bedrooms,439
+2021,E09000033,Whole house or bungalow: Terraced,Aged 10 to 18 years,4 or more bedrooms,1122
+2021,E09000033,"Flat, maisonette or apartment",Aged 0 to 9 years,1 bedroom,1838
+2021,E09000033,"Flat, maisonette or apartment",Aged 0 to 9 years,2 bedrooms,6515
+2021,E09000033,"Flat, maisonette or apartment",Aged 0 to 9 years,3 bedrooms,4163
+2021,E09000033,"Flat, maisonette or apartment",Aged 0 to 9 years,4 or more bedrooms,1199
+2021,E09000033,"Flat, maisonette or apartment",Aged 10 to 18 years,1 bedroom,608
+2021,E09000033,"Flat, maisonette or apartment",Aged 10 to 18 years,2 bedrooms,5066
+2021,E09000033,"Flat, maisonette or apartment",Aged 10 to 18 years,3 bedrooms,4924
+2021,E09000033,"Flat, maisonette or apartment",Aged 10 to 18 years,4 or more bedrooms,1513
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 0 to 9 years,1 bedroom,8
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 0 to 9 years,2 bedrooms,11
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 0 to 9 years,3 bedrooms,5
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 0 to 9 years,4 or more bedrooms,0
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 10 to 18 years,1 bedroom,1
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 10 to 18 years,2 bedrooms,0
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 10 to 18 years,3 bedrooms,10
+2021,E09000033,A caravan or other mobile or temporary structure,Aged 10 to 18 years,4 or more bedrooms,1

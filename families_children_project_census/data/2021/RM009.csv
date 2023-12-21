@@ -1,0 +1,1585 @@
+date,geography_code,c2021_concft_11_name,c2021_frp_age_5_name,obs_value
+2021,E09000001,Concealed family,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family,Family Reference Person aged 25 to 49 years,18
+2021,E09000001,Concealed family,Family Reference Person aged 50 to 64 years,3
+2021,E09000001,Concealed family,Family Reference Person aged 65 years and over,6
+2021,E09000001,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,6
+2021,E09000001,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,3
+2021,E09000001,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,2
+2021,E09000001,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,6
+2021,E09000001,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,0
+2021,E09000001,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,1
+2021,E09000001,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,0
+2021,E09000001,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,3
+2021,E09000001,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,1
+2021,E09000001,Concealed family:Couple family,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,12
+2021,E09000001,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,0
+2021,E09000001,Concealed family:Couple family,Family Reference Person aged 65 years and over,4
+2021,E09000001,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,12
+2021,E09000001,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,0
+2021,E09000001,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,2
+2021,E09000001,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,0
+2021,E09000001,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,0
+2021,E09000001,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,2
+2021,E09000001,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000001,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,0
+2021,E09000001,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,0
+2021,E09000001,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,0
+2021,E09000001,Unconcealed family,Family Reference Person aged 24 years and under,80
+2021,E09000001,Unconcealed family,Family Reference Person aged 25 to 49 years,1038
+2021,E09000001,Unconcealed family,Family Reference Person aged 50 to 64 years,540
+2021,E09000001,Unconcealed family,Family Reference Person aged 65 years and over,336
+2021,E09000001,Unconcealed family: No children,Family Reference Person aged 24 years and under,79
+2021,E09000001,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,739
+2021,E09000001,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,304
+2021,E09000001,Unconcealed family: No children,Family Reference Person aged 65 years and over,265
+2021,E09000001,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,1
+2021,E09000001,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,289
+2021,E09000001,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,127
+2021,E09000001,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,7
+2021,E09000001,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000001,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,10
+2021,E09000001,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,109
+2021,E09000001,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,64
+2021,E09000002,Concealed family,Family Reference Person aged 24 years and under,281
+2021,E09000002,Concealed family,Family Reference Person aged 25 to 49 years,1629
+2021,E09000002,Concealed family,Family Reference Person aged 50 to 64 years,462
+2021,E09000002,Concealed family,Family Reference Person aged 65 years and over,417
+2021,E09000002,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,116
+2021,E09000002,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,578
+2021,E09000002,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,184
+2021,E09000002,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,132
+2021,E09000002,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,115
+2021,E09000002,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,536
+2021,E09000002,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,47
+2021,E09000002,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,25
+2021,E09000002,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000002,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,42
+2021,E09000002,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,137
+2021,E09000002,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,107
+2021,E09000002,Concealed family:Couple family,Family Reference Person aged 24 years and under,165
+2021,E09000002,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1051
+2021,E09000002,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,278
+2021,E09000002,Concealed family:Couple family,Family Reference Person aged 65 years and over,285
+2021,E09000002,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,153
+2021,E09000002,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,635
+2021,E09000002,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,119
+2021,E09000002,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,195
+2021,E09000002,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,12
+2021,E09000002,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,404
+2021,E09000002,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,73
+2021,E09000002,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,30
+2021,E09000002,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000002,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,12
+2021,E09000002,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,86
+2021,E09000002,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,60
+2021,E09000002,Unconcealed family,Family Reference Person aged 24 years and under,734
+2021,E09000002,Unconcealed family,Family Reference Person aged 25 to 49 years,31838
+2021,E09000002,Unconcealed family,Family Reference Person aged 50 to 64 years,15509
+2021,E09000002,Unconcealed family,Family Reference Person aged 65 years and over,5928
+2021,E09000002,Unconcealed family: No children,Family Reference Person aged 24 years and under,192
+2021,E09000002,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,4270
+2021,E09000002,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3103
+2021,E09000002,Unconcealed family: No children,Family Reference Person aged 65 years and over,2972
+2021,E09000002,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,542
+2021,E09000002,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,25991
+2021,E09000002,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5715
+2021,E09000002,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,191
+2021,E09000002,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000002,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1577
+2021,E09000002,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,6691
+2021,E09000002,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,2765
+2021,E09000003,Concealed family,Family Reference Person aged 24 years and under,207
+2021,E09000003,Concealed family,Family Reference Person aged 25 to 49 years,1839
+2021,E09000003,Concealed family,Family Reference Person aged 50 to 64 years,439
+2021,E09000003,Concealed family,Family Reference Person aged 65 years and over,901
+2021,E09000003,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,49
+2021,E09000003,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,463
+2021,E09000003,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,184
+2021,E09000003,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,240
+2021,E09000003,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,49
+2021,E09000003,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,418
+2021,E09000003,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,49
+2021,E09000003,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,63
+2021,E09000003,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000003,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,45
+2021,E09000003,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,135
+2021,E09000003,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,177
+2021,E09000003,Concealed family:Couple family,Family Reference Person aged 24 years and under,158
+2021,E09000003,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1376
+2021,E09000003,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,255
+2021,E09000003,Concealed family:Couple family,Family Reference Person aged 65 years and over,661
+2021,E09000003,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,144
+2021,E09000003,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,860
+2021,E09000003,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,158
+2021,E09000003,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,456
+2021,E09000003,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,13
+2021,E09000003,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,506
+2021,E09000003,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,36
+2021,E09000003,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,101
+2021,E09000003,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000003,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,10
+2021,E09000003,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,61
+2021,E09000003,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,104
+2021,E09000003,Unconcealed family,Family Reference Person aged 24 years and under,1134
+2021,E09000003,Unconcealed family,Family Reference Person aged 25 to 49 years,50318
+2021,E09000003,Unconcealed family,Family Reference Person aged 50 to 64 years,29869
+2021,E09000003,Unconcealed family,Family Reference Person aged 65 years and over,19111
+2021,E09000003,Unconcealed family: No children,Family Reference Person aged 24 years and under,665
+2021,E09000003,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,12422
+2021,E09000003,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,6879
+2021,E09000003,Unconcealed family: No children,Family Reference Person aged 65 years and over,11674
+2021,E09000003,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,467
+2021,E09000003,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,36369
+2021,E09000003,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,11239
+2021,E09000003,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,427
+2021,E09000003,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,2
+2021,E09000003,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1527
+2021,E09000003,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,11751
+2021,E09000003,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,7010
+2021,E09000004,Concealed family,Family Reference Person aged 24 years and under,239
+2021,E09000004,Concealed family,Family Reference Person aged 25 to 49 years,1068
+2021,E09000004,Concealed family,Family Reference Person aged 50 to 64 years,336
+2021,E09000004,Concealed family,Family Reference Person aged 65 years and over,441
+2021,E09000004,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,88
+2021,E09000004,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,390
+2021,E09000004,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,123
+2021,E09000004,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,81
+2021,E09000004,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,88
+2021,E09000004,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,360
+2021,E09000004,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,38
+2021,E09000004,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,17
+2021,E09000004,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000004,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,30
+2021,E09000004,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,85
+2021,E09000004,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,64
+2021,E09000004,Concealed family:Couple family,Family Reference Person aged 24 years and under,151
+2021,E09000004,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,678
+2021,E09000004,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,213
+2021,E09000004,Concealed family:Couple family,Family Reference Person aged 65 years and over,360
+2021,E09000004,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,139
+2021,E09000004,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,452
+2021,E09000004,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,124
+2021,E09000004,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,266
+2021,E09000004,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,12
+2021,E09000004,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,218
+2021,E09000004,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,34
+2021,E09000004,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,46
+2021,E09000004,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000004,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,8
+2021,E09000004,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,55
+2021,E09000004,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,48
+2021,E09000004,Unconcealed family,Family Reference Person aged 24 years and under,635
+2021,E09000004,Unconcealed family,Family Reference Person aged 25 to 49 years,32032
+2021,E09000004,Unconcealed family,Family Reference Person aged 50 to 64 years,21904
+2021,E09000004,Unconcealed family,Family Reference Person aged 65 years and over,13742
+2021,E09000004,Unconcealed family: No children,Family Reference Person aged 24 years and under,233
+2021,E09000004,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,5907
+2021,E09000004,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,6284
+2021,E09000004,Unconcealed family: No children,Family Reference Person aged 65 years and over,9511
+2021,E09000004,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,398
+2021,E09000004,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,24882
+2021,E09000004,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,6295
+2021,E09000004,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,216
+2021,E09000004,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,4
+2021,E09000004,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1243
+2021,E09000004,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,9325
+2021,E09000004,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4015
+2021,E09000005,Concealed family,Family Reference Person aged 24 years and under,363
+2021,E09000005,Concealed family,Family Reference Person aged 25 to 49 years,3840
+2021,E09000005,Concealed family,Family Reference Person aged 50 to 64 years,993
+2021,E09000005,Concealed family,Family Reference Person aged 65 years and over,1390
+2021,E09000005,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,132
+2021,E09000005,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,955
+2021,E09000005,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,407
+2021,E09000005,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,395
+2021,E09000005,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,129
+2021,E09000005,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,869
+2021,E09000005,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,94
+2021,E09000005,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,65
+2021,E09000005,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000005,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,86
+2021,E09000005,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,313
+2021,E09000005,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,330
+2021,E09000005,Concealed family:Couple family,Family Reference Person aged 24 years and under,231
+2021,E09000005,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,2885
+2021,E09000005,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,586
+2021,E09000005,Concealed family:Couple family,Family Reference Person aged 65 years and over,995
+2021,E09000005,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,199
+2021,E09000005,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,1768
+2021,E09000005,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,286
+2021,E09000005,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,626
+2021,E09000005,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,32
+2021,E09000005,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,1081
+2021,E09000005,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,123
+2021,E09000005,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,164
+2021,E09000005,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000005,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,36
+2021,E09000005,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,177
+2021,E09000005,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,205
+2021,E09000005,Unconcealed family,Family Reference Person aged 24 years and under,1030
+2021,E09000005,Unconcealed family,Family Reference Person aged 25 to 49 years,40314
+2021,E09000005,Unconcealed family,Family Reference Person aged 50 to 64 years,24843
+2021,E09000005,Unconcealed family,Family Reference Person aged 65 years and over,13256
+2021,E09000005,Unconcealed family: No children,Family Reference Person aged 24 years and under,602
+2021,E09000005,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,10601
+2021,E09000005,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4752
+2021,E09000005,Unconcealed family: No children,Family Reference Person aged 65 years and over,5748
+2021,E09000005,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,427
+2021,E09000005,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,28048
+2021,E09000005,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,9152
+2021,E09000005,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,427
+2021,E09000005,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000005,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1665
+2021,E09000005,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,10939
+2021,E09000005,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,7081
+2021,E09000006,Concealed family,Family Reference Person aged 24 years and under,185
+2021,E09000006,Concealed family,Family Reference Person aged 25 to 49 years,877
+2021,E09000006,Concealed family,Family Reference Person aged 50 to 64 years,302
+2021,E09000006,Concealed family,Family Reference Person aged 65 years and over,499
+2021,E09000006,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,55
+2021,E09000006,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,317
+2021,E09000006,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,104
+2021,E09000006,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,103
+2021,E09000006,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,55
+2021,E09000006,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,298
+2021,E09000006,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,20
+2021,E09000006,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,20
+2021,E09000006,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000006,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,19
+2021,E09000006,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,84
+2021,E09000006,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,83
+2021,E09000006,Concealed family:Couple family,Family Reference Person aged 24 years and under,130
+2021,E09000006,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,560
+2021,E09000006,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,198
+2021,E09000006,Concealed family:Couple family,Family Reference Person aged 65 years and over,396
+2021,E09000006,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,118
+2021,E09000006,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,402
+2021,E09000006,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,111
+2021,E09000006,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,292
+2021,E09000006,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,12
+2021,E09000006,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,155
+2021,E09000006,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,33
+2021,E09000006,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,53
+2021,E09000006,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000006,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,3
+2021,E09000006,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,54
+2021,E09000006,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,51
+2021,E09000006,Unconcealed family,Family Reference Person aged 24 years and under,822
+2021,E09000006,Unconcealed family,Family Reference Person aged 25 to 49 years,44567
+2021,E09000006,Unconcealed family,Family Reference Person aged 50 to 64 years,29064
+2021,E09000006,Unconcealed family,Family Reference Person aged 65 years and over,19695
+2021,E09000006,Unconcealed family: No children,Family Reference Person aged 24 years and under,390
+2021,E09000006,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,10757
+2021,E09000006,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,9042
+2021,E09000006,Unconcealed family: No children,Family Reference Person aged 65 years and over,14242
+2021,E09000006,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,429
+2021,E09000006,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,32548
+2021,E09000006,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,9411
+2021,E09000006,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,236
+2021,E09000006,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000006,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1262
+2021,E09000006,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,10611
+2021,E09000006,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,5217
+2021,E09000007,Concealed family,Family Reference Person aged 24 years and under,75
+2021,E09000007,Concealed family,Family Reference Person aged 25 to 49 years,425
+2021,E09000007,Concealed family,Family Reference Person aged 50 to 64 years,182
+2021,E09000007,Concealed family,Family Reference Person aged 65 years and over,319
+2021,E09000007,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,37
+2021,E09000007,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,179
+2021,E09000007,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,84
+2021,E09000007,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,136
+2021,E09000007,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,37
+2021,E09000007,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,168
+2021,E09000007,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,24
+2021,E09000007,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,45
+2021,E09000007,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000007,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,11
+2021,E09000007,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,60
+2021,E09000007,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,91
+2021,E09000007,Concealed family:Couple family,Family Reference Person aged 24 years and under,38
+2021,E09000007,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,246
+2021,E09000007,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,98
+2021,E09000007,Concealed family:Couple family,Family Reference Person aged 65 years and over,183
+2021,E09000007,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,37
+2021,E09000007,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,171
+2021,E09000007,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,39
+2021,E09000007,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,115
+2021,E09000007,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,1
+2021,E09000007,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,66
+2021,E09000007,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,28
+2021,E09000007,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,26
+2021,E09000007,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000007,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,9
+2021,E09000007,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,31
+2021,E09000007,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,42
+2021,E09000007,Unconcealed family,Family Reference Person aged 24 years and under,803
+2021,E09000007,Unconcealed family,Family Reference Person aged 25 to 49 years,26545
+2021,E09000007,Unconcealed family,Family Reference Person aged 50 to 64 years,13722
+2021,E09000007,Unconcealed family,Family Reference Person aged 65 years and over,7263
+2021,E09000007,Unconcealed family: No children,Family Reference Person aged 24 years and under,633
+2021,E09000007,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,11007
+2021,E09000007,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3536
+2021,E09000007,Unconcealed family: No children,Family Reference Person aged 65 years and over,3969
+2021,E09000007,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,170
+2021,E09000007,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,14869
+2021,E09000007,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5392
+2021,E09000007,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,282
+2021,E09000007,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000007,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,669
+2021,E09000007,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,4794
+2021,E09000007,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3012
+2021,E09000008,Concealed family,Family Reference Person aged 24 years and under,326
+2021,E09000008,Concealed family,Family Reference Person aged 25 to 49 years,1749
+2021,E09000008,Concealed family,Family Reference Person aged 50 to 64 years,554
+2021,E09000008,Concealed family,Family Reference Person aged 65 years and over,862
+2021,E09000008,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,171
+2021,E09000008,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,659
+2021,E09000008,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,265
+2021,E09000008,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,223
+2021,E09000008,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,171
+2021,E09000008,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,619
+2021,E09000008,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,83
+2021,E09000008,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,39
+2021,E09000008,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000008,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,40
+2021,E09000008,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,182
+2021,E09000008,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,184
+2021,E09000008,Concealed family:Couple family,Family Reference Person aged 24 years and under,155
+2021,E09000008,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1090
+2021,E09000008,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,289
+2021,E09000008,Concealed family:Couple family,Family Reference Person aged 65 years and over,639
+2021,E09000008,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,138
+2021,E09000008,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,735
+2021,E09000008,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,157
+2021,E09000008,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,481
+2021,E09000008,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,17
+2021,E09000008,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,345
+2021,E09000008,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,59
+2021,E09000008,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,73
+2021,E09000008,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000008,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,10
+2021,E09000008,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,73
+2021,E09000008,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,85
+2021,E09000008,Unconcealed family,Family Reference Person aged 24 years and under,1328
+2021,E09000008,Unconcealed family,Family Reference Person aged 25 to 49 years,52865
+2021,E09000008,Unconcealed family,Family Reference Person aged 50 to 64 years,32229
+2021,E09000008,Unconcealed family,Family Reference Person aged 65 years and over,17742
+2021,E09000008,Unconcealed family: No children,Family Reference Person aged 24 years and under,476
+2021,E09000008,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,12240
+2021,E09000008,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,7924
+2021,E09000008,Unconcealed family: No children,Family Reference Person aged 65 years and over,10761
+2021,E09000008,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,851
+2021,E09000008,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,38646
+2021,E09000008,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,10515
+2021,E09000008,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,381
+2021,E09000008,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000008,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1979
+2021,E09000008,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,13790
+2021,E09000008,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,6600
+2021,E09000009,Concealed family,Family Reference Person aged 24 years and under,187
+2021,E09000009,Concealed family,Family Reference Person aged 25 to 49 years,2831
+2021,E09000009,Concealed family,Family Reference Person aged 50 to 64 years,811
+2021,E09000009,Concealed family,Family Reference Person aged 65 years and over,1276
+2021,E09000009,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,76
+2021,E09000009,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,878
+2021,E09000009,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,324
+2021,E09000009,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,339
+2021,E09000009,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,76
+2021,E09000009,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,806
+2021,E09000009,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,107
+2021,E09000009,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,65
+2021,E09000009,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000009,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,72
+2021,E09000009,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,217
+2021,E09000009,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,274
+2021,E09000009,Concealed family:Couple family,Family Reference Person aged 24 years and under,111
+2021,E09000009,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1953
+2021,E09000009,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,487
+2021,E09000009,Concealed family:Couple family,Family Reference Person aged 65 years and over,937
+2021,E09000009,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,100
+2021,E09000009,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,1215
+2021,E09000009,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,227
+2021,E09000009,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,611
+2021,E09000009,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,10
+2021,E09000009,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,720
+2021,E09000009,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,124
+2021,E09000009,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,147
+2021,E09000009,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000009,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,18
+2021,E09000009,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,136
+2021,E09000009,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,179
+2021,E09000009,Unconcealed family,Family Reference Person aged 24 years and under,878
+2021,E09000009,Unconcealed family,Family Reference Person aged 25 to 49 years,46949
+2021,E09000009,Unconcealed family,Family Reference Person aged 50 to 64 years,27890
+2021,E09000009,Unconcealed family,Family Reference Person aged 65 years and over,14753
+2021,E09000009,Unconcealed family: No children,Family Reference Person aged 24 years and under,535
+2021,E09000009,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,12709
+2021,E09000009,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5995
+2021,E09000009,Unconcealed family: No children,Family Reference Person aged 65 years and over,7211
+2021,E09000009,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,340
+2021,E09000009,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,32567
+2021,E09000009,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,10695
+2021,E09000009,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,547
+2021,E09000009,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000009,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1673
+2021,E09000009,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,11200
+2021,E09000009,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,6995
+2021,E09000010,Concealed family,Family Reference Person aged 24 years and under,284
+2021,E09000010,Concealed family,Family Reference Person aged 25 to 49 years,1971
+2021,E09000010,Concealed family,Family Reference Person aged 50 to 64 years,609
+2021,E09000010,Concealed family,Family Reference Person aged 65 years and over,789
+2021,E09000010,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,122
+2021,E09000010,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,753
+2021,E09000010,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,221
+2021,E09000010,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,169
+2021,E09000010,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,122
+2021,E09000010,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,705
+2021,E09000010,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,54
+2021,E09000010,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,29
+2021,E09000010,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000010,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,48
+2021,E09000010,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,167
+2021,E09000010,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,140
+2021,E09000010,Concealed family:Couple family,Family Reference Person aged 24 years and under,162
+2021,E09000010,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1218
+2021,E09000010,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,388
+2021,E09000010,Concealed family:Couple family,Family Reference Person aged 65 years and over,620
+2021,E09000010,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,152
+2021,E09000010,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,681
+2021,E09000010,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,188
+2021,E09000010,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,414
+2021,E09000010,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,10
+2021,E09000010,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,530
+2021,E09000010,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,72
+2021,E09000010,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,97
+2021,E09000010,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000010,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,7
+2021,E09000010,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,128
+2021,E09000010,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,109
+2021,E09000010,Unconcealed family,Family Reference Person aged 24 years and under,886
+2021,E09000010,Unconcealed family,Family Reference Person aged 25 to 49 years,42164
+2021,E09000010,Unconcealed family,Family Reference Person aged 50 to 64 years,27347
+2021,E09000010,Unconcealed family,Family Reference Person aged 65 years and over,15400
+2021,E09000010,Unconcealed family: No children,Family Reference Person aged 24 years and under,294
+2021,E09000010,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,6592
+2021,E09000010,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5818
+2021,E09000010,Unconcealed family: No children,Family Reference Person aged 65 years and over,8712
+2021,E09000010,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,589
+2021,E09000010,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,33741
+2021,E09000010,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,9388
+2021,E09000010,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,399
+2021,E09000010,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000010,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1831
+2021,E09000010,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,12141
+2021,E09000010,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,6289
+2021,E09000011,Concealed family,Family Reference Person aged 24 years and under,274
+2021,E09000011,Concealed family,Family Reference Person aged 25 to 49 years,1448
+2021,E09000011,Concealed family,Family Reference Person aged 50 to 64 years,460
+2021,E09000011,Concealed family,Family Reference Person aged 65 years and over,505
+2021,E09000011,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,120
+2021,E09000011,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,500
+2021,E09000011,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,240
+2021,E09000011,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,157
+2021,E09000011,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,120
+2021,E09000011,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,456
+2021,E09000011,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,71
+2021,E09000011,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,28
+2021,E09000011,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000011,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,44
+2021,E09000011,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,169
+2021,E09000011,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,129
+2021,E09000011,Concealed family:Couple family,Family Reference Person aged 24 years and under,154
+2021,E09000011,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,948
+2021,E09000011,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,220
+2021,E09000011,Concealed family:Couple family,Family Reference Person aged 65 years and over,348
+2021,E09000011,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,145
+2021,E09000011,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,627
+2021,E09000011,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,103
+2021,E09000011,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,250
+2021,E09000011,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,9
+2021,E09000011,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,319
+2021,E09000011,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,61
+2021,E09000011,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,40
+2021,E09000011,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000011,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,2
+2021,E09000011,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,56
+2021,E09000011,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,58
+2021,E09000011,Unconcealed family,Family Reference Person aged 24 years and under,1045
+2021,E09000011,Unconcealed family,Family Reference Person aged 25 to 49 years,42954
+2021,E09000011,Unconcealed family,Family Reference Person aged 50 to 64 years,20579
+2021,E09000011,Unconcealed family,Family Reference Person aged 65 years and over,9562
+2021,E09000011,Unconcealed family: No children,Family Reference Person aged 24 years and under,519
+2021,E09000011,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,13259
+2021,E09000011,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5424
+2021,E09000011,Unconcealed family: No children,Family Reference Person aged 65 years and over,5377
+2021,E09000011,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,526
+2021,E09000011,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,28112
+2021,E09000011,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,6976
+2021,E09000011,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,272
+2021,E09000011,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000011,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1583
+2021,E09000011,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,8179
+2021,E09000011,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3913
+2021,E09000012,Concealed family,Family Reference Person aged 24 years and under,150
+2021,E09000012,Concealed family,Family Reference Person aged 25 to 49 years,826
+2021,E09000012,Concealed family,Family Reference Person aged 50 to 64 years,329
+2021,E09000012,Concealed family,Family Reference Person aged 65 years and over,416
+2021,E09000012,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,90
+2021,E09000012,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,331
+2021,E09000012,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,190
+2021,E09000012,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,162
+2021,E09000012,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,90
+2021,E09000012,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,307
+2021,E09000012,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,48
+2021,E09000012,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,37
+2021,E09000012,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000012,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,24
+2021,E09000012,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,142
+2021,E09000012,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,125
+2021,E09000012,Concealed family:Couple family,Family Reference Person aged 24 years and under,60
+2021,E09000012,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,495
+2021,E09000012,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,139
+2021,E09000012,Concealed family:Couple family,Family Reference Person aged 65 years and over,254
+2021,E09000012,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,55
+2021,E09000012,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,352
+2021,E09000012,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,48
+2021,E09000012,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,154
+2021,E09000012,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,5
+2021,E09000012,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,139
+2021,E09000012,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,53
+2021,E09000012,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,61
+2021,E09000012,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000012,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,4
+2021,E09000012,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,38
+2021,E09000012,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,39
+2021,E09000012,Unconcealed family,Family Reference Person aged 24 years and under,1450
+2021,E09000012,Unconcealed family,Family Reference Person aged 25 to 49 years,36081
+2021,E09000012,Unconcealed family,Family Reference Person aged 50 to 64 years,15603
+2021,E09000012,Unconcealed family,Family Reference Person aged 65 years and over,6442
+2021,E09000012,Unconcealed family: No children,Family Reference Person aged 24 years and under,600
+2021,E09000012,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,14288
+2021,E09000012,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,2946
+2021,E09000012,Unconcealed family: No children,Family Reference Person aged 65 years and over,2554
+2021,E09000012,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,849
+2021,E09000012,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,20630
+2021,E09000012,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,6326
+2021,E09000012,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,308
+2021,E09000012,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000012,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1163
+2021,E09000012,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,6331
+2021,E09000012,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3580
+2021,E09000013,Concealed family,Family Reference Person aged 24 years and under,69
+2021,E09000013,Concealed family,Family Reference Person aged 25 to 49 years,428
+2021,E09000013,Concealed family,Family Reference Person aged 50 to 64 years,129
+2021,E09000013,Concealed family,Family Reference Person aged 65 years and over,218
+2021,E09000013,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,22
+2021,E09000013,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,178
+2021,E09000013,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,78
+2021,E09000013,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,76
+2021,E09000013,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,22
+2021,E09000013,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,162
+2021,E09000013,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,18
+2021,E09000013,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,11
+2021,E09000013,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000013,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,16
+2021,E09000013,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,60
+2021,E09000013,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,65
+2021,E09000013,Concealed family:Couple family,Family Reference Person aged 24 years and under,47
+2021,E09000013,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,250
+2021,E09000013,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,51
+2021,E09000013,Concealed family:Couple family,Family Reference Person aged 65 years and over,142
+2021,E09000013,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,44
+2021,E09000013,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,193
+2021,E09000013,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,26
+2021,E09000013,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,104
+2021,E09000013,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,3
+2021,E09000013,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,56
+2021,E09000013,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,15
+2021,E09000013,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,16
+2021,E09000013,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000013,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,1
+2021,E09000013,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,10
+2021,E09000013,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,22
+2021,E09000013,Unconcealed family,Family Reference Person aged 24 years and under,812
+2021,E09000013,Unconcealed family,Family Reference Person aged 25 to 49 years,24441
+2021,E09000013,Unconcealed family,Family Reference Person aged 50 to 64 years,11851
+2021,E09000013,Unconcealed family,Family Reference Person aged 65 years and over,5763
+2021,E09000013,Unconcealed family: No children,Family Reference Person aged 24 years and under,647
+2021,E09000013,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,10360
+2021,E09000013,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,2973
+2021,E09000013,Unconcealed family: No children,Family Reference Person aged 65 years and over,2841
+2021,E09000013,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,165
+2021,E09000013,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,13393
+2021,E09000013,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,4436
+2021,E09000013,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,234
+2021,E09000013,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000013,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,688
+2021,E09000013,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,4442
+2021,E09000013,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,2688
+2021,E09000014,Concealed family,Family Reference Person aged 24 years and under,190
+2021,E09000014,Concealed family,Family Reference Person aged 25 to 49 years,1355
+2021,E09000014,Concealed family,Family Reference Person aged 50 to 64 years,409
+2021,E09000014,Concealed family,Family Reference Person aged 65 years and over,438
+2021,E09000014,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,70
+2021,E09000014,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,425
+2021,E09000014,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,199
+2021,E09000014,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,168
+2021,E09000014,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,70
+2021,E09000014,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,380
+2021,E09000014,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,48
+2021,E09000014,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,34
+2021,E09000014,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000014,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,45
+2021,E09000014,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,151
+2021,E09000014,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,134
+2021,E09000014,Concealed family:Couple family,Family Reference Person aged 24 years and under,120
+2021,E09000014,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,930
+2021,E09000014,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,210
+2021,E09000014,Concealed family:Couple family,Family Reference Person aged 65 years and over,270
+2021,E09000014,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,105
+2021,E09000014,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,633
+2021,E09000014,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,135
+2021,E09000014,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,183
+2021,E09000014,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,15
+2021,E09000014,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,292
+2021,E09000014,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,21
+2021,E09000014,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,40
+2021,E09000014,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000014,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,5
+2021,E09000014,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,54
+2021,E09000014,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,47
+2021,E09000014,Unconcealed family,Family Reference Person aged 24 years and under,823
+2021,E09000014,Unconcealed family,Family Reference Person aged 25 to 49 years,35718
+2021,E09000014,Unconcealed family,Family Reference Person aged 50 to 64 years,18922
+2021,E09000014,Unconcealed family,Family Reference Person aged 65 years and over,9122
+2021,E09000014,Unconcealed family: No children,Family Reference Person aged 24 years and under,451
+2021,E09000014,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,11751
+2021,E09000014,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4434
+2021,E09000014,Unconcealed family: No children,Family Reference Person aged 65 years and over,4262
+2021,E09000014,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,370
+2021,E09000014,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,22496
+2021,E09000014,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7139
+2021,E09000014,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,275
+2021,E09000014,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,2
+2021,E09000014,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1471
+2021,E09000014,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,7349
+2021,E09000014,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4585
+2021,E09000015,Concealed family,Family Reference Person aged 24 years and under,287
+2021,E09000015,Concealed family,Family Reference Person aged 25 to 49 years,2319
+2021,E09000015,Concealed family,Family Reference Person aged 50 to 64 years,615
+2021,E09000015,Concealed family,Family Reference Person aged 65 years and over,1107
+2021,E09000015,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,78
+2021,E09000015,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,523
+2021,E09000015,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,209
+2021,E09000015,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,205
+2021,E09000015,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,77
+2021,E09000015,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,484
+2021,E09000015,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,51
+2021,E09000015,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,29
+2021,E09000015,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000015,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,39
+2021,E09000015,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,158
+2021,E09000015,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,176
+2021,E09000015,Concealed family:Couple family,Family Reference Person aged 24 years and under,209
+2021,E09000015,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1796
+2021,E09000015,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,406
+2021,E09000015,Concealed family:Couple family,Family Reference Person aged 65 years and over,902
+2021,E09000015,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,199
+2021,E09000015,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,1122
+2021,E09000015,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,210
+2021,E09000015,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,645
+2021,E09000015,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,10
+2021,E09000015,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,658
+2021,E09000015,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,86
+2021,E09000015,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,123
+2021,E09000015,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000015,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,16
+2021,E09000015,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,110
+2021,E09000015,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,134
+2021,E09000015,Unconcealed family,Family Reference Person aged 24 years and under,483
+2021,E09000015,Unconcealed family,Family Reference Person aged 25 to 49 years,31806
+2021,E09000015,Unconcealed family,Family Reference Person aged 50 to 64 years,20714
+2021,E09000015,Unconcealed family,Family Reference Person aged 65 years and over,13884
+2021,E09000015,Unconcealed family: No children,Family Reference Person aged 24 years and under,266
+2021,E09000015,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,6932
+2021,E09000015,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4278
+2021,E09000015,Unconcealed family: No children,Family Reference Person aged 65 years and over,8197
+2021,E09000015,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,216
+2021,E09000015,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,23841
+2021,E09000015,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,6736
+2021,E09000015,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,273
+2021,E09000015,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000015,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1033
+2021,E09000015,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,9700
+2021,E09000015,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,5414
+2021,E09000016,Concealed family,Family Reference Person aged 24 years and under,232
+2021,E09000016,Concealed family,Family Reference Person aged 25 to 49 years,1243
+2021,E09000016,Concealed family,Family Reference Person aged 50 to 64 years,340
+2021,E09000016,Concealed family,Family Reference Person aged 65 years and over,504
+2021,E09000016,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,84
+2021,E09000016,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,440
+2021,E09000016,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,136
+2021,E09000016,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,113
+2021,E09000016,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,84
+2021,E09000016,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,417
+2021,E09000016,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,21
+2021,E09000016,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,26
+2021,E09000016,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000016,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,23
+2021,E09000016,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,115
+2021,E09000016,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,87
+2021,E09000016,Concealed family:Couple family,Family Reference Person aged 24 years and under,148
+2021,E09000016,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,803
+2021,E09000016,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,204
+2021,E09000016,Concealed family:Couple family,Family Reference Person aged 65 years and over,391
+2021,E09000016,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,140
+2021,E09000016,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,509
+2021,E09000016,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,114
+2021,E09000016,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,301
+2021,E09000016,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,8
+2021,E09000016,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,284
+2021,E09000016,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,36
+2021,E09000016,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,43
+2021,E09000016,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000016,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,10
+2021,E09000016,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,54
+2021,E09000016,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,47
+2021,E09000016,Unconcealed family,Family Reference Person aged 24 years and under,721
+2021,E09000016,Unconcealed family,Family Reference Person aged 25 to 49 years,34143
+2021,E09000016,Unconcealed family,Family Reference Person aged 50 to 64 years,22323
+2021,E09000016,Unconcealed family,Family Reference Person aged 65 years and over,15930
+2021,E09000016,Unconcealed family: No children,Family Reference Person aged 24 years and under,264
+2021,E09000016,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,6403
+2021,E09000016,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,6483
+2021,E09000016,Unconcealed family: No children,Family Reference Person aged 65 years and over,11099
+2021,E09000016,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,455
+2021,E09000016,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,26324
+2021,E09000016,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5891
+2021,E09000016,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,207
+2021,E09000016,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,2
+2021,E09000016,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1416
+2021,E09000016,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,9949
+2021,E09000016,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4624
+2021,E09000017,Concealed family,Family Reference Person aged 24 years and under,221
+2021,E09000017,Concealed family,Family Reference Person aged 25 to 49 years,2073
+2021,E09000017,Concealed family,Family Reference Person aged 50 to 64 years,611
+2021,E09000017,Concealed family,Family Reference Person aged 65 years and over,928
+2021,E09000017,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,78
+2021,E09000017,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,638
+2021,E09000017,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,244
+2021,E09000017,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,197
+2021,E09000017,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,78
+2021,E09000017,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,595
+2021,E09000017,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,49
+2021,E09000017,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,34
+2021,E09000017,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000017,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,43
+2021,E09000017,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,195
+2021,E09000017,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,163
+2021,E09000017,Concealed family:Couple family,Family Reference Person aged 24 years and under,143
+2021,E09000017,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1435
+2021,E09000017,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,367
+2021,E09000017,Concealed family:Couple family,Family Reference Person aged 65 years and over,731
+2021,E09000017,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,128
+2021,E09000017,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,845
+2021,E09000017,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,184
+2021,E09000017,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,509
+2021,E09000017,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,15
+2021,E09000017,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,579
+2021,E09000017,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,75
+2021,E09000017,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,101
+2021,E09000017,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000017,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,11
+2021,E09000017,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,108
+2021,E09000017,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,121
+2021,E09000017,Unconcealed family,Family Reference Person aged 24 years and under,878
+2021,E09000017,Unconcealed family,Family Reference Person aged 25 to 49 years,40251
+2021,E09000017,Unconcealed family,Family Reference Person aged 50 to 64 years,24182
+2021,E09000017,Unconcealed family,Family Reference Person aged 65 years and over,13745
+2021,E09000017,Unconcealed family: No children,Family Reference Person aged 24 years and under,406
+2021,E09000017,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,8273
+2021,E09000017,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,6057
+2021,E09000017,Unconcealed family: No children,Family Reference Person aged 65 years and over,8359
+2021,E09000017,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,470
+2021,E09000017,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,30447
+2021,E09000017,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7695
+2021,E09000017,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,291
+2021,E09000017,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,2
+2021,E09000017,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1531
+2021,E09000017,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,10430
+2021,E09000017,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,5095
+2021,E09000018,Concealed family,Family Reference Person aged 24 years and under,221
+2021,E09000018,Concealed family,Family Reference Person aged 25 to 49 years,2497
+2021,E09000018,Concealed family,Family Reference Person aged 50 to 64 years,766
+2021,E09000018,Concealed family,Family Reference Person aged 65 years and over,1020
+2021,E09000018,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,76
+2021,E09000018,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,724
+2021,E09000018,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,335
+2021,E09000018,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,252
+2021,E09000018,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,76
+2021,E09000018,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,671
+2021,E09000018,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,84
+2021,E09000018,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,40
+2021,E09000018,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000018,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,53
+2021,E09000018,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,251
+2021,E09000018,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,212
+2021,E09000018,Concealed family:Couple family,Family Reference Person aged 24 years and under,145
+2021,E09000018,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1773
+2021,E09000018,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,431
+2021,E09000018,Concealed family:Couple family,Family Reference Person aged 65 years and over,768
+2021,E09000018,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,135
+2021,E09000018,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,1102
+2021,E09000018,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,209
+2021,E09000018,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,497
+2021,E09000018,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,10
+2021,E09000018,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,646
+2021,E09000018,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,101
+2021,E09000018,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,123
+2021,E09000018,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000018,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,25
+2021,E09000018,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,121
+2021,E09000018,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,148
+2021,E09000018,Unconcealed family,Family Reference Person aged 24 years and under,735
+2021,E09000018,Unconcealed family,Family Reference Person aged 25 to 49 years,39145
+2021,E09000018,Unconcealed family,Family Reference Person aged 50 to 64 years,21285
+2021,E09000018,Unconcealed family,Family Reference Person aged 65 years and over,11096
+2021,E09000018,Unconcealed family: No children,Family Reference Person aged 24 years and under,349
+2021,E09000018,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,9333
+2021,E09000018,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4999
+2021,E09000018,Unconcealed family: No children,Family Reference Person aged 65 years and over,5790
+2021,E09000018,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,385
+2021,E09000018,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,28307
+2021,E09000018,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7252
+2021,E09000018,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,332
+2021,E09000018,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000018,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1505
+2021,E09000018,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,9034
+2021,E09000018,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4974
+2021,E09000019,Concealed family,Family Reference Person aged 24 years and under,92
+2021,E09000019,Concealed family,Family Reference Person aged 25 to 49 years,463
+2021,E09000019,Concealed family,Family Reference Person aged 50 to 64 years,191
+2021,E09000019,Concealed family,Family Reference Person aged 65 years and over,245
+2021,E09000019,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,52
+2021,E09000019,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,168
+2021,E09000019,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,79
+2021,E09000019,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,114
+2021,E09000019,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,51
+2021,E09000019,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,159
+2021,E09000019,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,21
+2021,E09000019,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,20
+2021,E09000019,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000019,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,9
+2021,E09000019,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,58
+2021,E09000019,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,94
+2021,E09000019,Concealed family:Couple family,Family Reference Person aged 24 years and under,40
+2021,E09000019,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,295
+2021,E09000019,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,112
+2021,E09000019,Concealed family:Couple family,Family Reference Person aged 65 years and over,131
+2021,E09000019,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,40
+2021,E09000019,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,240
+2021,E09000019,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,37
+2021,E09000019,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,80
+2021,E09000019,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,0
+2021,E09000019,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,52
+2021,E09000019,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,22
+2021,E09000019,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,26
+2021,E09000019,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000019,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,3
+2021,E09000019,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,53
+2021,E09000019,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,25
+2021,E09000019,Unconcealed family,Family Reference Person aged 24 years and under,1022
+2021,E09000019,Unconcealed family,Family Reference Person aged 25 to 49 years,31154
+2021,E09000019,Unconcealed family,Family Reference Person aged 50 to 64 years,13261
+2021,E09000019,Unconcealed family,Family Reference Person aged 65 years and over,6169
+2021,E09000019,Unconcealed family: No children,Family Reference Person aged 24 years and under,678
+2021,E09000019,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,14382
+2021,E09000019,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3572
+2021,E09000019,Unconcealed family: No children,Family Reference Person aged 65 years and over,2943
+2021,E09000019,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,343
+2021,E09000019,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,15793
+2021,E09000019,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,4505
+2021,E09000019,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,222
+2021,E09000019,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000019,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,979
+2021,E09000019,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,5184
+2021,E09000019,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3004
+2021,E09000020,Concealed family,Family Reference Person aged 24 years and under,55
+2021,E09000020,Concealed family,Family Reference Person aged 25 to 49 years,349
+2021,E09000020,Concealed family,Family Reference Person aged 50 to 64 years,172
+2021,E09000020,Concealed family,Family Reference Person aged 65 years and over,230
+2021,E09000020,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,9
+2021,E09000020,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,167
+2021,E09000020,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,80
+2021,E09000020,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,76
+2021,E09000020,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,9
+2021,E09000020,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,156
+2021,E09000020,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,34
+2021,E09000020,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,19
+2021,E09000020,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000020,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,11
+2021,E09000020,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,46
+2021,E09000020,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,57
+2021,E09000020,Concealed family:Couple family,Family Reference Person aged 24 years and under,46
+2021,E09000020,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,182
+2021,E09000020,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,92
+2021,E09000020,Concealed family:Couple family,Family Reference Person aged 65 years and over,154
+2021,E09000020,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,46
+2021,E09000020,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,118
+2021,E09000020,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,35
+2021,E09000020,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,125
+2021,E09000020,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,0
+2021,E09000020,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,64
+2021,E09000020,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,39
+2021,E09000020,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,12
+2021,E09000020,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000020,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,0
+2021,E09000020,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,18
+2021,E09000020,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,17
+2021,E09000020,Unconcealed family,Family Reference Person aged 24 years and under,390
+2021,E09000020,Unconcealed family,Family Reference Person aged 25 to 49 years,15335
+2021,E09000020,Unconcealed family,Family Reference Person aged 50 to 64 years,11228
+2021,E09000020,Unconcealed family,Family Reference Person aged 65 years and over,6028
+2021,E09000020,Unconcealed family: No children,Family Reference Person aged 24 years and under,324
+2021,E09000020,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,6165
+2021,E09000020,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3040
+2021,E09000020,Unconcealed family: No children,Family Reference Person aged 65 years and over,3400
+2021,E09000020,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,65
+2021,E09000020,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,8714
+2021,E09000020,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,4268
+2021,E09000020,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,296
+2021,E09000020,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000020,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,456
+2021,E09000020,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,3920
+2021,E09000020,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,2332
+2021,E09000021,Concealed family,Family Reference Person aged 24 years and under,102
+2021,E09000021,Concealed family,Family Reference Person aged 25 to 49 years,544
+2021,E09000021,Concealed family,Family Reference Person aged 50 to 64 years,169
+2021,E09000021,Concealed family,Family Reference Person aged 65 years and over,318
+2021,E09000021,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,20
+2021,E09000021,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,174
+2021,E09000021,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,65
+2021,E09000021,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,64
+2021,E09000021,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,20
+2021,E09000021,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,159
+2021,E09000021,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,14
+2021,E09000021,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,9
+2021,E09000021,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000021,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,15
+2021,E09000021,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,51
+2021,E09000021,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,55
+2021,E09000021,Concealed family:Couple family,Family Reference Person aged 24 years and under,82
+2021,E09000021,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,370
+2021,E09000021,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,104
+2021,E09000021,Concealed family:Couple family,Family Reference Person aged 65 years and over,254
+2021,E09000021,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,79
+2021,E09000021,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,258
+2021,E09000021,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,54
+2021,E09000021,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,187
+2021,E09000021,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,3
+2021,E09000021,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,109
+2021,E09000021,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,13
+2021,E09000021,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,42
+2021,E09000021,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000021,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,3
+2021,E09000021,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,37
+2021,E09000021,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,25
+2021,E09000021,Unconcealed family,Family Reference Person aged 24 years and under,505
+2021,E09000021,Unconcealed family,Family Reference Person aged 25 to 49 years,22896
+2021,E09000021,Unconcealed family,Family Reference Person aged 50 to 64 years,13563
+2021,E09000021,Unconcealed family,Family Reference Person aged 65 years and over,8110
+2021,E09000021,Unconcealed family: No children,Family Reference Person aged 24 years and under,337
+2021,E09000021,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,6366
+2021,E09000021,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3815
+2021,E09000021,Unconcealed family: No children,Family Reference Person aged 65 years and over,5427
+2021,E09000021,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,168
+2021,E09000021,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,16021
+2021,E09000021,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,4950
+2021,E09000021,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,152
+2021,E09000021,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000021,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,509
+2021,E09000021,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,4798
+2021,E09000021,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,2531
+2021,E09000022,Concealed family,Family Reference Person aged 24 years and under,170
+2021,E09000022,Concealed family,Family Reference Person aged 25 to 49 years,1243
+2021,E09000022,Concealed family,Family Reference Person aged 50 to 64 years,353
+2021,E09000022,Concealed family,Family Reference Person aged 65 years and over,452
+2021,E09000022,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,63
+2021,E09000022,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,478
+2021,E09000022,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,216
+2021,E09000022,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,174
+2021,E09000022,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,63
+2021,E09000022,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,433
+2021,E09000022,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,49
+2021,E09000022,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,32
+2021,E09000022,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000022,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,45
+2021,E09000022,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,167
+2021,E09000022,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,142
+2021,E09000022,Concealed family:Couple family,Family Reference Person aged 24 years and under,107
+2021,E09000022,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,765
+2021,E09000022,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,137
+2021,E09000022,Concealed family:Couple family,Family Reference Person aged 65 years and over,278
+2021,E09000022,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,104
+2021,E09000022,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,529
+2021,E09000022,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,72
+2021,E09000022,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,170
+2021,E09000022,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,3
+2021,E09000022,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,216
+2021,E09000022,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,33
+2021,E09000022,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,43
+2021,E09000022,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000022,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,20
+2021,E09000022,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,32
+2021,E09000022,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,65
+2021,E09000022,Unconcealed family,Family Reference Person aged 24 years and under,1128
+2021,E09000022,Unconcealed family,Family Reference Person aged 25 to 49 years,43642
+2021,E09000022,Unconcealed family,Family Reference Person aged 50 to 64 years,20524
+2021,E09000022,Unconcealed family,Family Reference Person aged 65 years and over,8267
+2021,E09000022,Unconcealed family: No children,Family Reference Person aged 24 years and under,792
+2021,E09000022,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,18988
+2021,E09000022,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5014
+2021,E09000022,Unconcealed family: No children,Family Reference Person aged 65 years and over,3450
+2021,E09000022,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,333
+2021,E09000022,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,23246
+2021,E09000022,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7075
+2021,E09000022,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,350
+2021,E09000022,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000022,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1408
+2021,E09000022,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,8435
+2021,E09000022,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4467
+2021,E09000023,Concealed family,Family Reference Person aged 24 years and under,216
+2021,E09000023,Concealed family,Family Reference Person aged 25 to 49 years,1286
+2021,E09000023,Concealed family,Family Reference Person aged 50 to 64 years,420
+2021,E09000023,Concealed family,Family Reference Person aged 65 years and over,436
+2021,E09000023,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,118
+2021,E09000023,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,508
+2021,E09000023,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,232
+2021,E09000023,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,175
+2021,E09000023,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,118
+2021,E09000023,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,471
+2021,E09000023,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,53
+2021,E09000023,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,73
+2021,E09000023,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000023,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,37
+2021,E09000023,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,179
+2021,E09000023,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,102
+2021,E09000023,Concealed family:Couple family,Family Reference Person aged 24 years and under,98
+2021,E09000023,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,778
+2021,E09000023,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,188
+2021,E09000023,Concealed family:Couple family,Family Reference Person aged 65 years and over,261
+2021,E09000023,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,86
+2021,E09000023,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,537
+2021,E09000023,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,100
+2021,E09000023,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,189
+2021,E09000023,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,12
+2021,E09000023,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,228
+2021,E09000023,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,49
+2021,E09000023,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,20
+2021,E09000023,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000023,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,13
+2021,E09000023,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,39
+2021,E09000023,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,52
+2021,E09000023,Unconcealed family,Family Reference Person aged 24 years and under,1028
+2021,E09000023,Unconcealed family,Family Reference Person aged 25 to 49 years,44758
+2021,E09000023,Unconcealed family,Family Reference Person aged 50 to 64 years,22130
+2021,E09000023,Unconcealed family,Family Reference Person aged 65 years and over,9116
+2021,E09000023,Unconcealed family: No children,Family Reference Person aged 24 years and under,516
+2021,E09000023,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,15231
+2021,E09000023,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5304
+2021,E09000023,Unconcealed family: No children,Family Reference Person aged 65 years and over,4381
+2021,E09000023,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,511
+2021,E09000023,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,28010
+2021,E09000023,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7678
+2021,E09000023,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,252
+2021,E09000023,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000023,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1517
+2021,E09000023,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,9148
+2021,E09000023,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4483
+2021,E09000024,Concealed family,Family Reference Person aged 24 years and under,143
+2021,E09000024,Concealed family,Family Reference Person aged 25 to 49 years,1189
+2021,E09000024,Concealed family,Family Reference Person aged 50 to 64 years,319
+2021,E09000024,Concealed family,Family Reference Person aged 65 years and over,470
+2021,E09000024,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,55
+2021,E09000024,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,401
+2021,E09000024,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,134
+2021,E09000024,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,138
+2021,E09000024,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,55
+2021,E09000024,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,369
+2021,E09000024,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,32
+2021,E09000024,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,31
+2021,E09000024,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000024,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,32
+2021,E09000024,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,102
+2021,E09000024,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,107
+2021,E09000024,Concealed family:Couple family,Family Reference Person aged 24 years and under,88
+2021,E09000024,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,788
+2021,E09000024,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,185
+2021,E09000024,Concealed family:Couple family,Family Reference Person aged 65 years and over,332
+2021,E09000024,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,81
+2021,E09000024,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,533
+2021,E09000024,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,98
+2021,E09000024,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,236
+2021,E09000024,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,7
+2021,E09000024,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,251
+2021,E09000024,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,30
+2021,E09000024,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,40
+2021,E09000024,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000024,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,4
+2021,E09000024,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,57
+2021,E09000024,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,56
+2021,E09000024,Unconcealed family,Family Reference Person aged 24 years and under,531
+2021,E09000024,Unconcealed family,Family Reference Person aged 25 to 49 years,30636
+2021,E09000024,Unconcealed family,Family Reference Person aged 50 to 64 years,16384
+2021,E09000024,Unconcealed family,Family Reference Person aged 65 years and over,9125
+2021,E09000024,Unconcealed family: No children,Family Reference Person aged 24 years and under,293
+2021,E09000024,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,9408
+2021,E09000024,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4364
+2021,E09000024,Unconcealed family: No children,Family Reference Person aged 65 years and over,5188
+2021,E09000024,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,237
+2021,E09000024,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,20369
+2021,E09000024,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5855
+2021,E09000024,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,246
+2021,E09000024,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000024,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,859
+2021,E09000024,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,6165
+2021,E09000024,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3691
+2021,E09000025,Concealed family,Family Reference Person aged 24 years and under,446
+2021,E09000025,Concealed family,Family Reference Person aged 25 to 49 years,3744
+2021,E09000025,Concealed family,Family Reference Person aged 50 to 64 years,1149
+2021,E09000025,Concealed family,Family Reference Person aged 65 years and over,1396
+2021,E09000025,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,185
+2021,E09000025,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,1184
+2021,E09000025,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,497
+2021,E09000025,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,513
+2021,E09000025,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,184
+2021,E09000025,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,1100
+2021,E09000025,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,121
+2021,E09000025,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,133
+2021,E09000025,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000025,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,84
+2021,E09000025,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,376
+2021,E09000025,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,380
+2021,E09000025,Concealed family:Couple family,Family Reference Person aged 24 years and under,261
+2021,E09000025,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,2560
+2021,E09000025,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,652
+2021,E09000025,Concealed family:Couple family,Family Reference Person aged 65 years and over,883
+2021,E09000025,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,204
+2021,E09000025,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,1463
+2021,E09000025,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,232
+2021,E09000025,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,477
+2021,E09000025,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,57
+2021,E09000025,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,1057
+2021,E09000025,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,163
+2021,E09000025,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,182
+2021,E09000025,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000025,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,40
+2021,E09000025,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,257
+2021,E09000025,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,224
+2021,E09000025,Unconcealed family,Family Reference Person aged 24 years and under,1189
+2021,E09000025,Unconcealed family,Family Reference Person aged 25 to 49 years,48324
+2021,E09000025,Unconcealed family,Family Reference Person aged 50 to 64 years,21928
+2021,E09000025,Unconcealed family,Family Reference Person aged 65 years and over,8163
+2021,E09000025,Unconcealed family: No children,Family Reference Person aged 24 years and under,738
+2021,E09000025,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,13346
+2021,E09000025,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4032
+2021,E09000025,Unconcealed family: No children,Family Reference Person aged 65 years and over,2892
+2021,E09000025,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,451
+2021,E09000025,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,32827
+2021,E09000025,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,8348
+2021,E09000025,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,504
+2021,E09000025,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000025,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,2151
+2021,E09000025,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,9548
+2021,E09000025,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4767
+2021,E09000026,Concealed family,Family Reference Person aged 24 years and under,271
+2021,E09000026,Concealed family,Family Reference Person aged 25 to 49 years,2762
+2021,E09000026,Concealed family,Family Reference Person aged 50 to 64 years,842
+2021,E09000026,Concealed family,Family Reference Person aged 65 years and over,1417
+2021,E09000026,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,81
+2021,E09000026,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,807
+2021,E09000026,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,264
+2021,E09000026,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,307
+2021,E09000026,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,81
+2021,E09000026,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,740
+2021,E09000026,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,54
+2021,E09000026,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,60
+2021,E09000026,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000026,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,67
+2021,E09000026,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,210
+2021,E09000026,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,247
+2021,E09000026,Concealed family:Couple family,Family Reference Person aged 24 years and under,190
+2021,E09000026,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1955
+2021,E09000026,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,578
+2021,E09000026,Concealed family:Couple family,Family Reference Person aged 65 years and over,1110
+2021,E09000026,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,167
+2021,E09000026,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,1137
+2021,E09000026,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,229
+2021,E09000026,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,719
+2021,E09000026,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,23
+2021,E09000026,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,805
+2021,E09000026,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,136
+2021,E09000026,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,180
+2021,E09000026,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000026,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,13
+2021,E09000026,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,213
+2021,E09000026,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,211
+2021,E09000026,Unconcealed family,Family Reference Person aged 24 years and under,653
+2021,E09000026,Unconcealed family,Family Reference Person aged 25 to 49 years,40250
+2021,E09000026,Unconcealed family,Family Reference Person aged 50 to 64 years,23242
+2021,E09000026,Unconcealed family,Family Reference Person aged 65 years and over,12377
+2021,E09000026,Unconcealed family: No children,Family Reference Person aged 24 years and under,307
+2021,E09000026,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,7486
+2021,E09000026,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4512
+2021,E09000026,Unconcealed family: No children,Family Reference Person aged 65 years and over,6808
+2021,E09000026,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,343
+2021,E09000026,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,31365
+2021,E09000026,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,8509
+2021,E09000026,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,313
+2021,E09000026,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000026,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1399
+2021,E09000026,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,10221
+2021,E09000026,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,5256
+2021,E09000027,Concealed family,Family Reference Person aged 24 years and under,62
+2021,E09000027,Concealed family,Family Reference Person aged 25 to 49 years,424
+2021,E09000027,Concealed family,Family Reference Person aged 50 to 64 years,146
+2021,E09000027,Concealed family,Family Reference Person aged 65 years and over,242
+2021,E09000027,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,23
+2021,E09000027,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,132
+2021,E09000027,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,55
+2021,E09000027,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,61
+2021,E09000027,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,23
+2021,E09000027,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,119
+2021,E09000027,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,16
+2021,E09000027,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,10
+2021,E09000027,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000027,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,13
+2021,E09000027,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,39
+2021,E09000027,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,51
+2021,E09000027,Concealed family:Couple family,Family Reference Person aged 24 years and under,39
+2021,E09000027,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,292
+2021,E09000027,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,91
+2021,E09000027,Concealed family:Couple family,Family Reference Person aged 65 years and over,181
+2021,E09000027,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,36
+2021,E09000027,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,218
+2021,E09000027,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,53
+2021,E09000027,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,130
+2021,E09000027,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,3
+2021,E09000027,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,73
+2021,E09000027,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,15
+2021,E09000027,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,29
+2021,E09000027,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000027,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,1
+2021,E09000027,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,23
+2021,E09000027,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,22
+2021,E09000027,Unconcealed family,Family Reference Person aged 24 years and under,407
+2021,E09000027,Unconcealed family,Family Reference Person aged 25 to 49 years,26374
+2021,E09000027,Unconcealed family,Family Reference Person aged 50 to 64 years,17421
+2021,E09000027,Unconcealed family,Family Reference Person aged 65 years and over,10226
+2021,E09000027,Unconcealed family: No children,Family Reference Person aged 24 years and under,284
+2021,E09000027,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,7524
+2021,E09000027,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5299
+2021,E09000027,Unconcealed family: No children,Family Reference Person aged 65 years and over,7273
+2021,E09000027,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,123
+2021,E09000027,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,18356
+2021,E09000027,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7263
+2021,E09000027,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,200
+2021,E09000027,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000027,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,494
+2021,E09000027,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,4859
+2021,E09000027,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,2753
+2021,E09000028,Concealed family,Family Reference Person aged 24 years and under,137
+2021,E09000028,Concealed family,Family Reference Person aged 25 to 49 years,1052
+2021,E09000028,Concealed family,Family Reference Person aged 50 to 64 years,378
+2021,E09000028,Concealed family,Family Reference Person aged 65 years and over,386
+2021,E09000028,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,65
+2021,E09000028,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,460
+2021,E09000028,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,181
+2021,E09000028,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,128
+2021,E09000028,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,64
+2021,E09000028,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,426
+2021,E09000028,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,59
+2021,E09000028,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,27
+2021,E09000028,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000028,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,34
+2021,E09000028,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,122
+2021,E09000028,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,101
+2021,E09000028,Concealed family:Couple family,Family Reference Person aged 24 years and under,72
+2021,E09000028,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,592
+2021,E09000028,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,197
+2021,E09000028,Concealed family:Couple family,Family Reference Person aged 65 years and over,258
+2021,E09000028,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,67
+2021,E09000028,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,459
+2021,E09000028,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,104
+2021,E09000028,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,189
+2021,E09000028,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,4
+2021,E09000028,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,126
+2021,E09000028,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,46
+2021,E09000028,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,30
+2021,E09000028,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000028,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,7
+2021,E09000028,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,47
+2021,E09000028,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,39
+2021,E09000028,Unconcealed family,Family Reference Person aged 24 years and under,1192
+2021,E09000028,Unconcealed family,Family Reference Person aged 25 to 49 years,43443
+2021,E09000028,Unconcealed family,Family Reference Person aged 50 to 64 years,20459
+2021,E09000028,Unconcealed family,Family Reference Person aged 65 years and over,7799
+2021,E09000028,Unconcealed family: No children,Family Reference Person aged 24 years and under,766
+2021,E09000028,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,17824
+2021,E09000028,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4991
+2021,E09000028,Unconcealed family: No children,Family Reference Person aged 65 years and over,3484
+2021,E09000028,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,425
+2021,E09000028,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,24199
+2021,E09000028,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7210
+2021,E09000028,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,317
+2021,E09000028,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000028,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1420
+2021,E09000028,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,8258
+2021,E09000028,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3998
+2021,E09000029,Concealed family,Family Reference Person aged 24 years and under,144
+2021,E09000029,Concealed family,Family Reference Person aged 25 to 49 years,671
+2021,E09000029,Concealed family,Family Reference Person aged 50 to 64 years,234
+2021,E09000029,Concealed family,Family Reference Person aged 65 years and over,373
+2021,E09000029,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,43
+2021,E09000029,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,208
+2021,E09000029,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,80
+2021,E09000029,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,74
+2021,E09000029,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,43
+2021,E09000029,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,190
+2021,E09000029,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,15
+2021,E09000029,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,17
+2021,E09000029,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000029,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,18
+2021,E09000029,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,65
+2021,E09000029,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,57
+2021,E09000029,Concealed family:Couple family,Family Reference Person aged 24 years and under,101
+2021,E09000029,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,463
+2021,E09000029,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,154
+2021,E09000029,Concealed family:Couple family,Family Reference Person aged 65 years and over,299
+2021,E09000029,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,96
+2021,E09000029,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,321
+2021,E09000029,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,85
+2021,E09000029,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,224
+2021,E09000029,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,5
+2021,E09000029,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,134
+2021,E09000029,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,31
+2021,E09000029,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,42
+2021,E09000029,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000029,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,8
+2021,E09000029,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,38
+2021,E09000029,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,33
+2021,E09000029,Unconcealed family,Family Reference Person aged 24 years and under,637
+2021,E09000029,Unconcealed family,Family Reference Person aged 25 to 49 years,29712
+2021,E09000029,Unconcealed family,Family Reference Person aged 50 to 64 years,17640
+2021,E09000029,Unconcealed family,Family Reference Person aged 65 years and over,10381
+2021,E09000029,Unconcealed family: No children,Family Reference Person aged 24 years and under,258
+2021,E09000029,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,6315
+2021,E09000029,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5142
+2021,E09000029,Unconcealed family: No children,Family Reference Person aged 65 years and over,7008
+2021,E09000029,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,376
+2021,E09000029,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,22478
+2021,E09000029,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5573
+2021,E09000029,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,154
+2021,E09000029,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,3
+2021,E09000029,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,919
+2021,E09000029,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,6925
+2021,E09000029,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3219
+2021,E09000030,Concealed family,Family Reference Person aged 24 years and under,210
+2021,E09000030,Concealed family,Family Reference Person aged 25 to 49 years,1229
+2021,E09000030,Concealed family,Family Reference Person aged 50 to 64 years,605
+2021,E09000030,Concealed family,Family Reference Person aged 65 years and over,802
+2021,E09000030,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,64
+2021,E09000030,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,549
+2021,E09000030,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,247
+2021,E09000030,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,370
+2021,E09000030,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,64
+2021,E09000030,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,519
+2021,E09000030,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,63
+2021,E09000030,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,142
+2021,E09000030,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000030,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,30
+2021,E09000030,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,184
+2021,E09000030,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,228
+2021,E09000030,Concealed family:Couple family,Family Reference Person aged 24 years and under,146
+2021,E09000030,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,680
+2021,E09000030,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,358
+2021,E09000030,Concealed family:Couple family,Family Reference Person aged 65 years and over,432
+2021,E09000030,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,142
+2021,E09000030,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,463
+2021,E09000030,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,93
+2021,E09000030,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,231
+2021,E09000030,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,4
+2021,E09000030,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,199
+2021,E09000030,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,123
+2021,E09000030,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,72
+2021,E09000030,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000030,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,18
+2021,E09000030,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,142
+2021,E09000030,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,129
+2021,E09000030,Unconcealed family,Family Reference Person aged 24 years and under,1559
+2021,E09000030,Unconcealed family,Family Reference Person aged 25 to 49 years,46128
+2021,E09000030,Unconcealed family,Family Reference Person aged 50 to 64 years,14004
+2021,E09000030,Unconcealed family,Family Reference Person aged 65 years and over,5459
+2021,E09000030,Unconcealed family: No children,Family Reference Person aged 24 years and under,1200
+2021,E09000030,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,19734
+2021,E09000030,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3042
+2021,E09000030,Unconcealed family: No children,Family Reference Person aged 65 years and over,1980
+2021,E09000030,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,358
+2021,E09000030,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,25249
+2021,E09000030,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5691
+2021,E09000030,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,355
+2021,E09000030,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000030,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1145
+2021,E09000030,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,5271
+2021,E09000030,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3124
+2021,E09000031,Concealed family,Family Reference Person aged 24 years and under,253
+2021,E09000031,Concealed family,Family Reference Person aged 25 to 49 years,2259
+2021,E09000031,Concealed family,Family Reference Person aged 50 to 64 years,563
+2021,E09000031,Concealed family,Family Reference Person aged 65 years and over,792
+2021,E09000031,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,86
+2021,E09000031,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,759
+2021,E09000031,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,229
+2021,E09000031,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,217
+2021,E09000031,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,86
+2021,E09000031,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,708
+2021,E09000031,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,56
+2021,E09000031,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,56
+2021,E09000031,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000031,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,51
+2021,E09000031,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,173
+2021,E09000031,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,161
+2021,E09000031,Concealed family:Couple family,Family Reference Person aged 24 years and under,167
+2021,E09000031,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,1500
+2021,E09000031,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,334
+2021,E09000031,Concealed family:Couple family,Family Reference Person aged 65 years and over,575
+2021,E09000031,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,153
+2021,E09000031,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,965
+2021,E09000031,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,135
+2021,E09000031,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,355
+2021,E09000031,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,14
+2021,E09000031,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,511
+2021,E09000031,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,89
+2021,E09000031,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,110
+2021,E09000031,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000031,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,24
+2021,E09000031,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,110
+2021,E09000031,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,110
+2021,E09000031,Unconcealed family,Family Reference Person aged 24 years and under,670
+2021,E09000031,Unconcealed family,Family Reference Person aged 25 to 49 years,40846
+2021,E09000031,Unconcealed family,Family Reference Person aged 50 to 64 years,19811
+2021,E09000031,Unconcealed family,Family Reference Person aged 65 years and over,9250
+2021,E09000031,Unconcealed family: No children,Family Reference Person aged 24 years and under,358
+2021,E09000031,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,12475
+2021,E09000031,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,4595
+2021,E09000031,Unconcealed family: No children,Family Reference Person aged 65 years and over,4596
+2021,E09000031,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,311
+2021,E09000031,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,26892
+2021,E09000031,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,6875
+2021,E09000031,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,283
+2021,E09000031,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000031,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1479
+2021,E09000031,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,8341
+2021,E09000031,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4371
+2021,E09000032,Concealed family,Family Reference Person aged 24 years and under,153
+2021,E09000032,Concealed family,Family Reference Person aged 25 to 49 years,864
+2021,E09000032,Concealed family,Family Reference Person aged 50 to 64 years,236
+2021,E09000032,Concealed family,Family Reference Person aged 65 years and over,426
+2021,E09000032,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,56
+2021,E09000032,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,250
+2021,E09000032,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,124
+2021,E09000032,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,139
+2021,E09000032,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,56
+2021,E09000032,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,226
+2021,E09000032,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,24
+2021,E09000032,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,24
+2021,E09000032,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000032,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,24
+2021,E09000032,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,100
+2021,E09000032,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,115
+2021,E09000032,Concealed family:Couple family,Family Reference Person aged 24 years and under,97
+2021,E09000032,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,614
+2021,E09000032,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,112
+2021,E09000032,Concealed family:Couple family,Family Reference Person aged 65 years and over,287
+2021,E09000032,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,92
+2021,E09000032,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,475
+2021,E09000032,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,73
+2021,E09000032,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,200
+2021,E09000032,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,5
+2021,E09000032,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,138
+2021,E09000032,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,14
+2021,E09000032,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,37
+2021,E09000032,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000032,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,1
+2021,E09000032,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,25
+2021,E09000032,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,50
+2021,E09000032,Unconcealed family,Family Reference Person aged 24 years and under,1085
+2021,E09000032,Unconcealed family,Family Reference Person aged 25 to 49 years,49547
+2021,E09000032,Unconcealed family,Family Reference Person aged 50 to 64 years,19224
+2021,E09000032,Unconcealed family,Family Reference Person aged 65 years and over,9607
+2021,E09000032,Unconcealed family: No children,Family Reference Person aged 24 years and under,765
+2021,E09000032,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,22427
+2021,E09000032,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,5455
+2021,E09000032,Unconcealed family: No children,Family Reference Person aged 65 years and over,5125
+2021,E09000032,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,319
+2021,E09000032,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,26075
+2021,E09000032,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,7084
+2021,E09000032,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,246
+2021,E09000032,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000032,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,1045
+2021,E09000032,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,6685
+2021,E09000032,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,4236
+2021,E09000033,Concealed family,Family Reference Person aged 24 years and under,55
+2021,E09000033,Concealed family,Family Reference Person aged 25 to 49 years,558
+2021,E09000033,Concealed family,Family Reference Person aged 50 to 64 years,244
+2021,E09000033,Concealed family,Family Reference Person aged 65 years and over,294
+2021,E09000033,Concealed family:Lone parent family,Family Reference Person aged 24 years and under,23
+2021,E09000033,Concealed family:Lone parent family,Family Reference Person aged 25 to 49 years,259
+2021,E09000033,Concealed family:Lone parent family,Family Reference Person aged 50 to 64 years,117
+2021,E09000033,Concealed family:Lone parent family,Family Reference Person aged 65 years and over,109
+2021,E09000033,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 24 years and under,23
+2021,E09000033,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 25 to 49 years,253
+2021,E09000033,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 50 to 64 years,19
+2021,E09000033,Concealed family: Lone parent family: Dependent children,Family Reference Person aged 65 years and over,25
+2021,E09000033,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000033,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 25 to 49 years,6
+2021,E09000033,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 50 to 64 years,98
+2021,E09000033,Concealed family: Lone parent family: All children non-dependent,Family Reference Person aged 65 years and over,84
+2021,E09000033,Concealed family:Couple family,Family Reference Person aged 24 years and under,32
+2021,E09000033,Concealed family:Couple family,Family Reference Person aged 25 to 49 years,299
+2021,E09000033,Concealed family:Couple family,Family Reference Person aged 50 to 64 years,127
+2021,E09000033,Concealed family:Couple family,Family Reference Person aged 65 years and over,185
+2021,E09000033,Concealed family: Couple family: No children,Family Reference Person aged 24 years and under,31
+2021,E09000033,Concealed family: Couple family: No children,Family Reference Person aged 25 to 49 years,216
+2021,E09000033,Concealed family: Couple family: No children,Family Reference Person aged 50 to 64 years,63
+2021,E09000033,Concealed family: Couple family: No children,Family Reference Person aged 65 years and over,124
+2021,E09000033,Concealed family: Couple family: Dependent children,Family Reference Person aged 24 years and under,1
+2021,E09000033,Concealed family: Couple family: Dependent children,Family Reference Person aged 25 to 49 years,67
+2021,E09000033,Concealed family: Couple family: Dependent children,Family Reference Person aged 50 to 64 years,15
+2021,E09000033,Concealed family: Couple family: Dependent children,Family Reference Person aged 65 years and over,19
+2021,E09000033,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 24 years and under,0
+2021,E09000033,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 25 to 49 years,16
+2021,E09000033,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 50 to 64 years,49
+2021,E09000033,Concealed family: Couple family: All children non-dependent,Family Reference Person aged 65 years and over,42
+2021,E09000033,Unconcealed family,Family Reference Person aged 24 years and under,775
+2021,E09000033,Unconcealed family,Family Reference Person aged 25 to 49 years,23326
+2021,E09000033,Unconcealed family,Family Reference Person aged 50 to 64 years,13837
+2021,E09000033,Unconcealed family,Family Reference Person aged 65 years and over,7521
+2021,E09000033,Unconcealed family: No children,Family Reference Person aged 24 years and under,661
+2021,E09000033,Unconcealed family: No children,Family Reference Person aged 25 to 49 years,10482
+2021,E09000033,Unconcealed family: No children,Family Reference Person aged 50 to 64 years,3827
+2021,E09000033,Unconcealed family: No children,Family Reference Person aged 65 years and over,4024
+2021,E09000033,Unconcealed family: Dependent children,Family Reference Person aged 24 years and under,113
+2021,E09000033,Unconcealed family: Dependent children,Family Reference Person aged 25 to 49 years,12149
+2021,E09000033,Unconcealed family: Dependent children,Family Reference Person aged 50 to 64 years,5160
+2021,E09000033,Unconcealed family: Dependent children,Family Reference Person aged 65 years and over,333
+2021,E09000033,Unconcealed family: All children non-dependent,Family Reference Person aged 24 years and under,1
+2021,E09000033,Unconcealed family: All children non-dependent,Family Reference Person aged 25 to 49 years,695
+2021,E09000033,Unconcealed family: All children non-dependent,Family Reference Person aged 50 to 64 years,4850
+2021,E09000033,Unconcealed family: All children non-dependent,Family Reference Person aged 65 years and over,3164

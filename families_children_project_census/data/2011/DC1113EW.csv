@@ -1,0 +1,1387 @@
+date,geography_code,c_dpchuk11_name,c_ahthuk11_name,c_dpchuk11_code,c_ahthuk11_code,obs_value
+2011,E09000007,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,97534
+2011,E09000007,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,39531
+2011,E09000007,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,24607
+2011,E09000007,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,11249
+2011,E09000007,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,11354
+2011,E09000007,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,10793
+2011,E09000007,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,75972
+2011,E09000007,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,39523
+2011,E09000007,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,12764
+2011,E09000007,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,9077
+2011,E09000007,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3955
+2011,E09000007,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,10653
+2011,E09000007,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,21562
+2011,E09000007,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,8
+2011,E09000007,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,11843
+2011,E09000007,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2172
+2011,E09000007,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,7399
+2011,E09000007,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,140
+2011,E09000007,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,10355
+2011,E09000007,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000007,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6437
+2011,E09000007,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1263
+2011,E09000007,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,2585
+2011,E09000007,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,66
+2011,E09000007,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,4866
+2011,E09000007,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,2
+2011,E09000007,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,2570
+2011,E09000007,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,416
+2011,E09000007,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1847
+2011,E09000007,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,31
+2011,E09000007,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,4577
+2011,E09000007,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,2
+2011,E09000007,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,2082
+2011,E09000007,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,368
+2011,E09000007,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2085
+2011,E09000007,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,40
+2011,E09000007,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1764
+2011,E09000007,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000007,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,754
+2011,E09000007,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,125
+2011,E09000007,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,882
+2011,E09000007,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,3
+2011,E09000001,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,4385
+2011,E09000001,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,2472
+2011,E09000001,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,975
+2011,E09000001,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,445
+2011,E09000001,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,180
+2011,E09000001,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,313
+2011,E09000001,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,3953
+2011,E09000001,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,2471
+2011,E09000001,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,714
+2011,E09000001,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,380
+2011,E09000001,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,75
+2011,E09000001,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,313
+2011,E09000001,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,432
+2011,E09000001,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,1
+2011,E09000001,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,261
+2011,E09000001,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,65
+2011,E09000001,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,105
+2011,E09000001,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000001,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,195
+2011,E09000001,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,1
+2011,E09000001,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,133
+2011,E09000001,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,30
+2011,E09000001,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,31
+2011,E09000001,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000001,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,109
+2011,E09000001,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000001,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,63
+2011,E09000001,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,21
+2011,E09000001,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,25
+2011,E09000001,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000001,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,97
+2011,E09000001,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000001,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,46
+2011,E09000001,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,12
+2011,E09000001,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,39
+2011,E09000001,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000001,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,31
+2011,E09000001,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000001,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,19
+2011,E09000001,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,2
+2011,E09000001,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,10
+2011,E09000001,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000012,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,101690
+2011,E09000012,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,35635
+2011,E09000012,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,23125
+2011,E09000012,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,12586
+2011,E09000012,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,17790
+2011,E09000012,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,12554
+2011,E09000012,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,72584
+2011,E09000012,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,35628
+2011,E09000012,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,10213
+2011,E09000012,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,9360
+2011,E09000012,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,5050
+2011,E09000012,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,12333
+2011,E09000012,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,29106
+2011,E09000012,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,7
+2011,E09000012,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,12912
+2011,E09000012,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3226
+2011,E09000012,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,12740
+2011,E09000012,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,221
+2011,E09000012,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,14279
+2011,E09000012,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,3
+2011,E09000012,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,7389
+2011,E09000012,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2018
+2011,E09000012,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,4755
+2011,E09000012,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,114
+2011,E09000012,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,6540
+2011,E09000012,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,2
+2011,E09000012,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,2571
+2011,E09000012,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,614
+2011,E09000012,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3313
+2011,E09000012,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,40
+2011,E09000012,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,6121
+2011,E09000012,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,2
+2011,E09000012,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,2183
+2011,E09000012,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,461
+2011,E09000012,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3409
+2011,E09000012,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,66
+2011,E09000012,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2166
+2011,E09000012,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000012,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,769
+2011,E09000012,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,133
+2011,E09000012,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1263
+2011,E09000012,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000013,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,80590
+2011,E09000013,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,30148
+2011,E09000013,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,20596
+2011,E09000013,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9132
+2011,E09000013,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,10308
+2011,E09000013,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,10406
+2011,E09000013,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,62111
+2011,E09000013,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,30138
+2011,E09000013,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,10584
+2011,E09000013,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,7541
+2011,E09000013,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3544
+2011,E09000013,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,10304
+2011,E09000013,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,18479
+2011,E09000013,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,10
+2011,E09000013,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,10012
+2011,E09000013,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,1591
+2011,E09000013,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,6764
+2011,E09000013,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,102
+2011,E09000013,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,9083
+2011,E09000013,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,5
+2011,E09000013,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,5678
+2011,E09000013,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,990
+2011,E09000013,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,2364
+2011,E09000013,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,46
+2011,E09000013,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,3894
+2011,E09000013,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,2
+2011,E09000013,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,1994
+2011,E09000013,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,270
+2011,E09000013,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1612
+2011,E09000013,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,16
+2011,E09000013,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,4004
+2011,E09000013,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000013,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,1740
+2011,E09000013,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,237
+2011,E09000013,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1985
+2011,E09000013,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,39
+2011,E09000013,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1498
+2011,E09000013,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000013,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,600
+2011,E09000013,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,94
+2011,E09000013,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,803
+2011,E09000013,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000014,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,101955
+2011,E09000014,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,32524
+2011,E09000014,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,30150
+2011,E09000014,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,12217
+2011,E09000014,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,18041
+2011,E09000014,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,9023
+2011,E09000014,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,69959
+2011,E09000014,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,32517
+2011,E09000014,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,14779
+2011,E09000014,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,8619
+2011,E09000014,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,5280
+2011,E09000014,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,8764
+2011,E09000014,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,31996
+2011,E09000014,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,7
+2011,E09000014,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,15371
+2011,E09000014,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3598
+2011,E09000014,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,12761
+2011,E09000014,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,259
+2011,E09000014,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,14240
+2011,E09000014,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,5
+2011,E09000014,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,7806
+2011,E09000014,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2135
+2011,E09000014,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,4202
+2011,E09000014,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,92
+2011,E09000014,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,7714
+2011,E09000014,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,2
+2011,E09000014,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3434
+2011,E09000014,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,758
+2011,E09000014,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3461
+2011,E09000014,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,59
+2011,E09000014,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7399
+2011,E09000014,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000014,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3004
+2011,E09000014,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,553
+2011,E09000014,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3735
+2011,E09000014,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,107
+2011,E09000014,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2643
+2011,E09000014,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000014,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1127
+2011,E09000014,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,152
+2011,E09000014,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1363
+2011,E09000014,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000019,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,93556
+2011,E09000019,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,36240
+2011,E09000019,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,19861
+2011,E09000019,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,12479
+2011,E09000019,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,14140
+2011,E09000019,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,10836
+2011,E09000019,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,72606
+2011,E09000019,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,36233
+2011,E09000019,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,11210
+2011,E09000019,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,10182
+2011,E09000019,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4290
+2011,E09000019,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,10691
+2011,E09000019,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,20950
+2011,E09000019,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,7
+2011,E09000019,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,8651
+2011,E09000019,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2297
+2011,E09000019,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,9850
+2011,E09000019,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,145
+2011,E09000019,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,9651
+2011,E09000019,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000019,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,4641
+2011,E09000019,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1374
+2011,E09000019,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3572
+2011,E09000019,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,60
+2011,E09000019,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,4723
+2011,E09000019,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,3
+2011,E09000019,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,1824
+2011,E09000019,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,427
+2011,E09000019,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2436
+2011,E09000019,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,33
+2011,E09000019,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,4859
+2011,E09000019,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000019,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,1616
+2011,E09000019,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,374
+2011,E09000019,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2818
+2011,E09000019,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,51
+2011,E09000019,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1717
+2011,E09000019,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000019,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,570
+2011,E09000019,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,122
+2011,E09000019,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1024
+2011,E09000019,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000020,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,78536
+2011,E09000020,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,36524
+2011,E09000020,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,21344
+2011,E09000020,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,7095
+2011,E09000020,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,7510
+2011,E09000020,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,6063
+2011,E09000020,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,63236
+2011,E09000020,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,36511
+2011,E09000020,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,11828
+2011,E09000020,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5918
+2011,E09000020,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,2996
+2011,E09000020,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,5983
+2011,E09000020,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,15300
+2011,E09000020,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,13
+2011,E09000020,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,9516
+2011,E09000020,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,1177
+2011,E09000020,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,4514
+2011,E09000020,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,80
+2011,E09000020,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,7053
+2011,E09000020,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,9
+2011,E09000020,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,5044
+2011,E09000020,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,635
+2011,E09000020,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,1340
+2011,E09000020,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,25
+2011,E09000020,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,3616
+2011,E09000020,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000020,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,2206
+2011,E09000020,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,233
+2011,E09000020,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1156
+2011,E09000020,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,20
+2011,E09000020,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,3393
+2011,E09000020,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000020,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,1704
+2011,E09000020,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,225
+2011,E09000020,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1428
+2011,E09000020,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,33
+2011,E09000020,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1238
+2011,E09000020,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000020,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,562
+2011,E09000020,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,84
+2011,E09000020,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,590
+2011,E09000020,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000022,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,130017
+2011,E09000022,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,44691
+2011,E09000022,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,29088
+2011,E09000022,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,16988
+2011,E09000022,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,22286
+2011,E09000022,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,16964
+2011,E09000022,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,95156
+2011,E09000022,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,44684
+2011,E09000022,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,14720
+2011,E09000022,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,12800
+2011,E09000022,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,6274
+2011,E09000022,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,16678
+2011,E09000022,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,34861
+2011,E09000022,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,7
+2011,E09000022,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,14368
+2011,E09000022,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4188
+2011,E09000022,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,16012
+2011,E09000022,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,286
+2011,E09000022,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,16340
+2011,E09000022,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,3
+2011,E09000022,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,7655
+2011,E09000022,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2536
+2011,E09000022,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,6027
+2011,E09000022,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,119
+2011,E09000022,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,8082
+2011,E09000022,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000022,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3022
+2011,E09000022,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,787
+2011,E09000022,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,4199
+2011,E09000022,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,73
+2011,E09000022,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7635
+2011,E09000022,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000022,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,2653
+2011,E09000022,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,669
+2011,E09000022,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,4216
+2011,E09000022,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,94
+2011,E09000022,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2804
+2011,E09000022,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000022,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1038
+2011,E09000022,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,196
+2011,E09000022,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1570
+2011,E09000022,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000023,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,116091
+2011,E09000023,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,39680
+2011,E09000023,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,32825
+2011,E09000023,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,13395
+2011,E09000023,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,21578
+2011,E09000023,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,8613
+2011,E09000023,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,79168
+2011,E09000023,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,39671
+2011,E09000023,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,16436
+2011,E09000023,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,8545
+2011,E09000023,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,6104
+2011,E09000023,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,8412
+2011,E09000023,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,36923
+2011,E09000023,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,9
+2011,E09000023,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,16389
+2011,E09000023,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4850
+2011,E09000023,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,15474
+2011,E09000023,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,201
+2011,E09000023,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,17298
+2011,E09000023,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,2
+2011,E09000023,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,8537
+2011,E09000023,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2939
+2011,E09000023,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,5737
+2011,E09000023,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,83
+2011,E09000023,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,8262
+2011,E09000023,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,4
+2011,E09000023,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3323
+2011,E09000023,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,908
+2011,E09000023,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3980
+2011,E09000023,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,47
+2011,E09000023,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8368
+2011,E09000023,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000023,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3296
+2011,E09000023,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,789
+2011,E09000023,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,4214
+2011,E09000023,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,66
+2011,E09000023,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2995
+2011,E09000023,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000023,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1233
+2011,E09000023,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,214
+2011,E09000023,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1543
+2011,E09000023,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,5
+2011,E09000025,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,101519
+2011,E09000025,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,26536
+2011,E09000025,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,38182
+2011,E09000025,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,8048
+2011,E09000025,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,18771
+2011,E09000025,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,9982
+2011,E09000025,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,61688
+2011,E09000025,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,26522
+2011,E09000025,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,15192
+2011,E09000025,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,4917
+2011,E09000025,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,5460
+2011,E09000025,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,9597
+2011,E09000025,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,39831
+2011,E09000025,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,14
+2011,E09000025,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,22990
+2011,E09000025,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3131
+2011,E09000025,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,13311
+2011,E09000025,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,385
+2011,E09000025,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,19431
+2011,E09000025,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,8
+2011,E09000025,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,12385
+2011,E09000025,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1966
+2011,E09000025,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,4923
+2011,E09000025,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,149
+2011,E09000025,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,8854
+2011,E09000025,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,3
+2011,E09000025,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,4904
+2011,E09000025,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,563
+2011,E09000025,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3299
+2011,E09000025,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,85
+2011,E09000025,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8324
+2011,E09000025,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000025,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,4053
+2011,E09000025,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,451
+2011,E09000025,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3668
+2011,E09000025,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,149
+2011,E09000025,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3222
+2011,E09000025,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000025,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1648
+2011,E09000025,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,151
+2011,E09000025,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1421
+2011,E09000025,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000028,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,120422
+2011,E09000028,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,40307
+2011,E09000028,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,29487
+2011,E09000028,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,16229
+2011,E09000028,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,20607
+2011,E09000028,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,13792
+2011,E09000028,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,86368
+2011,E09000028,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,40302
+2011,E09000028,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,15245
+2011,E09000028,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,11466
+2011,E09000028,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,5852
+2011,E09000028,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,13503
+2011,E09000028,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,34054
+2011,E09000028,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,5
+2011,E09000028,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,14242
+2011,E09000028,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4763
+2011,E09000028,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,14755
+2011,E09000028,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,289
+2011,E09000028,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,16341
+2011,E09000028,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,5
+2011,E09000028,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,7899
+2011,E09000028,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2838
+2011,E09000028,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,5460
+2011,E09000028,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,139
+2011,E09000028,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,7726
+2011,E09000028,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000028,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,2904
+2011,E09000028,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,911
+2011,E09000028,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3855
+2011,E09000028,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,56
+2011,E09000028,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7369
+2011,E09000028,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000028,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,2569
+2011,E09000028,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,782
+2011,E09000028,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3924
+2011,E09000028,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,94
+2011,E09000028,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2618
+2011,E09000028,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000028,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,870
+2011,E09000028,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,232
+2011,E09000028,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1516
+2011,E09000028,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000030,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,101257
+2011,E09000030,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,35047
+2011,E09000030,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,27954
+2011,E09000030,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,11500
+2011,E09000030,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,12448
+2011,E09000030,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,14308
+2011,E09000030,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,74329
+2011,E09000030,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,35041
+2011,E09000030,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,11870
+2011,E09000030,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,9476
+2011,E09000030,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3811
+2011,E09000030,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,14131
+2011,E09000030,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,26928
+2011,E09000030,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,6
+2011,E09000030,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,16084
+2011,E09000030,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2024
+2011,E09000030,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,8637
+2011,E09000030,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,177
+2011,E09000030,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,14669
+2011,E09000030,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000030,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,9652
+2011,E09000030,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1351
+2011,E09000030,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3588
+2011,E09000030,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,74
+2011,E09000030,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,5981
+2011,E09000030,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000030,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3423
+2011,E09000030,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,336
+2011,E09000030,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2184
+2011,E09000030,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,37
+2011,E09000030,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,4675
+2011,E09000030,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000030,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,2279
+2011,E09000030,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,246
+2011,E09000030,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2084
+2011,E09000030,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,65
+2011,E09000030,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1603
+2011,E09000030,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000030,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,730
+2011,E09000030,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,91
+2011,E09000030,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,781
+2011,E09000030,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000032,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,130493
+2011,E09000032,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,42106
+2011,E09000032,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,38717
+2011,E09000032,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,18184
+2011,E09000032,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,14235
+2011,E09000032,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,17251
+2011,E09000032,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,98828
+2011,E09000032,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,42098
+2011,E09000032,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,19565
+2011,E09000032,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,15061
+2011,E09000032,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,5002
+2011,E09000032,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,17102
+2011,E09000032,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,31665
+2011,E09000032,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,8
+2011,E09000032,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,19152
+2011,E09000032,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3123
+2011,E09000032,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,9233
+2011,E09000032,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,149
+2011,E09000032,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,16474
+2011,E09000032,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000032,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,11152
+2011,E09000032,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1950
+2011,E09000032,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3290
+2011,E09000032,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,78
+2011,E09000032,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,6642
+2011,E09000032,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000032,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3813
+2011,E09000032,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,557
+2011,E09000032,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2241
+2011,E09000032,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,30
+2011,E09000032,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,6257
+2011,E09000032,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000032,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3142
+2011,E09000032,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,469
+2011,E09000032,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2602
+2011,E09000032,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,41
+2011,E09000032,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2292
+2011,E09000032,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000032,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1045
+2011,E09000032,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,147
+2011,E09000032,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1100
+2011,E09000032,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000033,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,105772
+2011,E09000033,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,47893
+2011,E09000033,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,26861
+2011,E09000033,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9606
+2011,E09000033,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,10891
+2011,E09000033,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,10521
+2011,E09000033,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,85649
+2011,E09000033,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,47873
+2011,E09000033,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,15224
+2011,E09000033,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,8243
+2011,E09000033,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3931
+2011,E09000033,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,10378
+2011,E09000033,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,20123
+2011,E09000033,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,20
+2011,E09000033,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,11637
+2011,E09000033,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,1363
+2011,E09000033,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,6960
+2011,E09000033,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,143
+2011,E09000033,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,9806
+2011,E09000033,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,10
+2011,E09000033,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6477
+2011,E09000033,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,859
+2011,E09000033,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,2412
+2011,E09000033,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,48
+2011,E09000033,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,4530
+2011,E09000033,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,9
+2011,E09000033,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,2454
+2011,E09000033,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,266
+2011,E09000033,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1779
+2011,E09000033,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,22
+2011,E09000033,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,4087
+2011,E09000033,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000033,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,1913
+2011,E09000033,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,179
+2011,E09000033,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1921
+2011,E09000033,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,73
+2011,E09000033,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1700
+2011,E09000033,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000033,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,793
+2011,E09000033,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,59
+2011,E09000033,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,848
+2011,E09000033,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000002,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,69681
+2011,E09000002,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,19215
+2011,E09000002,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,26062
+2011,E09000002,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,6515
+2011,E09000002,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,15207
+2011,E09000002,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,2682
+2011,E09000002,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,40735
+2011,E09000002,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,19211
+2011,E09000002,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,12297
+2011,E09000002,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,3039
+2011,E09000002,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3647
+2011,E09000002,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,2541
+2011,E09000002,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,28946
+2011,E09000002,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,4
+2011,E09000002,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,13765
+2011,E09000002,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3476
+2011,E09000002,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,11560
+2011,E09000002,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,141
+2011,E09000002,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,14311
+2011,E09000002,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,1
+2011,E09000002,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6961
+2011,E09000002,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2090
+2011,E09000002,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,5181
+2011,E09000002,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,78
+2011,E09000002,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,6294
+2011,E09000002,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,3
+2011,E09000002,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,2894
+2011,E09000002,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,672
+2011,E09000002,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2693
+2011,E09000002,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,32
+2011,E09000002,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,5993
+2011,E09000002,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000002,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,2783
+2011,E09000002,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,537
+2011,E09000002,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2643
+2011,E09000002,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,30
+2011,E09000002,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2348
+2011,E09000002,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000002,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1127
+2011,E09000002,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,177
+2011,E09000002,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1043
+2011,E09000002,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000003,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,135916
+2011,E09000003,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,37957
+2011,E09000003,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,60639
+2011,E09000003,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,10994
+2011,E09000003,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,18284
+2011,E09000003,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,8042
+2011,E09000003,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,90388
+2011,E09000003,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,37934
+2011,E09000003,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,30640
+2011,E09000003,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,7501
+2011,E09000003,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,6469
+2011,E09000003,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,7844
+2011,E09000003,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,45528
+2011,E09000003,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,23
+2011,E09000003,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,29999
+2011,E09000003,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3493
+2011,E09000003,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,11815
+2011,E09000003,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,198
+2011,E09000003,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,19963
+2011,E09000003,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,10
+2011,E09000003,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,14022
+2011,E09000003,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1996
+2011,E09000003,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3837
+2011,E09000003,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,98
+2011,E09000003,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,10059
+2011,E09000003,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,6
+2011,E09000003,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,6480
+2011,E09000003,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,661
+2011,E09000003,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2871
+2011,E09000003,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,41
+2011,E09000003,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,10943
+2011,E09000003,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,7
+2011,E09000003,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,6741
+2011,E09000003,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,621
+2011,E09000003,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3516
+2011,E09000003,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,58
+2011,E09000003,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,4563
+2011,E09000003,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000003,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2756
+2011,E09000003,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,215
+2011,E09000003,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1591
+2011,E09000003,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000004,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,92604
+2011,E09000004,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,25789
+2011,E09000004,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,42216
+2011,E09000004,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9491
+2011,E09000004,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,13083
+2011,E09000004,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,2025
+2011,E09000004,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,61916
+2011,E09000004,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,25788
+2011,E09000004,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,24752
+2011,E09000004,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5064
+2011,E09000004,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4358
+2011,E09000004,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,1954
+2011,E09000004,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,30688
+2011,E09000004,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,1
+2011,E09000004,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,17464
+2011,E09000004,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4427
+2011,E09000004,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,8725
+2011,E09000004,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,71
+2011,E09000004,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,12053
+2011,E09000004,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,0
+2011,E09000004,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6476
+2011,E09000004,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2540
+2011,E09000004,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3012
+2011,E09000004,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,25
+2011,E09000004,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,7026
+2011,E09000004,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000004,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,4090
+2011,E09000004,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,866
+2011,E09000004,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2057
+2011,E09000004,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,13
+2011,E09000004,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8403
+2011,E09000004,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000004,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,4956
+2011,E09000004,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,782
+2011,E09000004,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2633
+2011,E09000004,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,31
+2011,E09000004,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3206
+2011,E09000004,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000004,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1942
+2011,E09000004,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,239
+2011,E09000004,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1023
+2011,E09000004,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000005,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,110286
+2011,E09000005,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,30616
+2011,E09000005,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,44079
+2011,E09000005,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,8599
+2011,E09000005,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,18661
+2011,E09000005,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,8331
+2011,E09000005,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,72374
+2011,E09000005,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,30612
+2011,E09000005,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,21328
+2011,E09000005,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5836
+2011,E09000005,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,6535
+2011,E09000005,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,8063
+2011,E09000005,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,37912
+2011,E09000005,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,4
+2011,E09000005,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,22751
+2011,E09000005,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2763
+2011,E09000005,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,12126
+2011,E09000005,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,268
+2011,E09000005,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,17180
+2011,E09000005,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,2
+2011,E09000005,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,11020
+2011,E09000005,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1628
+2011,E09000005,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,4427
+2011,E09000005,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,103
+2011,E09000005,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,8461
+2011,E09000005,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,2
+2011,E09000005,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,4908
+2011,E09000005,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,500
+2011,E09000005,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2985
+2011,E09000005,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,66
+2011,E09000005,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8577
+2011,E09000005,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000005,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,4735
+2011,E09000005,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,488
+2011,E09000005,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3259
+2011,E09000005,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,95
+2011,E09000005,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3694
+2011,E09000005,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000005,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2088
+2011,E09000005,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,147
+2011,E09000005,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1455
+2011,E09000005,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,4
+2011,E09000006,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,130862
+2011,E09000006,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,40815
+2011,E09000006,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,58132
+2011,E09000006,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,12913
+2011,E09000006,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,15883
+2011,E09000006,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,3119
+2011,E09000006,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,91111
+2011,E09000006,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,40815
+2011,E09000006,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,34048
+2011,E09000006,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,7937
+2011,E09000006,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,5274
+2011,E09000006,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,3037
+2011,E09000006,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,39751
+2011,E09000006,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,0
+2011,E09000006,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,24084
+2011,E09000006,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4976
+2011,E09000006,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,10609
+2011,E09000006,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,82
+2011,E09000006,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,15848
+2011,E09000006,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,0
+2011,E09000006,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,9629
+2011,E09000006,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2740
+2011,E09000006,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3445
+2011,E09000006,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,34
+2011,E09000006,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,9392
+2011,E09000006,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000006,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,5666
+2011,E09000006,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,1072
+2011,E09000006,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2633
+2011,E09000006,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,21
+2011,E09000006,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,10556
+2011,E09000006,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000006,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,6349
+2011,E09000006,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,914
+2011,E09000006,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3266
+2011,E09000006,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,27
+2011,E09000006,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3955
+2011,E09000006,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000006,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2440
+2011,E09000006,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,250
+2011,E09000006,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1265
+2011,E09000006,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000008,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,145010
+2011,E09000008,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,43043
+2011,E09000008,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,56181
+2011,E09000008,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,13495
+2011,E09000008,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,26434
+2011,E09000008,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,5857
+2011,E09000008,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,93950
+2011,E09000008,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,43039
+2011,E09000008,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,30258
+2011,E09000008,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,7839
+2011,E09000008,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,7235
+2011,E09000008,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,5579
+2011,E09000008,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,51060
+2011,E09000008,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,4
+2011,E09000008,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,25923
+2011,E09000008,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,5656
+2011,E09000008,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,19199
+2011,E09000008,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,278
+2011,E09000008,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,22233
+2011,E09000008,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,3
+2011,E09000008,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,11314
+2011,E09000008,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,3244
+2011,E09000008,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,7557
+2011,E09000008,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,115
+2011,E09000008,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,11639
+2011,E09000008,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000008,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,5768
+2011,E09000008,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,1083
+2011,E09000008,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,4717
+2011,E09000008,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,70
+2011,E09000008,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,12491
+2011,E09000008,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000008,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,6318
+2011,E09000008,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,1032
+2011,E09000008,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,5050
+2011,E09000008,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,91
+2011,E09000008,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,4697
+2011,E09000008,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000008,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2523
+2011,E09000008,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,297
+2011,E09000008,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1875
+2011,E09000008,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000009,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,124082
+2011,E09000009,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,35329
+2011,E09000009,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,51428
+2011,E09000009,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,10905
+2011,E09000009,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,17921
+2011,E09000009,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,8499
+2011,E09000009,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,82045
+2011,E09000009,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,35312
+2011,E09000009,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,24511
+2011,E09000009,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,7556
+2011,E09000009,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,6349
+2011,E09000009,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,8317
+2011,E09000009,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,42037
+2011,E09000009,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,17
+2011,E09000009,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,26917
+2011,E09000009,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3349
+2011,E09000009,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,11572
+2011,E09000009,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,182
+2011,E09000009,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,19507
+2011,E09000009,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,15
+2011,E09000009,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,13217
+2011,E09000009,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1959
+2011,E09000009,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,4228
+2011,E09000009,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,88
+2011,E09000009,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,9419
+2011,E09000009,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000009,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,5905
+2011,E09000009,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,680
+2011,E09000009,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2804
+2011,E09000009,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,29
+2011,E09000009,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,9289
+2011,E09000009,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000009,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,5546
+2011,E09000009,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,525
+2011,E09000009,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3159
+2011,E09000009,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,58
+2011,E09000009,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3822
+2011,E09000009,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000009,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2249
+2011,E09000009,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,185
+2011,E09000009,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1381
+2011,E09000009,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,7
+2011,E09000010,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,119916
+2011,E09000010,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,33359
+2011,E09000010,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,49542
+2011,E09000010,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9635
+2011,E09000010,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,22643
+2011,E09000010,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,4737
+2011,E09000010,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,75853
+2011,E09000010,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,33351
+2011,E09000010,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,25810
+2011,E09000010,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5614
+2011,E09000010,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,6519
+2011,E09000010,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,4559
+2011,E09000010,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,44063
+2011,E09000010,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,8
+2011,E09000010,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,23732
+2011,E09000010,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4021
+2011,E09000010,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,16124
+2011,E09000010,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,178
+2011,E09000010,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,19042
+2011,E09000010,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000010,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,10296
+2011,E09000010,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2306
+2011,E09000010,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,6349
+2011,E09000010,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,87
+2011,E09000010,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,10207
+2011,E09000010,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000010,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,5466
+2011,E09000010,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,756
+2011,E09000010,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3940
+2011,E09000010,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,44
+2011,E09000010,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,10447
+2011,E09000010,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,3
+2011,E09000010,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,5582
+2011,E09000010,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,695
+2011,E09000010,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,4120
+2011,E09000010,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,47
+2011,E09000010,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,4367
+2011,E09000010,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000010,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2388
+2011,E09000010,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,264
+2011,E09000010,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1715
+2011,E09000010,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000011,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,101045
+2011,E09000011,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,32370
+2011,E09000011,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,34614
+2011,E09000011,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,11341
+2011,E09000011,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,17261
+2011,E09000011,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,5459
+2011,E09000011,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,67056
+2011,E09000011,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,32365
+2011,E09000011,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,18017
+2011,E09000011,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,6784
+2011,E09000011,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4700
+2011,E09000011,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,5190
+2011,E09000011,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,33989
+2011,E09000011,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,5
+2011,E09000011,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,16597
+2011,E09000011,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4557
+2011,E09000011,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,12561
+2011,E09000011,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,269
+2011,E09000011,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,16241
+2011,E09000011,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000011,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,8644
+2011,E09000011,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2785
+2011,E09000011,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,4703
+2011,E09000011,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,105
+2011,E09000011,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,7465
+2011,E09000011,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000011,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3365
+2011,E09000011,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,864
+2011,E09000011,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,3141
+2011,E09000011,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,95
+2011,E09000011,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7581
+2011,E09000011,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000011,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3346
+2011,E09000011,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,707
+2011,E09000011,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,3461
+2011,E09000011,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,66
+2011,E09000011,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2702
+2011,E09000011,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000011,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1242
+2011,E09000011,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,201
+2011,E09000011,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1256
+2011,E09000011,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,3
+2011,E09000015,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,84268
+2011,E09000015,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,19008
+2011,E09000015,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,45981
+2011,E09000015,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,4975
+2011,E09000015,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,10904
+2011,E09000015,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,3400
+2011,E09000015,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,53598
+2011,E09000015,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,19002
+2011,E09000015,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,23854
+2011,E09000015,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,3202
+2011,E09000015,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4254
+2011,E09000015,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,3286
+2011,E09000015,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,30670
+2011,E09000015,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,6
+2011,E09000015,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,22127
+2011,E09000015,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,1773
+2011,E09000015,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,6650
+2011,E09000015,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,114
+2011,E09000015,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,12435
+2011,E09000015,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,1
+2011,E09000015,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,9474
+2011,E09000015,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,938
+2011,E09000015,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,1975
+2011,E09000015,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,47
+2011,E09000015,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,6962
+2011,E09000015,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,4
+2011,E09000015,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,4979
+2011,E09000015,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,336
+2011,E09000015,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1622
+2011,E09000015,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,21
+2011,E09000015,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7780
+2011,E09000015,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000015,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,5297
+2011,E09000015,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,366
+2011,E09000015,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2072
+2011,E09000015,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,44
+2011,E09000015,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3493
+2011,E09000015,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000015,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2377
+2011,E09000015,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,133
+2011,E09000015,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,981
+2011,E09000015,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000016,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,97199
+2011,E09000016,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,28215
+2011,E09000016,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,45129
+2011,E09000016,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9433
+2011,E09000016,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,12532
+2011,E09000016,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,1890
+2011,E09000016,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,67957
+2011,E09000016,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,28215
+2011,E09000016,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,28041
+2011,E09000016,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5298
+2011,E09000016,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4568
+2011,E09000016,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,1835
+2011,E09000016,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,29242
+2011,E09000016,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,0
+2011,E09000016,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,17088
+2011,E09000016,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4135
+2011,E09000016,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,7964
+2011,E09000016,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,55
+2011,E09000016,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,10981
+2011,E09000016,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,0
+2011,E09000016,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6101
+2011,E09000016,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2211
+2011,E09000016,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,2647
+2011,E09000016,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,22
+2011,E09000016,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,6861
+2011,E09000016,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000016,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3993
+2011,E09000016,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,882
+2011,E09000016,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1969
+2011,E09000016,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,17
+2011,E09000016,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8165
+2011,E09000016,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000016,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,4905
+2011,E09000016,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,801
+2011,E09000016,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2445
+2011,E09000016,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,14
+2011,E09000016,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3235
+2011,E09000016,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000016,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2089
+2011,E09000016,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,241
+2011,E09000016,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,903
+2011,E09000016,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000017,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,100214
+2011,E09000017,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,25290
+2011,E09000017,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,46820
+2011,E09000017,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9197
+2011,E09000017,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,14620
+2011,E09000017,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,4287
+2011,E09000017,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,64319
+2011,E09000017,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,25281
+2011,E09000017,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,24671
+2011,E09000017,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5459
+2011,E09000017,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4800
+2011,E09000017,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,4108
+2011,E09000017,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,35895
+2011,E09000017,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,9
+2011,E09000017,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,22149
+2011,E09000017,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3738
+2011,E09000017,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,9820
+2011,E09000017,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,179
+2011,E09000017,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,15330
+2011,E09000017,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,5
+2011,E09000017,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,9782
+2011,E09000017,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2043
+2011,E09000017,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3403
+2011,E09000017,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,97
+2011,E09000017,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,8187
+2011,E09000017,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,3
+2011,E09000017,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,5007
+2011,E09000017,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,787
+2011,E09000017,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2363
+2011,E09000017,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,27
+2011,E09000017,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8814
+2011,E09000017,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000017,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,5180
+2011,E09000017,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,673
+2011,E09000017,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2906
+2011,E09000017,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,54
+2011,E09000017,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3564
+2011,E09000017,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000017,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2180
+2011,E09000017,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,235
+2011,E09000017,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1148
+2011,E09000017,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000018,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,94902
+2011,E09000018,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,25985
+2011,E09000018,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,40676
+2011,E09000018,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,8925
+2011,E09000018,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,13821
+2011,E09000018,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,5495
+2011,E09000018,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,62139
+2011,E09000018,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,25980
+2011,E09000018,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,20218
+2011,E09000018,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,5808
+2011,E09000018,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4796
+2011,E09000018,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,5337
+2011,E09000018,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,32763
+2011,E09000018,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,5
+2011,E09000018,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,20458
+2011,E09000018,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3117
+2011,E09000018,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,9025
+2011,E09000018,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,158
+2011,E09000018,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,15539
+2011,E09000018,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,5
+2011,E09000018,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,10231
+2011,E09000018,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1828
+2011,E09000018,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3403
+2011,E09000018,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,72
+2011,E09000018,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,6955
+2011,E09000018,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000018,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,4309
+2011,E09000018,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,580
+2011,E09000018,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2034
+2011,E09000018,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,32
+2011,E09000018,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7434
+2011,E09000018,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000018,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,4232
+2011,E09000018,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,540
+2011,E09000018,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2610
+2011,E09000018,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,52
+2011,E09000018,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2835
+2011,E09000018,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000018,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1686
+2011,E09000018,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,169
+2011,E09000018,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,978
+2011,E09000018,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000021,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,63639
+2011,E09000021,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,18198
+2011,E09000021,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,28263
+2011,E09000021,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,6832
+2011,E09000021,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,6323
+2011,E09000021,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,4023
+2011,E09000021,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,43949
+2011,E09000021,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,18192
+2011,E09000021,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,14722
+2011,E09000021,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,4764
+2011,E09000021,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,2309
+2011,E09000021,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,3962
+2011,E09000021,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,19690
+2011,E09000021,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,6
+2011,E09000021,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,13541
+2011,E09000021,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2068
+2011,E09000021,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,4014
+2011,E09000021,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,61
+2011,E09000021,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,8610
+2011,E09000021,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,3
+2011,E09000021,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6125
+2011,E09000021,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1197
+2011,E09000021,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,1258
+2011,E09000021,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,27
+2011,E09000021,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,4490
+2011,E09000021,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,2
+2011,E09000021,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3080
+2011,E09000021,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,402
+2011,E09000021,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,995
+2011,E09000021,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,11
+2011,E09000021,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,4749
+2011,E09000021,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000021,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3137
+2011,E09000021,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,354
+2011,E09000021,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1235
+2011,E09000021,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,22
+2011,E09000021,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1841
+2011,E09000021,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000021,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1199
+2011,E09000021,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,115
+2011,E09000021,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,526
+2011,E09000021,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000024,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,78757
+2011,E09000024,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,22294
+2011,E09000024,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,33356
+2011,E09000024,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,8704
+2011,E09000024,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,9491
+2011,E09000024,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,4912
+2011,E09000024,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,53863
+2011,E09000024,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,22289
+2011,E09000024,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,17108
+2011,E09000024,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,6191
+2011,E09000024,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3447
+2011,E09000024,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,4828
+2011,E09000024,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,24894
+2011,E09000024,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,5
+2011,E09000024,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,16248
+2011,E09000024,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2513
+2011,E09000024,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,6044
+2011,E09000024,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,84
+2011,E09000024,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,11509
+2011,E09000024,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,4
+2011,E09000024,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,8052
+2011,E09000024,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1414
+2011,E09000024,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,2001
+2011,E09000024,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,38
+2011,E09000024,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,5422
+2011,E09000024,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000024,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3494
+2011,E09000024,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,464
+2011,E09000024,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1447
+2011,E09000024,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,17
+2011,E09000024,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,5679
+2011,E09000024,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,1
+2011,E09000024,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3354
+2011,E09000024,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,484
+2011,E09000024,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1811
+2011,E09000024,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,29
+2011,E09000024,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2284
+2011,E09000024,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000024,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1348
+2011,E09000024,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,151
+2011,E09000024,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,785
+2011,E09000024,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,0
+2011,E09000026,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,99105
+2011,E09000026,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,25228
+2011,E09000026,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,48589
+2011,E09000026,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,7056
+2011,E09000026,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,14149
+2011,E09000026,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,4083
+2011,E09000026,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,60929
+2011,E09000026,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,25217
+2011,E09000026,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,23071
+2011,E09000026,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,4324
+2011,E09000026,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4393
+2011,E09000026,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,3924
+2011,E09000026,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,38176
+2011,E09000026,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,11
+2011,E09000026,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,25518
+2011,E09000026,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2732
+2011,E09000026,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,9756
+2011,E09000026,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,159
+2011,E09000026,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,16942
+2011,E09000026,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,7
+2011,E09000026,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,11720
+2011,E09000026,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1491
+2011,E09000026,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3656
+2011,E09000026,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,68
+2011,E09000026,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,8725
+2011,E09000026,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000026,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,5770
+2011,E09000026,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,551
+2011,E09000026,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2374
+2011,E09000026,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,30
+2011,E09000026,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,8826
+2011,E09000026,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,4
+2011,E09000026,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,5639
+2011,E09000026,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,506
+2011,E09000026,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2617
+2011,E09000026,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,60
+2011,E09000026,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,3683
+2011,E09000026,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000026,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,2389
+2011,E09000026,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,184
+2011,E09000026,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1109
+2011,E09000026,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000027,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,79835
+2011,E09000027,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,26008
+2011,E09000027,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,34232
+2011,E09000027,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,9107
+2011,E09000027,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,6952
+2011,E09000027,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,3536
+2011,E09000027,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,56182
+2011,E09000027,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,26005
+2011,E09000027,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,17551
+2011,E09000027,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,6508
+2011,E09000027,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,2640
+2011,E09000027,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,3478
+2011,E09000027,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,23653
+2011,E09000027,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,3
+2011,E09000027,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,16681
+2011,E09000027,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,2599
+2011,E09000027,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,4312
+2011,E09000027,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,58
+2011,E09000027,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,10793
+2011,E09000027,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,0
+2011,E09000027,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,7920
+2011,E09000027,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1564
+2011,E09000027,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,1288
+2011,E09000027,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,21
+2011,E09000027,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,5457
+2011,E09000027,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,1
+2011,E09000027,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3836
+2011,E09000027,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,498
+2011,E09000027,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1111
+2011,E09000027,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,11
+2011,E09000027,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,5437
+2011,E09000027,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,2
+2011,E09000027,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3612
+2011,E09000027,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,421
+2011,E09000027,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1377
+2011,E09000027,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,25
+2011,E09000027,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,1966
+2011,E09000027,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000027,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1313
+2011,E09000027,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,116
+2011,E09000027,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,536
+2011,E09000027,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,1
+2011,E09000029,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,78174
+2011,E09000029,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,23749
+2011,E09000029,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,34716
+2011,E09000029,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,8276
+2011,E09000029,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,9434
+2011,E09000029,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,1999
+2011,E09000029,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,52811
+2011,E09000029,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,23749
+2011,E09000029,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,18917
+2011,E09000029,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,4943
+2011,E09000029,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,3257
+2011,E09000029,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,1945
+2011,E09000029,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,25363
+2011,E09000029,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,0
+2011,E09000029,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,15799
+2011,E09000029,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,3333
+2011,E09000029,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,6177
+2011,E09000029,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,54
+2011,E09000029,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,10285
+2011,E09000029,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,0
+2011,E09000029,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,6456
+2011,E09000029,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,1856
+2011,E09000029,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,1954
+2011,E09000029,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,19
+2011,E09000029,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,5700
+2011,E09000029,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000029,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3570
+2011,E09000029,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,658
+2011,E09000029,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,1457
+2011,E09000029,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,15
+2011,E09000029,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,6714
+2011,E09000029,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000029,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,4142
+2011,E09000029,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,613
+2011,E09000029,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,1941
+2011,E09000029,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,18
+2011,E09000029,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2664
+2011,E09000029,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000029,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1631
+2011,E09000029,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,206
+2011,E09000029,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,825
+2011,E09000029,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,2
+2011,E09000031,All categories: All households,All categories: Household type,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6SRFd,96861
+2011,E09000031,All categories: All households,One person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_10,28756
+2011,E09000031,All categories: All households,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5E7PL,35668
+2011,E09000031,All categories: All households,Cohabiting couple household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5aD3d,10463
+2011,E09000031,All categories: All households,Lone parent household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp5wIsV,15817
+2011,E09000031,All categories: All households,Multi-person household,C_DPCHUK11_T0CKmuoD,C_AHTHUK11_Szp6ENZZ,6157
+2011,E09000031,Households with no dependent children,All categories: Household type,C_DPCHUK11_01,C_AHTHUK11_Szp6SRFd,63191
+2011,E09000031,Households with no dependent children,One person household,C_DPCHUK11_01,C_AHTHUK11_10,28753
+2011,E09000031,Households with no dependent children,Married or same-sex civil partnership couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5E7PL,17156
+2011,E09000031,Households with no dependent children,Cohabiting couple household,C_DPCHUK11_01,C_AHTHUK11_Szp5aD3d,6354
+2011,E09000031,Households with no dependent children,Lone parent household,C_DPCHUK11_01,C_AHTHUK11_Szp5wIsV,4938
+2011,E09000031,Households with no dependent children,Multi-person household,C_DPCHUK11_01,C_AHTHUK11_Szp6ENZZ,5990
+2011,E09000031,Households with dependent children: Total,All categories: Household type,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6SRFd,33670
+2011,E09000031,Households with dependent children: Total,One person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_10,3
+2011,E09000031,Households with dependent children: Total,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5E7PL,18512
+2011,E09000031,Households with dependent children: Total,Cohabiting couple household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5aD3d,4109
+2011,E09000031,Households with dependent children: Total,Lone parent household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp5wIsV,10879
+2011,E09000031,Households with dependent children: Total,Multi-person household,C_DPCHUK11_T0CM0Eah,C_AHTHUK11_Szp6ENZZ,167
+2011,E09000031,Youngest dependent child: Age 0 to 4,All categories: Household type,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6SRFd,16122
+2011,E09000031,Youngest dependent child: Age 0 to 4,One person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_10,3
+2011,E09000031,Youngest dependent child: Age 0 to 4,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5E7PL,9546
+2011,E09000031,Youngest dependent child: Age 0 to 4,Cohabiting couple household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5aD3d,2492
+2011,E09000031,Youngest dependent child: Age 0 to 4,Lone parent household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp5wIsV,3991
+2011,E09000031,Youngest dependent child: Age 0 to 4,Multi-person household,C_DPCHUK11_T0CNlgkJ,C_AHTHUK11_Szp6ENZZ,90
+2011,E09000031,Youngest dependent child: Age 5 to 9,All categories: Household type,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6SRFd,7469
+2011,E09000031,Youngest dependent child: Age 5 to 9,One person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_10,0
+2011,E09000031,Youngest dependent child: Age 5 to 9,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5E7PL,3953
+2011,E09000031,Youngest dependent child: Age 5 to 9,Cohabiting couple household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5aD3d,822
+2011,E09000031,Youngest dependent child: Age 5 to 9,Lone parent household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp5wIsV,2672
+2011,E09000031,Youngest dependent child: Age 5 to 9,Multi-person household,C_DPCHUK11_T0CO9n4d,C_AHTHUK11_Szp6ENZZ,22
+2011,E09000031,Youngest dependent child: Age 10 to 15,All categories: Household type,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6SRFd,7140
+2011,E09000031,Youngest dependent child: Age 10 to 15,One person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_10,0
+2011,E09000031,Youngest dependent child: Age 10 to 15,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5E7PL,3546
+2011,E09000031,Youngest dependent child: Age 10 to 15,Cohabiting couple household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5aD3d,588
+2011,E09000031,Youngest dependent child: Age 10 to 15,Lone parent household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp5wIsV,2954
+2011,E09000031,Youngest dependent child: Age 10 to 15,Multi-person household,C_DPCHUK11_T0CPsEqU,C_AHTHUK11_Szp6ENZZ,52
+2011,E09000031,Youngest dependent child: Age 16 to 18,All categories: Household type,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6SRFd,2939
+2011,E09000031,Youngest dependent child: Age 16 to 18,One person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_10,0
+2011,E09000031,Youngest dependent child: Age 16 to 18,Married or same-sex civil partnership couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5E7PL,1467
+2011,E09000031,Youngest dependent child: Age 16 to 18,Cohabiting couple household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5aD3d,207
+2011,E09000031,Youngest dependent child: Age 16 to 18,Lone parent household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp5wIsV,1262
+2011,E09000031,Youngest dependent child: Age 16 to 18,Multi-person household,C_DPCHUK11_T0CQUOro,C_AHTHUK11_Szp6ENZZ,3

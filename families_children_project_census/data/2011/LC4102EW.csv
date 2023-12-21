@@ -1,0 +1,1057 @@
+date,geography_code,c_bedrooms_name,c_age_name,c_typaccom_name,obs_value
+2011,E09000007,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,24
+2011,E09000007,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,26
+2011,E09000007,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),65
+2011,E09000007,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2729
+2011,E09000007,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,14
+2011,E09000007,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,7
+2011,E09000007,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),18
+2011,E09000007,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",801
+2011,E09000007,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,57
+2011,E09000007,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,125
+2011,E09000007,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),277
+2011,E09000007,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",8707
+2011,E09000007,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,37
+2011,E09000007,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,60
+2011,E09000007,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),141
+2011,E09000007,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4310
+2011,E09000007,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,114
+2011,E09000007,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,309
+2011,E09000007,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),968
+2011,E09000007,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5329
+2011,E09000007,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,125
+2011,E09000007,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,280
+2011,E09000007,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),726
+2011,E09000007,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4509
+2011,E09000007,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,540
+2011,E09000007,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1111
+2011,E09000007,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1922
+2011,E09000007,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1717
+2011,E09000007,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,553
+2011,E09000007,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1099
+2011,E09000007,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1462
+2011,E09000007,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1523
+2011,E09000001,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,0
+2011,E09000001,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,0
+2011,E09000001,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1
+2011,E09000001,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",72
+2011,E09000001,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,0
+2011,E09000001,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,0
+2011,E09000001,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2
+2011,E09000001,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",18
+2011,E09000001,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,2
+2011,E09000001,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,0
+2011,E09000001,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2
+2011,E09000001,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",197
+2011,E09000001,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,0
+2011,E09000001,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,0
+2011,E09000001,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1
+2011,E09000001,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",90
+2011,E09000001,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,0
+2011,E09000001,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,0
+2011,E09000001,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3
+2011,E09000001,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",97
+2011,E09000001,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,0
+2011,E09000001,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,0
+2011,E09000001,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2
+2011,E09000001,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",85
+2011,E09000001,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1
+2011,E09000001,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,0
+2011,E09000001,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),6
+2011,E09000001,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",34
+2011,E09000001,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,3
+2011,E09000001,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2
+2011,E09000001,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),11
+2011,E09000001,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",23
+2011,E09000012,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,43
+2011,E09000012,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,37
+2011,E09000012,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),65
+2011,E09000012,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2990
+2011,E09000012,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,10
+2011,E09000012,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,15
+2011,E09000012,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),40
+2011,E09000012,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",787
+2011,E09000012,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,143
+2011,E09000012,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,256
+2011,E09000012,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),656
+2011,E09000012,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",12889
+2011,E09000012,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,98
+2011,E09000012,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,165
+2011,E09000012,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),362
+2011,E09000012,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",5639
+2011,E09000012,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,390
+2011,E09000012,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,705
+2011,E09000012,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2723
+2011,E09000012,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",6627
+2011,E09000012,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,390
+2011,E09000012,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,743
+2011,E09000012,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2141
+2011,E09000012,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",5470
+2011,E09000012,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,498
+2011,E09000012,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1196
+2011,E09000012,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3589
+2011,E09000012,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1686
+2011,E09000012,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,590
+2011,E09000012,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1386
+2011,E09000012,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3605
+2011,E09000012,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1650
+2011,E09000013,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,18
+2011,E09000013,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,23
+2011,E09000013,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),59
+2011,E09000013,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1707
+2011,E09000013,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,10
+2011,E09000013,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,16
+2011,E09000013,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),25
+2011,E09000013,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",481
+2011,E09000013,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,103
+2011,E09000013,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,173
+2011,E09000013,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),575
+2011,E09000013,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",6076
+2011,E09000013,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,53
+2011,E09000013,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,146
+2011,E09000013,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),364
+2011,E09000013,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",3160
+2011,E09000013,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,196
+2011,E09000013,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,505
+2011,E09000013,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1792
+2011,E09000013,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2734
+2011,E09000013,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,138
+2011,E09000013,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,561
+2011,E09000013,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1101
+2011,E09000013,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2381
+2011,E09000013,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,164
+2011,E09000013,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1166
+2011,E09000013,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4549
+2011,E09000013,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",613
+2011,E09000013,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,234
+2011,E09000013,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,975
+2011,E09000013,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2306
+2011,E09000013,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",684
+2011,E09000014,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,94
+2011,E09000014,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,138
+2011,E09000014,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),173
+2011,E09000014,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3313
+2011,E09000014,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,50
+2011,E09000014,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,83
+2011,E09000014,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),92
+2011,E09000014,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1088
+2011,E09000014,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,610
+2011,E09000014,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,795
+2011,E09000014,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1908
+2011,E09000014,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",9610
+2011,E09000014,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,384
+2011,E09000014,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,566
+2011,E09000014,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1417
+2011,E09000014,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4931
+2011,E09000014,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,936
+2011,E09000014,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1530
+2011,E09000014,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4205
+2011,E09000014,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3107
+2011,E09000014,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,918
+2011,E09000014,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1619
+2011,E09000014,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3557
+2011,E09000014,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2906
+2011,E09000014,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,798
+2011,E09000014,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1851
+2011,E09000014,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4274
+2011,E09000014,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",543
+2011,E09000014,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,951
+2011,E09000014,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1965
+2011,E09000014,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3964
+2011,E09000014,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",516
+2011,E09000019,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,17
+2011,E09000019,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,42
+2011,E09000019,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),47
+2011,E09000019,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2356
+2011,E09000019,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,4
+2011,E09000019,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,22
+2011,E09000019,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),26
+2011,E09000019,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",700
+2011,E09000019,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,56
+2011,E09000019,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,115
+2011,E09000019,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),342
+2011,E09000019,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",8824
+2011,E09000019,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,41
+2011,E09000019,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,92
+2011,E09000019,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),173
+2011,E09000019,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4558
+2011,E09000019,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,114
+2011,E09000019,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,275
+2011,E09000019,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1545
+2011,E09000019,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",4106
+2011,E09000019,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,149
+2011,E09000019,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,312
+2011,E09000019,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),968
+2011,E09000019,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4352
+2011,E09000019,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,184
+2011,E09000019,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,522
+2011,E09000019,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2430
+2011,E09000019,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",885
+2011,E09000019,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,232
+2011,E09000019,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,520
+2011,E09000019,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1853
+2011,E09000019,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1089
+2011,E09000020,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,14
+2011,E09000020,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,24
+2011,E09000020,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),44
+2011,E09000020,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1176
+2011,E09000020,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,4
+2011,E09000020,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,6
+2011,E09000020,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),24
+2011,E09000020,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",448
+2011,E09000020,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,66
+2011,E09000020,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,81
+2011,E09000020,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),214
+2011,E09000020,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5124
+2011,E09000020,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,40
+2011,E09000020,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,42
+2011,E09000020,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),93
+2011,E09000020,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2930
+2011,E09000020,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,75
+2011,E09000020,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,267
+2011,E09000020,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1045
+2011,E09000020,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3572
+2011,E09000020,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,64
+2011,E09000020,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,156
+2011,E09000020,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),509
+2011,E09000020,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2427
+2011,E09000020,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,254
+2011,E09000020,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,851
+2011,E09000020,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2604
+2011,E09000020,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1383
+2011,E09000020,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,250
+2011,E09000020,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,609
+2011,E09000020,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1666
+2011,E09000020,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1054
+2011,E09000022,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,63
+2011,E09000022,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,97
+2011,E09000022,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),107
+2011,E09000022,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3570
+2011,E09000022,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,38
+2011,E09000022,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,43
+2011,E09000022,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),31
+2011,E09000022,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",993
+2011,E09000022,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,203
+2011,E09000022,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,510
+2011,E09000022,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),831
+2011,E09000022,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",13433
+2011,E09000022,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,94
+2011,E09000022,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,289
+2011,E09000022,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),439
+2011,E09000022,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",6275
+2011,E09000022,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,500
+2011,E09000022,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1438
+2011,E09000022,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2979
+2011,E09000022,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5937
+2011,E09000022,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,398
+2011,E09000022,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1292
+2011,E09000022,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2276
+2011,E09000022,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",5546
+2011,E09000022,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,663
+2011,E09000022,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2288
+2011,E09000022,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3329
+2011,E09000022,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1124
+2011,E09000022,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,693
+2011,E09000022,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2222
+2011,E09000022,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2439
+2011,E09000022,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1404
+2011,E09000023,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,61
+2011,E09000023,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,86
+2011,E09000023,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),141
+2011,E09000023,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3061
+2011,E09000023,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,18
+2011,E09000023,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,37
+2011,E09000023,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),85
+2011,E09000023,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",845
+2011,E09000023,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,363
+2011,E09000023,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,977
+2011,E09000023,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2580
+2011,E09000023,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",11775
+2011,E09000023,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,173
+2011,E09000023,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,451
+2011,E09000023,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1395
+2011,E09000023,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4876
+2011,E09000023,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,744
+2011,E09000023,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3155
+2011,E09000023,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),6656
+2011,E09000023,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3409
+2011,E09000023,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,579
+2011,E09000023,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2625
+2011,E09000023,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),5680
+2011,E09000023,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2916
+2011,E09000023,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,534
+2011,E09000023,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2117
+2011,E09000023,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2524
+2011,E09000023,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",484
+2011,E09000023,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,639
+2011,E09000023,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2324
+2011,E09000023,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2624
+2011,E09000023,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",502
+2011,E09000025,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,163
+2011,E09000025,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,225
+2011,E09000025,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),269
+2011,E09000025,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3718
+2011,E09000025,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,78
+2011,E09000025,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,91
+2011,E09000025,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),154
+2011,E09000025,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",917
+2011,E09000025,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1141
+2011,E09000025,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1409
+2011,E09000025,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4019
+2011,E09000025,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",10772
+2011,E09000025,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,524
+2011,E09000025,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,751
+2011,E09000025,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2144
+2011,E09000025,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",5046
+2011,E09000025,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,2430
+2011,E09000025,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2799
+2011,E09000025,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),9324
+2011,E09000025,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3577
+2011,E09000025,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1934
+2011,E09000025,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2839
+2011,E09000025,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),8511
+2011,E09000025,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",3439
+2011,E09000025,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1042
+2011,E09000025,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1374
+2011,E09000025,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3494
+2011,E09000025,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",462
+2011,E09000025,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1187
+2011,E09000025,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1611
+2011,E09000025,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3870
+2011,E09000025,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",344
+2011,E09000028,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,47
+2011,E09000028,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,81
+2011,E09000028,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),79
+2011,E09000028,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",4435
+2011,E09000028,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,19
+2011,E09000028,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,25
+2011,E09000028,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),27
+2011,E09000028,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1063
+2011,E09000028,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,177
+2011,E09000028,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,390
+2011,E09000028,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),966
+2011,E09000028,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",14158
+2011,E09000028,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,92
+2011,E09000028,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,258
+2011,E09000028,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),560
+2011,E09000028,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",6541
+2011,E09000028,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,351
+2011,E09000028,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,975
+2011,E09000028,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2952
+2011,E09000028,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",6031
+2011,E09000028,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,314
+2011,E09000028,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,910
+2011,E09000028,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2263
+2011,E09000028,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",6108
+2011,E09000028,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,483
+2011,E09000028,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1579
+2011,E09000028,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2399
+2011,E09000028,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1166
+2011,E09000028,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,550
+2011,E09000028,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1541
+2011,E09000028,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2080
+2011,E09000028,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1455
+2011,E09000030,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,24
+2011,E09000030,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,30
+2011,E09000030,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),56
+2011,E09000030,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2659
+2011,E09000030,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,20
+2011,E09000030,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,21
+2011,E09000030,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),19
+2011,E09000030,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",502
+2011,E09000030,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,124
+2011,E09000030,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,257
+2011,E09000030,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),717
+2011,E09000030,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",16629
+2011,E09000030,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,72
+2011,E09000030,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,165
+2011,E09000030,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),382
+2011,E09000030,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",6804
+2011,E09000030,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,250
+2011,E09000030,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,376
+2011,E09000030,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1583
+2011,E09000030,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",7820
+2011,E09000030,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,305
+2011,E09000030,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,414
+2011,E09000030,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1459
+2011,E09000030,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",6854
+2011,E09000030,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,266
+2011,E09000030,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,457
+2011,E09000030,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1300
+2011,E09000030,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1724
+2011,E09000030,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,402
+2011,E09000030,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,638
+2011,E09000030,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1557
+2011,E09000030,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2204
+2011,E09000032,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,41
+2011,E09000032,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,50
+2011,E09000032,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),72
+2011,E09000032,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1958
+2011,E09000032,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,8
+2011,E09000032,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,25
+2011,E09000032,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),33
+2011,E09000032,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",553
+2011,E09000032,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,183
+2011,E09000032,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,381
+2011,E09000032,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1159
+2011,E09000032,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",9416
+2011,E09000032,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,68
+2011,E09000032,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,147
+2011,E09000032,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),488
+2011,E09000032,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4006
+2011,E09000032,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,403
+2011,E09000032,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1173
+2011,E09000032,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3803
+2011,E09000032,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",4289
+2011,E09000032,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,296
+2011,E09000032,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,914
+2011,E09000032,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2217
+2011,E09000032,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",3422
+2011,E09000032,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1037
+2011,E09000032,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3039
+2011,E09000032,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),8299
+2011,E09000032,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",925
+2011,E09000032,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,998
+2011,E09000032,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2332
+2011,E09000032,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3921
+2011,E09000032,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",939
+2011,E09000033,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,22
+2011,E09000033,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,24
+2011,E09000033,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),32
+2011,E09000033,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2322
+2011,E09000033,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,6
+2011,E09000033,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,1
+2011,E09000033,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),8
+2011,E09000033,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",684
+2011,E09000033,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,95
+2011,E09000033,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,140
+2011,E09000033,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),430
+2011,E09000033,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",8719
+2011,E09000033,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,48
+2011,E09000033,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,116
+2011,E09000033,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),278
+2011,E09000033,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4426
+2011,E09000033,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,87
+2011,E09000033,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,174
+2011,E09000033,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),787
+2011,E09000033,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5898
+2011,E09000033,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,81
+2011,E09000033,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,149
+2011,E09000033,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),446
+2011,E09000033,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4640
+2011,E09000033,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,290
+2011,E09000033,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,473
+2011,E09000033,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1291
+2011,E09000033,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1526
+2011,E09000033,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,373
+2011,E09000033,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,428
+2011,E09000033,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1041
+2011,E09000033,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1433
+2011,E09000002,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,44
+2011,E09000002,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,78
+2011,E09000002,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),101
+2011,E09000002,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1778
+2011,E09000002,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,21
+2011,E09000002,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,37
+2011,E09000002,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),56
+2011,E09000002,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",270
+2011,E09000002,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,771
+2011,E09000002,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1794
+2011,E09000002,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),5367
+2011,E09000002,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5754
+2011,E09000002,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,249
+2011,E09000002,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,768
+2011,E09000002,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2521
+2011,E09000002,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1385
+2011,E09000002,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1002
+2011,E09000002,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3926
+2011,E09000002,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),7268
+2011,E09000002,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2412
+2011,E09000002,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,647
+2011,E09000002,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3410
+2011,E09000002,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),6622
+2011,E09000002,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1911
+2011,E09000002,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,265
+2011,E09000002,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,970
+2011,E09000002,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1337
+2011,E09000002,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",130
+2011,E09000002,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,224
+2011,E09000002,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1392
+2011,E09000002,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1665
+2011,E09000002,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",120
+2011,E09000003,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,54
+2011,E09000003,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,130
+2011,E09000003,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),94
+2011,E09000003,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1903
+2011,E09000003,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,27
+2011,E09000003,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,85
+2011,E09000003,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),49
+2011,E09000003,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",523
+2011,E09000003,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,431
+2011,E09000003,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1434
+2011,E09000003,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1695
+2011,E09000003,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",11162
+2011,E09000003,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,215
+2011,E09000003,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,778
+2011,E09000003,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1103
+2011,E09000003,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4336
+2011,E09000003,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1320
+2011,E09000003,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,7743
+2011,E09000003,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4473
+2011,E09000003,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2641
+2011,E09000003,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1111
+2011,E09000003,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,6168
+2011,E09000003,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3851
+2011,E09000003,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2073
+2011,E09000003,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,4329
+2011,E09000003,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,8258
+2011,E09000003,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2477
+2011,E09000003,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",441
+2011,E09000003,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,4938
+2011,E09000003,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,8394
+2011,E09000003,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2410
+2011,E09000003,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",371
+2011,E09000004,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,26
+2011,E09000004,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,76
+2011,E09000004,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),41
+2011,E09000004,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",626
+2011,E09000004,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,13
+2011,E09000004,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,74
+2011,E09000004,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),27
+2011,E09000004,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",123
+2011,E09000004,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,126
+2011,E09000004,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1097
+2011,E09000004,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1977
+2011,E09000004,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",4022
+2011,E09000004,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,85
+2011,E09000004,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,584
+2011,E09000004,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),803
+2011,E09000004,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1296
+2011,E09000004,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,677
+2011,E09000004,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,7648
+2011,E09000004,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),5405
+2011,E09000004,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",905
+2011,E09000004,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,571
+2011,E09000004,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,7414
+2011,E09000004,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),4787
+2011,E09000004,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",726
+2011,E09000004,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1000
+2011,E09000004,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4113
+2011,E09000004,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1260
+2011,E09000004,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",196
+2011,E09000004,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1417
+2011,E09000004,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5972
+2011,E09000004,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1708
+2011,E09000004,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",186
+2011,E09000005,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,95
+2011,E09000005,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,197
+2011,E09000005,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),122
+2011,E09000005,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3066
+2011,E09000005,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,30
+2011,E09000005,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,122
+2011,E09000005,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),63
+2011,E09000005,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",815
+2011,E09000005,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,487
+2011,E09000005,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1108
+2011,E09000005,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),923
+2011,E09000005,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",12416
+2011,E09000005,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,296
+2011,E09000005,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,623
+2011,E09000005,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),609
+2011,E09000005,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",5553
+2011,E09000005,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1377
+2011,E09000005,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,5249
+2011,E09000005,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3367
+2011,E09000005,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3451
+2011,E09000005,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1249
+2011,E09000005,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5434
+2011,E09000005,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3463
+2011,E09000005,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2918
+2011,E09000005,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1645
+2011,E09000005,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4177
+2011,E09000005,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2599
+2011,E09000005,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",802
+2011,E09000005,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1921
+2011,E09000005,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,4907
+2011,E09000005,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2708
+2011,E09000005,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",587
+2011,E09000006,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,24
+2011,E09000006,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,55
+2011,E09000006,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),46
+2011,E09000006,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1009
+2011,E09000006,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,21
+2011,E09000006,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,36
+2011,E09000006,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),37
+2011,E09000006,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",186
+2011,E09000006,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,198
+2011,E09000006,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1427
+2011,E09000006,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2257
+2011,E09000006,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5235
+2011,E09000006,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,115
+2011,E09000006,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,736
+2011,E09000006,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1132
+2011,E09000006,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1752
+2011,E09000006,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1388
+2011,E09000006,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,7249
+2011,E09000006,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),5904
+2011,E09000006,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1885
+2011,E09000006,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1268
+2011,E09000006,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,6163
+2011,E09000006,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),4560
+2011,E09000006,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1454
+2011,E09000006,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,4793
+2011,E09000006,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4538
+2011,E09000006,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1987
+2011,E09000006,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",156
+2011,E09000006,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,6301
+2011,E09000006,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5435
+2011,E09000006,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2115
+2011,E09000006,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",177
+2011,E09000008,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,86
+2011,E09000008,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,156
+2011,E09000008,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),152
+2011,E09000008,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2976
+2011,E09000008,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,48
+2011,E09000008,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,89
+2011,E09000008,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),84
+2011,E09000008,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",680
+2011,E09000008,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,612
+2011,E09000008,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1816
+2011,E09000008,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3512
+2011,E09000008,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",11889
+2011,E09000008,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,275
+2011,E09000008,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,974
+2011,E09000008,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1700
+2011,E09000008,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",3889
+2011,E09000008,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1877
+2011,E09000008,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,7904
+2011,E09000008,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),8755
+2011,E09000008,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2021
+2011,E09000008,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1597
+2011,E09000008,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,7715
+2011,E09000008,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),8298
+2011,E09000008,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1401
+2011,E09000008,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,3097
+2011,E09000008,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3813
+2011,E09000008,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2122
+2011,E09000008,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",247
+2011,E09000008,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,4141
+2011,E09000008,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5371
+2011,E09000008,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2708
+2011,E09000008,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",192
+2011,E09000009,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,121
+2011,E09000009,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,192
+2011,E09000009,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),131
+2011,E09000009,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2990
+2011,E09000009,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,37
+2011,E09000009,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,83
+2011,E09000009,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),53
+2011,E09000009,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",703
+2011,E09000009,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,521
+2011,E09000009,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1217
+2011,E09000009,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1718
+2011,E09000009,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",11412
+2011,E09000009,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,191
+2011,E09000009,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,622
+2011,E09000009,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),909
+2011,E09000009,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4827
+2011,E09000009,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1404
+2011,E09000009,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,5613
+2011,E09000009,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),6915
+2011,E09000009,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3116
+2011,E09000009,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1087
+2011,E09000009,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5125
+2011,E09000009,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),5732
+2011,E09000009,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2382
+2011,E09000009,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1456
+2011,E09000009,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4376
+2011,E09000009,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4044
+2011,E09000009,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",495
+2011,E09000009,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1779
+2011,E09000009,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5216
+2011,E09000009,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3396
+2011,E09000009,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",484
+2011,E09000010,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,106
+2011,E09000010,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,165
+2011,E09000010,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),148
+2011,E09000010,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2826
+2011,E09000010,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,39
+2011,E09000010,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,70
+2011,E09000010,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),71
+2011,E09000010,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",590
+2011,E09000010,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,745
+2011,E09000010,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1327
+2011,E09000010,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2958
+2011,E09000010,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",10718
+2011,E09000010,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,314
+2011,E09000010,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,660
+2011,E09000010,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1582
+2011,E09000010,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",4066
+2011,E09000010,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,2011
+2011,E09000010,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,6268
+2011,E09000010,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),8382
+2011,E09000010,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2421
+2011,E09000010,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1635
+2011,E09000010,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,6018
+2011,E09000010,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),8231
+2011,E09000010,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2030
+2011,E09000010,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1365
+2011,E09000010,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3521
+2011,E09000010,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2194
+2011,E09000010,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",287
+2011,E09000010,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1728
+2011,E09000010,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,4644
+2011,E09000010,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3138
+2011,E09000010,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",222
+2011,E09000011,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,51
+2011,E09000011,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,65
+2011,E09000011,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),104
+2011,E09000011,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2007
+2011,E09000011,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,15
+2011,E09000011,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,31
+2011,E09000011,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),53
+2011,E09000011,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",426
+2011,E09000011,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,334
+2011,E09000011,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,973
+2011,E09000011,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2762
+2011,E09000011,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",9569
+2011,E09000011,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,141
+2011,E09000011,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,418
+2011,E09000011,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1359
+2011,E09000011,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2724
+2011,E09000011,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,952
+2011,E09000011,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4288
+2011,E09000011,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),7168
+2011,E09000011,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3045
+2011,E09000011,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,702
+2011,E09000011,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3951
+2011,E09000011,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),6139
+2011,E09000011,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2450
+2011,E09000011,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,839
+2011,E09000011,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2042
+2011,E09000011,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2485
+2011,E09000011,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",578
+2011,E09000011,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,926
+2011,E09000011,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2423
+2011,E09000011,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2638
+2011,E09000011,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",478
+2011,E09000015,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,46
+2011,E09000015,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,154
+2011,E09000015,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),74
+2011,E09000015,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1269
+2011,E09000015,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,21
+2011,E09000015,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,91
+2011,E09000015,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),18
+2011,E09000015,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",309
+2011,E09000015,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,275
+2011,E09000015,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,965
+2011,E09000015,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),951
+2011,E09000015,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",5397
+2011,E09000015,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,105
+2011,E09000015,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,542
+2011,E09000015,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),610
+2011,E09000015,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2130
+2011,E09000015,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1190
+2011,E09000015,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,7727
+2011,E09000015,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3805
+2011,E09000015,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",914
+2011,E09000015,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,969
+2011,E09000015,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,7140
+2011,E09000015,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3651
+2011,E09000015,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",737
+2011,E09000015,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,2018
+2011,E09000015,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4091
+2011,E09000015,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1296
+2011,E09000015,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",156
+2011,E09000015,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,2573
+2011,E09000015,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,4987
+2011,E09000015,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1427
+2011,E09000015,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",138
+2011,E09000016,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,8
+2011,E09000016,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,41
+2011,E09000016,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),42
+2011,E09000016,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",446
+2011,E09000016,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,10
+2011,E09000016,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,37
+2011,E09000016,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),51
+2011,E09000016,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",86
+2011,E09000016,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,172
+2011,E09000016,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,880
+2011,E09000016,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1186
+2011,E09000016,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3894
+2011,E09000016,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,116
+2011,E09000016,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,507
+2011,E09000016,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),654
+2011,E09000016,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1288
+2011,E09000016,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,739
+2011,E09000016,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,7215
+2011,E09000016,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),5784
+2011,E09000016,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",579
+2011,E09000016,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,792
+2011,E09000016,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,6689
+2011,E09000016,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),5456
+2011,E09000016,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",529
+2011,E09000016,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1525
+2011,E09000016,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3129
+2011,E09000016,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1169
+2011,E09000016,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",71
+2011,E09000016,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,2152
+2011,E09000016,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,4542
+2011,E09000016,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1791
+2011,E09000016,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",58
+2011,E09000017,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,50
+2011,E09000017,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,199
+2011,E09000017,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),165
+2011,E09000017,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1395
+2011,E09000017,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,20
+2011,E09000017,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,102
+2011,E09000017,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),55
+2011,E09000017,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",286
+2011,E09000017,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,556
+2011,E09000017,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1930
+2011,E09000017,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3115
+2011,E09000017,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",6202
+2011,E09000017,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,230
+2011,E09000017,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,936
+2011,E09000017,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1612
+2011,E09000017,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2143
+2011,E09000017,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1736
+2011,E09000017,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,9425
+2011,E09000017,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4629
+2011,E09000017,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",905
+2011,E09000017,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1526
+2011,E09000017,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,8612
+2011,E09000017,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),4222
+2011,E09000017,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",682
+2011,E09000017,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,2105
+2011,E09000017,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2996
+2011,E09000017,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1039
+2011,E09000017,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",164
+2011,E09000017,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,2794
+2011,E09000017,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3863
+2011,E09000017,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1335
+2011,E09000017,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",110
+2011,E09000018,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,68
+2011,E09000018,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,163
+2011,E09000018,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),105
+2011,E09000018,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1968
+2011,E09000018,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,24
+2011,E09000018,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,73
+2011,E09000018,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),44
+2011,E09000018,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",375
+2011,E09000018,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,415
+2011,E09000018,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1483
+2011,E09000018,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2233
+2011,E09000018,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",9412
+2011,E09000018,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,178
+2011,E09000018,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,698
+2011,E09000018,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1080
+2011,E09000018,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",3249
+2011,E09000018,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,739
+2011,E09000018,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,5866
+2011,E09000018,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4085
+2011,E09000018,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1846
+2011,E09000018,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,684
+2011,E09000018,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5719
+2011,E09000018,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3729
+2011,E09000018,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1511
+2011,E09000018,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,728
+2011,E09000018,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3287
+2011,E09000018,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1914
+2011,E09000018,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",305
+2011,E09000018,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,794
+2011,E09000018,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3821
+2011,E09000018,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1691
+2011,E09000018,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",246
+2011,E09000021,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,17
+2011,E09000021,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,31
+2011,E09000021,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),34
+2011,E09000021,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",631
+2011,E09000021,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,15
+2011,E09000021,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,14
+2011,E09000021,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),6
+2011,E09000021,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",137
+2011,E09000021,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,131
+2011,E09000021,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,721
+2011,E09000021,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),873
+2011,E09000021,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3629
+2011,E09000021,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,69
+2011,E09000021,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,308
+2011,E09000021,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),359
+2011,E09000021,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1174
+2011,E09000021,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1011
+2011,E09000021,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4053
+2011,E09000021,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2584
+2011,E09000021,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",794
+2011,E09000021,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,672
+2011,E09000021,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3089
+2011,E09000021,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1873
+2011,E09000021,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",615
+2011,E09000021,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1668
+2011,E09000021,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2781
+2011,E09000021,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),870
+2011,E09000021,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",83
+2011,E09000021,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,2109
+2011,E09000021,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3061
+2011,E09000021,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),828
+2011,E09000021,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",87
+2011,E09000024,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,38
+2011,E09000024,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,64
+2011,E09000024,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),55
+2011,E09000024,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1475
+2011,E09000024,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,29
+2011,E09000024,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,42
+2011,E09000024,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),32
+2011,E09000024,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",239
+2011,E09000024,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,230
+2011,E09000024,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,555
+2011,E09000024,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1787
+2011,E09000024,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",4291
+2011,E09000024,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,112
+2011,E09000024,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,295
+2011,E09000024,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),971
+2011,E09000024,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1444
+2011,E09000024,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,664
+2011,E09000024,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2690
+2011,E09000024,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),5956
+2011,E09000024,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1286
+2011,E09000024,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,561
+2011,E09000024,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2337
+2011,E09000024,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),4850
+2011,E09000024,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1029
+2011,E09000024,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1232
+2011,E09000024,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2398
+2011,E09000024,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3285
+2011,E09000024,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",200
+2011,E09000024,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1144
+2011,E09000024,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2230
+2011,E09000024,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2603
+2011,E09000024,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",131
+2011,E09000026,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,94
+2011,E09000026,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,190
+2011,E09000026,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),191
+2011,E09000026,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2069
+2011,E09000026,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,21
+2011,E09000026,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,101
+2011,E09000026,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),74
+2011,E09000026,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",364
+2011,E09000026,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,563
+2011,E09000026,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,928
+2011,E09000026,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1903
+2011,E09000026,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",7312
+2011,E09000026,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,198
+2011,E09000026,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,459
+2011,E09000026,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),985
+2011,E09000026,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",2261
+2011,E09000026,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1550
+2011,E09000026,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,5512
+2011,E09000026,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),8751
+2011,E09000026,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1201
+2011,E09000026,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1253
+2011,E09000026,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,4966
+2011,E09000026,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),7793
+2011,E09000026,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",957
+2011,E09000026,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1486
+2011,E09000026,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4280
+2011,E09000026,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4342
+2011,E09000026,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",217
+2011,E09000026,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1761
+2011,E09000026,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,5252
+2011,E09000026,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),5084
+2011,E09000026,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",126
+2011,E09000027,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,22
+2011,E09000027,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,31
+2011,E09000027,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),30
+2011,E09000027,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",590
+2011,E09000027,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,6
+2011,E09000027,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,12
+2011,E09000027,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),10
+2011,E09000027,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",112
+2011,E09000027,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,117
+2011,E09000027,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,516
+2011,E09000027,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),1406
+2011,E09000027,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3683
+2011,E09000027,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,47
+2011,E09000027,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,262
+2011,E09000027,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),407
+2011,E09000027,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1173
+2011,E09000027,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,441
+2011,E09000027,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2718
+2011,E09000027,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3896
+2011,E09000027,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",1100
+2011,E09000027,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,348
+2011,E09000027,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,1937
+2011,E09000027,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2068
+2011,E09000027,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",705
+2011,E09000027,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1749
+2011,E09000027,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4943
+2011,E09000027,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3716
+2011,E09000027,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",175
+2011,E09000027,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,2136
+2011,E09000027,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,4456
+2011,E09000027,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),2260
+2011,E09000027,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",87
+2011,E09000029,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,15
+2011,E09000029,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,35
+2011,E09000029,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),37
+2011,E09000029,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",750
+2011,E09000029,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,14
+2011,E09000029,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,16
+2011,E09000029,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),26
+2011,E09000029,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",147
+2011,E09000029,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,148
+2011,E09000029,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,707
+2011,E09000029,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2198
+2011,E09000029,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",4759
+2011,E09000029,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,94
+2011,E09000029,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,381
+2011,E09000029,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1145
+2011,E09000029,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1540
+2011,E09000029,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,636
+2011,E09000029,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,4204
+2011,E09000029,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),4491
+2011,E09000029,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",911
+2011,E09000029,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,644
+2011,E09000029,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3973
+2011,E09000029,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),4061
+2011,E09000029,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",727
+2011,E09000029,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1492
+2011,E09000029,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2343
+2011,E09000029,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),976
+2011,E09000029,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",135
+2011,E09000029,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,2263
+2011,E09000029,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3627
+2011,E09000029,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1313
+2011,E09000029,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",123
+2011,E09000031,1 bedroom,Age 0 to 9,Whole house or bungalow: Detached,113
+2011,E09000031,1 bedroom,Age 0 to 9,Whole house or bungalow: Semi-detached,178
+2011,E09000031,1 bedroom,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),153
+2011,E09000031,1 bedroom,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",3092
+2011,E09000031,1 bedroom,Age 10 to 18,Whole house or bungalow: Detached,34
+2011,E09000031,1 bedroom,Age 10 to 18,Whole house or bungalow: Semi-detached,64
+2011,E09000031,1 bedroom,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),69
+2011,E09000031,1 bedroom,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",634
+2011,E09000031,2 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,795
+2011,E09000031,2 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,1123
+2011,E09000031,2 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),2837
+2011,E09000031,2 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",8909
+2011,E09000031,2 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,291
+2011,E09000031,2 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,597
+2011,E09000031,2 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),1441
+2011,E09000031,2 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",3296
+2011,E09000031,3 bedrooms,Age 0 to 9,Whole house or bungalow: Detached,1400
+2011,E09000031,3 bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,3285
+2011,E09000031,3 bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),7218
+2011,E09000031,3 bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",2233
+2011,E09000031,3 bedrooms,Age 10 to 18,Whole house or bungalow: Detached,1026
+2011,E09000031,3 bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,3044
+2011,E09000031,3 bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),6369
+2011,E09000031,3 bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",1688
+2011,E09000031,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Detached,585
+2011,E09000031,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Semi-detached,2020
+2011,E09000031,4 or more bedrooms,Age 0 to 9,Whole house or bungalow: Terraced (including end-terrace),3044
+2011,E09000031,4 or more bedrooms,Age 0 to 9,"Flat, maisonette or apartment, or mobile/temporary accommodation",313
+2011,E09000031,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Detached,654
+2011,E09000031,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Semi-detached,2461
+2011,E09000031,4 or more bedrooms,Age 10 to 18,Whole house or bungalow: Terraced (including end-terrace),3265
+2011,E09000031,4 or more bedrooms,Age 10 to 18,"Flat, maisonette or apartment, or mobile/temporary accommodation",232
