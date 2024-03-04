@@ -170,6 +170,7 @@ dc1201_11_matched2 <-  dc1201_11_matched2[,.(value = sum(value)),
 colnames(dc1201_11_matched2)[3] <- "eth_common"
 
 unique(ftb_hhcomp_ethgroup_21_matched$ethnic_group_20)
+
   ### 4.3. matching 2021
 mapping_21 <- data.table(
   cat_21 = c("Asian, Asian British or Asian Welsh: Bangladeshi", "Asian, Asian British or Asian Welsh: Chinese", "Asian, Asian British or Asian Welsh: Indian", "Asian, Asian British or Asian Welsh: Pakistani", "Asian, Asian British or Asian Welsh: Other Asian",

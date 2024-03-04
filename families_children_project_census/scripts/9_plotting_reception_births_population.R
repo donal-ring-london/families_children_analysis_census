@@ -4,6 +4,9 @@ library(data.table)
 
 source("functions/fn_keep_london.R")
 
+pal <- gla_pal(gla_theme = "default", n = 10)
+theme_set(theme_gla(gla_theme = "default"))
+
 ## 1. reading in data
 reception <- fread("data/other_data/all_reception_state_primary_pupils_201516 to 202223_ed.csv")
 
@@ -107,8 +110,11 @@ jpeg(filename = "output_plots/9_reception_births_population.jpg",
 
 ggplot(data = reception_myes_births) +
   geom_line(aes(x = intake_year, y = pop_0, colour = "Age 0 population 4 years previously"), size = 1) + 
+  geom_label_repel() + 
   geom_line(aes(x = intake_year, y = reception_headcount, colour = "Reception headcount"), size = 1) + 
+  geom_label_repel() + 
   geom_line(aes(x = intake_year, y = births_count, colour = "Births 4 years previously"), size = 1) + 
+  geom_label_repel() + 
   scale_y_continuous(limits = c(90000, 150000)) + 
   labs(title = "Reception headcount compared to births and population 4 years previously",
        caption = "Source: ONS, Chart: GLA Demography")
@@ -117,18 +123,37 @@ dev.off()
 
 
   ### indexed
+
+    #### getting the positions at the end of the lines, for the labels
+label_pos_x1 <- reception_myes_births[length(intake_year), intake_year]
+label_pos_y1 <- reception_myes_births[length(pop_0_ind), pop_0_ind]
+
+label_pos_x2 <- reception_myes_births[length(intake_year), intake_year]
+label_pos_y2 <- reception_myes_births[length(reception_headcount_ind), reception_headcount_ind]
+
+label_pos_x3 <- reception_myes_births[length(intake_year), intake_year]
+label_pos_y3 <- reception_myes_births[length(births_ind), births_ind]
+
 jpeg(filename = "output_plots/10_reception_births_population_indexed.jpg", 
      width = 10, height = 6, units = "in", res = 850) 
 
-ggplot(data = reception_myes_births) +
-  geom_line(aes(x = intake_year, y = pop_0_ind, colour = "Age 0 population 4 years previously"), size = 1) + 
-  geom_line(aes(x = intake_year, y = reception_headcount_ind, colour = "Reception headcount"), size = 1) + 
-  geom_line(aes(x = intake_year, y = births_ind, colour = "Births 4 years previously"), size = 1) + 
-  scale_y_continuous(limits = c(80, 110)) + 
-  labs(title = "Indexed reception headcount compared to \nbirths and population 4 years previously",
-       caption = "Source: ONS, Chart: GLA Demography")
+ggplot() + 
+  geom_line(data = reception_myes_births, aes(x = intake_year, y = pop_0_ind, group = 1), 
+            size = 1, colour = pal[7]) + 
+  geom_label_repel(aes(x = label_pos_x1, y = label_pos_y1, label = "Lagged population aged 0"), 
+                   nudge_x = 1, nudge_y = 0.5, colour = pal[7]) + 
+  geom_line(data = reception_myes_births, aes(x = intake_year, y = reception_headcount_ind, group = 1), 
+            size = 1, colour = pal[6]) + 
+  geom_label_repel(aes(x = label_pos_x2, y = label_pos_y2, label = "Reception headcount"), 
+                   nudge_x = 1, nudge_y = 0.5, colour = pal[6]) + 
+  geom_line(data = reception_myes_births, aes(x = intake_year, y = births_ind, group = 1), 
+            size = 1, colour = pal[9]) + 
+  geom_label_repel(aes(x = label_pos_x3, y = label_pos_y3, label = "Lagged birth count"), 
+                   nudge_x = 1, nudge_y = 0.5, colour = pal[9]) + 
+  scale_y_continuous(limits = c(85, 106)) 
 
 dev.off()
+
 
 
 
